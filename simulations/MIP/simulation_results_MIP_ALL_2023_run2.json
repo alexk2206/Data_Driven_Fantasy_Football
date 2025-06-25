@@ -1,0 +1,5002 @@
+[
+  {
+    "Simulation":1,
+    "Winner":"Team 12",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1166.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1396.82,
+      "Team 2":1328.88,
+      "Team 3":1166.0,
+      "Team 4":1356.5,
+      "Team 5":1322.22,
+      "Team 6":1307.1,
+      "Team 7":1174.26,
+      "Team 8":1197.74,
+      "Team 9":1331.42,
+      "Team 10":1284.18,
+      "Team 11":1430.52,
+      "Team 12":1440.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":325.6,
+      "Team 5":196.9,
+      "Team 1":344.54,
+      "Team 2":324.66
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Chris Olave (Pick 22)",
+      "Jahmyr Gibbs (Pick 27)",
+      "Dak Prescott (Pick 46)",
+      "49ers (Pick 51)",
+      "Justin Tucker (Pick 70)",
+      "Zach Charbonnet (Pick 75)",
+      "Jerick McKinnon (Pick 94)",
+      "Damien Harris (Pick 99)",
+      "DOnta Foreman (Pick 118)",
+      "Zay Flowers (Pick 123)",
+      "Isaiah McKenzie (Pick 142)",
+      "Allen Lazard (Pick 147)",
+      "Tyler Boyd (Pick 166)",
+      "Donald Parham (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":2,
+    "Winner":"Team 3",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1305.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1305.04,
+      "Team 2":1317.2,
+      "Team 3":1434.88,
+      "Team 4":1107.7,
+      "Team 5":1351.82,
+      "Team 6":1168.3,
+      "Team 7":1255.96,
+      "Team 8":1467.58,
+      "Team 9":1019.6,
+      "Team 10":1393.28,
+      "Team 11":1310.1,
+      "Team 12":1491.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":189.3,
+      "Team 5":274.34,
+      "Team 12":299.6,
+      "Team 2":298.66
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Chris Olave (Pick 24)",
+      "Jahmyr Gibbs (Pick 25)",
+      "DK Metcalf (Pick 48)",
+      "Kenneth Walker III (Pick 49)",
+      "Justin Tucker (Pick 72)",
+      "Gabriel Davis (Pick 73)",
+      "Trevor Lawrence (Pick 96)",
+      "Zach Charbonnet (Pick 97)",
+      "Skyy Moore (Pick 120)",
+      "Kadarius Toney (Pick 121)",
+      "Damien Harris (Pick 144)",
+      "Jerick McKinnon (Pick 145)",
+      "Browns (Pick 168)",
+      "Ian Thomas (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":3,
+    "Winner":"Team 8",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1124.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1244.68,
+      "Team 2":1125.62,
+      "Team 3":954.12,
+      "Team 4":1124.1,
+      "Team 5":1295.18,
+      "Team 6":1401.42,
+      "Team 7":1195.7,
+      "Team 8":1375.48,
+      "Team 9":1332.76,
+      "Team 10":1398.62,
+      "Team 11":1325.34,
+      "Team 12":1421.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":316.64,
+      "Team 10":240.56,
+      "Team 12":386.6,
+      "Team 6":249.68
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Dak Prescott (Pick 45)",
+      "Justin Tucker (Pick 52)",
+      "Zach Charbonnet (Pick 69)",
+      "Jerick McKinnon (Pick 76)",
+      "Damien Harris (Pick 93)",
+      "DOnta Foreman (Pick 100)",
+      "Marquez Valdes-Scantling (Pick 117)",
+      "Skyy Moore (Pick 124)",
+      "Adam Thielen (Pick 141)",
+      "Jameson Williams (Pick 148)",
+      "Browns (Pick 165)",
+      "Brock Wright (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":4,
+    "Winner":"Team 7",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":947.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1307.52,
+      "Team 2":1238.36,
+      "Team 3":1160.48,
+      "Team 4":947.1,
+      "Team 5":1314.66,
+      "Team 6":1461.76,
+      "Team 7":1705.24,
+      "Team 8":1182.46,
+      "Team 9":1125.98,
+      "Team 10":1562.88,
+      "Team 11":1308.62,
+      "Team 12":1300.1
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":329.98,
+      "Team 11":214.68,
+      "Team 6":272.2,
+      "Team 10":293.0
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Calvin Ridley (Pick 45)",
+      "Kenneth Walker III (Pick 52)",
+      "Zach Charbonnet (Pick 69)",
+      "Gabriel Davis (Pick 76)",
+      "Aaron Rodgers (Pick 93)",
+      "Zay Flowers (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Kadarius Toney (Pick 124)",
+      "Damien Harris (Pick 141)",
+      "Jake Elliott (Pick 148)",
+      "Lions (Pick 165)",
+      "Luke Musgrave (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":5,
+    "Winner":"Team 2",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1054.08,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1184.3,
+      "Team 2":1521.58,
+      "Team 3":998.04,
+      "Team 4":1434.56,
+      "Team 5":1306.5,
+      "Team 6":1534.48,
+      "Team 7":1297.38,
+      "Team 8":1274.28,
+      "Team 9":972.12,
+      "Team 10":1054.08,
+      "Team 11":1216.1,
+      "Team 12":1476.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":324.24,
+      "Team 6":237.5,
+      "Team 7":286.8,
+      "Team 12":375.76
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Patrick Mahomes (Pick 15)",
+      "DK Metcalf (Pick 34)",
+      "Kenneth Walker III (Pick 39)",
+      "Dak Prescott (Pick 58)",
+      "49ers (Pick 63)",
+      "Zach Charbonnet (Pick 82)",
+      "Jerick McKinnon (Pick 87)",
+      "Zay Flowers (Pick 106)",
+      "Skyy Moore (Pick 111)",
+      "Kadarius Toney (Pick 130)",
+      "Damien Harris (Pick 135)",
+      "Allen Lazard (Pick 154)",
+      "Jake Elliott (Pick 159)",
+      "Greg Dulcich (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":6,
+    "Winner":"Team 4",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1256.78,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1090.36,
+      "Team 2":942.18,
+      "Team 3":1298.72,
+      "Team 4":1563.46,
+      "Team 5":1340.08,
+      "Team 6":1477.9,
+      "Team 7":1332.06,
+      "Team 8":1450.5,
+      "Team 9":1163.58,
+      "Team 10":1256.78,
+      "Team 11":1119.06,
+      "Team 12":1346.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":342.44,
+      "Team 6":289.3,
+      "Team 8":286.44,
+      "Team 3":252.18
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "Calvin Ridley (Pick 34)",
+      "DK Metcalf (Pick 39)",
+      "Dak Prescott (Pick 58)",
+      "49ers (Pick 63)",
+      "Gabriel Davis (Pick 82)",
+      "Zach Charbonnet (Pick 87)",
+      "Zay Flowers (Pick 106)",
+      "Skyy Moore (Pick 111)",
+      "Kadarius Toney (Pick 130)",
+      "Jerick McKinnon (Pick 135)",
+      "Browns (Pick 154)",
+      "Brett Maher (Pick 159)",
+      "Luke Musgrave (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":7,
+    "Winner":"Team 3",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1181.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1423.08,
+      "Team 2":1339.78,
+      "Team 3":1594.36,
+      "Team 4":1146.0,
+      "Team 5":1346.02,
+      "Team 6":1181.4,
+      "Team 7":1221.12,
+      "Team 8":1401.5,
+      "Team 9":1255.78,
+      "Team 10":1230.02,
+      "Team 11":1185.7,
+      "Team 12":1380.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":275.6,
+      "Team 8":270.14,
+      "Team 2":202.7,
+      "Team 1":335.16
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 6)",
+      "Josh Jacobs (Pick 19)",
+      "Jahmyr Gibbs (Pick 30)",
+      "Calvin Ridley (Pick 43)",
+      "Dak Prescott (Pick 54)",
+      "George Pickens (Pick 67)",
+      "49ers (Pick 78)",
+      "Gabriel Davis (Pick 91)",
+      "Justin Tucker (Pick 102)",
+      "Skyy Moore (Pick 115)",
+      "Jerick McKinnon (Pick 126)",
+      "Kadarius Toney (Pick 139)",
+      "Damien Harris (Pick 150)",
+      "Browns (Pick 163)",
+      "Luke Musgrave (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":8,
+    "Winner":"Team 2",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":939.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1449.66,
+      "Team 2":1423.84,
+      "Team 3":1395.3,
+      "Team 4":939.5,
+      "Team 5":1331.86,
+      "Team 6":1314.76,
+      "Team 7":1313.76,
+      "Team 8":1241.58,
+      "Team 9":1441.9,
+      "Team 10":1247.98,
+      "Team 11":1137.44,
+      "Team 12":1250.42
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":290.52,
+      "Team 1":311.04,
+      "Team 3":281.18,
+      "Team 6":258.86
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Patrick Mahomes (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Dak Prescott (Pick 45)",
+      "49ers (Pick 52)",
+      "Justin Tucker (Pick 69)",
+      "Zach Charbonnet (Pick 76)",
+      "Skyy Moore (Pick 93)",
+      "Zay Flowers (Pick 100)",
+      "Kadarius Toney (Pick 117)",
+      "Jerick McKinnon (Pick 124)",
+      "Damien Harris (Pick 141)",
+      "K.J. Osborn (Pick 148)",
+      "Browns (Pick 165)",
+      "Brock Wright (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":9,
+    "Winner":"Team 1",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":1054.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1474.56,
+      "Team 2":1418.88,
+      "Team 3":1161.46,
+      "Team 4":1105.28,
+      "Team 5":1492.24,
+      "Team 6":1242.56,
+      "Team 7":1290.58,
+      "Team 8":1054.46,
+      "Team 9":1602.74,
+      "Team 10":1234.4,
+      "Team 11":1128.7,
+      "Team 12":1369.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":345.94,
+      "Team 2":185.6,
+      "Team 5":346.8,
+      "Team 6":247.9
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Derrick Henry (Pick 17)",
+      "Calvin Ridley (Pick 32)",
+      "Kenneth Walker III (Pick 41)",
+      "Dak Prescott (Pick 56)",
+      "Drake London (Pick 65)",
+      "49ers (Pick 80)",
+      "Justin Tucker (Pick 89)",
+      "Zach Charbonnet (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Kadarius Toney (Pick 128)",
+      "Allen Lazard (Pick 137)",
+      "Jameson Williams (Pick 152)",
+      "Browns (Pick 161)",
+      "Mitchell Wilcox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":10,
+    "Winner":"Team 3",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1146.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1224.82,
+      "Team 2":1257.86,
+      "Team 3":1421.48,
+      "Team 4":1253.8,
+      "Team 5":1278.04,
+      "Team 6":1334.24,
+      "Team 7":1287.56,
+      "Team 8":1464.9,
+      "Team 9":1276.38,
+      "Team 10":1146.4,
+      "Team 11":1495.34,
+      "Team 12":1269.02
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":321.66,
+      "Team 9":298.44,
+      "Team 1":275.68,
+      "Team 5":233.74
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "Jahmyr Gibbs (Pick 34)",
+      "DK Metcalf (Pick 39)",
+      "Dak Prescott (Pick 58)",
+      "Justin Tucker (Pick 63)",
+      "Zay Flowers (Pick 82)",
+      "Gabriel Davis (Pick 87)",
+      "Zach Charbonnet (Pick 106)",
+      "Skyy Moore (Pick 111)",
+      "Jerick McKinnon (Pick 130)",
+      "Damien Harris (Pick 135)",
+      "Jameson Williams (Pick 154)",
+      "Browns (Pick 159)",
+      "Greg Dulcich (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":11,
+    "Winner":"Team 1",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1240.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1721.2,
+      "Team 2":1300.32,
+      "Team 3":1395.28,
+      "Team 4":1352.74,
+      "Team 5":1100.44,
+      "Team 6":1275.06,
+      "Team 7":1209.58,
+      "Team 8":1240.4,
+      "Team 9":1336.66,
+      "Team 10":1476.78,
+      "Team 11":1210.32,
+      "Team 12":1215.04
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":374.34,
+      "Team 4":252.06,
+      "Team 3":304.16,
+      "Team 7":265.84
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Chris Olave (Pick 17)",
+      "Jahmyr Gibbs (Pick 32)",
+      "DK Metcalf (Pick 41)",
+      "Kenneth Walker III (Pick 56)",
+      "Dak Prescott (Pick 65)",
+      "49ers (Pick 80)",
+      "Gabriel Davis (Pick 89)",
+      "Zach Charbonnet (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Jerick McKinnon (Pick 128)",
+      "Damien Harris (Pick 137)",
+      "Browns (Pick 152)",
+      "Austin Seibert (Pick 161)",
+      "Luke Musgrave (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":12,
+    "Winner":"Team 11",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1098.32,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1406.06,
+      "Team 2":1261.08,
+      "Team 3":1303.66,
+      "Team 4":1371.76,
+      "Team 5":1237.1,
+      "Team 6":1221.3,
+      "Team 7":1401.28,
+      "Team 8":1098.32,
+      "Team 9":1607.92,
+      "Team 10":1063.8,
+      "Team 11":1437.82,
+      "Team 12":1241.3
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":202.1,
+      "Team 7":318.9,
+      "Team 9":354.18,
+      "Team 1":306.84
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Patrick Mahomes (Pick 17)",
+      "Jahmyr Gibbs (Pick 32)",
+      "Calvin Ridley (Pick 41)",
+      "DK Metcalf (Pick 56)",
+      "49ers (Pick 65)",
+      "Zach Charbonnet (Pick 80)",
+      "Gabriel Davis (Pick 89)",
+      "Zay Flowers (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Kadarius Toney (Pick 128)",
+      "Jerick McKinnon (Pick 137)",
+      "Browns (Pick 152)",
+      "Chad Ryland (Pick 161)",
+      "Brock Wright (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":13,
+    "Winner":"Team 1",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1144.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1428.18,
+      "Team 2":1145.26,
+      "Team 3":1390.3,
+      "Team 4":1155.76,
+      "Team 5":1144.8,
+      "Team 6":1430.7,
+      "Team 7":1450.9,
+      "Team 8":1407.86,
+      "Team 9":1342.82,
+      "Team 10":1365.78,
+      "Team 11":1417.34,
+      "Team 12":1103.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":297.54,
+      "Team 10":261.4,
+      "Team 6":215.6,
+      "Team 11":274.86
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Kenneth Walker III (Pick 44)",
+      "Dak Prescott (Pick 53)",
+      "Justin Tucker (Pick 68)",
+      "Zach Charbonnet (Pick 77)",
+      "Gabriel Davis (Pick 92)",
+      "Zay Flowers (Pick 101)",
+      "Skyy Moore (Pick 116)",
+      "Kadarius Toney (Pick 125)",
+      "Damien Harris (Pick 140)",
+      "Jerick McKinnon (Pick 149)",
+      "Browns (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":14,
+    "Winner":"Team 4",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1307.3,
+    "DM-Points-Playoffs":321.46,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1223.9,
+      "Team 2":1307.3,
+      "Team 3":1293.98,
+      "Team 4":1554.64,
+      "Team 5":1557.42,
+      "Team 6":1248.9,
+      "Team 7":1250.8,
+      "Team 8":1224.88,
+      "Team 9":1209.3,
+      "Team 10":1146.96,
+      "Team 11":1343.76,
+      "Team 12":1362.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":254.54,
+      "Team 12":254.38,
+      "Team 5":340.96,
+      "Team 2":321.46
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 2)",
+      "Patrick Mahomes (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "Dameon Pierce (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "Brandon Aiyuk (Pick 71)",
+      "George Pickens (Pick 74)",
+      "49ers (Pick 95)",
+      "Gabriel Davis (Pick 98)",
+      "Skyy Moore (Pick 119)",
+      "Kadarius Toney (Pick 122)",
+      "Damien Harris (Pick 143)",
+      "Jerick McKinnon (Pick 146)",
+      "Mitchell Wilcox (Pick 167)",
+      "Tristan Vizcaino (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":15,
+    "Winner":"Team 7",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1005.08,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1009.7,
+      "Team 2":1259.66,
+      "Team 3":1271.06,
+      "Team 4":1005.08,
+      "Team 5":1317.5,
+      "Team 6":1284.62,
+      "Team 7":1431.04,
+      "Team 8":1237.08,
+      "Team 9":1489.64,
+      "Team 10":1318.28,
+      "Team 11":1311.94,
+      "Team 12":1366.84
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":297.68,
+      "Team 9":263.3,
+      "Team 11":226.86,
+      "Team 12":318.9
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Derrick Henry (Pick 21)",
+      "Chris Olave (Pick 28)",
+      "Dak Prescott (Pick 45)",
+      "49ers (Pick 52)",
+      "Zach Charbonnet (Pick 69)",
+      "Jerick McKinnon (Pick 76)",
+      "Kadarius Toney (Pick 93)",
+      "Gabriel Davis (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Damien Harris (Pick 124)",
+      "Allen Lazard (Pick 141)",
+      "Browns (Pick 148)",
+      "Matt Prater (Pick 165)",
+      "Brock Wright (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":16,
+    "Winner":"Team 4",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":909.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1618.24,
+      "Team 2":1407.62,
+      "Team 3":1246.7,
+      "Team 4":1457.78,
+      "Team 5":1135.58,
+      "Team 6":909.2,
+      "Team 7":1434.02,
+      "Team 8":1253.06,
+      "Team 9":1370.98,
+      "Team 10":1126.0,
+      "Team 11":1316.52,
+      "Team 12":1263.1
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":255.48,
+      "Team 1":296.5,
+      "Team 3":225.04,
+      "Team 11":271.1
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 6)",
+      "Chris Olave (Pick 19)",
+      "Jahmyr Gibbs (Pick 30)",
+      "Calvin Ridley (Pick 43)",
+      "Kenneth Walker III (Pick 54)",
+      "49ers (Pick 67)",
+      "Zach Charbonnet (Pick 78)",
+      "Aaron Rodgers (Pick 91)",
+      "Zay Flowers (Pick 102)",
+      "Skyy Moore (Pick 115)",
+      "Jerick McKinnon (Pick 126)",
+      "Damien Harris (Pick 139)",
+      "Jameson Williams (Pick 150)",
+      "Greg Dulcich (Pick 163)",
+      "Graham Gano (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":17,
+    "Winner":"Team 3",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1139.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1494.08,
+      "Team 2":1221.48,
+      "Team 3":1377.64,
+      "Team 4":1136.26,
+      "Team 5":1246.1,
+      "Team 6":1214.32,
+      "Team 7":1489.26,
+      "Team 8":1297.68,
+      "Team 9":1139.1,
+      "Team 10":1376.44,
+      "Team 11":1462.5,
+      "Team 12":1369.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":263.24,
+      "Team 10":273.9,
+      "Team 7":238.74,
+      "Team 11":180.58
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 9)",
+      "Chris Olave (Pick 16)",
+      "Jahmyr Gibbs (Pick 33)",
+      "DK Metcalf (Pick 40)",
+      "Dameon Pierce (Pick 57)",
+      "Dak Prescott (Pick 64)",
+      "Zach Charbonnet (Pick 81)",
+      "Gabriel Davis (Pick 88)",
+      "Zay Flowers (Pick 105)",
+      "Skyy Moore (Pick 112)",
+      "Kadarius Toney (Pick 129)",
+      "Damien Harris (Pick 136)",
+      "Jason Myers (Pick 153)",
+      "Greg Dulcich (Pick 160)",
+      "Browns (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":18,
+    "Winner":"Team 6",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1179.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1131.44,
+      "Team 2":1214.34,
+      "Team 3":1179.3,
+      "Team 4":1237.58,
+      "Team 5":1583.9,
+      "Team 6":1307.24,
+      "Team 7":1293.62,
+      "Team 8":1515.84,
+      "Team 9":1386.16,
+      "Team 10":1363.76,
+      "Team 11":1371.3,
+      "Team 12":1261.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":232.2,
+      "Team 8":353.5,
+      "Team 5":288.72,
+      "Team 9":246.24
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Chris Olave (Pick 22)",
+      "Jahmyr Gibbs (Pick 27)",
+      "Calvin Ridley (Pick 46)",
+      "Dameon Pierce (Pick 51)",
+      "Dak Prescott (Pick 70)",
+      "49ers (Pick 75)",
+      "Gabriel Davis (Pick 94)",
+      "Zach Charbonnet (Pick 99)",
+      "Skyy Moore (Pick 118)",
+      "Kadarius Toney (Pick 123)",
+      "Damien Harris (Pick 142)",
+      "Adam Thielen (Pick 147)",
+      "Jake Elliott (Pick 166)",
+      "Luke Musgrave (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":19,
+    "Winner":"Team 8",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1225.18,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1304.94,
+      "Team 2":1322.04,
+      "Team 3":1228.44,
+      "Team 4":1269.18,
+      "Team 5":1335.86,
+      "Team 6":1421.36,
+      "Team 7":1354.7,
+      "Team 8":1523.8,
+      "Team 9":1333.34,
+      "Team 10":1203.36,
+      "Team 11":1225.18,
+      "Team 12":1355.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":258.0,
+      "Team 1":244.8,
+      "Team 6":305.2,
+      "Team 7":272.98
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 11)",
+      "Derrick Henry (Pick 14)",
+      "Jahmyr Gibbs (Pick 35)",
+      "Kenneth Walker III (Pick 38)",
+      "Dameon Pierce (Pick 59)",
+      "Dak Prescott (Pick 62)",
+      "Zach Charbonnet (Pick 83)",
+      "Adam Thielen (Pick 86)",
+      "Tyler Boyd (Pick 107)",
+      "Zay Flowers (Pick 110)",
+      "Skyy Moore (Pick 131)",
+      "Damien Harris (Pick 134)",
+      "Browns (Pick 155)",
+      "Chad Ryland (Pick 158)",
+      "Mitchell Wilcox (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":20,
+    "Winner":"Team 11",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1028.28,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1232.58,
+      "Team 2":1363.22,
+      "Team 3":1640.76,
+      "Team 4":1365.48,
+      "Team 5":1046.86,
+      "Team 6":1541.96,
+      "Team 7":1252.48,
+      "Team 8":1343.28,
+      "Team 9":1304.42,
+      "Team 10":1274.62,
+      "Team 11":1534.26,
+      "Team 12":1028.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":231.3,
+      "Team 6":329.56,
+      "Team 2":311.04,
+      "Team 9":259.36
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Derrick Henry (Pick 13)",
+      "Dameon Pierce (Pick 36)",
+      "Khalil Herbert (Pick 37)",
+      "Drake London (Pick 60)",
+      "Dak Prescott (Pick 61)",
+      "Gabriel Davis (Pick 84)",
+      "Justin Tucker (Pick 85)",
+      "Zach Charbonnet (Pick 108)",
+      "Zay Flowers (Pick 109)",
+      "Skyy Moore (Pick 132)",
+      "Damien Harris (Pick 133)",
+      "Allen Lazard (Pick 156)",
+      "Browns (Pick 157)",
+      "Mitchell Wilcox (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":21,
+    "Winner":"Team 6",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1131.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1385.58,
+      "Team 2":1097.9,
+      "Team 3":1131.4,
+      "Team 4":1118.68,
+      "Team 5":1219.7,
+      "Team 6":1398.5,
+      "Team 7":1185.58,
+      "Team 8":1507.46,
+      "Team 9":1095.66,
+      "Team 10":1290.52,
+      "Team 11":1535.84,
+      "Team 12":1254.32
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":307.86,
+      "Team 8":318.56,
+      "Team 11":353.14,
+      "Team 7":280.4
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Chris Olave (Pick 22)",
+      "Jahmyr Gibbs (Pick 27)",
+      "Calvin Ridley (Pick 46)",
+      "Dameon Pierce (Pick 51)",
+      "Kenneth Walker III (Pick 70)",
+      "Dak Prescott (Pick 75)",
+      "Zach Charbonnet (Pick 94)",
+      "Gabriel Davis (Pick 99)",
+      "Skyy Moore (Pick 118)",
+      "Kadarius Toney (Pick 123)",
+      "Allen Lazard (Pick 142)",
+      "Greg Zuerlein (Pick 147)",
+      "Lions (Pick 166)",
+      "Mitchell Wilcox (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":22,
+    "Winner":"Team 10",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1133.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1355.84,
+      "Team 2":1286.06,
+      "Team 3":1133.4,
+      "Team 4":1263.08,
+      "Team 5":1305.5,
+      "Team 6":1359.42,
+      "Team 7":1301.26,
+      "Team 8":1517.98,
+      "Team 9":1043.7,
+      "Team 10":1594.2,
+      "Team 11":1321.24,
+      "Team 12":1209.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":290.8,
+      "Team 4":247.24,
+      "Team 5":313.76,
+      "Team 6":224.68
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Chris Olave (Pick 22)",
+      "Jahmyr Gibbs (Pick 27)",
+      "Dak Prescott (Pick 46)",
+      "49ers (Pick 51)",
+      "Skyy Moore (Pick 70)",
+      "Gabriel Davis (Pick 75)",
+      "Zach Charbonnet (Pick 94)",
+      "Zay Flowers (Pick 99)",
+      "Kadarius Toney (Pick 118)",
+      "Jerick McKinnon (Pick 123)",
+      "Damien Harris (Pick 142)",
+      "Graham Gano (Pick 147)",
+      "Luke Musgrave (Pick 166)",
+      "Mitchell Wilcox (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":23,
+    "Winner":"Team 2",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1214.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1273.66,
+      "Team 2":1474.46,
+      "Team 3":1289.98,
+      "Team 4":1462.98,
+      "Team 5":1214.2,
+      "Team 6":1498.36,
+      "Team 7":1327.66,
+      "Team 8":1211.72,
+      "Team 9":1038.08,
+      "Team 10":1433.0,
+      "Team 11":1412.04,
+      "Team 12":1253.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":259.1,
+      "Team 6":242.6,
+      "Team 11":146.98,
+      "Team 10":309.56
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Calvin Ridley (Pick 44)",
+      "Kenneth Walker III (Pick 53)",
+      "Dak Prescott (Pick 68)",
+      "49ers (Pick 77)",
+      "Gabriel Davis (Pick 92)",
+      "Zach Charbonnet (Pick 101)",
+      "Skyy Moore (Pick 116)",
+      "Kadarius Toney (Pick 125)",
+      "Damien Harris (Pick 140)",
+      "Jason Myers (Pick 149)",
+      "Browns (Pick 164)",
+      "Luke Musgrave (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":24,
+    "Winner":"Team 6",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1152.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1259.94,
+      "Team 2":1318.46,
+      "Team 3":1083.92,
+      "Team 4":1170.66,
+      "Team 5":1147.7,
+      "Team 6":1598.1,
+      "Team 7":1347.46,
+      "Team 8":1403.88,
+      "Team 9":997.4,
+      "Team 10":1311.6,
+      "Team 11":1437.94,
+      "Team 12":1152.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":325.2,
+      "Team 11":320.24,
+      "Team 7":278.54,
+      "Team 8":297.54
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Josh Jacobs (Pick 13)",
+      "Kenneth Walker III (Pick 36)",
+      "Dameon Pierce (Pick 37)",
+      "Dak Prescott (Pick 60)",
+      "49ers (Pick 61)",
+      "Zach Charbonnet (Pick 84)",
+      "Tyler Boyd (Pick 85)",
+      "Zay Flowers (Pick 108)",
+      "Gabriel Davis (Pick 109)",
+      "Kadarius Toney (Pick 132)",
+      "Jerick McKinnon (Pick 133)",
+      "Adam Thielen (Pick 156)",
+      "Greg Zuerlein (Pick 157)",
+      "Ian Thomas (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":25,
+    "Winner":"Team 4",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1076.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1490.64,
+      "Team 2":1315.7,
+      "Team 3":1437.84,
+      "Team 4":1501.34,
+      "Team 5":1259.74,
+      "Team 6":1256.12,
+      "Team 7":1076.8,
+      "Team 8":1380.66,
+      "Team 9":1217.84,
+      "Team 10":1453.22,
+      "Team 11":1249.92,
+      "Team 12":1234.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":316.66,
+      "Team 1":290.54,
+      "Team 6":260.94,
+      "Team 10":231.0
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 7)",
+      "Josh Jacobs (Pick 18)",
+      "Patrick Mahomes (Pick 31)",
+      "Calvin Ridley (Pick 42)",
+      "Dameon Pierce (Pick 55)",
+      "George Pickens (Pick 66)",
+      "Dak Prescott (Pick 79)",
+      "Gabriel Davis (Pick 90)",
+      "Zach Charbonnet (Pick 103)",
+      "Skyy Moore (Pick 114)",
+      "Kadarius Toney (Pick 127)",
+      "Allen Lazard (Pick 138)",
+      "Browns (Pick 151)",
+      "Chad Ryland (Pick 162)",
+      "Brock Wright (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":51,
+    "Winner":"Team 5",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1159.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1095.78,
+      "Team 2":1489.32,
+      "Team 3":1366.0,
+      "Team 4":1159.5,
+      "Team 5":1392.54,
+      "Team 6":1364.92,
+      "Team 7":1393.04,
+      "Team 8":1280.56,
+      "Team 9":1236.44,
+      "Team 10":1312.84,
+      "Team 11":1163.94,
+      "Team 12":1182.68
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":284.3,
+      "Team 2":355.18,
+      "Team 6":360.3,
+      "Team 7":270.2
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Calvin Ridley (Pick 45)",
+      "Kenneth Walker III (Pick 52)",
+      "Dak Prescott (Pick 69)",
+      "49ers (Pick 76)",
+      "Gabriel Davis (Pick 93)",
+      "Zach Charbonnet (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Kadarius Toney (Pick 124)",
+      "Jerick McKinnon (Pick 141)",
+      "Jake Elliott (Pick 148)",
+      "Browns (Pick 165)",
+      "Mitchell Wilcox (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":52,
+    "Winner":"Team 2",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1101.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1245.34,
+      "Team 2":1363.44,
+      "Team 3":1106.04,
+      "Team 4":1492.86,
+      "Team 5":1101.3,
+      "Team 6":1483.88,
+      "Team 7":1150.16,
+      "Team 8":1427.38,
+      "Team 9":1386.66,
+      "Team 10":1171.64,
+      "Team 11":1313.84,
+      "Team 12":1306.92
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":233.02,
+      "Team 8":281.84,
+      "Team 4":324.54,
+      "Team 6":342.86
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "DK Metcalf (Pick 44)",
+      "Dak Prescott (Pick 53)",
+      "49ers (Pick 68)",
+      "Gabriel Davis (Pick 77)",
+      "Justin Tucker (Pick 92)",
+      "Zach Charbonnet (Pick 101)",
+      "Skyy Moore (Pick 116)",
+      "Kadarius Toney (Pick 125)",
+      "Jerick McKinnon (Pick 140)",
+      "Damien Harris (Pick 149)",
+      "Hunter Renfrow (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":53,
+    "Winner":"Team 6",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1218.58,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1288.06,
+      "Team 2":1194.32,
+      "Team 3":1411.32,
+      "Team 4":1453.78,
+      "Team 5":1258.34,
+      "Team 6":1664.8,
+      "Team 7":1158.3,
+      "Team 8":1333.88,
+      "Team 9":1287.56,
+      "Team 10":1218.58,
+      "Team 11":1308.62,
+      "Team 12":1388.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":344.88,
+      "Team 4":314.54,
+      "Team 3":315.32,
+      "Team 12":252.2
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "DK Metcalf (Pick 34)",
+      "Dameon Pierce (Pick 39)",
+      "Drake London (Pick 58)",
+      "Dak Prescott (Pick 63)",
+      "Zach Charbonnet (Pick 82)",
+      "Gabriel Davis (Pick 87)",
+      "Zay Flowers (Pick 106)",
+      "Skyy Moore (Pick 111)",
+      "Kadarius Toney (Pick 130)",
+      "Jerick McKinnon (Pick 135)",
+      "Brett Maher (Pick 154)",
+      "Browns (Pick 159)",
+      "Luke Musgrave (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":54,
+    "Winner":"Team 1",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1090.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1526.3,
+      "Team 2":1210.52,
+      "Team 3":1090.1,
+      "Team 4":1213.22,
+      "Team 5":1069.52,
+      "Team 6":1379.16,
+      "Team 7":1346.0,
+      "Team 8":1235.58,
+      "Team 9":1360.82,
+      "Team 10":1417.54,
+      "Team 11":1354.82,
+      "Team 12":1354.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":273.96,
+      "Team 7":269.34,
+      "Team 8":302.54,
+      "Team 9":262.8
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Chris Olave (Pick 22)",
+      "Jahmyr Gibbs (Pick 27)",
+      "Kenneth Walker III (Pick 46)",
+      "Dak Prescott (Pick 51)",
+      "Drake London (Pick 70)",
+      "49ers (Pick 75)",
+      "Gabriel Davis (Pick 94)",
+      "Zay Flowers (Pick 99)",
+      "Kadarius Toney (Pick 118)",
+      "Skyy Moore (Pick 123)",
+      "Chris Evans (Pick 142)",
+      "Allen Lazard (Pick 147)",
+      "Austin Seibert (Pick 166)",
+      "Mitchell Wilcox (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":55,
+    "Winner":"Team 4",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1275.2,
+    "DM-Points-Playoffs":292.88,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1082.24,
+      "Team 2":1275.2,
+      "Team 3":1250.32,
+      "Team 4":1471.64,
+      "Team 5":1159.74,
+      "Team 6":1268.0,
+      "Team 7":1256.96,
+      "Team 8":1317.44,
+      "Team 9":1090.58,
+      "Team 10":1173.36,
+      "Team 11":1428.68,
+      "Team 12":1135.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":301.24,
+      "Team 6":239.6,
+      "Team 2":292.88,
+      "Team 7":285.44
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "Kenneth Walker III (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "Zach Charbonnet (Pick 71)",
+      "Allen Lazard (Pick 74)",
+      "Kadarius Toney (Pick 95)",
+      "Gabriel Davis (Pick 98)",
+      "Skyy Moore (Pick 119)",
+      "Zay Flowers (Pick 122)",
+      "Damien Harris (Pick 143)",
+      "Cameron Dicker (Pick 146)",
+      "Lions (Pick 167)",
+      "Ian Thomas (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":56,
+    "Winner":"Team 6",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1235.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1284.9,
+      "Team 2":1456.82,
+      "Team 3":1384.66,
+      "Team 4":1181.64,
+      "Team 5":1249.54,
+      "Team 6":1378.0,
+      "Team 7":1207.88,
+      "Team 8":1314.16,
+      "Team 9":1235.3,
+      "Team 10":1422.8,
+      "Team 11":1149.48,
+      "Team 12":1454.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":370.22,
+      "Team 2":265.8,
+      "Team 12":348.4,
+      "Team 3":291.18
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 9)",
+      "Chris Olave (Pick 16)",
+      "Calvin Ridley (Pick 33)",
+      "DK Metcalf (Pick 40)",
+      "Alvin Kamara (Pick 57)",
+      "Dak Prescott (Pick 64)",
+      "49ers (Pick 81)",
+      "Gabriel Davis (Pick 88)",
+      "Zach Charbonnet (Pick 105)",
+      "Zay Flowers (Pick 112)",
+      "Skyy Moore (Pick 129)",
+      "Jerick McKinnon (Pick 136)",
+      "Browns (Pick 153)",
+      "Matt Prater (Pick 160)",
+      "Luke Musgrave (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":57,
+    "Winner":"Team 11",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1314.6,
+    "DM-Points-Playoffs":292.18,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1314.6,
+      "Team 2":1360.3,
+      "Team 3":1200.54,
+      "Team 4":1146.46,
+      "Team 5":1647.02,
+      "Team 6":1288.76,
+      "Team 7":1309.94,
+      "Team 8":1337.52,
+      "Team 9":1186.66,
+      "Team 10":1215.86,
+      "Team 11":1356.34,
+      "Team 12":1469.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":285.06,
+      "Team 12":299.4,
+      "Team 1":292.18,
+      "Team 5":186.7
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Jahmyr Gibbs (Pick 24)",
+      "Calvin Ridley (Pick 25)",
+      "Dameon Pierce (Pick 48)",
+      "Dak Prescott (Pick 49)",
+      "Zach Charbonnet (Pick 72)",
+      "Gabriel Davis (Pick 73)",
+      "Zay Flowers (Pick 96)",
+      "Skyy Moore (Pick 97)",
+      "Kadarius Toney (Pick 120)",
+      "Jerick McKinnon (Pick 121)",
+      "Jameson Williams (Pick 144)",
+      "Jason Myers (Pick 145)",
+      "Bears (Pick 168)",
+      "Donald Parham (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":58,
+    "Winner":"Team 2",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1207.18,
+    "DM-Points-Playoffs":216.36,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1231.64,
+      "Team 2":1517.04,
+      "Team 3":1468.3,
+      "Team 4":1012.28,
+      "Team 5":1333.5,
+      "Team 6":1340.12,
+      "Team 7":1271.58,
+      "Team 8":1396.94,
+      "Team 9":1142.78,
+      "Team 10":1207.18,
+      "Team 11":1544.68,
+      "Team 12":1239.34
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":342.58,
+      "Team 3":332.86,
+      "Team 8":360.04,
+      "Team 10":216.36
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "Calvin Ridley (Pick 34)",
+      "DK Metcalf (Pick 39)",
+      "Dak Prescott (Pick 58)",
+      "49ers (Pick 63)",
+      "Gabriel Davis (Pick 82)",
+      "Zach Charbonnet (Pick 87)",
+      "Zay Flowers (Pick 106)",
+      "Skyy Moore (Pick 111)",
+      "Kadarius Toney (Pick 130)",
+      "Damien Harris (Pick 135)",
+      "Browns (Pick 154)",
+      "Tristan Vizcaino (Pick 159)",
+      "Brock Wright (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":59,
+    "Winner":"Team 6",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1111.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1294.18,
+      "Team 2":1178.26,
+      "Team 3":1407.5,
+      "Team 4":1111.2,
+      "Team 5":1443.76,
+      "Team 6":1388.68,
+      "Team 7":1235.9,
+      "Team 8":1255.3,
+      "Team 9":1241.66,
+      "Team 10":1463.58,
+      "Team 11":1265.96,
+      "Team 12":1229.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":238.08,
+      "Team 10":351.36,
+      "Team 5":246.0,
+      "Team 3":326.2
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Dameon Pierce (Pick 45)",
+      "Dak Prescott (Pick 52)",
+      "49ers (Pick 69)",
+      "Zach Charbonnet (Pick 76)",
+      "Zay Flowers (Pick 93)",
+      "Gabriel Davis (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Kadarius Toney (Pick 124)",
+      "Jerick McKinnon (Pick 141)",
+      "Damien Harris (Pick 148)",
+      "Brandon Aubrey (Pick 165)",
+      "Brock Wright (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":60,
+    "Winner":"Team 1",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1104.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1569.24,
+      "Team 2":1230.58,
+      "Team 3":1181.08,
+      "Team 4":1289.16,
+      "Team 5":1104.6,
+      "Team 6":1451.08,
+      "Team 7":1367.92,
+      "Team 8":1038.62,
+      "Team 9":1309.9,
+      "Team 10":1328.88,
+      "Team 11":1499.72,
+      "Team 12":1131.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":303.7,
+      "Team 6":328.7,
+      "Team 7":166.68,
+      "Team 11":236.0
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Calvin Ridley (Pick 44)",
+      "Dameon Pierce (Pick 53)",
+      "Dak Prescott (Pick 68)",
+      "Gabriel Davis (Pick 77)",
+      "Zach Charbonnet (Pick 92)",
+      "Zay Flowers (Pick 101)",
+      "Skyy Moore (Pick 116)",
+      "Kadarius Toney (Pick 125)",
+      "Jameson Williams (Pick 140)",
+      "Graham Gano (Pick 149)",
+      "Lions (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":61,
+    "Winner":"Team 5",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":957.42,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1269.66,
+      "Team 2":1466.78,
+      "Team 3":1430.7,
+      "Team 4":1167.34,
+      "Team 5":1498.88,
+      "Team 6":1231.28,
+      "Team 7":1309.56,
+      "Team 8":957.42,
+      "Team 9":995.9,
+      "Team 10":1278.92,
+      "Team 11":1357.62,
+      "Team 12":1396.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":237.1,
+      "Team 11":299.16,
+      "Team 12":354.88,
+      "Team 2":307.66
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Derrick Henry (Pick 17)",
+      "Jahmyr Gibbs (Pick 32)",
+      "Dameon Pierce (Pick 41)",
+      "Trevor Lawrence (Pick 56)",
+      "49ers (Pick 65)",
+      "Jameson Williams (Pick 80)",
+      "Allen Lazard (Pick 89)",
+      "Zach Charbonnet (Pick 104)",
+      "Zay Flowers (Pick 113)",
+      "Skyy Moore (Pick 128)",
+      "Damien Harris (Pick 137)",
+      "Browns (Pick 152)",
+      "Stone Smartt (Pick 161)",
+      "Jason Myers (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":62,
+    "Winner":"Team 5",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1301.0,
+    "DM-Points-Playoffs":210.48,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1010.04,
+      "Team 2":1284.34,
+      "Team 3":1110.92,
+      "Team 4":1362.26,
+      "Team 5":1410.26,
+      "Team 6":1231.46,
+      "Team 7":1401.88,
+      "Team 8":1089.74,
+      "Team 9":1322.28,
+      "Team 10":1301.0,
+      "Team 11":1472.06,
+      "Team 12":1377.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":338.26,
+      "Team 4":324.16,
+      "Team 7":338.44,
+      "Team 10":210.48
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "Jahmyr Gibbs (Pick 34)",
+      "DK Metcalf (Pick 39)",
+      "DeAndre Hopkins (Pick 58)",
+      "Dak Prescott (Pick 63)",
+      "Justin Tucker (Pick 82)",
+      "Gabriel Davis (Pick 87)",
+      "Zach Charbonnet (Pick 106)",
+      "Zay Flowers (Pick 111)",
+      "Allen Lazard (Pick 130)",
+      "Jerick McKinnon (Pick 135)",
+      "DOnta Foreman (Pick 154)",
+      "Browns (Pick 159)",
+      "Luke Musgrave (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":63,
+    "Winner":"Team 10",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1105.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1553.88,
+      "Team 2":1345.6,
+      "Team 3":1059.44,
+      "Team 4":1401.12,
+      "Team 5":1389.88,
+      "Team 6":1198.06,
+      "Team 7":1574.5,
+      "Team 8":1105.0,
+      "Team 9":1384.76,
+      "Team 10":1382.72,
+      "Team 11":1222.82,
+      "Team 12":1288.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":295.4,
+      "Team 1":324.84,
+      "Team 7":245.0,
+      "Team 9":319.38
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Chris Olave (Pick 17)",
+      "Calvin Ridley (Pick 32)",
+      "DK Metcalf (Pick 41)",
+      "Dameon Pierce (Pick 56)",
+      "Dak Prescott (Pick 65)",
+      "Justin Tucker (Pick 80)",
+      "Zach Charbonnet (Pick 89)",
+      "Zay Flowers (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Kadarius Toney (Pick 128)",
+      "Jerick McKinnon (Pick 137)",
+      "Damien Harris (Pick 152)",
+      "Browns (Pick 161)",
+      "Luke Musgrave (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":64,
+    "Winner":"Team 5",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":838.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1193.86,
+      "Team 2":1430.6,
+      "Team 3":1317.36,
+      "Team 4":1203.6,
+      "Team 5":1674.34,
+      "Team 6":1195.88,
+      "Team 7":1481.78,
+      "Team 8":838.06,
+      "Team 9":1149.36,
+      "Team 10":1162.04,
+      "Team 11":1406.36,
+      "Team 12":1282.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":299.88,
+      "Team 7":353.76,
+      "Team 11":164.78,
+      "Team 2":206.14
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Chris Olave (Pick 17)",
+      "Jahmyr Gibbs (Pick 32)",
+      "Dameon Pierce (Pick 41)",
+      "Drake London (Pick 56)",
+      "49ers (Pick 65)",
+      "Gabriel Davis (Pick 80)",
+      "Zach Charbonnet (Pick 89)",
+      "Zay Flowers (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Kadarius Toney (Pick 128)",
+      "Damien Harris (Pick 137)",
+      "Stone Smartt (Pick 152)",
+      "Jason Myers (Pick 161)",
+      "Bailey Zappe (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":65,
+    "Winner":"Team 1",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1221.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1528.26,
+      "Team 2":1205.42,
+      "Team 3":1035.78,
+      "Team 4":1459.74,
+      "Team 5":1583.14,
+      "Team 6":1601.24,
+      "Team 7":1221.9,
+      "Team 8":1115.08,
+      "Team 9":1242.26,
+      "Team 10":1197.04,
+      "Team 11":1252.92,
+      "Team 12":1357.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":330.6,
+      "Team 5":315.92,
+      "Team 4":344.04,
+      "Team 6":284.7
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 7)",
+      "Chris Olave (Pick 18)",
+      "Calvin Ridley (Pick 31)",
+      "DK Metcalf (Pick 42)",
+      "Dak Prescott (Pick 55)",
+      "Rachaad White (Pick 66)",
+      "Zach Charbonnet (Pick 79)",
+      "Gabriel Davis (Pick 90)",
+      "Zay Flowers (Pick 103)",
+      "Skyy Moore (Pick 114)",
+      "Kadarius Toney (Pick 127)",
+      "Jerick McKinnon (Pick 138)",
+      "Browns (Pick 151)",
+      "Graham Gano (Pick 162)",
+      "Luke Musgrave (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":66,
+    "Winner":"Team 5",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1135.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1377.48,
+      "Team 2":1135.9,
+      "Team 3":1373.72,
+      "Team 4":1254.86,
+      "Team 5":1356.76,
+      "Team 6":1243.3,
+      "Team 7":1518.42,
+      "Team 8":1172.04,
+      "Team 9":1421.28,
+      "Team 10":1154.64,
+      "Team 11":1300.24,
+      "Team 12":1140.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":250.1,
+      "Team 3":221.24,
+      "Team 1":381.26,
+      "Team 12":238.6
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Chris Olave (Pick 26)",
+      "Calvin Ridley (Pick 47)",
+      "Dameon Pierce (Pick 50)",
+      "Dak Prescott (Pick 71)",
+      "Zay Flowers (Pick 74)",
+      "Gabriel Davis (Pick 95)",
+      "Skyy Moore (Pick 98)",
+      "Kadarius Toney (Pick 119)",
+      "Jerick McKinnon (Pick 122)",
+      "Allen Lazard (Pick 143)",
+      "Browns (Pick 146)",
+      "Cameron Dicker (Pick 167)",
+      "Luke Musgrave (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":67,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1358.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1115.4,
+      "Team 2":1358.5,
+      "Team 3":1290.7,
+      "Team 4":1296.44,
+      "Team 5":1226.56,
+      "Team 6":1101.92,
+      "Team 7":1172.76,
+      "Team 8":1296.32,
+      "Team 9":1436.42,
+      "Team 10":1445.42,
+      "Team 11":1514.58,
+      "Team 12":1282.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":264.9,
+      "Team 10":318.88,
+      "Team 3":272.84,
+      "Team 4":234.8
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 2)",
+      "Chris Olave (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "DK Metcalf (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "Zach Charbonnet (Pick 71)",
+      "Gabriel Davis (Pick 74)",
+      "Zay Flowers (Pick 95)",
+      "Skyy Moore (Pick 98)",
+      "Kadarius Toney (Pick 119)",
+      "Jerick McKinnon (Pick 122)",
+      "Allen Lazard (Pick 143)",
+      "Browns (Pick 146)",
+      "Matt Prater (Pick 167)",
+      "Mitchell Wilcox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":68,
+    "Winner":"Team 10",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1187.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1385.98,
+      "Team 2":1130.12,
+      "Team 3":1227.32,
+      "Team 4":1413.44,
+      "Team 5":1400.92,
+      "Team 6":1183.96,
+      "Team 7":1188.72,
+      "Team 8":1223.56,
+      "Team 9":1339.6,
+      "Team 10":1543.98,
+      "Team 11":1242.4,
+      "Team 12":1187.68
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":287.7,
+      "Team 4":283.72,
+      "Team 1":301.74,
+      "Team 5":257.22
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Derrick Henry (Pick 13)",
+      "DK Metcalf (Pick 36)",
+      "Dameon Pierce (Pick 37)",
+      "Dak Prescott (Pick 60)",
+      "Justin Tucker (Pick 61)",
+      "Zach Charbonnet (Pick 84)",
+      "Jerick McKinnon (Pick 85)",
+      "Skyy Moore (Pick 108)",
+      "Gabriel Davis (Pick 109)",
+      "Damien Harris (Pick 132)",
+      "Allen Lazard (Pick 133)",
+      "Adam Thielen (Pick 156)",
+      "Bears (Pick 157)",
+      "Donald Parham (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":69,
+    "Winner":"Team 7",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1282.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1170.16,
+      "Team 2":1266.62,
+      "Team 3":1198.78,
+      "Team 4":1157.46,
+      "Team 5":1442.64,
+      "Team 6":1393.32,
+      "Team 7":1622.1,
+      "Team 8":1253.0,
+      "Team 9":1289.28,
+      "Team 10":1184.38,
+      "Team 11":1282.6,
+      "Team 12":1398.42
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":313.34,
+      "Team 12":293.64,
+      "Team 2":288.38,
+      "Team 5":231.16
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 11)",
+      "Josh Jacobs (Pick 14)",
+      "Jahmyr Gibbs (Pick 35)",
+      "Calvin Ridley (Pick 38)",
+      "DeAndre Hopkins (Pick 59)",
+      "Dak Prescott (Pick 62)",
+      "49ers (Pick 83)",
+      "Gabriel Davis (Pick 86)",
+      "Justin Tucker (Pick 107)",
+      "Zach Charbonnet (Pick 110)",
+      "Kadarius Toney (Pick 131)",
+      "Jerick McKinnon (Pick 134)",
+      "Adam Thielen (Pick 155)",
+      "Kendrick Bourne (Pick 158)",
+      "Donald Parham (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":70,
+    "Winner":"Team 10",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1053.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1418.04,
+      "Team 2":1053.8,
+      "Team 3":1288.3,
+      "Team 4":1307.12,
+      "Team 5":1283.86,
+      "Team 6":1469.12,
+      "Team 7":1327.18,
+      "Team 8":1136.64,
+      "Team 9":1153.06,
+      "Team 10":1515.3,
+      "Team 11":1384.26,
+      "Team 12":1480.32
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":277.4,
+      "Team 7":274.54,
+      "Team 12":333.76,
+      "Team 4":259.18
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 2)",
+      "Chris Olave (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "DK Metcalf (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "49ers (Pick 71)",
+      "Gabriel Davis (Pick 74)",
+      "Justin Tucker (Pick 95)",
+      "Khalil Herbert (Pick 98)",
+      "Skyy Moore (Pick 119)",
+      "Kadarius Toney (Pick 122)",
+      "Allen Lazard (Pick 143)",
+      "Jameson Williams (Pick 146)",
+      "Browns (Pick 167)",
+      "Mitchell Wilcox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":71,
+    "Winner":"Team 5",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1179.7,
+    "DM-Points-Playoffs":194.08,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1432.72,
+      "Team 2":1249.7,
+      "Team 3":1251.04,
+      "Team 4":1319.48,
+      "Team 5":1587.2,
+      "Team 6":1179.7,
+      "Team 7":1499.22,
+      "Team 8":1264.08,
+      "Team 9":1256.6,
+      "Team 10":1253.34,
+      "Team 11":1200.56,
+      "Team 12":1164.02
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":242.96,
+      "Team 1":324.12,
+      "Team 4":290.6,
+      "Team 6":194.08
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 6)",
+      "Josh Jacobs (Pick 19)",
+      "Chris Olave (Pick 30)",
+      "Kenneth Walker III (Pick 43)",
+      "Dak Prescott (Pick 54)",
+      "49ers (Pick 67)",
+      "Zach Charbonnet (Pick 78)",
+      "Jerick McKinnon (Pick 91)",
+      "Gabriel Davis (Pick 102)",
+      "Skyy Moore (Pick 115)",
+      "Damien Harris (Pick 126)",
+      "Adam Thielen (Pick 139)",
+      "Jameson Williams (Pick 150)",
+      "Mitchell Wilcox (Pick 163)",
+      "Rodrigo Blankenship (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":72,
+    "Winner":"Team 5",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1348.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1253.06,
+      "Team 2":1348.3,
+      "Team 3":1159.04,
+      "Team 4":1313.04,
+      "Team 5":1546.14,
+      "Team 6":1195.58,
+      "Team 7":1265.68,
+      "Team 8":1265.66,
+      "Team 9":1415.96,
+      "Team 10":1389.36,
+      "Team 11":1306.9,
+      "Team 12":1478.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":277.44,
+      "Team 10":266.26,
+      "Team 12":298.46,
+      "Team 1":315.44
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 2)",
+      "Chris Olave (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "DK Metcalf (Pick 47)",
+      "Dameon Pierce (Pick 50)",
+      "Dak Prescott (Pick 71)",
+      "Gabriel Davis (Pick 74)",
+      "Zach Charbonnet (Pick 95)",
+      "Zay Flowers (Pick 98)",
+      "Skyy Moore (Pick 119)",
+      "Kadarius Toney (Pick 122)",
+      "Damien Harris (Pick 143)",
+      "Browns (Pick 146)",
+      "Mitchell Wilcox (Pick 167)",
+      "Tristan Vizcaino (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":73,
+    "Winner":"Team 3",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1126.08,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1313.44,
+      "Team 2":1290.78,
+      "Team 3":1619.92,
+      "Team 4":1420.04,
+      "Team 5":1126.08,
+      "Team 6":1363.56,
+      "Team 7":1282.28,
+      "Team 8":1176.56,
+      "Team 9":1182.74,
+      "Team 10":1042.56,
+      "Team 11":1078.88,
+      "Team 12":1409.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":345.96,
+      "Team 1":349.24,
+      "Team 7":267.0,
+      "Team 12":322.8
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Kenneth Walker III (Pick 44)",
+      "Dak Prescott (Pick 53)",
+      "Drake London (Pick 68)",
+      "49ers (Pick 77)",
+      "Gabriel Davis (Pick 92)",
+      "Zach Charbonnet (Pick 101)",
+      "Skyy Moore (Pick 116)",
+      "Kadarius Toney (Pick 125)",
+      "Damien Harris (Pick 140)",
+      "Browns (Pick 149)",
+      "Brett Maher (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":74,
+    "Winner":"Team 11",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1282.52,
+    "DM-Points-Playoffs":192.08,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1172.2,
+      "Team 2":1339.5,
+      "Team 3":1398.2,
+      "Team 4":1152.0,
+      "Team 5":1391.62,
+      "Team 6":1358.04,
+      "Team 7":1276.82,
+      "Team 8":1260.58,
+      "Team 9":1216.16,
+      "Team 10":1282.52,
+      "Team 11":1518.76,
+      "Team 12":1310.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":221.16,
+      "Team 5":298.54,
+      "Team 6":244.96,
+      "Team 10":192.08
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "Chris Olave (Pick 34)",
+      "Kenneth Walker III (Pick 39)",
+      "Dameon Pierce (Pick 58)",
+      "DK Metcalf (Pick 63)",
+      "Trevor Lawrence (Pick 82)",
+      "Gabriel Davis (Pick 87)",
+      "Zach Charbonnet (Pick 106)",
+      "Zay Flowers (Pick 111)",
+      "Jerick McKinnon (Pick 130)",
+      "Damien Harris (Pick 135)",
+      "Browns (Pick 154)",
+      "Jake Elliott (Pick 159)",
+      "Luke Musgrave (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":75,
+    "Winner":"Team 1",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1055.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1633.6,
+      "Team 2":1071.04,
+      "Team 3":1351.78,
+      "Team 4":1166.9,
+      "Team 5":1452.66,
+      "Team 6":1370.3,
+      "Team 7":1035.28,
+      "Team 8":1055.3,
+      "Team 9":1347.94,
+      "Team 10":1199.36,
+      "Team 11":1478.08,
+      "Team 12":1221.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":342.1,
+      "Team 3":284.06,
+      "Team 9":342.86,
+      "Team 11":281.42
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Chris Olave (Pick 17)",
+      "Calvin Ridley (Pick 32)",
+      "Kenneth Walker III (Pick 41)",
+      "Dak Prescott (Pick 56)",
+      "49ers (Pick 65)",
+      "Zay Flowers (Pick 80)",
+      "Gabriel Davis (Pick 89)",
+      "Zach Charbonnet (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Jerick McKinnon (Pick 128)",
+      "Damien Harris (Pick 137)",
+      "Browns (Pick 152)",
+      "Austin Seibert (Pick 161)",
+      "Ian Thomas (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":101,
+    "Winner":"Team 6",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":918.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1366.14,
+      "Team 2":1180.96,
+      "Team 3":1068.56,
+      "Team 4":1557.78,
+      "Team 5":1376.6,
+      "Team 6":1658.96,
+      "Team 7":1228.62,
+      "Team 8":1336.12,
+      "Team 9":1168.62,
+      "Team 10":918.4,
+      "Team 11":1390.74,
+      "Team 12":1427.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":274.2,
+      "Team 4":301.14,
+      "Team 12":263.6,
+      "Team 8":330.16
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "Calvin Ridley (Pick 34)",
+      "Kenneth Walker III (Pick 39)",
+      "DeAndre Hopkins (Pick 58)",
+      "49ers (Pick 63)",
+      "Skyy Moore (Pick 82)",
+      "Aaron Rodgers (Pick 87)",
+      "Zach Charbonnet (Pick 106)",
+      "Zay Flowers (Pick 111)",
+      "Damien Harris (Pick 130)",
+      "DOnta Foreman (Pick 135)",
+      "Jerick McKinnon (Pick 154)",
+      "Ian Thomas (Pick 159)",
+      "Matt Prater (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":102,
+    "Winner":"Team 1",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      0,
+      14
+    ],
+    "DM-Points-Regular-Season":948.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1546.78,
+      "Team 2":1287.48,
+      "Team 3":948.6,
+      "Team 4":1266.18,
+      "Team 5":1309.08,
+      "Team 6":1348.96,
+      "Team 7":1325.34,
+      "Team 8":1304.26,
+      "Team 9":1235.02,
+      "Team 10":1373.72,
+      "Team 11":1350.76,
+      "Team 12":1291.42
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":311.06,
+      "Team 11":219.98,
+      "Team 2":328.4,
+      "Team 4":255.86
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Chris Olave (Pick 22)",
+      "Calvin Ridley (Pick 27)",
+      "Dameon Pierce (Pick 46)",
+      "Dak Prescott (Pick 51)",
+      "Gabriel Davis (Pick 70)",
+      "Zay Flowers (Pick 75)",
+      "Skyy Moore (Pick 94)",
+      "Kadarius Toney (Pick 99)",
+      "Jerick McKinnon (Pick 118)",
+      "Damien Harris (Pick 123)",
+      "Allen Lazard (Pick 142)",
+      "Jason Myers (Pick 147)",
+      "Browns (Pick 166)",
+      "Mitchell Wilcox (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":103,
+    "Winner":"Team 4",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1007.28,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1445.36,
+      "Team 2":1400.76,
+      "Team 3":1146.82,
+      "Team 4":1350.78,
+      "Team 5":1455.38,
+      "Team 6":1207.1,
+      "Team 7":1297.42,
+      "Team 8":1176.98,
+      "Team 9":1172.62,
+      "Team 10":1310.98,
+      "Team 11":1276.22,
+      "Team 12":1007.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":261.76,
+      "Team 1":326.4,
+      "Team 7":230.26,
+      "Team 2":269.26
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Derrick Henry (Pick 13)",
+      "Dameon Pierce (Pick 36)",
+      "Khalil Herbert (Pick 37)",
+      "DeAndre Hopkins (Pick 60)",
+      "Dak Prescott (Pick 61)",
+      "Justin Tucker (Pick 84)",
+      "Zach Charbonnet (Pick 85)",
+      "Jerick McKinnon (Pick 108)",
+      "Damien Harris (Pick 109)",
+      "DOnta Foreman (Pick 132)",
+      "Bears (Pick 133)",
+      "Ty Montgomery (Pick 156)",
+      "Luke Musgrave (Pick 157)",
+      "D'Wayne Eskridge (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":104,
+    "Winner":"Team 5",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1320.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1320.0,
+      "Team 2":1418.58,
+      "Team 3":1277.28,
+      "Team 4":1202.48,
+      "Team 5":1420.9,
+      "Team 6":1357.66,
+      "Team 7":1268.24,
+      "Team 8":1093.74,
+      "Team 9":1421.46,
+      "Team 10":909.16,
+      "Team 11":1552.58,
+      "Team 12":1226.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":285.88,
+      "Team 2":293.3,
+      "Team 3":250.34,
+      "Team 9":259.5
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Jahmyr Gibbs (Pick 24)",
+      "Calvin Ridley (Pick 25)",
+      "DK Metcalf (Pick 48)",
+      "Dameon Pierce (Pick 49)",
+      "Dak Prescott (Pick 72)",
+      "Zach Charbonnet (Pick 73)",
+      "Gabriel Davis (Pick 96)",
+      "Zay Flowers (Pick 97)",
+      "Skyy Moore (Pick 120)",
+      "Jerick McKinnon (Pick 121)",
+      "Allen Lazard (Pick 144)",
+      "Greg Dulcich (Pick 145)",
+      "Jake Elliott (Pick 168)",
+      "Lions (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":105,
+    "Winner":"Team 5",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1104.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1543.18,
+      "Team 2":1347.34,
+      "Team 3":1248.64,
+      "Team 4":1373.62,
+      "Team 5":1444.1,
+      "Team 6":1420.94,
+      "Team 7":1345.42,
+      "Team 8":1020.86,
+      "Team 9":1208.8,
+      "Team 10":1104.4,
+      "Team 11":1166.34,
+      "Team 12":1335.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":282.78,
+      "Team 1":366.96,
+      "Team 2":335.5,
+      "Team 6":300.04
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 10)",
+      "Patrick Mahomes (Pick 15)",
+      "Chris Olave (Pick 34)",
+      "Kenneth Walker III (Pick 39)",
+      "Dak Prescott (Pick 58)",
+      "49ers (Pick 63)",
+      "Gabriel Davis (Pick 82)",
+      "Zach Charbonnet (Pick 87)",
+      "Zay Flowers (Pick 106)",
+      "Skyy Moore (Pick 111)",
+      "Kadarius Toney (Pick 130)",
+      "Jerick McKinnon (Pick 135)",
+      "Allen Lazard (Pick 154)",
+      "Brandon Aubrey (Pick 159)",
+      "Luke Musgrave (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":106,
+    "Winner":"Team 6",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1109.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1500.66,
+      "Team 2":1280.42,
+      "Team 3":1114.2,
+      "Team 4":1342.4,
+      "Team 5":1329.0,
+      "Team 6":1490.3,
+      "Team 7":1285.68,
+      "Team 8":1259.9,
+      "Team 9":1259.18,
+      "Team 10":1389.76,
+      "Team 11":1390.84,
+      "Team 12":1109.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":296.4,
+      "Team 1":315.64,
+      "Team 11":381.48,
+      "Team 2":291.6
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Josh Jacobs (Pick 13)",
+      "DK Metcalf (Pick 36)",
+      "Kenneth Walker III (Pick 37)",
+      "Dameon Pierce (Pick 60)",
+      "Dak Prescott (Pick 61)",
+      "49ers (Pick 84)",
+      "Zach Charbonnet (Pick 85)",
+      "Skyy Moore (Pick 108)",
+      "Zay Flowers (Pick 109)",
+      "Kadarius Toney (Pick 132)",
+      "Jerick McKinnon (Pick 133)",
+      "Browns (Pick 156)",
+      "Stone Smartt (Pick 157)",
+      "Riley Patterson (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":107,
+    "Winner":"Team 8",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1072.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1467.3,
+      "Team 2":1314.62,
+      "Team 3":1128.7,
+      "Team 4":1072.3,
+      "Team 5":1064.02,
+      "Team 6":1407.8,
+      "Team 7":1358.72,
+      "Team 8":1287.52,
+      "Team 9":1427.46,
+      "Team 10":1300.74,
+      "Team 11":1380.04,
+      "Team 12":1172.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":318.8,
+      "Team 1":376.04,
+      "Team 6":223.86,
+      "Team 7":250.3
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Dameon Pierce (Pick 45)",
+      "Dak Prescott (Pick 52)",
+      "Drake London (Pick 69)",
+      "Gabriel Davis (Pick 76)",
+      "Zach Charbonnet (Pick 93)",
+      "Zay Flowers (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Kadarius Toney (Pick 124)",
+      "Damien Harris (Pick 141)",
+      "Brandon Aubrey (Pick 148)",
+      "Bears (Pick 165)",
+      "Mitchell Wilcox (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":108,
+    "Winner":"Team 5",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":879.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1290.46,
+      "Team 2":1167.84,
+      "Team 3":879.5,
+      "Team 4":1361.44,
+      "Team 5":1428.18,
+      "Team 6":1330.48,
+      "Team 7":1267.5,
+      "Team 8":1376.68,
+      "Team 9":1193.7,
+      "Team 10":1341.36,
+      "Team 11":1443.06,
+      "Team 12":1291.32
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":292.06,
+      "Team 4":278.1,
+      "Team 10":338.28,
+      "Team 6":265.6
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Josh Jacobs (Pick 22)",
+      "Jahmyr Gibbs (Pick 27)",
+      "Calvin Ridley (Pick 46)",
+      "Dameon Pierce (Pick 51)",
+      "Justin Tucker (Pick 70)",
+      "Zach Charbonnet (Pick 75)",
+      "Aaron Rodgers (Pick 94)",
+      "Brandon Aiyuk (Pick 99)",
+      "Skyy Moore (Pick 118)",
+      "Kadarius Toney (Pick 123)",
+      "Damien Harris (Pick 142)",
+      "Jameson Williams (Pick 147)",
+      "Lions (Pick 166)",
+      "Mitchell Wilcox (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":109,
+    "Winner":"Team 4",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1048.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1087.44,
+      "Team 2":1188.24,
+      "Team 3":1367.08,
+      "Team 4":1468.28,
+      "Team 5":1048.68,
+      "Team 6":1393.58,
+      "Team 7":1475.52,
+      "Team 8":1278.74,
+      "Team 9":1506.84,
+      "Team 10":1377.9,
+      "Team 11":1150.56,
+      "Team 12":1243.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":323.04,
+      "Team 10":214.24,
+      "Team 2":238.5,
+      "Team 9":241.5
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Derrick Henry (Pick 20)",
+      "Chris Olave (Pick 29)",
+      "Dameon Pierce (Pick 44)",
+      "Dak Prescott (Pick 53)",
+      "Justin Tucker (Pick 68)",
+      "Skyy Moore (Pick 77)",
+      "Gabriel Davis (Pick 92)",
+      "Zay Flowers (Pick 101)",
+      "Kadarius Toney (Pick 116)",
+      "Jerick McKinnon (Pick 125)",
+      "Bears (Pick 140)",
+      "Damien Harris (Pick 149)",
+      "Kendrick Bourne (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":110,
+    "Winner":"Team 5",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1145.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1211.1,
+      "Team 2":1217.34,
+      "Team 3":1362.46,
+      "Team 4":1263.48,
+      "Team 5":1542.96,
+      "Team 6":1267.28,
+      "Team 7":1145.9,
+      "Team 8":1217.84,
+      "Team 9":1314.54,
+      "Team 10":1501.08,
+      "Team 11":1330.26,
+      "Team 12":1362.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":235.1,
+      "Team 9":250.6,
+      "Team 3":294.96,
+      "Team 6":241.58
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 7)",
+      "Chris Olave (Pick 18)",
+      "Jahmyr Gibbs (Pick 31)",
+      "Kenneth Walker III (Pick 42)",
+      "Dameon Pierce (Pick 55)",
+      "DeAndre Hopkins (Pick 66)",
+      "Dak Prescott (Pick 79)",
+      "49ers (Pick 90)",
+      "Zach Charbonnet (Pick 103)",
+      "Skyy Moore (Pick 114)",
+      "Kadarius Toney (Pick 127)",
+      "Damien Harris (Pick 138)",
+      "Jameson Williams (Pick 151)",
+      "Austin Seibert (Pick 162)",
+      "Mitchell Wilcox (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":111,
+    "Winner":"Team 1",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1049.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1578.8,
+      "Team 2":1407.28,
+      "Team 3":1252.32,
+      "Team 4":1049.2,
+      "Team 5":1236.88,
+      "Team 6":1472.3,
+      "Team 7":1184.98,
+      "Team 8":1436.08,
+      "Team 9":1140.58,
+      "Team 10":1383.66,
+      "Team 11":1259.12,
+      "Team 12":1349.02
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":367.68,
+      "Team 8":248.44,
+      "Team 12":305.3,
+      "Team 6":310.96
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Josh Jacobs (Pick 21)",
+      "Chris Olave (Pick 28)",
+      "Dameon Pierce (Pick 45)",
+      "Dak Prescott (Pick 52)",
+      "Zach Charbonnet (Pick 69)",
+      "Jerick McKinnon (Pick 76)",
+      "Damien Harris (Pick 93)",
+      "Allen Lazard (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Kadarius Toney (Pick 124)",
+      "Adam Thielen (Pick 141)",
+      "Lions (Pick 148)",
+      "Graham Gano (Pick 165)",
+      "Mitchell Wilcox (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":112,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":1106.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1301.32,
+      "Team 2":1325.5,
+      "Team 3":1316.28,
+      "Team 4":1154.0,
+      "Team 5":1178.9,
+      "Team 6":1463.02,
+      "Team 7":1166.24,
+      "Team 8":1106.4,
+      "Team 9":1225.7,
+      "Team 10":1280.92,
+      "Team 11":1227.28,
+      "Team 12":1521.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":301.3,
+      "Team 2":291.24,
+      "Team 3":243.64,
+      "Team 6":218.2
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Josh Jacobs (Pick 17)",
+      "Calvin Ridley (Pick 32)",
+      "Kenneth Walker III (Pick 41)",
+      "Dak Prescott (Pick 56)",
+      "Zach Charbonnet (Pick 65)",
+      "Jerick McKinnon (Pick 80)",
+      "Gabriel Davis (Pick 89)",
+      "Zay Flowers (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Kadarius Toney (Pick 128)",
+      "Damien Harris (Pick 137)",
+      "Jason Myers (Pick 152)",
+      "Bears (Pick 161)",
+      "Mitchell Wilcox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":113,
+    "Winner":"Team 2",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1295.3,
+    "DM-Points-Playoffs":278.48,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1295.3,
+      "Team 2":1429.28,
+      "Team 3":1257.54,
+      "Team 4":1396.22,
+      "Team 5":1428.1,
+      "Team 6":1342.94,
+      "Team 7":1342.88,
+      "Team 8":1241.92,
+      "Team 9":1285.48,
+      "Team 10":1303.76,
+      "Team 11":1095.42,
+      "Team 12":1309.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":255.94,
+      "Team 4":247.88,
+      "Team 1":278.48,
+      "Team 3":289.5
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Chris Olave (Pick 24)",
+      "Jahmyr Gibbs (Pick 25)",
+      "Dak Prescott (Pick 48)",
+      "49ers (Pick 49)",
+      "Zach Charbonnet (Pick 72)",
+      "Gabriel Davis (Pick 73)",
+      "Zay Flowers (Pick 96)",
+      "Skyy Moore (Pick 97)",
+      "Kadarius Toney (Pick 120)",
+      "Jerick McKinnon (Pick 121)",
+      "Jameson Williams (Pick 144)",
+      "Allen Lazard (Pick 145)",
+      "Greg Zuerlein (Pick 168)",
+      "Brock Wright (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":114,
+    "Winner":"Team 1",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1013.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1412.16,
+      "Team 2":1431.14,
+      "Team 3":1397.6,
+      "Team 4":1013.5,
+      "Team 5":1307.88,
+      "Team 6":1410.48,
+      "Team 7":1467.72,
+      "Team 8":1304.28,
+      "Team 9":1353.86,
+      "Team 10":1021.16,
+      "Team 11":1108.56,
+      "Team 12":1290.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":296.06,
+      "Team 7":282.46,
+      "Team 6":305.7,
+      "Team 2":258.24
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Calvin Ridley (Pick 28)",
+      "Dameon Pierce (Pick 45)",
+      "Dak Prescott (Pick 52)",
+      "Zach Charbonnet (Pick 69)",
+      "Zay Flowers (Pick 76)",
+      "Gabriel Davis (Pick 93)",
+      "Skyy Moore (Pick 100)",
+      "Kadarius Toney (Pick 117)",
+      "Jerick McKinnon (Pick 124)",
+      "Damien Harris (Pick 141)",
+      "Jason Myers (Pick 148)",
+      "Lions (Pick 165)",
+      "Brock Wright (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":115,
+    "Winner":"Team 6",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1040.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1227.12,
+      "Team 2":1580.82,
+      "Team 3":1485.2,
+      "Team 4":1103.82,
+      "Team 5":1040.5,
+      "Team 6":1492.38,
+      "Team 7":1166.36,
+      "Team 8":1190.88,
+      "Team 9":1361.78,
+      "Team 10":1396.52,
+      "Team 11":1178.26,
+      "Team 12":1400.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":285.56,
+      "Team 2":212.2,
+      "Team 9":276.7,
+      "Team 3":261.7
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Dak Prescott (Pick 44)",
+      "49ers (Pick 53)",
+      "Justin Tucker (Pick 68)",
+      "Zach Charbonnet (Pick 77)",
+      "Jerick McKinnon (Pick 92)",
+      "Damien Harris (Pick 101)",
+      "DOnta Foreman (Pick 116)",
+      "George Pickens (Pick 125)",
+      "Allen Lazard (Pick 140)",
+      "Skyy Moore (Pick 149)",
+      "Browns (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":116,
+    "Winner":"Team 8",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1093.18,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1422.48,
+      "Team 2":1256.56,
+      "Team 3":1222.8,
+      "Team 4":1347.4,
+      "Team 5":1414.04,
+      "Team 6":1195.82,
+      "Team 7":1210.68,
+      "Team 8":1470.78,
+      "Team 9":1242.86,
+      "Team 10":1121.86,
+      "Team 11":1249.86,
+      "Team 12":1093.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":288.74,
+      "Team 5":280.08,
+      "Team 2":254.0,
+      "Team 4":244.94
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Derrick Henry (Pick 13)",
+      "Calvin Ridley (Pick 36)",
+      "Jonathan Taylor (Pick 37)",
+      "Dak Prescott (Pick 60)",
+      "49ers (Pick 61)",
+      "Zach Charbonnet (Pick 84)",
+      "Zay Flowers (Pick 85)",
+      "Kadarius Toney (Pick 108)",
+      "Skyy Moore (Pick 109)",
+      "Jerick McKinnon (Pick 132)",
+      "Damien Harris (Pick 133)",
+      "Greg Dulcich (Pick 156)",
+      "K.J. Osborn (Pick 157)",
+      "Brett Maher (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":117,
+    "Winner":"Team 12",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1111.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1076.6,
+      "Team 2":1486.52,
+      "Team 3":1319.14,
+      "Team 4":1111.7,
+      "Team 5":1303.34,
+      "Team 6":1293.3,
+      "Team 7":1114.64,
+      "Team 8":1538.78,
+      "Team 9":1426.62,
+      "Team 10":1174.08,
+      "Team 11":1193.8,
+      "Team 12":1318.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":294.56,
+      "Team 8":339.3,
+      "Team 2":277.64,
+      "Team 3":268.78
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Calvin Ridley (Pick 28)",
+      "Kenneth Walker III (Pick 45)",
+      "Dak Prescott (Pick 52)",
+      "49ers (Pick 69)",
+      "Justin Tucker (Pick 76)",
+      "Zach Charbonnet (Pick 93)",
+      "Gabriel Davis (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Kadarius Toney (Pick 124)",
+      "Jerick McKinnon (Pick 141)",
+      "Damien Harris (Pick 148)",
+      "Luke Musgrave (Pick 165)",
+      "Marcus Mariota (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":118,
+    "Winner":"Team 6",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":988.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":897.36,
+      "Team 2":1256.22,
+      "Team 3":1372.98,
+      "Team 4":1330.58,
+      "Team 5":1418.02,
+      "Team 6":1286.88,
+      "Team 7":1400.44,
+      "Team 8":1512.52,
+      "Team 9":1107.72,
+      "Team 10":1375.58,
+      "Team 11":1506.3,
+      "Team 12":988.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":218.6,
+      "Team 7":311.28,
+      "Team 10":269.4,
+      "Team 11":259.26
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 12)",
+      "Patrick Mahomes (Pick 13)",
+      "Calvin Ridley (Pick 36)",
+      "DK Metcalf (Pick 37)",
+      "Dak Prescott (Pick 60)",
+      "Gabriel Davis (Pick 61)",
+      "Justin Tucker (Pick 84)",
+      "Zay Flowers (Pick 85)",
+      "Skyy Moore (Pick 108)",
+      "Kadarius Toney (Pick 109)",
+      "Browns (Pick 132)",
+      "Allen Lazard (Pick 133)",
+      "Jerick McKinnon (Pick 156)",
+      "Jameson Williams (Pick 157)",
+      "Luke Musgrave (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":119,
+    "Winner":"Team 6",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":974.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1004.6,
+      "Team 2":1046.54,
+      "Team 3":1482.98,
+      "Team 4":1157.78,
+      "Team 5":974.6,
+      "Team 6":1670.84,
+      "Team 7":1188.36,
+      "Team 8":1080.5,
+      "Team 9":1188.64,
+      "Team 10":1394.12,
+      "Team 11":1343.68,
+      "Team 12":1490.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":300.54,
+      "Team 11":284.9,
+      "Team 12":314.0,
+      "Team 2":187.9
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Dak Prescott (Pick 44)",
+      "49ers (Pick 53)",
+      "Zach Charbonnet (Pick 68)",
+      "Jerick McKinnon (Pick 77)",
+      "Damien Harris (Pick 92)",
+      "DOnta Foreman (Pick 101)",
+      "Kadarius Toney (Pick 116)",
+      "Skyy Moore (Pick 125)",
+      "Allen Lazard (Pick 140)",
+      "Jameson Williams (Pick 149)",
+      "Jason Myers (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":120,
+    "Winner":"Team 5",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1126.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1371.6,
+      "Team 2":1485.52,
+      "Team 3":1235.66,
+      "Team 4":1128.58,
+      "Team 5":1566.22,
+      "Team 6":1339.9,
+      "Team 7":1159.2,
+      "Team 8":1324.5,
+      "Team 9":1126.5,
+      "Team 10":1334.36,
+      "Team 11":1244.22,
+      "Team 12":1405.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":272.18,
+      "Team 2":305.4,
+      "Team 6":240.94,
+      "Team 12":258.58
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 9)",
+      "Josh Jacobs (Pick 16)",
+      "Jahmyr Gibbs (Pick 33)",
+      "Calvin Ridley (Pick 40)",
+      "Dak Prescott (Pick 57)",
+      "Justin Tucker (Pick 64)",
+      "Zach Charbonnet (Pick 81)",
+      "Gabriel Davis (Pick 88)",
+      "Zay Flowers (Pick 105)",
+      "Skyy Moore (Pick 112)",
+      "Kadarius Toney (Pick 129)",
+      "Jerick McKinnon (Pick 136)",
+      "Allen Lazard (Pick 153)",
+      "Browns (Pick 160)",
+      "Mitchell Wilcox (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":121,
+    "Winner":"Team 6",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1266.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1281.0,
+      "Team 2":1266.3,
+      "Team 3":1174.52,
+      "Team 4":1387.78,
+      "Team 5":1411.68,
+      "Team 6":1316.5,
+      "Team 7":1323.82,
+      "Team 8":1299.14,
+      "Team 9":1149.3,
+      "Team 10":1272.96,
+      "Team 11":1156.84,
+      "Team 12":1398.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":261.84,
+      "Team 4":357.86,
+      "Team 3":303.54,
+      "Team 5":219.5
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 2)",
+      "Chris Olave (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "Dameon Pierce (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "49ers (Pick 71)",
+      "Justin Tucker (Pick 74)",
+      "Zach Charbonnet (Pick 95)",
+      "Gabriel Davis (Pick 98)",
+      "Skyy Moore (Pick 119)",
+      "Kadarius Toney (Pick 122)",
+      "Damien Harris (Pick 143)",
+      "Browns (Pick 146)",
+      "Kendrick Bourne (Pick 167)",
+      "Mitchell Wilcox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":122,
+    "Winner":"Team 11",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1120.12,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1317.86,
+      "Team 2":1187.5,
+      "Team 3":1389.96,
+      "Team 4":1261.54,
+      "Team 5":1024.0,
+      "Team 6":1469.18,
+      "Team 7":1328.22,
+      "Team 8":944.08,
+      "Team 9":1120.12,
+      "Team 10":1279.26,
+      "Team 11":1506.84,
+      "Team 12":1150.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":313.46,
+      "Team 2":236.3,
+      "Team 6":329.94,
+      "Team 4":288.5
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 9)",
+      "Patrick Mahomes (Pick 16)",
+      "Chris Olave (Pick 33)",
+      "Calvin Ridley (Pick 40)",
+      "Kenneth Walker III (Pick 57)",
+      "49ers (Pick 64)",
+      "Gabriel Davis (Pick 81)",
+      "Justin Tucker (Pick 88)",
+      "Zach Charbonnet (Pick 105)",
+      "Zay Flowers (Pick 112)",
+      "Jerick McKinnon (Pick 129)",
+      "Damien Harris (Pick 136)",
+      "Adam Thielen (Pick 153)",
+      "Kendrick Bourne (Pick 160)",
+      "Luke Musgrave (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":123,
+    "Winner":"Team 5",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1357.1,
+    "DM-Points-Playoffs":328.88,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1357.1,
+      "Team 2":1438.16,
+      "Team 3":1366.68,
+      "Team 4":1245.34,
+      "Team 5":1375.26,
+      "Team 6":1238.54,
+      "Team 7":1363.96,
+      "Team 8":1364.4,
+      "Team 9":1092.4,
+      "Team 10":1214.3,
+      "Team 11":1295.1,
+      "Team 12":1229.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":208.1,
+      "Team 6":267.7,
+      "Team 1":328.88,
+      "Team 3":288.94
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Jahmyr Gibbs (Pick 24)",
+      "Calvin Ridley (Pick 25)",
+      "DK Metcalf (Pick 48)",
+      "Dak Prescott (Pick 49)",
+      "Gabriel Davis (Pick 72)",
+      "Justin Tucker (Pick 73)",
+      "Skyy Moore (Pick 96)",
+      "George Pickens (Pick 97)",
+      "Kadarius Toney (Pick 120)",
+      "Zach Charbonnet (Pick 121)",
+      "Damien Harris (Pick 144)",
+      "Allen Lazard (Pick 145)",
+      "Browns (Pick 168)",
+      "Luke Musgrave (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":124,
+    "Winner":"Team 6",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1091.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1397.96,
+      "Team 2":1512.5,
+      "Team 3":1296.02,
+      "Team 4":1314.2,
+      "Team 5":1091.8,
+      "Team 6":1444.78,
+      "Team 7":1280.72,
+      "Team 8":1161.28,
+      "Team 9":1315.74,
+      "Team 10":1050.88,
+      "Team 11":1434.4,
+      "Team 12":1351.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":246.08,
+      "Team 1":264.98,
+      "Team 4":298.36,
+      "Team 2":290.12
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Kenneth Walker III (Pick 44)",
+      "Dameon Pierce (Pick 53)",
+      "Dak Prescott (Pick 68)",
+      "Zach Charbonnet (Pick 77)",
+      "Jerick McKinnon (Pick 92)",
+      "Gabriel Davis (Pick 101)",
+      "Skyy Moore (Pick 116)",
+      "Kadarius Toney (Pick 125)",
+      "Damien Harris (Pick 140)",
+      "Brandon Aubrey (Pick 149)",
+      "Lions (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":125,
+    "Winner":"Team 5",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1020.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1215.26,
+      "Team 2":1483.76,
+      "Team 3":1360.34,
+      "Team 4":1020.8,
+      "Team 5":1583.08,
+      "Team 6":1232.48,
+      "Team 7":1270.36,
+      "Team 8":1363.26,
+      "Team 9":1296.96,
+      "Team 10":1290.4,
+      "Team 11":1376.78,
+      "Team 12":1318.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":270.3,
+      "Team 2":273.14,
+      "Team 3":270.2,
+      "Team 12":282.5
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Calvin Ridley (Pick 45)",
+      "Dak Prescott (Pick 52)",
+      "49ers (Pick 69)",
+      "Gabriel Davis (Pick 76)",
+      "Zay Flowers (Pick 93)",
+      "Skyy Moore (Pick 100)",
+      "Kadarius Toney (Pick 117)",
+      "Damien Harris (Pick 124)",
+      "Allen Lazard (Pick 141)",
+      "Browns (Pick 148)",
+      "Greg Zuerlein (Pick 165)",
+      "Brock Wright (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":151,
+    "Winner":"Team 2",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1199.88,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1162.66,
+      "Team 2":1406.52,
+      "Team 3":1222.34,
+      "Team 4":1364.04,
+      "Team 5":1446.86,
+      "Team 6":1377.98,
+      "Team 7":1173.68,
+      "Team 8":1413.98,
+      "Team 9":1333.44,
+      "Team 10":1434.78,
+      "Team 11":1134.04,
+      "Team 12":1199.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":294.3,
+      "Team 6":229.1,
+      "Team 10":356.76,
+      "Team 3":227.88
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Derrick Henry (Pick 13)",
+      "Jahmyr Gibbs (Pick 36)",
+      "Chris Olave (Pick 37)",
+      "Drake London (Pick 60)",
+      "Dak Prescott (Pick 61)",
+      "Justin Tucker (Pick 84)",
+      "Gabriel Davis (Pick 85)",
+      "Zach Charbonnet (Pick 108)",
+      "Zay Flowers (Pick 109)",
+      "Damien Harris (Pick 132)",
+      "Skyy Moore (Pick 133)",
+      "Jameson Williams (Pick 156)",
+      "Browns (Pick 157)",
+      "Brock Wright (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":152,
+    "Winner":"Team 6",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1212.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1436.62,
+      "Team 2":1278.68,
+      "Team 3":1241.86,
+      "Team 4":976.06,
+      "Team 5":1215.64,
+      "Team 6":1454.4,
+      "Team 7":1212.3,
+      "Team 8":1448.28,
+      "Team 9":1356.42,
+      "Team 10":1156.02,
+      "Team 11":1469.2,
+      "Team 12":1370.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":273.24,
+      "Team 1":270.58,
+      "Team 8":268.6,
+      "Team 12":369.44
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 7)",
+      "Josh Jacobs (Pick 18)",
+      "Jahmyr Gibbs (Pick 31)",
+      "DK Metcalf (Pick 42)",
+      "Dak Prescott (Pick 55)",
+      "49ers (Pick 66)",
+      "Justin Tucker (Pick 79)",
+      "Zach Charbonnet (Pick 90)",
+      "Jerick McKinnon (Pick 103)",
+      "Zay Flowers (Pick 114)",
+      "Skyy Moore (Pick 127)",
+      "Kadarius Toney (Pick 138)",
+      "Adam Thielen (Pick 151)",
+      "Stone Smartt (Pick 162)",
+      "Phillip Walker (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":153,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1078.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1279.46,
+      "Team 2":1371.24,
+      "Team 3":1184.94,
+      "Team 4":1520.72,
+      "Team 5":1408.5,
+      "Team 6":1361.24,
+      "Team 7":1087.62,
+      "Team 8":1078.5,
+      "Team 9":1153.42,
+      "Team 10":1109.12,
+      "Team 11":1183.3,
+      "Team 12":1418.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":254.68,
+      "Team 4":289.86,
+      "Team 2":265.6,
+      "Team 1":217.8
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Chris Olave (Pick 17)",
+      "Jahmyr Gibbs (Pick 32)",
+      "Khalil Herbert (Pick 41)",
+      "George Pickens (Pick 56)",
+      "Dak Prescott (Pick 65)",
+      "Zach Charbonnet (Pick 80)",
+      "Gabriel Davis (Pick 89)",
+      "Zay Flowers (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Jerick McKinnon (Pick 128)",
+      "Damien Harris (Pick 137)",
+      "Jason Myers (Pick 152)",
+      "Browns (Pick 161)",
+      "Mitchell Wilcox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":154,
+    "Winner":"Team 1",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":899.74,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1414.82,
+      "Team 2":1394.46,
+      "Team 3":1239.42,
+      "Team 4":899.74,
+      "Team 5":1089.68,
+      "Team 6":1377.06,
+      "Team 7":1256.88,
+      "Team 8":1253.58,
+      "Team 9":1401.7,
+      "Team 10":1268.08,
+      "Team 11":1557.04,
+      "Team 12":1253.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":266.7,
+      "Team 6":330.34,
+      "Team 11":321.34,
+      "Team 7":286.04
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Kenneth Walker III (Pick 45)",
+      "Dameon Pierce (Pick 52)",
+      "Justin Tucker (Pick 69)",
+      "Kadarius Toney (Pick 76)",
+      "Gabriel Davis (Pick 93)",
+      "Zach Charbonnet (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Jerick McKinnon (Pick 124)",
+      "Adam Thielen (Pick 141)",
+      "Bears (Pick 148)",
+      "Mitchell Wilcox (Pick 165)",
+      "Marcus Mariota (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":155,
+    "Winner":"Team 1",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":990.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1439.58,
+      "Team 2":1387.72,
+      "Team 3":1327.68,
+      "Team 4":1472.98,
+      "Team 5":1171.8,
+      "Team 6":1323.32,
+      "Team 7":1390.8,
+      "Team 8":1196.12,
+      "Team 9":1236.02,
+      "Team 10":990.14,
+      "Team 11":1425.12,
+      "Team 12":1129.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":376.7,
+      "Team 2":226.04,
+      "Team 8":229.5,
+      "Team 11":245.66
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 10)",
+      "Josh Jacobs (Pick 15)",
+      "Jahmyr Gibbs (Pick 34)",
+      "Calvin Ridley (Pick 39)",
+      "DK Metcalf (Pick 58)",
+      "Gabriel Davis (Pick 63)",
+      "Justin Tucker (Pick 82)",
+      "Zach Charbonnet (Pick 87)",
+      "Zay Flowers (Pick 106)",
+      "Skyy Moore (Pick 111)",
+      "Jerick McKinnon (Pick 130)",
+      "Damien Harris (Pick 135)",
+      "Browns (Pick 154)",
+      "Marcus Mariota (Pick 159)",
+      "Luke Musgrave (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":156,
+    "Winner":"Team 5",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1185.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1458.1,
+      "Team 2":1451.74,
+      "Team 3":1231.28,
+      "Team 4":1203.42,
+      "Team 5":1340.66,
+      "Team 6":1283.34,
+      "Team 7":1516.38,
+      "Team 8":1185.3,
+      "Team 9":1380.86,
+      "Team 10":1417.3,
+      "Team 11":1271.64,
+      "Team 12":1437.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":214.46,
+      "Team 7":272.44,
+      "Team 2":353.1,
+      "Team 10":363.26
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Josh Jacobs (Pick 17)",
+      "Chris Olave (Pick 32)",
+      "Dameon Pierce (Pick 41)",
+      "Dak Prescott (Pick 56)",
+      "Zach Charbonnet (Pick 65)",
+      "Jerick McKinnon (Pick 80)",
+      "Skyy Moore (Pick 89)",
+      "Gabriel Davis (Pick 104)",
+      "Zay Flowers (Pick 113)",
+      "Damien Harris (Pick 128)",
+      "Adam Thielen (Pick 137)",
+      "Jason Myers (Pick 152)",
+      "Browns (Pick 161)",
+      "Luke Musgrave (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":157,
+    "Winner":"Team 3",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1175.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1432.98,
+      "Team 2":1268.24,
+      "Team 3":1478.12,
+      "Team 4":1173.76,
+      "Team 5":1379.6,
+      "Team 6":1187.74,
+      "Team 7":1055.22,
+      "Team 8":1273.64,
+      "Team 9":1462.84,
+      "Team 10":1175.68,
+      "Team 11":1189.02,
+      "Team 12":1289.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":346.04,
+      "Team 9":286.12,
+      "Team 1":289.9,
+      "Team 2":226.16
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Patrick Mahomes (Pick 15)",
+      "Dameon Pierce (Pick 34)",
+      "Khalil Herbert (Pick 39)",
+      "Drake London (Pick 58)",
+      "Brandon Aiyuk (Pick 63)",
+      "Dak Prescott (Pick 82)",
+      "49ers (Pick 87)",
+      "Zach Charbonnet (Pick 106)",
+      "Zay Flowers (Pick 111)",
+      "Kadarius Toney (Pick 130)",
+      "Damien Harris (Pick 135)",
+      "Browns (Pick 154)",
+      "Jake Elliott (Pick 159)",
+      "Luke Musgrave (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":158,
+    "Winner":"Team 2",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1031.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1056.8,
+      "Team 2":1454.56,
+      "Team 3":966.46,
+      "Team 4":1245.2,
+      "Team 5":1305.22,
+      "Team 6":1407.74,
+      "Team 7":1292.64,
+      "Team 8":1450.76,
+      "Team 9":1319.4,
+      "Team 10":1082.98,
+      "Team 11":1031.9,
+      "Team 12":1387.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":258.16,
+      "Team 9":220.18,
+      "Team 12":325.14,
+      "Team 8":324.54
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 11)",
+      "Josh Jacobs (Pick 14)",
+      "Calvin Ridley (Pick 35)",
+      "Kenneth Walker III (Pick 38)",
+      "Dak Prescott (Pick 59)",
+      "49ers (Pick 62)",
+      "Zach Charbonnet (Pick 83)",
+      "Zay Flowers (Pick 86)",
+      "Skyy Moore (Pick 107)",
+      "Kadarius Toney (Pick 110)",
+      "Jerick McKinnon (Pick 131)",
+      "Damien Harris (Pick 134)",
+      "Allen Lazard (Pick 155)",
+      "Austin Seibert (Pick 158)",
+      "Mitchell Wilcox (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":159,
+    "Winner":"Team 3",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":969.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1208.22,
+      "Team 2":1341.02,
+      "Team 3":1660.28,
+      "Team 4":1228.66,
+      "Team 5":1297.04,
+      "Team 6":1254.36,
+      "Team 7":969.6,
+      "Team 8":1479.98,
+      "Team 9":1364.16,
+      "Team 10":1245.9,
+      "Team 11":1342.78,
+      "Team 12":1194.02
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":330.64,
+      "Team 5":290.74,
+      "Team 2":229.4,
+      "Team 8":289.1
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 7)",
+      "Chris Olave (Pick 18)",
+      "Calvin Ridley (Pick 31)",
+      "Dameon Pierce (Pick 42)",
+      "Dak Prescott (Pick 55)",
+      "49ers (Pick 66)",
+      "Gabriel Davis (Pick 79)",
+      "Zach Charbonnet (Pick 90)",
+      "Zay Flowers (Pick 103)",
+      "Skyy Moore (Pick 114)",
+      "Kadarius Toney (Pick 127)",
+      "Damien Harris (Pick 138)",
+      "Browns (Pick 151)",
+      "Austin Seibert (Pick 162)",
+      "Mitchell Wilcox (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":160,
+    "Winner":"Team 1",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1097.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1392.4,
+      "Team 2":1097.9,
+      "Team 3":1222.64,
+      "Team 4":1188.84,
+      "Team 5":1493.24,
+      "Team 6":1455.16,
+      "Team 7":1577.78,
+      "Team 8":1226.86,
+      "Team 9":1260.38,
+      "Team 10":1279.96,
+      "Team 11":1354.3,
+      "Team 12":1353.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":311.08,
+      "Team 7":335.14,
+      "Team 5":310.0,
+      "Team 12":226.56
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "Dameon Pierce (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "49ers (Pick 71)",
+      "Justin Tucker (Pick 74)",
+      "Gabriel Davis (Pick 95)",
+      "Zach Charbonnet (Pick 98)",
+      "Jameson Williams (Pick 119)",
+      "Zay Flowers (Pick 122)",
+      "Jerick McKinnon (Pick 143)",
+      "Damien Harris (Pick 146)",
+      "Browns (Pick 167)",
+      "Ian Thomas (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":161,
+    "Winner":"Team 10",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1174.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1331.82,
+      "Team 2":1362.56,
+      "Team 3":1383.92,
+      "Team 4":1223.64,
+      "Team 5":1581.98,
+      "Team 6":1266.02,
+      "Team 7":1156.38,
+      "Team 8":1382.68,
+      "Team 9":1174.8,
+      "Team 10":1383.58,
+      "Team 11":1415.7,
+      "Team 12":1270.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":292.9,
+      "Team 5":346.16,
+      "Team 11":217.52,
+      "Team 2":305.88
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 9)",
+      "Josh Jacobs (Pick 16)",
+      "Jahmyr Gibbs (Pick 33)",
+      "Calvin Ridley (Pick 40)",
+      "Dameon Pierce (Pick 57)",
+      "Dak Prescott (Pick 64)",
+      "Zach Charbonnet (Pick 81)",
+      "Zay Flowers (Pick 88)",
+      "Kadarius Toney (Pick 105)",
+      "Skyy Moore (Pick 112)",
+      "Jerick McKinnon (Pick 129)",
+      "Damien Harris (Pick 136)",
+      "Brandon Aubrey (Pick 153)",
+      "Luke Musgrave (Pick 160)",
+      "Bears (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":162,
+    "Winner":"Team 4",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1290.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1290.0,
+      "Team 2":990.34,
+      "Team 3":1407.66,
+      "Team 4":1428.26,
+      "Team 5":1371.86,
+      "Team 6":1196.56,
+      "Team 7":1302.2,
+      "Team 8":1266.88,
+      "Team 9":1530.44,
+      "Team 10":1272.84,
+      "Team 11":1126.46,
+      "Team 12":1223.32
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":292.18,
+      "Team 5":256.88,
+      "Team 10":267.76,
+      "Team 9":233.2
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Jahmyr Gibbs (Pick 24)",
+      "Calvin Ridley (Pick 25)",
+      "Dak Prescott (Pick 48)",
+      "49ers (Pick 49)",
+      "Justin Tucker (Pick 72)",
+      "Zach Charbonnet (Pick 73)",
+      "Jerick McKinnon (Pick 96)",
+      "Khalil Herbert (Pick 97)",
+      "Kadarius Toney (Pick 120)",
+      "Zay Flowers (Pick 121)",
+      "Damien Harris (Pick 144)",
+      "Skyy Moore (Pick 145)",
+      "Browns (Pick 168)",
+      "Luke Musgrave (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":163,
+    "Winner":"Team 7",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1108.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1494.18,
+      "Team 2":1270.3,
+      "Team 3":1183.04,
+      "Team 4":1380.46,
+      "Team 5":1442.94,
+      "Team 6":1139.44,
+      "Team 7":1632.32,
+      "Team 8":1286.88,
+      "Team 9":1108.5,
+      "Team 10":1105.76,
+      "Team 11":1337.02,
+      "Team 12":1456.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":324.56,
+      "Team 2":294.24,
+      "Team 12":284.74,
+      "Team 1":347.64
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 9)",
+      "Josh Jacobs (Pick 16)",
+      "Calvin Ridley (Pick 33)",
+      "DK Metcalf (Pick 40)",
+      "Dak Prescott (Pick 57)",
+      "Gabriel Davis (Pick 64)",
+      "Zach Charbonnet (Pick 81)",
+      "Zay Flowers (Pick 88)",
+      "Skyy Moore (Pick 105)",
+      "Kadarius Toney (Pick 112)",
+      "Jerick McKinnon (Pick 129)",
+      "Damien Harris (Pick 136)",
+      "Brett Maher (Pick 153)",
+      "Greg Dulcich (Pick 160)",
+      "Bears (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":164,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1105.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1367.88,
+      "Team 2":1105.7,
+      "Team 3":1313.2,
+      "Team 4":1271.76,
+      "Team 5":1415.1,
+      "Team 6":1626.3,
+      "Team 7":1140.44,
+      "Team 8":1255.42,
+      "Team 9":1215.42,
+      "Team 10":1282.48,
+      "Team 11":1545.32,
+      "Team 12":1254.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":322.04,
+      "Team 5":301.68,
+      "Team 6":262.58,
+      "Team 1":367.24
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 2)",
+      "Chris Olave (Pick 23)",
+      "Jahmyr Gibbs (Pick 26)",
+      "Dak Prescott (Pick 47)",
+      "DeAndre Hopkins (Pick 50)",
+      "49ers (Pick 71)",
+      "Zach Charbonnet (Pick 74)",
+      "Gabriel Davis (Pick 95)",
+      "Zay Flowers (Pick 98)",
+      "Skyy Moore (Pick 119)",
+      "Kadarius Toney (Pick 122)",
+      "Allen Lazard (Pick 143)",
+      "Jameson Williams (Pick 146)",
+      "Matt Prater (Pick 167)",
+      "Mitchell Wilcox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":165,
+    "Winner":"Team 10",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1330.8,
+    "DM-Points-Playoffs":278.48,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1330.8,
+      "Team 2":1285.22,
+      "Team 3":1291.8,
+      "Team 4":1151.34,
+      "Team 5":1195.42,
+      "Team 6":1246.4,
+      "Team 7":1342.08,
+      "Team 8":1604.34,
+      "Team 9":1348.28,
+      "Team 10":1398.46,
+      "Team 11":1260.68,
+      "Team 12":1269.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":245.1,
+      "Team 2":338.24,
+      "Team 8":297.3,
+      "Team 1":278.48
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Chris Olave (Pick 24)",
+      "Jahmyr Gibbs (Pick 25)",
+      "Dameon Pierce (Pick 48)",
+      "Dak Prescott (Pick 49)",
+      "Zach Charbonnet (Pick 72)",
+      "Kadarius Toney (Pick 73)",
+      "Gabriel Davis (Pick 96)",
+      "Skyy Moore (Pick 97)",
+      "Jerick McKinnon (Pick 120)",
+      "Zay Flowers (Pick 121)",
+      "Browns (Pick 144)",
+      "Allen Lazard (Pick 145)",
+      "Matt Prater (Pick 168)",
+      "Luke Musgrave (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":166,
+    "Winner":"Team 12",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1103.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1416.02,
+      "Team 2":1324.68,
+      "Team 3":1103.9,
+      "Team 4":1195.92,
+      "Team 5":1266.9,
+      "Team 6":1161.58,
+      "Team 7":1353.54,
+      "Team 8":1259.92,
+      "Team 9":1402.28,
+      "Team 10":1588.64,
+      "Team 11":1283.76,
+      "Team 12":1468.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":344.8,
+      "Team 10":318.74,
+      "Team 7":338.16,
+      "Team 11":251.3
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 3)",
+      "Josh Jacobs (Pick 22)",
+      "Chris Olave (Pick 27)",
+      "Dameon Pierce (Pick 46)",
+      "Dak Prescott (Pick 51)",
+      "Justin Tucker (Pick 70)",
+      "Gabriel Davis (Pick 75)",
+      "Zach Charbonnet (Pick 94)",
+      "Zay Flowers (Pick 99)",
+      "Skyy Moore (Pick 118)",
+      "Kadarius Toney (Pick 123)",
+      "Jerick McKinnon (Pick 142)",
+      "Damien Harris (Pick 147)",
+      "Browns (Pick 166)",
+      "Brock Wright (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":167,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1137.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1217.32,
+      "Team 2":1244.6,
+      "Team 3":1408.98,
+      "Team 4":1137.7,
+      "Team 5":1376.7,
+      "Team 6":1250.18,
+      "Team 7":1357.96,
+      "Team 8":1125.36,
+      "Team 9":1544.48,
+      "Team 10":1381.36,
+      "Team 11":1336.36,
+      "Team 12":1378.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":244.9,
+      "Team 10":260.5,
+      "Team 3":318.82,
+      "Team 5":226.46
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 4)",
+      "Chris Olave (Pick 21)",
+      "Jahmyr Gibbs (Pick 28)",
+      "Dak Prescott (Pick 45)",
+      "Justin Tucker (Pick 52)",
+      "Zach Charbonnet (Pick 69)",
+      "Jerick McKinnon (Pick 76)",
+      "Damien Harris (Pick 93)",
+      "Allen Lazard (Pick 100)",
+      "Skyy Moore (Pick 117)",
+      "Kadarius Toney (Pick 124)",
+      "Adam Thielen (Pick 141)",
+      "DOnta Foreman (Pick 148)",
+      "Lions (Pick 165)",
+      "Luke Musgrave (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":168,
+    "Winner":"Team 6",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1222.78,
+    "DM-Points-Playoffs":261.04,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1277.5,
+      "Team 2":1250.76,
+      "Team 3":1379.66,
+      "Team 4":1439.5,
+      "Team 5":1353.56,
+      "Team 6":1510.62,
+      "Team 7":1262.18,
+      "Team 8":1224.58,
+      "Team 9":1198.26,
+      "Team 10":1273.36,
+      "Team 11":1148.54,
+      "Team 12":1222.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":301.94,
+      "Team 12":261.04,
+      "Team 5":275.46,
+      "Team 3":207.5
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Derrick Henry (Pick 13)",
+      "Jahmyr Gibbs (Pick 36)",
+      "Calvin Ridley (Pick 37)",
+      "Brandon Aiyuk (Pick 60)",
+      "Dak Prescott (Pick 61)",
+      "Justin Tucker (Pick 84)",
+      "Gabriel Davis (Pick 85)",
+      "Zach Charbonnet (Pick 108)",
+      "Zay Flowers (Pick 109)",
+      "Jerick McKinnon (Pick 132)",
+      "Allen Lazard (Pick 133)",
+      "Adam Thielen (Pick 156)",
+      "Bears (Pick 157)",
+      "Mitchell Wilcox (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":169,
+    "Winner":"Team 6",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":782.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1232.46,
+      "Team 2":1442.1,
+      "Team 3":1288.12,
+      "Team 4":1412.24,
+      "Team 5":782.7,
+      "Team 6":1502.62,
+      "Team 7":1258.02,
+      "Team 8":1242.2,
+      "Team 9":1275.02,
+      "Team 10":1314.48,
+      "Team 11":1205.04,
+      "Team 12":1574.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":238.98,
+      "Team 12":286.46,
+      "Team 2":331.58,
+      "Team 3":264.98
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 5)",
+      "Chris Olave (Pick 20)",
+      "Jahmyr Gibbs (Pick 29)",
+      "Kenneth Walker III (Pick 44)",
+      "49ers (Pick 53)",
+      "Justin Tucker (Pick 68)",
+      "Jerick McKinnon (Pick 77)",
+      "Aaron Rodgers (Pick 92)",
+      "Damien Harris (Pick 101)",
+      "Tyler Boyd (Pick 116)",
+      "Kadarius Toney (Pick 125)",
+      "Allen Lazard (Pick 140)",
+      "Jameson Williams (Pick 149)",
+      "Kendrick Bourne (Pick 164)",
+      "Mitchell Wilcox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":170,
+    "Winner":"Team 4",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":1005.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1297.12,
+      "Team 2":1344.54,
+      "Team 3":1307.88,
+      "Team 4":1470.36,
+      "Team 5":1295.58,
+      "Team 6":1005.6,
+      "Team 7":1480.78,
+      "Team 8":1455.9,
+      "Team 9":1314.92,
+      "Team 10":1427.18,
+      "Team 11":1332.1,
+      "Team 12":1103.92
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":241.84,
+      "Team 3":301.02,
+      "Team 7":338.1,
+      "Team 5":251.14
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 6)",
+      "Chris Olave (Pick 19)",
+      "Calvin Ridley (Pick 30)",
+      "Dameon Pierce (Pick 43)",
+      "Dak Prescott (Pick 54)",
+      "Zach Charbonnet (Pick 67)",
+      "Zay Flowers (Pick 78)",
+      "Gabriel Davis (Pick 91)",
+      "Skyy Moore (Pick 102)",
+      "Kadarius Toney (Pick 115)",
+      "Damien Harris (Pick 126)",
+      "Adam Thielen (Pick 139)",
+      "Lions (Pick 150)",
+      "Riley Patterson (Pick 163)",
+      "Brock Wright (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":171,
+    "Winner":"Team 5",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":858.56,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1434.66,
+      "Team 2":1048.56,
+      "Team 3":1218.76,
+      "Team 4":1307.48,
+      "Team 5":1480.0,
+      "Team 6":1213.52,
+      "Team 7":1417.2,
+      "Team 8":1297.76,
+      "Team 9":858.56,
+      "Team 10":1430.58,
+      "Team 11":1507.66,
+      "Team 12":1405.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":245.7,
+      "Team 10":280.5,
+      "Team 11":177.8,
+      "Team 1":333.84
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 9)",
+      "Josh Jacobs (Pick 16)",
+      "Kenneth Walker III (Pick 33)",
+      "Khalil Herbert (Pick 40)",
+      "DeAndre Hopkins (Pick 57)",
+      "49ers (Pick 64)",
+      "Gabriel Davis (Pick 81)",
+      "Zach Charbonnet (Pick 88)",
+      "Zay Flowers (Pick 105)",
+      "Skyy Moore (Pick 112)",
+      "Jerick McKinnon (Pick 129)",
+      "Browns (Pick 136)",
+      "Bailey Zappe (Pick 153)",
+      "Greg Dulcich (Pick 160)",
+      "Tristan Vizcaino (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":172,
+    "Winner":"Team 11",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1004.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1147.78,
+      "Team 2":1313.16,
+      "Team 3":1234.84,
+      "Team 4":1243.84,
+      "Team 5":1179.94,
+      "Team 6":1004.9,
+      "Team 7":1295.5,
+      "Team 8":1352.56,
+      "Team 9":1389.18,
+      "Team 10":1329.54,
+      "Team 11":1567.38,
+      "Team 12":1357.92
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":269.52,
+      "Team 7":306.56,
+      "Team 9":315.0,
+      "Team 10":302.3
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 6)",
+      "Chris Olave (Pick 19)",
+      "Calvin Ridley (Pick 30)",
+      "Dameon Pierce (Pick 43)",
+      "Dak Prescott (Pick 54)",
+      "Justin Tucker (Pick 67)",
+      "Gabriel Davis (Pick 78)",
+      "Zach Charbonnet (Pick 91)",
+      "Zay Flowers (Pick 102)",
+      "Skyy Moore (Pick 115)",
+      "Kadarius Toney (Pick 126)",
+      "Jerick McKinnon (Pick 139)",
+      "Damien Harris (Pick 150)",
+      "Lions (Pick 163)",
+      "Ian Thomas (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":173,
+    "Winner":"Team 4",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1052.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1194.76,
+      "Team 2":1211.72,
+      "Team 3":1372.54,
+      "Team 4":1542.54,
+      "Team 5":1225.2,
+      "Team 6":1052.2,
+      "Team 7":1405.86,
+      "Team 8":1576.6,
+      "Team 9":1118.06,
+      "Team 10":1274.82,
+      "Team 11":1255.58,
+      "Team 12":1295.02
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":253.8,
+      "Team 8":284.34,
+      "Team 7":272.7,
+      "Team 3":266.88
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 6)",
+      "Josh Jacobs (Pick 19)",
+      "Calvin Ridley (Pick 30)",
+      "Khalil Herbert (Pick 43)",
+      "Dak Prescott (Pick 54)",
+      "Zach Charbonnet (Pick 67)",
+      "Jerick McKinnon (Pick 78)",
+      "Zay Flowers (Pick 91)",
+      "Gabriel Davis (Pick 102)",
+      "Skyy Moore (Pick 115)",
+      "Damien Harris (Pick 126)",
+      "Kadarius Toney (Pick 139)",
+      "Browns (Pick 150)",
+      "Brock Wright (Pick 163)",
+      "Matt Prater (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":174,
+    "Winner":"Team 5",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1347.9,
+    "DM-Points-Playoffs":283.38,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1347.9,
+      "Team 2":1198.62,
+      "Team 3":1275.32,
+      "Team 4":1021.96,
+      "Team 5":1575.16,
+      "Team 6":1424.48,
+      "Team 7":1398.58,
+      "Team 8":1336.38,
+      "Team 9":1378.28,
+      "Team 10":1498.26,
+      "Team 11":1205.22,
+      "Team 12":1084.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":215.6,
+      "Team 1":283.38,
+      "Team 7":342.8,
+      "Team 9":240.92
+    },
+    "DM-Picks":[
+      "Christian McCaffrey (Pick 1)",
+      "Chris Olave (Pick 24)",
+      "Jahmyr Gibbs (Pick 25)",
+      "Dameon Pierce (Pick 48)",
+      "Dak Prescott (Pick 49)",
+      "Brandon Aiyuk (Pick 72)",
+      "49ers (Pick 73)",
+      "Gabriel Davis (Pick 96)",
+      "Zach Charbonnet (Pick 97)",
+      "Skyy Moore (Pick 120)",
+      "Kadarius Toney (Pick 121)",
+      "Allen Lazard (Pick 144)",
+      "Jerick McKinnon (Pick 145)",
+      "Austin Seibert (Pick 168)",
+      "Brock Wright (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":175,
+    "Winner":"Team 10",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1123.78,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1065.32,
+      "Team 2":1298.92,
+      "Team 3":1341.2,
+      "Team 4":1455.26,
+      "Team 5":1311.82,
+      "Team 6":1490.28,
+      "Team 7":1191.6,
+      "Team 8":1123.78,
+      "Team 9":1320.78,
+      "Team 10":1313.66,
+      "Team 11":1531.3,
+      "Team 12":1282.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":162.7,
+      "Team 4":322.56,
+      "Team 6":284.84,
+      "Team 11":234.04
+    },
+    "DM-Picks":[
+      "Nick Chubb (Pick 8)",
+      "Josh Jacobs (Pick 17)",
+      "Jahmyr Gibbs (Pick 32)",
+      "Dameon Pierce (Pick 41)",
+      "Dak Prescott (Pick 56)",
+      "Drake London (Pick 65)",
+      "Zach Charbonnet (Pick 80)",
+      "Jameson Williams (Pick 89)",
+      "Zay Flowers (Pick 104)",
+      "Skyy Moore (Pick 113)",
+      "Kadarius Toney (Pick 128)",
+      "Damien Harris (Pick 137)",
+      "Jason Myers (Pick 152)",
+      "Lions (Pick 161)",
+      "Brock Wright (Pick 176)"
+    ]
+  }
+]

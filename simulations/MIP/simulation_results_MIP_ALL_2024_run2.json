@@ -1,0 +1,5002 @@
+[
+  {
+    "Simulation":1,
+    "Winner":"Team 3",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1303.04,
+    "DM-Points-Playoffs":324.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1360.18,
+      "Team 2":1310.58,
+      "Team 3":1303.04,
+      "Team 4":1365.88,
+      "Team 5":1312.04,
+      "Team 6":1462.08,
+      "Team 7":1410.86,
+      "Team 8":1373.74,
+      "Team 9":1071.4,
+      "Team 10":1370.36,
+      "Team 11":1239.54,
+      "Team 12":1358.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":324.74,
+      "Team 6":378.4,
+      "Team 7":322.22,
+      "Team 4":239.62
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Devon Achane (Pick 22)",
+      "Drake London (Pick 27)",
+      "Cooper Kupp (Pick 46)",
+      "Jordan Love (Pick 51)",
+      "DeAndre Hopkins (Pick 70)",
+      "Keon Coleman (Pick 75)",
+      "Xavier Worthy (Pick 94)",
+      "Chase Brown (Pick 99)",
+      "Jets (Pick 118)",
+      "Brian Thomas Jr. (Pick 123)",
+      "Brandin Cooks (Pick 142)",
+      "Michael Wilson (Pick 147)",
+      "Devin Culp (Pick 166)",
+      "Dustin Hopkins (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":2,
+    "Winner":"Team 8",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1238.74,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1238.74,
+      "Team 2":1020.14,
+      "Team 3":1349.94,
+      "Team 4":1399.66,
+      "Team 5":1324.84,
+      "Team 6":1355.46,
+      "Team 7":1460.2,
+      "Team 8":1375.3,
+      "Team 9":1201.48,
+      "Team 10":1413.98,
+      "Team 11":1491.12,
+      "Team 12":1198.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":294.4,
+      "Team 10":312.82,
+      "Team 11":417.8,
+      "Team 6":292.68
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Josh Jacobs (Pick 24)",
+      "Drake London (Pick 25)",
+      "Rachaad White (Pick 48)",
+      "Jordan Love (Pick 49)",
+      "DeAndre Hopkins (Pick 72)",
+      "Keon Coleman (Pick 73)",
+      "Xavier Worthy (Pick 96)",
+      "Devin Singletary (Pick 97)",
+      "Harrison Butker (Pick 120)",
+      "Jets (Pick 121)",
+      "Romeo Doubs (Pick 144)",
+      "Brian Thomas Jr. (Pick 145)",
+      "Texans (Pick 168)",
+      "Will Mallory (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":3,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1263.1,
+    "DM-Points-Playoffs":358.8,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1111.16,
+      "Team 2":1363.8,
+      "Team 3":1160.26,
+      "Team 4":1263.1,
+      "Team 5":1212.0,
+      "Team 6":1295.78,
+      "Team 7":1314.88,
+      "Team 8":1455.58,
+      "Team 9":1381.3,
+      "Team 10":1499.86,
+      "Team 11":1437.86,
+      "Team 12":1466.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":332.08,
+      "Team 11":314.14,
+      "Team 4":358.8,
+      "Team 10":376.74
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Josh Jacobs (Pick 21)",
+      "Travis Kelce (Pick 28)",
+      "Alvin Kamara (Pick 45)",
+      "Dalton Kincaid (Pick 52)",
+      "David Njoku (Pick 69)",
+      "Chase Brown (Pick 76)",
+      "Jets (Pick 93)",
+      "Dylan Laube (Pick 100)",
+      "Jalen McMillan (Pick 117)",
+      "Brian Thomas Jr. (Pick 124)",
+      "Adonai Mitchell (Pick 141)",
+      "Texans (Pick 148)",
+      "Blake Grupe (Pick 165)",
+      "Nick Mullens (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":4,
+    "Winner":"Team 4",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1487.34,
+    "DM-Points-Playoffs":399.44,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1582.92,
+      "Team 2":1332.24,
+      "Team 3":1105.42,
+      "Team 4":1487.34,
+      "Team 5":1487.76,
+      "Team 6":1239.94,
+      "Team 7":1295.04,
+      "Team 8":1290.4,
+      "Team 9":1354.98,
+      "Team 10":1267.08,
+      "Team 11":1154.82,
+      "Team 12":1359.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":399.44,
+      "Team 1":413.4,
+      "Team 5":376.7,
+      "Team 9":344.9
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Devon Achane (Pick 21)",
+      "Travis Kelce (Pick 28)",
+      "Cooper Kupp (Pick 45)",
+      "Dalton Kincaid (Pick 52)",
+      "DeAndre Hopkins (Pick 69)",
+      "Keon Coleman (Pick 76)",
+      "Rome Odunze (Pick 93)",
+      "Jayden Daniels (Pick 100)",
+      "Chase Brown (Pick 117)",
+      "Brian Thomas Jr. (Pick 124)",
+      "Romeo Doubs (Pick 141)",
+      "Brandin Cooks (Pick 148)",
+      "Jake Elliott (Pick 165)",
+      "Texans (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":5,
+    "Winner":"Team 7",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1483.46,
+    "DM-Points-Playoffs":346.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1490.08,
+      "Team 2":1078.06,
+      "Team 3":1100.36,
+      "Team 4":1269.32,
+      "Team 5":1174.3,
+      "Team 6":1380.42,
+      "Team 7":1401.38,
+      "Team 8":1418.6,
+      "Team 9":1468.02,
+      "Team 10":1483.46,
+      "Team 11":1048.64,
+      "Team 12":1341.76
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":215.44,
+      "Team 10":346.74,
+      "Team 1":366.94,
+      "Team 9":413.92
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Cooper Kupp (Pick 34)",
+      "Trey McBride (Pick 39)",
+      "Jordan Love (Pick 58)",
+      "Nathaniel Dell (Pick 63)",
+      "David Njoku (Pick 82)",
+      "DeAndre Hopkins (Pick 87)",
+      "Keon Coleman (Pick 106)",
+      "Chase Brown (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Romeo Doubs (Pick 135)",
+      "Adonai Mitchell (Pick 154)",
+      "Chris Boswell (Pick 159)",
+      "Broncos (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":6,
+    "Winner":"Team 6",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1303.48,
+    "DM-Points-Playoffs":358.7,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1187.6,
+      "Team 2":1117.64,
+      "Team 3":1433.98,
+      "Team 4":1154.86,
+      "Team 5":1104.42,
+      "Team 6":1556.22,
+      "Team 7":1349.28,
+      "Team 8":1201.12,
+      "Team 9":1264.24,
+      "Team 10":1303.48,
+      "Team 11":1554.1,
+      "Team 12":1479.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":359.52,
+      "Team 12":450.34,
+      "Team 3":325.94,
+      "Team 10":358.7
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Mike Evans (Pick 34)",
+      "Alvin Kamara (Pick 39)",
+      "David Njoku (Pick 58)",
+      "Chase Brown (Pick 63)",
+      "Kaimi Fairbairn (Pick 82)",
+      "Brandin Cooks (Pick 87)",
+      "Keon Coleman (Pick 106)",
+      "DeAndre Hopkins (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Dylan Laube (Pick 135)",
+      "Adonai Mitchell (Pick 154)",
+      "Texans (Pick 159)",
+      "Tyler Huntley (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":7,
+    "Winner":"Team 6",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1470.64,
+    "DM-Points-Playoffs":383.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1264.66,
+      "Team 2":1154.16,
+      "Team 3":1276.58,
+      "Team 4":1174.24,
+      "Team 5":1425.26,
+      "Team 6":1470.64,
+      "Team 7":1533.8,
+      "Team 8":1511.24,
+      "Team 9":1172.82,
+      "Team 10":1425.78,
+      "Team 11":1301.94,
+      "Team 12":1481.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":383.74,
+      "Team 5":370.06,
+      "Team 7":333.02,
+      "Team 8":348.2
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 6)",
+      "Travis Kelce (Pick 19)",
+      "Josh Jacobs (Pick 30)",
+      "Trey McBride (Pick 43)",
+      "George Pickens (Pick 54)",
+      "Jordan Love (Pick 67)",
+      "D'Andre Swift (Pick 78)",
+      "Xavier Worthy (Pick 91)",
+      "DeAndre Hopkins (Pick 102)",
+      "Chase Brown (Pick 115)",
+      "Brian Thomas Jr. (Pick 126)",
+      "Romeo Doubs (Pick 139)",
+      "Kaimi Fairbairn (Pick 150)",
+      "Nathaniel Dell (Pick 163)",
+      "Texans (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":8,
+    "Winner":"Team 10",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1231.34,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1398.36,
+      "Team 2":1434.62,
+      "Team 3":1219.68,
+      "Team 4":1231.34,
+      "Team 5":1345.78,
+      "Team 6":1472.66,
+      "Team 7":1442.28,
+      "Team 8":1519.38,
+      "Team 9":1241.04,
+      "Team 10":1429.16,
+      "Team 11":1196.88,
+      "Team 12":1303.76
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":316.6,
+      "Team 2":297.8,
+      "Team 6":339.44,
+      "Team 8":367.82
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Devon Achane (Pick 21)",
+      "Drake London (Pick 28)",
+      "Trey McBride (Pick 45)",
+      "Dalton Kincaid (Pick 52)",
+      "Jordan Love (Pick 69)",
+      "DeAndre Hopkins (Pick 76)",
+      "Xavier Worthy (Pick 93)",
+      "Keon Coleman (Pick 100)",
+      "Harrison Butker (Pick 117)",
+      "Brian Thomas Jr. (Pick 124)",
+      "Romeo Doubs (Pick 141)",
+      "Jake Elliott (Pick 148)",
+      "Dylan Laube (Pick 165)",
+      "Texans (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":9,
+    "Winner":"Team 7",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1467.46,
+    "DM-Points-Playoffs":361.64,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1405.44,
+      "Team 2":1383.76,
+      "Team 3":1285.58,
+      "Team 4":1314.22,
+      "Team 5":1346.48,
+      "Team 6":1279.3,
+      "Team 7":1506.86,
+      "Team 8":1467.46,
+      "Team 9":1226.84,
+      "Team 10":1363.6,
+      "Team 11":1231.72,
+      "Team 12":1375.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":380.28,
+      "Team 1":307.76,
+      "Team 2":271.7,
+      "Team 8":361.64
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Josh Jacobs (Pick 32)",
+      "Trey McBride (Pick 41)",
+      "Nathaniel Dell (Pick 56)",
+      "George Pickens (Pick 65)",
+      "Jordan Love (Pick 80)",
+      "David Njoku (Pick 89)",
+      "DeAndre Hopkins (Pick 104)",
+      "Harrison Butker (Pick 113)",
+      "Jets (Pick 128)",
+      "Romeo Doubs (Pick 137)",
+      "Dylan Laube (Pick 152)",
+      "Brian Thomas Jr. (Pick 161)",
+      "Texans (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":10,
+    "Winner":"Team 10",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      12,
+      2
+    ],
+    "DM-Points-Regular-Season":1594.96,
+    "DM-Points-Playoffs":421.34,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1293.3,
+      "Team 2":1229.26,
+      "Team 3":1350.26,
+      "Team 4":1175.28,
+      "Team 5":1176.16,
+      "Team 6":1521.84,
+      "Team 7":1400.12,
+      "Team 8":1039.32,
+      "Team 9":1294.24,
+      "Team 10":1594.96,
+      "Team 11":1387.96,
+      "Team 12":1170.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":421.34,
+      "Team 6":357.62,
+      "Team 7":350.78,
+      "Team 11":326.2
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Alvin Kamara (Pick 34)",
+      "Trey McBride (Pick 39)",
+      "David Njoku (Pick 58)",
+      "Jayden Daniels (Pick 63)",
+      "George Pickens (Pick 82)",
+      "Xavier Worthy (Pick 87)",
+      "DeAndre Hopkins (Pick 106)",
+      "Chase Brown (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Romeo Doubs (Pick 135)",
+      "Brandin Cooks (Pick 154)",
+      "Jake Elliott (Pick 159)",
+      "Panthers (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":11,
+    "Winner":"Team 7",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1503.24,
+    "DM-Points-Playoffs":309.94,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1474.62,
+      "Team 2":1296.88,
+      "Team 3":1188.26,
+      "Team 4":1130.54,
+      "Team 5":1295.68,
+      "Team 6":1362.74,
+      "Team 7":1652.7,
+      "Team 8":1503.24,
+      "Team 9":1397.7,
+      "Team 10":1343.3,
+      "Team 11":1142.9,
+      "Team 12":1154.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":292.58,
+      "Team 9":317.82,
+      "Team 1":396.22,
+      "Team 8":309.94
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 8)",
+      "Derrick Henry (Pick 17)",
+      "Rachaad White (Pick 32)",
+      "Cooper Kupp (Pick 41)",
+      "Alvin Kamara (Pick 56)",
+      "Jordan Love (Pick 65)",
+      "David Njoku (Pick 80)",
+      "DeAndre Hopkins (Pick 89)",
+      "Rome Odunze (Pick 104)",
+      "Brian Thomas Jr. (Pick 113)",
+      "Romeo Doubs (Pick 128)",
+      "Brandin Cooks (Pick 137)",
+      "Dustin Hopkins (Pick 152)",
+      "Texans (Pick 161)",
+      "Matthew Wright (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":12,
+    "Winner":"Team 6",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1260.0,
+    "DM-Points-Playoffs":364.32,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1254.1,
+      "Team 2":1267.36,
+      "Team 3":1210.54,
+      "Team 4":1528.96,
+      "Team 5":1399.7,
+      "Team 6":1602.22,
+      "Team 7":1388.32,
+      "Team 8":1260.0,
+      "Team 9":1130.24,
+      "Team 10":1178.84,
+      "Team 11":1304.48,
+      "Team 12":1128.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":366.72,
+      "Team 4":365.5,
+      "Team 5":352.04,
+      "Team 8":364.32
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Travis Kelce (Pick 32)",
+      "Trey McBride (Pick 41)",
+      "David Njoku (Pick 56)",
+      "Chase Brown (Pick 65)",
+      "Brian Thomas Jr. (Pick 80)",
+      "Jake Elliott (Pick 89)",
+      "Dylan Laube (Pick 104)",
+      "Quentin Johnston (Pick 113)",
+      "Romeo Doubs (Pick 128)",
+      "Brandin Cooks (Pick 137)",
+      "Adonai Mitchell (Pick 152)",
+      "Panthers (Pick 161)",
+      "Cooper Rush (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":13,
+    "Winner":"Team 6",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1446.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1337.4,
+      "Team 2":1294.78,
+      "Team 3":975.42,
+      "Team 4":1466.34,
+      "Team 5":1446.14,
+      "Team 6":1424.14,
+      "Team 7":1356.12,
+      "Team 8":1305.56,
+      "Team 9":1281.36,
+      "Team 10":1500.2,
+      "Team 11":1242.84,
+      "Team 12":1248.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":294.28,
+      "Team 10":336.22,
+      "Team 4":300.26,
+      "Team 2":299.48
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Devon Achane (Pick 20)",
+      "Travis Kelce (Pick 29)",
+      "Alvin Kamara (Pick 44)",
+      "Jordan Love (Pick 53)",
+      "George Pickens (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Keon Coleman (Pick 92)",
+      "Xavier Worthy (Pick 101)",
+      "Brian Thomas Jr. (Pick 116)",
+      "Romeo Doubs (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Jake Elliott (Pick 149)",
+      "Kaimi Fairbairn (Pick 164)",
+      "Panthers (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":14,
+    "Winner":"Team 1",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1399.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1290.1,
+      "Team 2":1399.14,
+      "Team 3":1221.34,
+      "Team 4":1332.28,
+      "Team 5":1369.32,
+      "Team 6":1116.06,
+      "Team 7":1353.72,
+      "Team 8":1090.08,
+      "Team 9":1593.92,
+      "Team 10":1297.48,
+      "Team 11":1293.6,
+      "Team 12":1471.3
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":302.6,
+      "Team 5":220.4,
+      "Team 9":423.74,
+      "Team 12":307.18
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Travis Kelce (Pick 23)",
+      "Drake London (Pick 26)",
+      "Alvin Kamara (Pick 47)",
+      "Dalton Kincaid (Pick 50)",
+      "Jordan Love (Pick 71)",
+      "DeAndre Hopkins (Pick 74)",
+      "Xavier Worthy (Pick 95)",
+      "Keon Coleman (Pick 98)",
+      "D'Andre Swift (Pick 119)",
+      "Brian Thomas Jr. (Pick 122)",
+      "Romeo Doubs (Pick 143)",
+      "Brandin Cooks (Pick 146)",
+      "Jake Elliott (Pick 167)",
+      "Panthers (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":15,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1218.74,
+    "DM-Points-Playoffs":364.14,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1426.14,
+      "Team 2":1391.68,
+      "Team 3":1186.96,
+      "Team 4":1218.74,
+      "Team 5":1406.08,
+      "Team 6":1271.52,
+      "Team 7":1389.48,
+      "Team 8":1522.78,
+      "Team 9":1519.4,
+      "Team 10":1087.76,
+      "Team 11":1420.82,
+      "Team 12":1357.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":329.94,
+      "Team 11":322.1,
+      "Team 4":364.14,
+      "Team 5":391.22
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Josh Jacobs (Pick 21)",
+      "Mike Evans (Pick 28)",
+      "Rachaad White (Pick 45)",
+      "Jordan Love (Pick 52)",
+      "DeAndre Hopkins (Pick 69)",
+      "Keon Coleman (Pick 76)",
+      "Rome Odunze (Pick 93)",
+      "Xavier Worthy (Pick 100)",
+      "Harrison Butker (Pick 117)",
+      "Brian Thomas Jr. (Pick 124)",
+      "Romeo Doubs (Pick 141)",
+      "Brandin Cooks (Pick 148)",
+      "Texans (Pick 165)",
+      "Luke Musgrave (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":16,
+    "Winner":"Team 6",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1465.94,
+    "DM-Points-Playoffs":412.44,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1120.54,
+      "Team 2":1219.56,
+      "Team 3":1248.66,
+      "Team 4":1307.26,
+      "Team 5":1230.12,
+      "Team 6":1465.94,
+      "Team 7":1597.96,
+      "Team 8":1456.12,
+      "Team 9":1420.6,
+      "Team 10":980.32,
+      "Team 11":1124.34,
+      "Team 12":1403.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":412.44,
+      "Team 7":349.6,
+      "Team 12":289.68,
+      "Team 9":324.2
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 6)",
+      "Devon Achane (Pick 19)",
+      "Josh Jacobs (Pick 30)",
+      "Rachaad White (Pick 43)",
+      "Trey McBride (Pick 54)",
+      "Jordan Love (Pick 67)",
+      "Chase Brown (Pick 78)",
+      "DeAndre Hopkins (Pick 91)",
+      "Keon Coleman (Pick 102)",
+      "Harrison Butker (Pick 115)",
+      "Brian Thomas Jr. (Pick 126)",
+      "Romeo Doubs (Pick 139)",
+      "Brandin Cooks (Pick 150)",
+      "Kaimi Fairbairn (Pick 163)",
+      "Texans (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":17,
+    "Winner":"Team 9",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1522.26,
+    "DM-Points-Playoffs":409.14,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1338.6,
+      "Team 2":1368.92,
+      "Team 3":1048.36,
+      "Team 4":1338.72,
+      "Team 5":1354.28,
+      "Team 6":1389.88,
+      "Team 7":1251.42,
+      "Team 8":1404.52,
+      "Team 9":1522.26,
+      "Team 10":1170.54,
+      "Team 11":1385.94,
+      "Team 12":1389.3
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":409.14,
+      "Team 6":313.86,
+      "Team 11":303.9,
+      "Team 7":264.74
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 9)",
+      "Devon Achane (Pick 16)",
+      "Josh Jacobs (Pick 33)",
+      "Mike Evans (Pick 40)",
+      "Trey McBride (Pick 57)",
+      "Jordan Love (Pick 64)",
+      "Chase Brown (Pick 81)",
+      "Harrison Butker (Pick 88)",
+      "Brian Thomas Jr. (Pick 105)",
+      "Rome Odunze (Pick 112)",
+      "Brandin Cooks (Pick 129)",
+      "Jake Elliott (Pick 136)",
+      "Xavier Legette (Pick 153)",
+      "Texans (Pick 160)",
+      "Devin Culp (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":18,
+    "Winner":"Team 2",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1418.06,
+    "DM-Points-Playoffs":418.84,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1090.42,
+      "Team 2":1493.88,
+      "Team 3":1418.06,
+      "Team 4":1284.46,
+      "Team 5":1352.72,
+      "Team 6":1317.04,
+      "Team 7":1473.34,
+      "Team 8":1075.84,
+      "Team 9":1320.06,
+      "Team 10":1133.4,
+      "Team 11":1481.56,
+      "Team 12":1234.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":271.44,
+      "Team 3":418.84,
+      "Team 11":335.58,
+      "Team 5":366.52
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Josh Jacobs (Pick 22)",
+      "Mike Evans (Pick 27)",
+      "Cooper Kupp (Pick 46)",
+      "Trey McBride (Pick 51)",
+      "Jayden Daniels (Pick 70)",
+      "DeAndre Hopkins (Pick 75)",
+      "Devin Singletary (Pick 94)",
+      "Keon Coleman (Pick 99)",
+      "Jets (Pick 118)",
+      "Brian Thomas Jr. (Pick 123)",
+      "Brandin Cooks (Pick 142)",
+      "Kaimi Fairbairn (Pick 147)",
+      "Jalen McMillan (Pick 166)",
+      "Cooper Rush (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":19,
+    "Winner":"Team 4",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1326.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1203.46,
+      "Team 2":1100.24,
+      "Team 3":1372.62,
+      "Team 4":1545.78,
+      "Team 5":1194.08,
+      "Team 6":1501.92,
+      "Team 7":1261.04,
+      "Team 8":1156.48,
+      "Team 9":1411.62,
+      "Team 10":1381.76,
+      "Team 11":1326.26,
+      "Team 12":1344.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":295.94,
+      "Team 9":306.22,
+      "Team 12":384.78,
+      "Team 6":284.3
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 11)",
+      "Devon Achane (Pick 14)",
+      "Rachaad White (Pick 35)",
+      "Alvin Kamara (Pick 38)",
+      "Jordan Love (Pick 59)",
+      "DeAndre Hopkins (Pick 62)",
+      "Chase Brown (Pick 83)",
+      "Harrison Butker (Pick 86)",
+      "Brandin Cooks (Pick 107)",
+      "Keon Coleman (Pick 110)",
+      "Brian Thomas Jr. (Pick 131)",
+      "Romeo Doubs (Pick 134)",
+      "Jake Elliott (Pick 155)",
+      "Texans (Pick 158)",
+      "Lucas Krull (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":20,
+    "Winner":"Team 2",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1302.34,
+    "DM-Points-Playoffs":320.72,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1305.28,
+      "Team 2":1483.1,
+      "Team 3":1104.74,
+      "Team 4":1415.6,
+      "Team 5":1257.78,
+      "Team 6":1385.64,
+      "Team 7":1355.2,
+      "Team 8":1246.18,
+      "Team 9":1474.22,
+      "Team 10":1157.44,
+      "Team 11":1279.24,
+      "Team 12":1302.34
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":303.3,
+      "Team 7":353.42,
+      "Team 11":357.22,
+      "Team 12":320.72
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Josh Jacobs (Pick 36)",
+      "Alvin Kamara (Pick 37)",
+      "David Njoku (Pick 60)",
+      "Chase Brown (Pick 61)",
+      "Jets (Pick 84)",
+      "DeAndre Hopkins (Pick 85)",
+      "Keon Coleman (Pick 108)",
+      "Rome Odunze (Pick 109)",
+      "Brian Thomas Jr. (Pick 132)",
+      "Romeo Doubs (Pick 133)",
+      "Jake Elliott (Pick 156)",
+      "Texans (Pick 157)",
+      "Cooper Rush (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":21,
+    "Winner":"Team 4",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1353.94,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1354.2,
+      "Team 2":1370.2,
+      "Team 3":1353.94,
+      "Team 4":1434.78,
+      "Team 5":1377.82,
+      "Team 6":1320.78,
+      "Team 7":1322.24,
+      "Team 8":1127.02,
+      "Team 9":1252.92,
+      "Team 10":1299.44,
+      "Team 11":1413.0,
+      "Team 12":1325.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":300.24,
+      "Team 5":392.96,
+      "Team 6":336.8,
+      "Team 12":240.08
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Devon Achane (Pick 22)",
+      "Mike Evans (Pick 27)",
+      "Jordan Love (Pick 46)",
+      "David Njoku (Pick 51)",
+      "DeAndre Hopkins (Pick 70)",
+      "Keon Coleman (Pick 75)",
+      "D'Andre Swift (Pick 94)",
+      "Xavier Worthy (Pick 99)",
+      "Jets (Pick 118)",
+      "Brian Thomas Jr. (Pick 123)",
+      "Romeo Doubs (Pick 142)",
+      "Jake Elliott (Pick 147)",
+      "Brandin Cooks (Pick 166)",
+      "Texans (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":22,
+    "Winner":"Team 6",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1487.04,
+    "DM-Points-Playoffs":418.64,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1103.02,
+      "Team 2":1175.28,
+      "Team 3":1487.04,
+      "Team 4":1223.62,
+      "Team 5":1363.78,
+      "Team 6":1488.86,
+      "Team 7":1477.34,
+      "Team 8":1477.36,
+      "Team 9":1302.84,
+      "Team 10":1259.0,
+      "Team 11":1470.66,
+      "Team 12":996.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":395.84,
+      "Team 8":382.78,
+      "Team 11":347.7,
+      "Team 3":418.64
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Josh Jacobs (Pick 22)",
+      "Mike Evans (Pick 27)",
+      "Rachaad White (Pick 46)",
+      "Alvin Kamara (Pick 51)",
+      "Trey McBride (Pick 70)",
+      "Jordan Love (Pick 75)",
+      "DeAndre Hopkins (Pick 94)",
+      "Xavier Worthy (Pick 99)",
+      "Jets (Pick 118)",
+      "Brian Thomas Jr. (Pick 123)",
+      "Romeo Doubs (Pick 142)",
+      "Kaimi Fairbairn (Pick 147)",
+      "Dylan Laube (Pick 166)",
+      "Texans (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":23,
+    "Winner":"Team 4",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1187.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1423.58,
+      "Team 2":1179.8,
+      "Team 3":1347.3,
+      "Team 4":1389.48,
+      "Team 5":1187.04,
+      "Team 6":1352.06,
+      "Team 7":1423.7,
+      "Team 8":1364.4,
+      "Team 9":1301.26,
+      "Team 10":1347.2,
+      "Team 11":1343.68,
+      "Team 12":1441.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":281.38,
+      "Team 1":276.08,
+      "Team 3":353.52,
+      "Team 6":347.68
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Devon Achane (Pick 20)",
+      "Mike Evans (Pick 29)",
+      "Dalton Kincaid (Pick 44)",
+      "Jordan Love (Pick 53)",
+      "DeAndre Hopkins (Pick 68)",
+      "Keon Coleman (Pick 77)",
+      "Rome Odunze (Pick 92)",
+      "Devin Singletary (Pick 101)",
+      "Jets (Pick 116)",
+      "Brian Thomas Jr. (Pick 125)",
+      "Dustin Hopkins (Pick 140)",
+      "Brandin Cooks (Pick 149)",
+      "Dylan Laube (Pick 164)",
+      "Texans (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":24,
+    "Winner":"Team 1",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1534.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1398.9,
+      "Team 2":1461.18,
+      "Team 3":1212.72,
+      "Team 4":1261.98,
+      "Team 5":1348.22,
+      "Team 6":1415.54,
+      "Team 7":1307.98,
+      "Team 8":1347.02,
+      "Team 9":1360.98,
+      "Team 10":1115.34,
+      "Team 11":1244.0,
+      "Team 12":1534.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":213.98,
+      "Team 2":360.88,
+      "Team 6":417.3,
+      "Team 8":335.62
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Drake London (Pick 36)",
+      "Cooper Kupp (Pick 37)",
+      "David Njoku (Pick 60)",
+      "DeAndre Hopkins (Pick 61)",
+      "Chase Brown (Pick 84)",
+      "Jayden Daniels (Pick 85)",
+      "Keon Coleman (Pick 108)",
+      "Rome Odunze (Pick 109)",
+      "Jets (Pick 132)",
+      "Brian Thomas Jr. (Pick 133)",
+      "Brandin Cooks (Pick 156)",
+      "Quentin Johnston (Pick 157)",
+      "Matt Gay (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":25,
+    "Winner":"Team 5",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1450.94,
+    "DM-Points-Playoffs":402.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1326.66,
+      "Team 2":1380.8,
+      "Team 3":1487.04,
+      "Team 4":1390.28,
+      "Team 5":1270.96,
+      "Team 6":1274.28,
+      "Team 7":1450.94,
+      "Team 8":1411.96,
+      "Team 9":1400.94,
+      "Team 10":1265.34,
+      "Team 11":1320.92,
+      "Team 12":1193.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":296.2,
+      "Team 7":402.74,
+      "Team 9":261.92,
+      "Team 2":323.5
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 7)",
+      "Derrick Henry (Pick 18)",
+      "Drake London (Pick 31)",
+      "Trey McBride (Pick 42)",
+      "Jordan Love (Pick 55)",
+      "David Njoku (Pick 66)",
+      "DeAndre Hopkins (Pick 79)",
+      "Keon Coleman (Pick 90)",
+      "Chase Brown (Pick 103)",
+      "Rome Odunze (Pick 114)",
+      "Brian Thomas Jr. (Pick 127)",
+      "Romeo Doubs (Pick 138)",
+      "Brandin Cooks (Pick 151)",
+      "Jake Elliott (Pick 162)",
+      "Panthers (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":51,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1448.94,
+    "DM-Points-Playoffs":437.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1209.06,
+      "Team 2":1443.62,
+      "Team 3":1247.34,
+      "Team 4":1448.94,
+      "Team 5":1196.62,
+      "Team 6":1310.44,
+      "Team 7":1448.12,
+      "Team 8":1267.06,
+      "Team 9":1444.22,
+      "Team 10":1278.2,
+      "Team 11":1263.92,
+      "Team 12":1289.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":262.52,
+      "Team 7":299.2,
+      "Team 2":317.02,
+      "Team 4":437.74
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Devon Achane (Pick 21)",
+      "Mike Evans (Pick 28)",
+      "Trey McBride (Pick 45)",
+      "Jordan Love (Pick 52)",
+      "David Njoku (Pick 69)",
+      "DeAndre Hopkins (Pick 76)",
+      "D'Andre Swift (Pick 93)",
+      "Keon Coleman (Pick 100)",
+      "Chase Brown (Pick 117)",
+      "Brian Thomas Jr. (Pick 124)",
+      "Brandin Cooks (Pick 141)",
+      "Jake Elliott (Pick 148)",
+      "Adonai Mitchell (Pick 165)",
+      "Jaguars (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":52,
+    "Winner":"Team 3",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1347.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1144.82,
+      "Team 2":1360.36,
+      "Team 3":1511.04,
+      "Team 4":1373.5,
+      "Team 5":1347.84,
+      "Team 6":1201.62,
+      "Team 7":1328.88,
+      "Team 8":1381.94,
+      "Team 9":1368.06,
+      "Team 10":1161.4,
+      "Team 11":1339.5,
+      "Team 12":1297.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":346.2,
+      "Team 7":335.24,
+      "Team 9":283.68,
+      "Team 12":329.88
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Devon Achane (Pick 20)",
+      "Josh Jacobs (Pick 29)",
+      "Alvin Kamara (Pick 44)",
+      "Jordan Love (Pick 53)",
+      "Chase Brown (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Xavier Worthy (Pick 92)",
+      "Keon Coleman (Pick 101)",
+      "Harrison Butker (Pick 116)",
+      "Jets (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Jake Elliott (Pick 149)",
+      "Texans (Pick 164)",
+      "Will Mallory (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":53,
+    "Winner":"Team 7",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1440.16,
+    "DM-Points-Playoffs":359.34,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1211.46,
+      "Team 2":1348.44,
+      "Team 3":1145.96,
+      "Team 4":1347.02,
+      "Team 5":1438.14,
+      "Team 6":1340.8,
+      "Team 7":1518.08,
+      "Team 8":1353.28,
+      "Team 9":1443.88,
+      "Team 10":1440.16,
+      "Team 11":1216.18,
+      "Team 12":1383.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":263.04,
+      "Team 9":311.94,
+      "Team 5":373.7,
+      "Team 10":359.34
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Drake London (Pick 34)",
+      "Mike Evans (Pick 39)",
+      "Jordan Love (Pick 58)",
+      "David Njoku (Pick 63)",
+      "DeAndre Hopkins (Pick 82)",
+      "Keon Coleman (Pick 87)",
+      "Chase Brown (Pick 106)",
+      "Rome Odunze (Pick 111)",
+      "Harrison Butker (Pick 130)",
+      "Brian Thomas Jr. (Pick 135)",
+      "Brandin Cooks (Pick 154)",
+      "Jaguars (Pick 159)",
+      "Tyler Huntley (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":54,
+    "Winner":"Team 5",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1455.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1298.68,
+      "Team 2":1367.24,
+      "Team 3":1455.54,
+      "Team 4":1276.72,
+      "Team 5":1401.04,
+      "Team 6":1245.0,
+      "Team 7":1157.32,
+      "Team 8":1375.48,
+      "Team 9":1408.9,
+      "Team 10":1274.82,
+      "Team 11":1514.1,
+      "Team 12":1343.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":328.42,
+      "Team 10":330.24,
+      "Team 1":324.74,
+      "Team 2":366.3
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Derrick Henry (Pick 22)",
+      "Josh Jacobs (Pick 27)",
+      "Dalton Kincaid (Pick 46)",
+      "George Pickens (Pick 51)",
+      "Jordan Love (Pick 70)",
+      "David Njoku (Pick 75)",
+      "DeAndre Hopkins (Pick 94)",
+      "Keon Coleman (Pick 99)",
+      "Harrison Butker (Pick 118)",
+      "Brian Thomas Jr. (Pick 123)",
+      "Romeo Doubs (Pick 142)",
+      "Jake Elliott (Pick 147)",
+      "Brandin Cooks (Pick 166)",
+      "Panthers (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":55,
+    "Winner":"Team 6",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1303.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1177.24,
+      "Team 2":1303.04,
+      "Team 3":1406.88,
+      "Team 4":1350.38,
+      "Team 5":1273.68,
+      "Team 6":1469.32,
+      "Team 7":1537.54,
+      "Team 8":1440.16,
+      "Team 9":1336.1,
+      "Team 10":1302.42,
+      "Team 11":1416.62,
+      "Team 12":961.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":326.42,
+      "Team 9":249.06,
+      "Team 1":243.18,
+      "Team 7":387.2
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Travis Kelce (Pick 23)",
+      "Drake London (Pick 26)",
+      "Alvin Kamara (Pick 47)",
+      "Dalton Kincaid (Pick 50)",
+      "Jordan Love (Pick 71)",
+      "DeAndre Hopkins (Pick 74)",
+      "Devin Singletary (Pick 95)",
+      "Xavier Worthy (Pick 98)",
+      "Brian Thomas Jr. (Pick 119)",
+      "Romeo Doubs (Pick 122)",
+      "Brandin Cooks (Pick 143)",
+      "Texans (Pick 146)",
+      "Blake Grupe (Pick 167)",
+      "Matthew Wright (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":56,
+    "Winner":"Team 5",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1449.26,
+    "DM-Points-Playoffs":249.24,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1211.58,
+      "Team 2":1375.74,
+      "Team 3":1328.58,
+      "Team 4":1268.26,
+      "Team 5":1469.92,
+      "Team 6":1217.34,
+      "Team 7":1333.24,
+      "Team 8":1323.58,
+      "Team 9":1449.26,
+      "Team 10":1193.42,
+      "Team 11":1296.54,
+      "Team 12":1073.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":381.78,
+      "Team 3":311.3,
+      "Team 9":249.24,
+      "Team 2":281.32
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 9)",
+      "Devon Achane (Pick 16)",
+      "Cooper Kupp (Pick 33)",
+      "Alvin Kamara (Pick 40)",
+      "Nathaniel Dell (Pick 57)",
+      "Jordan Love (Pick 64)",
+      "David Njoku (Pick 81)",
+      "DeAndre Hopkins (Pick 88)",
+      "Keon Coleman (Pick 105)",
+      "Chase Brown (Pick 112)",
+      "Romeo Doubs (Pick 129)",
+      "Brandin Cooks (Pick 136)",
+      "Jake Elliott (Pick 153)",
+      "Texans (Pick 160)",
+      "Devin Culp (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":57,
+    "Winner":"Team 7",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1335.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1335.04,
+      "Team 2":1380.86,
+      "Team 3":1280.34,
+      "Team 4":1247.54,
+      "Team 5":1235.28,
+      "Team 6":1242.9,
+      "Team 7":1306.24,
+      "Team 8":1311.36,
+      "Team 9":1653.34,
+      "Team 10":1336.7,
+      "Team 11":1304.5,
+      "Team 12":1374.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":279.22,
+      "Team 9":311.92,
+      "Team 10":265.1,
+      "Team 2":315.26
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Drake London (Pick 24)",
+      "Mike Evans (Pick 25)",
+      "Cooper Kupp (Pick 48)",
+      "Alvin Kamara (Pick 49)",
+      "Jordan Love (Pick 72)",
+      "David Njoku (Pick 73)",
+      "Devin Singletary (Pick 96)",
+      "DeAndre Hopkins (Pick 97)",
+      "Brian Thomas Jr. (Pick 120)",
+      "Romeo Doubs (Pick 121)",
+      "Brandin Cooks (Pick 144)",
+      "Jake Moody (Pick 145)",
+      "Xavier Legette (Pick 168)",
+      "Jaguars (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":58,
+    "Winner":"Team 9",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1524.26,
+    "DM-Points-Playoffs":300.54,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1291.02,
+      "Team 2":1066.48,
+      "Team 3":1284.14,
+      "Team 4":1183.88,
+      "Team 5":1319.86,
+      "Team 6":1252.0,
+      "Team 7":1379.6,
+      "Team 8":1281.58,
+      "Team 9":1304.36,
+      "Team 10":1524.26,
+      "Team 11":1457.68,
+      "Team 12":1377.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":229.18,
+      "Team 10":300.54,
+      "Team 7":405.88,
+      "Team 12":246.84
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Cooper Kupp (Pick 34)",
+      "Alvin Kamara (Pick 39)",
+      "George Pickens (Pick 58)",
+      "Jordan Love (Pick 63)",
+      "David Njoku (Pick 82)",
+      "Xavier Worthy (Pick 87)",
+      "DeAndre Hopkins (Pick 106)",
+      "Keon Coleman (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Romeo Doubs (Pick 135)",
+      "Brandin Cooks (Pick 154)",
+      "Texans (Pick 159)",
+      "Blake Grupe (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":59,
+    "Winner":"Team 12",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1292.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1167.62,
+      "Team 2":1325.7,
+      "Team 3":1188.2,
+      "Team 4":1292.8,
+      "Team 5":1250.64,
+      "Team 6":1180.08,
+      "Team 7":1401.06,
+      "Team 8":1355.5,
+      "Team 9":1539.04,
+      "Team 10":1405.76,
+      "Team 11":1146.66,
+      "Team 12":1476.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":257.24,
+      "Team 5":263.14,
+      "Team 9":322.46,
+      "Team 10":342.28
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Josh Jacobs (Pick 21)",
+      "Drake London (Pick 28)",
+      "Alvin Kamara (Pick 45)",
+      "Trey McBride (Pick 52)",
+      "Dalton Kincaid (Pick 69)",
+      "DeAndre Hopkins (Pick 76)",
+      "Keon Coleman (Pick 93)",
+      "Xavier Worthy (Pick 100)",
+      "Brian Thomas Jr. (Pick 117)",
+      "Romeo Doubs (Pick 124)",
+      "Brandin Cooks (Pick 141)",
+      "Texans (Pick 148)",
+      "Chris Boswell (Pick 165)",
+      "Nick Mullens (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":60,
+    "Winner":"Team 7",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1223.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1243.44,
+      "Team 2":1298.16,
+      "Team 3":1303.16,
+      "Team 4":779.62,
+      "Team 5":1223.44,
+      "Team 6":1264.66,
+      "Team 7":1433.56,
+      "Team 8":1216.74,
+      "Team 9":1421.72,
+      "Team 10":1566.6,
+      "Team 11":1427.58,
+      "Team 12":1378.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":242.18,
+      "Team 10":425.6,
+      "Team 3":244.36,
+      "Team 9":333.04
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Devon Achane (Pick 20)",
+      "Drake London (Pick 29)",
+      "Trey McBride (Pick 44)",
+      "Jordan Love (Pick 53)",
+      "David Njoku (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Keon Coleman (Pick 92)",
+      "Rome Odunze (Pick 101)",
+      "Jets (Pick 116)",
+      "Brian Thomas Jr. (Pick 125)",
+      "Romeo Doubs (Pick 140)",
+      "Texans (Pick 149)",
+      "Dylan Laube (Pick 164)",
+      "Chris Boswell (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":61,
+    "Winner":"Team 1",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1387.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1389.18,
+      "Team 2":1293.52,
+      "Team 3":1149.88,
+      "Team 4":1384.84,
+      "Team 5":1149.16,
+      "Team 6":1382.18,
+      "Team 7":1347.78,
+      "Team 8":1387.06,
+      "Team 9":1188.64,
+      "Team 10":1348.56,
+      "Team 11":1526.22,
+      "Team 12":1337.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":255.54,
+      "Team 12":343.38,
+      "Team 3":294.58,
+      "Team 4":378.42
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Josh Jacobs (Pick 32)",
+      "Trey McBride (Pick 41)",
+      "Jordan Love (Pick 56)",
+      "Nathaniel Dell (Pick 65)",
+      "Xavier Worthy (Pick 80)",
+      "DeAndre Hopkins (Pick 89)",
+      "Keon Coleman (Pick 104)",
+      "Rome Odunze (Pick 113)",
+      "Harrison Butker (Pick 128)",
+      "Romeo Doubs (Pick 137)",
+      "Brandin Cooks (Pick 152)",
+      "Jake Elliott (Pick 161)",
+      "Panthers (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":62,
+    "Winner":"Team 5",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1434.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1035.82,
+      "Team 2":1297.76,
+      "Team 3":1373.36,
+      "Team 4":1305.96,
+      "Team 5":1375.66,
+      "Team 6":1310.04,
+      "Team 7":1202.42,
+      "Team 8":1441.34,
+      "Team 9":1323.04,
+      "Team 10":1434.36,
+      "Team 11":1453.0,
+      "Team 12":1326.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":299.34,
+      "Team 8":369.24,
+      "Team 9":395.52,
+      "Team 11":365.0
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Drake London (Pick 34)",
+      "Mike Evans (Pick 39)",
+      "Trey McBride (Pick 58)",
+      "Dalton Kincaid (Pick 63)",
+      "Jordan Love (Pick 82)",
+      "David Njoku (Pick 87)",
+      "DeAndre Hopkins (Pick 106)",
+      "Keon Coleman (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Brandin Cooks (Pick 135)",
+      "Jake Elliott (Pick 154)",
+      "Xavier Legette (Pick 159)",
+      "Texans (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":63,
+    "Winner":"Team 4",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1324.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1160.74,
+      "Team 2":1342.16,
+      "Team 3":1281.58,
+      "Team 4":1470.96,
+      "Team 5":1254.82,
+      "Team 6":1505.42,
+      "Team 7":1079.96,
+      "Team 8":1324.46,
+      "Team 9":1265.32,
+      "Team 10":1416.9,
+      "Team 11":1211.9,
+      "Team 12":1161.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":338.56,
+      "Team 10":366.9,
+      "Team 6":340.92,
+      "Team 2":245.7
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Travis Kelce (Pick 32)",
+      "Alvin Kamara (Pick 41)",
+      "Trey McBride (Pick 56)",
+      "Chase Brown (Pick 65)",
+      "Harrison Butker (Pick 80)",
+      "Rome Odunze (Pick 89)",
+      "DeAndre Hopkins (Pick 104)",
+      "Keon Coleman (Pick 113)",
+      "Brian Thomas Jr. (Pick 128)",
+      "Brandin Cooks (Pick 137)",
+      "Kaimi Fairbairn (Pick 152)",
+      "Jaguars (Pick 161)",
+      "Tyler Huntley (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":64,
+    "Winner":"Team 8",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1355.54,
+    "DM-Points-Playoffs":370.94,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1271.88,
+      "Team 2":1218.56,
+      "Team 3":1374.82,
+      "Team 4":1140.36,
+      "Team 5":1318.96,
+      "Team 6":1258.24,
+      "Team 7":1289.32,
+      "Team 8":1355.54,
+      "Team 9":1196.3,
+      "Team 10":1124.6,
+      "Team 11":1339.8,
+      "Team 12":1586.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":370.94,
+      "Team 12":327.4,
+      "Team 11":340.32,
+      "Team 7":272.9
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Mike Evans (Pick 32)",
+      "Rachaad White (Pick 41)",
+      "Alvin Kamara (Pick 56)",
+      "Jordan Love (Pick 65)",
+      "DeAndre Hopkins (Pick 80)",
+      "Keon Coleman (Pick 89)",
+      "Chase Brown (Pick 104)",
+      "Rome Odunze (Pick 113)",
+      "Brian Thomas Jr. (Pick 128)",
+      "Brandin Cooks (Pick 137)",
+      "Kaimi Fairbairn (Pick 152)",
+      "Texans (Pick 161)",
+      "Ben Sinnott (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":65,
+    "Winner":"Team 9",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1284.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1291.5,
+      "Team 2":1274.46,
+      "Team 3":1259.0,
+      "Team 4":1259.6,
+      "Team 5":1384.24,
+      "Team 6":1226.3,
+      "Team 7":1284.54,
+      "Team 8":1414.44,
+      "Team 9":1564.56,
+      "Team 10":1021.76,
+      "Team 11":1309.98,
+      "Team 12":1432.1
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":270.82,
+      "Team 5":381.28,
+      "Team 12":328.24,
+      "Team 8":340.48
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 7)",
+      "Devon Achane (Pick 18)",
+      "Drake London (Pick 31)",
+      "Cooper Kupp (Pick 42)",
+      "Dalton Kincaid (Pick 55)",
+      "Jordan Love (Pick 66)",
+      "David Njoku (Pick 79)",
+      "Xavier Worthy (Pick 90)",
+      "DeAndre Hopkins (Pick 103)",
+      "Rome Odunze (Pick 114)",
+      "Harrison Butker (Pick 127)",
+      "Brian Thomas Jr. (Pick 138)",
+      "Brandin Cooks (Pick 151)",
+      "Dylan Laube (Pick 162)",
+      "Texans (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":66,
+    "Winner":"Team 5",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1444.74,
+    "DM-Points-Playoffs":412.94,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1287.4,
+      "Team 2":1444.74,
+      "Team 3":1172.02,
+      "Team 4":1193.74,
+      "Team 5":1461.5,
+      "Team 6":1431.96,
+      "Team 7":1360.6,
+      "Team 8":1348.22,
+      "Team 9":1482.0,
+      "Team 10":1226.1,
+      "Team 11":1269.06,
+      "Team 12":1381.68
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":312.1,
+      "Team 6":335.12,
+      "Team 2":412.94,
+      "Team 9":338.9
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Devon Achane (Pick 23)",
+      "Josh Jacobs (Pick 26)",
+      "Mike Evans (Pick 47)",
+      "Dalton Kincaid (Pick 50)",
+      "Jordan Love (Pick 71)",
+      "David Njoku (Pick 74)",
+      "DeAndre Hopkins (Pick 95)",
+      "Xavier Worthy (Pick 98)",
+      "Jets (Pick 119)",
+      "Brian Thomas Jr. (Pick 122)",
+      "Romeo Doubs (Pick 143)",
+      "Brandin Cooks (Pick 146)",
+      "Kaimi Fairbairn (Pick 167)",
+      "Texans (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":67,
+    "Winner":"Team 7",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1394.94,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1076.62,
+      "Team 2":1394.94,
+      "Team 3":1331.1,
+      "Team 4":1434.02,
+      "Team 5":1370.76,
+      "Team 6":1236.16,
+      "Team 7":1436.18,
+      "Team 8":1101.48,
+      "Team 9":1401.46,
+      "Team 10":1345.82,
+      "Team 11":1339.58,
+      "Team 12":1358.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":222.9,
+      "Team 4":336.92,
+      "Team 9":279.6,
+      "Team 11":285.48
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Travis Kelce (Pick 26)",
+      "Mike Evans (Pick 47)",
+      "Dalton Kincaid (Pick 50)",
+      "Jordan Love (Pick 71)",
+      "David Njoku (Pick 74)",
+      "DeAndre Hopkins (Pick 95)",
+      "Xavier Worthy (Pick 98)",
+      "Brian Thomas Jr. (Pick 119)",
+      "Romeo Doubs (Pick 122)",
+      "Brandin Cooks (Pick 143)",
+      "Jake Elliott (Pick 146)",
+      "Chase Brown (Pick 167)",
+      "Panthers (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":68,
+    "Winner":"Team 5",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1275.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1295.22,
+      "Team 2":1030.1,
+      "Team 3":1359.9,
+      "Team 4":1242.64,
+      "Team 5":1436.98,
+      "Team 6":1439.4,
+      "Team 7":1154.8,
+      "Team 8":1365.78,
+      "Team 9":1432.96,
+      "Team 10":1290.32,
+      "Team 11":1184.28,
+      "Team 12":1275.76
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":344.48,
+      "Team 6":334.1,
+      "Team 1":312.02,
+      "Team 8":355.18
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Josh Jacobs (Pick 36)",
+      "Rachaad White (Pick 37)",
+      "Alvin Kamara (Pick 60)",
+      "Dalton Kincaid (Pick 61)",
+      "Jordan Love (Pick 84)",
+      "Chase Brown (Pick 85)",
+      "Xavier Worthy (Pick 108)",
+      "Harrison Butker (Pick 109)",
+      "Dylan Laube (Pick 132)",
+      "Texans (Pick 133)",
+      "Xavier Legette (Pick 156)",
+      "Jeremy McNichols (Pick 157)",
+      "Devin Culp (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":69,
+    "Winner":"Team 5",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1460.46,
+    "DM-Points-Playoffs":377.54,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1300.82,
+      "Team 2":1358.04,
+      "Team 3":1168.76,
+      "Team 4":1245.9,
+      "Team 5":1458.66,
+      "Team 6":1334.86,
+      "Team 7":1462.02,
+      "Team 8":1260.74,
+      "Team 9":1469.08,
+      "Team 10":1153.34,
+      "Team 11":1460.46,
+      "Team 12":1266.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":354.64,
+      "Team 7":291.22,
+      "Team 11":377.54,
+      "Team 9":346.38
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 11)",
+      "Devon Achane (Pick 14)",
+      "Mike Evans (Pick 35)",
+      "Alvin Kamara (Pick 38)",
+      "Jordan Love (Pick 59)",
+      "Nathaniel Dell (Pick 62)",
+      "David Njoku (Pick 83)",
+      "DeAndre Hopkins (Pick 86)",
+      "Keon Coleman (Pick 107)",
+      "Chase Brown (Pick 110)",
+      "Brian Thomas Jr. (Pick 131)",
+      "Romeo Doubs (Pick 134)",
+      "Dylan Laube (Pick 155)",
+      "Jake Moody (Pick 158)",
+      "Panthers (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":70,
+    "Winner":"Team 12",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1260.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1308.38,
+      "Team 2":1260.7,
+      "Team 3":1358.72,
+      "Team 4":1425.14,
+      "Team 5":1067.88,
+      "Team 6":1152.62,
+      "Team 7":1421.7,
+      "Team 8":1203.4,
+      "Team 9":1037.66,
+      "Team 10":1254.42,
+      "Team 11":1390.72,
+      "Team 12":1570.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":323.74,
+      "Team 4":316.6,
+      "Team 11":281.58,
+      "Team 7":358.6
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Travis Kelce (Pick 26)",
+      "Rachaad White (Pick 47)",
+      "Trey McBride (Pick 50)",
+      "David Njoku (Pick 71)",
+      "Chase Brown (Pick 74)",
+      "Brian Thomas Jr. (Pick 95)",
+      "Devin Singletary (Pick 98)",
+      "Romeo Doubs (Pick 119)",
+      "Brandin Cooks (Pick 122)",
+      "Dylan Laube (Pick 143)",
+      "Texans (Pick 146)",
+      "Blake Grupe (Pick 167)",
+      "Nick Mullens (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":71,
+    "Winner":"Team 6",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      12,
+      2
+    ],
+    "DM-Points-Regular-Season":1597.24,
+    "DM-Points-Playoffs":459.24,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1209.52,
+      "Team 2":1165.74,
+      "Team 3":1267.04,
+      "Team 4":1310.06,
+      "Team 5":1459.48,
+      "Team 6":1597.24,
+      "Team 7":1233.9,
+      "Team 8":1546.36,
+      "Team 9":1234.18,
+      "Team 10":1311.42,
+      "Team 11":1176.44,
+      "Team 12":1315.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":459.24,
+      "Team 5":316.42,
+      "Team 8":332.9,
+      "Team 12":303.18
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 6)",
+      "Devon Achane (Pick 19)",
+      "Josh Jacobs (Pick 30)",
+      "Trey McBride (Pick 43)",
+      "Dalton Kincaid (Pick 54)",
+      "David Njoku (Pick 67)",
+      "Jayden Daniels (Pick 78)",
+      "Chase Brown (Pick 91)",
+      "George Pickens (Pick 102)",
+      "Brian Thomas Jr. (Pick 115)",
+      "Romeo Doubs (Pick 126)",
+      "Brandin Cooks (Pick 139)",
+      "Jake Elliott (Pick 150)",
+      "Texans (Pick 163)",
+      "Tyler Huntley (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":72,
+    "Winner":"Team 7",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1388.34,
+    "DM-Points-Playoffs":325.04,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1135.98,
+      "Team 2":1388.34,
+      "Team 3":1304.22,
+      "Team 4":1368.48,
+      "Team 5":1314.92,
+      "Team 6":1297.46,
+      "Team 7":1669.38,
+      "Team 8":1187.18,
+      "Team 9":1396.7,
+      "Team 10":997.92,
+      "Team 11":1431.74,
+      "Team 12":1352.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":331.4,
+      "Team 2":325.04,
+      "Team 4":313.7,
+      "Team 5":310.6
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Mike Evans (Pick 26)",
+      "Alvin Kamara (Pick 47)",
+      "Dalton Kincaid (Pick 50)",
+      "Jordan Love (Pick 71)",
+      "David Njoku (Pick 74)",
+      "DeAndre Hopkins (Pick 95)",
+      "Keon Coleman (Pick 98)",
+      "Harrison Butker (Pick 119)",
+      "Rome Odunze (Pick 122)",
+      "Jake Elliott (Pick 143)",
+      "Romeo Doubs (Pick 146)",
+      "Kaimi Fairbairn (Pick 167)",
+      "Texans (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":73,
+    "Winner":"Team 2",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1357.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1273.64,
+      "Team 2":1439.6,
+      "Team 3":1209.6,
+      "Team 4":1264.56,
+      "Team 5":1357.14,
+      "Team 6":1364.46,
+      "Team 7":1238.84,
+      "Team 8":1356.2,
+      "Team 9":1444.86,
+      "Team 10":1236.48,
+      "Team 11":1353.58,
+      "Team 12":1267.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":252.0,
+      "Team 8":362.32,
+      "Team 9":279.92,
+      "Team 11":358.08
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Devon Achane (Pick 20)",
+      "Rachaad White (Pick 29)",
+      "Alvin Kamara (Pick 44)",
+      "George Pickens (Pick 53)",
+      "Jordan Love (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Keon Coleman (Pick 92)",
+      "Chase Brown (Pick 101)",
+      "Brian Thomas Jr. (Pick 116)",
+      "Romeo Doubs (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Kaimi Fairbairn (Pick 149)",
+      "Texans (Pick 164)",
+      "Devin Culp (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":74,
+    "Winner":"Team 8",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1383.16,
+    "DM-Points-Playoffs":333.54,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1057.64,
+      "Team 2":1320.5,
+      "Team 3":1372.3,
+      "Team 4":1204.9,
+      "Team 5":1411.9,
+      "Team 6":1164.72,
+      "Team 7":1444.38,
+      "Team 8":1349.78,
+      "Team 9":1161.46,
+      "Team 10":1383.16,
+      "Team 11":1473.2,
+      "Team 12":1344.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":241.12,
+      "Team 10":333.54,
+      "Team 2":292.12,
+      "Team 3":316.8
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Mike Evans (Pick 34)",
+      "Cooper Kupp (Pick 39)",
+      "Jordan Love (Pick 58)",
+      "David Njoku (Pick 63)",
+      "DeAndre Hopkins (Pick 82)",
+      "Keon Coleman (Pick 87)",
+      "Rome Odunze (Pick 106)",
+      "Harrison Butker (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Romeo Doubs (Pick 135)",
+      "Brandin Cooks (Pick 154)",
+      "Xavier Legette (Pick 159)",
+      "Jaguars (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":75,
+    "Winner":"Team 10",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1301.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1237.56,
+      "Team 2":1381.8,
+      "Team 3":1171.2,
+      "Team 4":1400.26,
+      "Team 5":1289.04,
+      "Team 6":1222.06,
+      "Team 7":1127.42,
+      "Team 8":1301.14,
+      "Team 9":1530.14,
+      "Team 10":1342.86,
+      "Team 11":1242.74,
+      "Team 12":1407.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":315.44,
+      "Team 1":249.88,
+      "Team 2":382.7,
+      "Team 4":370.64
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Alvin Kamara (Pick 32)",
+      "Trey McBride (Pick 41)",
+      "George Pickens (Pick 56)",
+      "Harrison Butker (Pick 65)",
+      "Keon Coleman (Pick 80)",
+      "Xavier Worthy (Pick 89)",
+      "Rome Odunze (Pick 104)",
+      "Chase Brown (Pick 113)",
+      "Jets (Pick 128)",
+      "Brandin Cooks (Pick 137)",
+      "Romeo Doubs (Pick 152)",
+      "Kaimi Fairbairn (Pick 161)",
+      "Cooper Rush (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":101,
+    "Winner":"Team 5",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1462.56,
+    "DM-Points-Playoffs":380.24,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1179.62,
+      "Team 2":1361.18,
+      "Team 3":1044.72,
+      "Team 4":1340.62,
+      "Team 5":1282.3,
+      "Team 6":1330.18,
+      "Team 7":1342.22,
+      "Team 8":1198.36,
+      "Team 9":1546.74,
+      "Team 10":1462.56,
+      "Team 11":1591.2,
+      "Team 12":1434.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":235.18,
+      "Team 9":306.8,
+      "Team 10":380.24,
+      "Team 11":344.3
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Drake London (Pick 34)",
+      "Trey McBride (Pick 39)",
+      "Nathaniel Dell (Pick 58)",
+      "Jordan Love (Pick 63)",
+      "David Njoku (Pick 82)",
+      "DeAndre Hopkins (Pick 87)",
+      "Keon Coleman (Pick 106)",
+      "Chase Brown (Pick 111)",
+      "Harrison Butker (Pick 130)",
+      "Brian Thomas Jr. (Pick 135)",
+      "Brandin Cooks (Pick 154)",
+      "Jake Elliott (Pick 159)",
+      "Broncos (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":102,
+    "Winner":"Team 11",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1054.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1348.24,
+      "Team 2":1136.12,
+      "Team 3":1054.46,
+      "Team 4":1254.84,
+      "Team 5":1351.28,
+      "Team 6":1203.24,
+      "Team 7":1381.66,
+      "Team 8":1168.36,
+      "Team 9":1362.58,
+      "Team 10":1420.24,
+      "Team 11":1438.3,
+      "Team 12":1450.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":440.44,
+      "Team 10":320.48,
+      "Team 4":325.58,
+      "Team 5":263.6
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Josh Jacobs (Pick 22)",
+      "Drake London (Pick 27)",
+      "Travis Kelce (Pick 46)",
+      "Trey McBride (Pick 51)",
+      "DeAndre Hopkins (Pick 70)",
+      "Keon Coleman (Pick 75)",
+      "Xavier Worthy (Pick 94)",
+      "Rome Odunze (Pick 99)",
+      "Jets (Pick 118)",
+      "Jake Elliott (Pick 123)",
+      "Kaimi Fairbairn (Pick 142)",
+      "Texans (Pick 147)",
+      "Tyler Huntley (Pick 166)",
+      "Trayveon Williams (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":103,
+    "Winner":"Team 8",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1244.12,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1290.8,
+      "Team 2":1140.66,
+      "Team 3":1362.56,
+      "Team 4":1326.48,
+      "Team 5":1221.58,
+      "Team 6":1562.76,
+      "Team 7":1208.62,
+      "Team 8":1519.58,
+      "Team 9":1317.54,
+      "Team 10":1131.78,
+      "Team 11":1387.1,
+      "Team 12":1244.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":397.5,
+      "Team 6":338.0,
+      "Team 1":305.8,
+      "Team 9":309.9
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Drake London (Pick 36)",
+      "Alvin Kamara (Pick 37)",
+      "Dalton Kincaid (Pick 60)",
+      "Chase Brown (Pick 61)",
+      "Rome Odunze (Pick 84)",
+      "DeAndre Hopkins (Pick 85)",
+      "Brian Thomas Jr. (Pick 108)",
+      "Keon Coleman (Pick 109)",
+      "Romeo Doubs (Pick 132)",
+      "Brandin Cooks (Pick 133)",
+      "Kaimi Fairbairn (Pick 156)",
+      "Broncos (Pick 157)",
+      "Nick Mullens (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":104,
+    "Winner":"Team 1",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      13,
+      1
+    ],
+    "DM-Points-Regular-Season":1658.44,
+    "DM-Points-Playoffs":380.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1658.44,
+      "Team 2":1144.26,
+      "Team 3":1389.56,
+      "Team 4":1287.32,
+      "Team 5":1202.38,
+      "Team 6":1421.12,
+      "Team 7":1476.2,
+      "Team 8":1259.36,
+      "Team 9":1276.52,
+      "Team 10":1361.0,
+      "Team 11":1309.6,
+      "Team 12":1409.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":380.74,
+      "Team 12":351.08,
+      "Team 9":321.5,
+      "Team 11":377.82
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Derrick Henry (Pick 24)",
+      "Drake London (Pick 25)",
+      "Alvin Kamara (Pick 48)",
+      "Cooper Kupp (Pick 49)",
+      "Trey McBride (Pick 72)",
+      "Dalton Kincaid (Pick 73)",
+      "Jayden Daniels (Pick 96)",
+      "Xavier Worthy (Pick 97)",
+      "Brian Thomas Jr. (Pick 120)",
+      "Romeo Doubs (Pick 121)",
+      "Brandin Cooks (Pick 144)",
+      "Jake Elliott (Pick 145)",
+      "Xavier Legette (Pick 168)",
+      "Texans (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":105,
+    "Winner":"Team 4",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1291.88,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1260.3,
+      "Team 2":1074.0,
+      "Team 3":1318.64,
+      "Team 4":1486.58,
+      "Team 5":1432.84,
+      "Team 6":1359.92,
+      "Team 7":1133.96,
+      "Team 8":1303.1,
+      "Team 9":1317.5,
+      "Team 10":1291.88,
+      "Team 11":1260.92,
+      "Team 12":1335.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":367.6,
+      "Team 6":230.62,
+      "Team 3":290.48,
+      "Team 5":443.76
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Drake London (Pick 34)",
+      "Trey McBride (Pick 39)",
+      "David Njoku (Pick 58)",
+      "DeAndre Hopkins (Pick 63)",
+      "Keon Coleman (Pick 82)",
+      "Chase Brown (Pick 87)",
+      "Rome Odunze (Pick 106)",
+      "Jets (Pick 111)",
+      "Dustin Hopkins (Pick 130)",
+      "Brian Thomas Jr. (Pick 135)",
+      "Brandin Cooks (Pick 154)",
+      "Texans (Pick 159)",
+      "Tyler Huntley (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":106,
+    "Winner":"Team 7",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1533.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1214.38,
+      "Team 2":1255.08,
+      "Team 3":1361.2,
+      "Team 4":1311.38,
+      "Team 5":1413.9,
+      "Team 6":1382.86,
+      "Team 7":1478.98,
+      "Team 8":925.38,
+      "Team 9":1491.7,
+      "Team 10":1358.5,
+      "Team 11":1228.04,
+      "Team 12":1533.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":360.64,
+      "Team 4":305.16,
+      "Team 6":345.5,
+      "Team 9":327.7
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 12)",
+      "Derrick Henry (Pick 13)",
+      "Alvin Kamara (Pick 36)",
+      "Trey McBride (Pick 37)",
+      "George Pickens (Pick 60)",
+      "Jordan Love (Pick 61)",
+      "David Njoku (Pick 84)",
+      "DeAndre Hopkins (Pick 85)",
+      "Keon Coleman (Pick 108)",
+      "Chase Brown (Pick 109)",
+      "Harrison Butker (Pick 132)",
+      "Jets (Pick 133)",
+      "Kaimi Fairbairn (Pick 156)",
+      "Texans (Pick 157)",
+      "Zach Gentry (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":107,
+    "Winner":"Team 3",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1443.04,
+    "DM-Points-Playoffs":342.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1544.28,
+      "Team 2":1165.68,
+      "Team 3":1415.08,
+      "Team 4":1443.04,
+      "Team 5":1199.32,
+      "Team 6":1017.94,
+      "Team 7":1283.92,
+      "Team 8":1386.62,
+      "Team 9":1362.42,
+      "Team 10":1212.7,
+      "Team 11":1361.74,
+      "Team 12":1269.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":282.3,
+      "Team 8":360.6,
+      "Team 9":198.48,
+      "Team 4":342.74
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Devon Achane (Pick 21)",
+      "Drake London (Pick 28)",
+      "Rachaad White (Pick 45)",
+      "Alvin Kamara (Pick 52)",
+      "Jordan Love (Pick 69)",
+      "David Njoku (Pick 76)",
+      "DeAndre Hopkins (Pick 93)",
+      "Keon Coleman (Pick 100)",
+      "Brian Thomas Jr. (Pick 117)",
+      "Romeo Doubs (Pick 124)",
+      "Brandin Cooks (Pick 141)",
+      "Jake Elliott (Pick 148)",
+      "Kaimi Fairbairn (Pick 165)",
+      "Texans (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":108,
+    "Winner":"Team 9",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1022.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1205.8,
+      "Team 2":1298.38,
+      "Team 3":1022.7,
+      "Team 4":1420.78,
+      "Team 5":1381.76,
+      "Team 6":1230.56,
+      "Team 7":1386.86,
+      "Team 8":1384.56,
+      "Team 9":1631.24,
+      "Team 10":1336.1,
+      "Team 11":1416.1,
+      "Team 12":1296.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":275.48,
+      "Team 7":293.72,
+      "Team 4":278.44,
+      "Team 10":302.0
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Josh Jacobs (Pick 22)",
+      "Drake London (Pick 27)",
+      "Mike Evans (Pick 46)",
+      "Dalton Kincaid (Pick 51)",
+      "David Njoku (Pick 70)",
+      "DeAndre Hopkins (Pick 75)",
+      "Keon Coleman (Pick 94)",
+      "Xavier Worthy (Pick 99)",
+      "Brian Thomas Jr. (Pick 118)",
+      "Tyler Bass (Pick 123)",
+      "Romeo Doubs (Pick 142)",
+      "Dylan Laube (Pick 147)",
+      "Broncos (Pick 166)",
+      "Nick Mullens (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":109,
+    "Winner":"Team 11",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1365.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1226.9,
+      "Team 2":1390.9,
+      "Team 3":1403.46,
+      "Team 4":1466.72,
+      "Team 5":1365.84,
+      "Team 6":1309.36,
+      "Team 7":1188.18,
+      "Team 8":1104.56,
+      "Team 9":1407.68,
+      "Team 10":1201.12,
+      "Team 11":1602.12,
+      "Team 12":1266.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":406.94,
+      "Team 9":288.44,
+      "Team 2":296.1,
+      "Team 3":345.46
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Devon Achane (Pick 20)",
+      "Josh Jacobs (Pick 29)",
+      "Cooper Kupp (Pick 44)",
+      "Dalton Kincaid (Pick 53)",
+      "Jordan Love (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Xavier Worthy (Pick 92)",
+      "Keon Coleman (Pick 101)",
+      "Brian Thomas Jr. (Pick 116)",
+      "Romeo Doubs (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Jake Elliott (Pick 149)",
+      "Xavier Legette (Pick 164)",
+      "Texans (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":110,
+    "Winner":"Team 9",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1566.64,
+    "DM-Points-Playoffs":299.44,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1086.94,
+      "Team 2":1299.6,
+      "Team 3":1346.56,
+      "Team 4":1334.16,
+      "Team 5":1334.98,
+      "Team 6":1426.5,
+      "Team 7":1566.64,
+      "Team 8":1330.0,
+      "Team 9":1436.04,
+      "Team 10":1373.74,
+      "Team 11":1083.48,
+      "Team 12":1237.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":344.9,
+      "Team 10":231.62,
+      "Team 5":397.42,
+      "Team 7":299.44
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 7)",
+      "Derrick Henry (Pick 18)",
+      "Josh Jacobs (Pick 31)",
+      "Cooper Kupp (Pick 42)",
+      "Alvin Kamara (Pick 55)",
+      "Jordan Love (Pick 66)",
+      "David Njoku (Pick 79)",
+      "DeAndre Hopkins (Pick 90)",
+      "Chase Brown (Pick 103)",
+      "Rome Odunze (Pick 114)",
+      "Romeo Doubs (Pick 127)",
+      "Brandin Cooks (Pick 138)",
+      "Chris Boswell (Pick 151)",
+      "Adonai Mitchell (Pick 162)",
+      "Jaguars (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":111,
+    "Winner":"Team 6",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1509.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1316.0,
+      "Team 2":1127.28,
+      "Team 3":1102.46,
+      "Team 4":1509.64,
+      "Team 5":1649.46,
+      "Team 6":1410.2,
+      "Team 7":1268.72,
+      "Team 8":1390.96,
+      "Team 9":1359.06,
+      "Team 10":1310.48,
+      "Team 11":1195.5,
+      "Team 12":1239.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":304.24,
+      "Team 5":420.2,
+      "Team 10":300.74,
+      "Team 8":289.34
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Devon Achane (Pick 21)",
+      "Josh Jacobs (Pick 28)",
+      "Trey McBride (Pick 45)",
+      "Jordan Love (Pick 52)",
+      "David Njoku (Pick 69)",
+      "Chase Brown (Pick 76)",
+      "George Pickens (Pick 93)",
+      "Xavier Worthy (Pick 100)",
+      "Jets (Pick 117)",
+      "Brian Thomas Jr. (Pick 124)",
+      "Romeo Doubs (Pick 141)",
+      "Brandin Cooks (Pick 148)",
+      "Kaimi Fairbairn (Pick 165)",
+      "Texans (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":112,
+    "Winner":"Team 2",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1426.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1244.88,
+      "Team 2":1417.08,
+      "Team 3":1172.04,
+      "Team 4":1208.22,
+      "Team 5":1118.48,
+      "Team 6":1330.38,
+      "Team 7":1236.68,
+      "Team 8":1426.16,
+      "Team 9":1456.78,
+      "Team 10":1403.26,
+      "Team 11":1107.24,
+      "Team 12":1421.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":392.18,
+      "Team 10":233.54,
+      "Team 12":303.24,
+      "Team 1":260.68
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Mike Evans (Pick 32)",
+      "Alvin Kamara (Pick 41)",
+      "George Pickens (Pick 56)",
+      "Jayden Daniels (Pick 65)",
+      "DeAndre Hopkins (Pick 80)",
+      "Keon Coleman (Pick 89)",
+      "Chase Brown (Pick 104)",
+      "Rome Odunze (Pick 113)",
+      "Brian Thomas Jr. (Pick 128)",
+      "Romeo Doubs (Pick 137)",
+      "Kaimi Fairbairn (Pick 152)",
+      "Texans (Pick 161)",
+      "Luke Musgrave (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":113,
+    "Winner":"Team 11",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1403.94,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1403.94,
+      "Team 2":1452.24,
+      "Team 3":1179.98,
+      "Team 4":1117.12,
+      "Team 5":1365.78,
+      "Team 6":1268.72,
+      "Team 7":1436.86,
+      "Team 8":1323.62,
+      "Team 9":1239.74,
+      "Team 10":1186.26,
+      "Team 11":1533.1,
+      "Team 12":1369.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":309.0,
+      "Team 2":347.6,
+      "Team 5":351.56,
+      "Team 7":345.84
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Josh Jacobs (Pick 24)",
+      "Drake London (Pick 25)",
+      "Dalton Kincaid (Pick 48)",
+      "Jordan Love (Pick 49)",
+      "David Njoku (Pick 72)",
+      "DeAndre Hopkins (Pick 73)",
+      "Xavier Worthy (Pick 96)",
+      "Rome Odunze (Pick 97)",
+      "Chase Brown (Pick 120)",
+      "Brian Thomas Jr. (Pick 121)",
+      "Brandin Cooks (Pick 144)",
+      "Jake Elliott (Pick 145)",
+      "Texans (Pick 168)",
+      "Cooper Rush (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":114,
+    "Winner":"Team 2",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1458.44,
+    "DM-Points-Playoffs":438.44,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1252.64,
+      "Team 2":1370.08,
+      "Team 3":1344.44,
+      "Team 4":1458.44,
+      "Team 5":1329.74,
+      "Team 6":1336.26,
+      "Team 7":1331.12,
+      "Team 8":1224.72,
+      "Team 9":1357.18,
+      "Team 10":1472.82,
+      "Team 11":1241.46,
+      "Team 12":1352.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":324.0,
+      "Team 4":438.44,
+      "Team 10":305.88,
+      "Team 5":260.5
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Derrick Henry (Pick 21)",
+      "Mike Evans (Pick 28)",
+      "Rachaad White (Pick 45)",
+      "Trey McBride (Pick 52)",
+      "Jordan Love (Pick 69)",
+      "DeAndre Hopkins (Pick 76)",
+      "Keon Coleman (Pick 93)",
+      "Chase Brown (Pick 100)",
+      "Brian Thomas Jr. (Pick 117)",
+      "Romeo Doubs (Pick 124)",
+      "Brandin Cooks (Pick 141)",
+      "Kaimi Fairbairn (Pick 148)",
+      "Xavier Legette (Pick 165)",
+      "Texans (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":115,
+    "Winner":"Team 8",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1439.24,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1249.76,
+      "Team 2":1371.14,
+      "Team 3":1269.44,
+      "Team 4":1355.12,
+      "Team 5":1439.24,
+      "Team 6":1308.58,
+      "Team 7":1141.56,
+      "Team 8":1314.4,
+      "Team 9":1266.34,
+      "Team 10":1277.06,
+      "Team 11":1466.3,
+      "Team 12":1408.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":366.6,
+      "Team 11":357.34,
+      "Team 1":319.16,
+      "Team 2":160.7
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Travis Kelce (Pick 20)",
+      "Josh Jacobs (Pick 29)",
+      "Alvin Kamara (Pick 44)",
+      "George Pickens (Pick 53)",
+      "Jordan Love (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Xavier Worthy (Pick 92)",
+      "Keon Coleman (Pick 101)",
+      "Brian Thomas Jr. (Pick 116)",
+      "Romeo Doubs (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Jake Elliott (Pick 149)",
+      "Texans (Pick 164)",
+      "Matthew Wright (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":116,
+    "Winner":"Team 8",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1565.56,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1233.84,
+      "Team 2":1186.96,
+      "Team 3":1434.38,
+      "Team 4":1025.22,
+      "Team 5":1377.86,
+      "Team 6":1478.34,
+      "Team 7":1163.24,
+      "Team 8":1582.94,
+      "Team 9":1253.46,
+      "Team 10":1391.38,
+      "Team 11":1452.34,
+      "Team 12":1565.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":334.72,
+      "Team 3":288.26,
+      "Team 6":370.9,
+      "Team 11":347.4
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Travis Kelce (Pick 36)",
+      "Cooper Kupp (Pick 37)",
+      "Alvin Kamara (Pick 60)",
+      "Jordan Love (Pick 61)",
+      "George Pickens (Pick 84)",
+      "David Njoku (Pick 85)",
+      "Keon Coleman (Pick 108)",
+      "DeAndre Hopkins (Pick 109)",
+      "Romeo Doubs (Pick 132)",
+      "Brian Thomas Jr. (Pick 133)",
+      "Jake Elliott (Pick 156)",
+      "Texans (Pick 157)",
+      "Tyler Huntley (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":117,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1302.7,
+    "DM-Points-Playoffs":370.1,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1071.74,
+      "Team 2":1495.52,
+      "Team 3":1282.9,
+      "Team 4":1302.7,
+      "Team 5":1277.38,
+      "Team 6":1233.36,
+      "Team 7":1542.98,
+      "Team 8":1225.72,
+      "Team 9":1551.34,
+      "Team 10":1010.38,
+      "Team 11":1184.34,
+      "Team 12":1422.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":282.26,
+      "Team 7":365.28,
+      "Team 2":371.1,
+      "Team 4":370.1
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Derrick Henry (Pick 21)",
+      "Josh Jacobs (Pick 28)",
+      "Trey McBride (Pick 45)",
+      "Dalton Kincaid (Pick 52)",
+      "Chase Brown (Pick 69)",
+      "Harrison Butker (Pick 76)",
+      "Jets (Pick 93)",
+      "Kaimi Fairbairn (Pick 100)",
+      "Dylan Laube (Pick 117)",
+      "Brian Thomas Jr. (Pick 124)",
+      "Romeo Doubs (Pick 141)",
+      "Brandin Cooks (Pick 148)",
+      "Panthers (Pick 165)",
+      "Nick Mullens (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":118,
+    "Winner":"Team 5",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1485.66,
+    "DM-Points-Playoffs":309.34,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1062.72,
+      "Team 2":1411.48,
+      "Team 3":1164.96,
+      "Team 4":1063.54,
+      "Team 5":1507.18,
+      "Team 6":1464.14,
+      "Team 7":1484.7,
+      "Team 8":1114.04,
+      "Team 9":1578.34,
+      "Team 10":1257.02,
+      "Team 11":1191.84,
+      "Team 12":1485.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":309.38,
+      "Team 9":375.3,
+      "Team 7":332.44,
+      "Team 12":309.34
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Drake London (Pick 36)",
+      "Cooper Kupp (Pick 37)",
+      "Jordan Love (Pick 60)",
+      "David Njoku (Pick 61)",
+      "Chase Brown (Pick 84)",
+      "DeAndre Hopkins (Pick 85)",
+      "Rome Odunze (Pick 108)",
+      "Keon Coleman (Pick 109)",
+      "Brian Thomas Jr. (Pick 132)",
+      "Romeo Doubs (Pick 133)",
+      "Adonai Mitchell (Pick 156)",
+      "Texans (Pick 157)",
+      "Tyler Bass (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":119,
+    "Winner":"Team 5",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      12,
+      2
+    ],
+    "DM-Points-Regular-Season":1561.04,
+    "DM-Points-Playoffs":413.24,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1305.78,
+      "Team 2":1135.04,
+      "Team 3":1256.08,
+      "Team 4":1317.4,
+      "Team 5":1561.04,
+      "Team 6":1322.02,
+      "Team 7":1273.62,
+      "Team 8":1430.12,
+      "Team 9":1363.26,
+      "Team 10":1047.96,
+      "Team 11":1420.56,
+      "Team 12":1148.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":413.24,
+      "Team 8":370.62,
+      "Team 9":251.08,
+      "Team 2":272.02
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Derrick Henry (Pick 20)",
+      "Drake London (Pick 29)",
+      "Alvin Kamara (Pick 44)",
+      "Trey McBride (Pick 53)",
+      "DeAndre Hopkins (Pick 68)",
+      "Keon Coleman (Pick 77)",
+      "Xavier Worthy (Pick 92)",
+      "Jayden Daniels (Pick 101)",
+      "Brian Thomas Jr. (Pick 116)",
+      "Romeo Doubs (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Kaimi Fairbairn (Pick 149)",
+      "Jalen McMillan (Pick 164)",
+      "Texans (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":120,
+    "Winner":"Team 9",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1497.84,
+    "DM-Points-Playoffs":329.04,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1189.76,
+      "Team 2":1455.42,
+      "Team 3":1233.98,
+      "Team 4":1275.68,
+      "Team 5":1319.72,
+      "Team 6":1255.84,
+      "Team 7":1566.24,
+      "Team 8":1125.54,
+      "Team 9":1497.84,
+      "Team 10":1224.78,
+      "Team 11":1266.82,
+      "Team 12":1425.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":329.04,
+      "Team 12":335.74,
+      "Team 6":310.32,
+      "Team 7":325.12
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "Josh Jacobs (Pick 33)",
+      "Cooper Kupp (Pick 40)",
+      "Alvin Kamara (Pick 57)",
+      "Jordan Love (Pick 64)",
+      "DeAndre Hopkins (Pick 81)",
+      "Keon Coleman (Pick 88)",
+      "Chase Brown (Pick 105)",
+      "Rome Odunze (Pick 112)",
+      "Brian Thomas Jr. (Pick 129)",
+      "Romeo Doubs (Pick 136)",
+      "Jake Elliott (Pick 153)",
+      "Texans (Pick 160)",
+      "Luke Musgrave (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":121,
+    "Winner":"Team 3",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1445.84,
+    "DM-Points-Playoffs":362.14,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1280.08,
+      "Team 2":1445.84,
+      "Team 3":1472.36,
+      "Team 4":1256.12,
+      "Team 5":1341.56,
+      "Team 6":1234.58,
+      "Team 7":1437.0,
+      "Team 8":1310.1,
+      "Team 9":1458.28,
+      "Team 10":1050.02,
+      "Team 11":1214.38,
+      "Team 12":1374.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":297.72,
+      "Team 12":366.7,
+      "Team 1":211.34,
+      "Team 2":362.14
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Travis Kelce (Pick 26)",
+      "Rachaad White (Pick 47)",
+      "Alvin Kamara (Pick 50)",
+      "Dalton Kincaid (Pick 71)",
+      "Jordan Love (Pick 74)",
+      "Nathaniel Dell (Pick 95)",
+      "David Njoku (Pick 98)",
+      "Brian Thomas Jr. (Pick 119)",
+      "Romeo Doubs (Pick 122)",
+      "Dustin Hopkins (Pick 143)",
+      "Brandin Cooks (Pick 146)",
+      "Rome Odunze (Pick 167)",
+      "Texans (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":122,
+    "Winner":"Team 6",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1363.86,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1163.82,
+      "Team 2":1428.84,
+      "Team 3":1157.42,
+      "Team 4":1474.34,
+      "Team 5":1197.92,
+      "Team 6":1675.7,
+      "Team 7":1256.38,
+      "Team 8":1474.0,
+      "Team 9":1363.86,
+      "Team 10":1071.66,
+      "Team 11":1421.0,
+      "Team 12":1113.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":344.02,
+      "Team 8":283.44,
+      "Team 2":287.7,
+      "Team 11":302.68
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 9)",
+      "Devon Achane (Pick 16)",
+      "Josh Jacobs (Pick 33)",
+      "Drake London (Pick 40)",
+      "Jordan Love (Pick 57)",
+      "Nathaniel Dell (Pick 64)",
+      "DeAndre Hopkins (Pick 81)",
+      "Keon Coleman (Pick 88)",
+      "Chase Brown (Pick 105)",
+      "Brian Thomas Jr. (Pick 112)",
+      "Romeo Doubs (Pick 129)",
+      "Brandin Cooks (Pick 136)",
+      "Jake Elliott (Pick 153)",
+      "Texans (Pick 160)",
+      "Ben Sinnott (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":123,
+    "Winner":"Team 8",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1262.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1262.6,
+      "Team 2":1096.74,
+      "Team 3":1357.88,
+      "Team 4":1227.8,
+      "Team 5":1411.7,
+      "Team 6":1449.64,
+      "Team 7":1326.74,
+      "Team 8":1517.56,
+      "Team 9":1114.68,
+      "Team 10":1301.72,
+      "Team 11":1426.8,
+      "Team 12":1260.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":448.0,
+      "Team 6":299.2,
+      "Team 11":342.4,
+      "Team 4":213.92
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Devon Achane (Pick 24)",
+      "Drake London (Pick 25)",
+      "Alvin Kamara (Pick 48)",
+      "Dalton Kincaid (Pick 49)",
+      "DeAndre Hopkins (Pick 72)",
+      "Keon Coleman (Pick 73)",
+      "Xavier Worthy (Pick 96)",
+      "Chase Brown (Pick 97)",
+      "Jets (Pick 120)",
+      "Brian Thomas Jr. (Pick 121)",
+      "Romeo Doubs (Pick 144)",
+      "Brandin Cooks (Pick 145)",
+      "Jake Elliott (Pick 168)",
+      "Nick Mullens (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":124,
+    "Winner":"Team 6",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1511.44,
+    "DM-Points-Playoffs":407.04,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1316.84,
+      "Team 2":1385.72,
+      "Team 3":1273.76,
+      "Team 4":1304.46,
+      "Team 5":1511.44,
+      "Team 6":1491.0,
+      "Team 7":1171.2,
+      "Team 8":1287.16,
+      "Team 9":1330.06,
+      "Team 10":1154.08,
+      "Team 11":1354.48,
+      "Team 12":1316.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":344.58,
+      "Team 5":407.04,
+      "Team 1":255.34,
+      "Team 11":403.6
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Derrick Henry (Pick 20)",
+      "Travis Kelce (Pick 29)",
+      "Mike Evans (Pick 44)",
+      "Alvin Kamara (Pick 53)",
+      "Jordan Love (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Keon Coleman (Pick 92)",
+      "Chase Brown (Pick 101)",
+      "Jets (Pick 116)",
+      "Brian Thomas Jr. (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Kaimi Fairbairn (Pick 149)",
+      "Quentin Johnston (Pick 164)",
+      "Matthew Wright (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":125,
+    "Winner":"Team 10",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1383.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1078.0,
+      "Team 2":1221.94,
+      "Team 3":1340.96,
+      "Team 4":1383.64,
+      "Team 5":1404.4,
+      "Team 6":1086.08,
+      "Team 7":1452.56,
+      "Team 8":1445.64,
+      "Team 9":1345.04,
+      "Team 10":1385.5,
+      "Team 11":1468.04,
+      "Team 12":1284.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":314.88,
+      "Team 3":304.3,
+      "Team 8":333.42,
+      "Team 11":306.38
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Devon Achane (Pick 21)",
+      "Josh Jacobs (Pick 28)",
+      "Alvin Kamara (Pick 45)",
+      "Jordan Love (Pick 52)",
+      "Chase Brown (Pick 69)",
+      "Harrison Butker (Pick 76)",
+      "Kaimi Fairbairn (Pick 93)",
+      "Brandin Cooks (Pick 100)",
+      "Brian Thomas Jr. (Pick 117)",
+      "Romeo Doubs (Pick 124)",
+      "Xavier Legette (Pick 141)",
+      "Michael Wilson (Pick 148)",
+      "Panthers (Pick 165)",
+      "Will Mallory (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":151,
+    "Winner":"Team 8",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1468.36,
+    "DM-Points-Playoffs":340.14,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1285.18,
+      "Team 2":1293.14,
+      "Team 3":1265.9,
+      "Team 4":1306.24,
+      "Team 5":1239.18,
+      "Team 6":1140.46,
+      "Team 7":1186.32,
+      "Team 8":1412.44,
+      "Team 9":1512.24,
+      "Team 10":1425.58,
+      "Team 11":1490.3,
+      "Team 12":1468.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":390.72,
+      "Team 4":310.98,
+      "Team 12":340.14,
+      "Team 9":337.8
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Alvin Kamara (Pick 36)",
+      "Trey McBride (Pick 37)",
+      "George Pickens (Pick 60)",
+      "Jordan Love (Pick 61)",
+      "Chase Brown (Pick 84)",
+      "Jets (Pick 85)",
+      "Xavier Worthy (Pick 108)",
+      "DeAndre Hopkins (Pick 109)",
+      "Romeo Doubs (Pick 132)",
+      "Brandin Cooks (Pick 133)",
+      "Kaimi Fairbairn (Pick 156)",
+      "Dylan Laube (Pick 157)",
+      "Tyler Huntley (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":152,
+    "Winner":"Team 10",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1382.34,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1379.78,
+      "Team 2":1253.86,
+      "Team 3":1359.06,
+      "Team 4":1157.74,
+      "Team 5":1372.1,
+      "Team 6":1241.94,
+      "Team 7":1382.34,
+      "Team 8":1535.82,
+      "Team 9":1196.4,
+      "Team 10":1475.86,
+      "Team 11":1182.32,
+      "Team 12":1409.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":361.14,
+      "Team 5":320.1,
+      "Team 1":324.12,
+      "Team 2":295.74
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 7)",
+      "Devon Achane (Pick 18)",
+      "Mike Evans (Pick 31)",
+      "Trey McBride (Pick 42)",
+      "Jordan Love (Pick 55)",
+      "DeAndre Hopkins (Pick 66)",
+      "Keon Coleman (Pick 79)",
+      "Xavier Worthy (Pick 90)",
+      "D'Andre Swift (Pick 103)",
+      "Rome Odunze (Pick 114)",
+      "Harrison Butker (Pick 127)",
+      "Brian Thomas Jr. (Pick 138)",
+      "Dylan Laube (Pick 151)",
+      "Broncos (Pick 162)",
+      "Nick Mullens (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":153,
+    "Winner":"Team 9",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1429.84,
+    "DM-Points-Playoffs":367.44,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1323.02,
+      "Team 2":1259.38,
+      "Team 3":1237.84,
+      "Team 4":1350.46,
+      "Team 5":1389.66,
+      "Team 6":1596.28,
+      "Team 7":1196.34,
+      "Team 8":1429.84,
+      "Team 9":1405.3,
+      "Team 10":1219.36,
+      "Team 11":1022.92,
+      "Team 12":1388.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":303.34,
+      "Team 5":372.88,
+      "Team 6":299.9,
+      "Team 8":367.44
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 8)",
+      "Derrick Henry (Pick 17)",
+      "Josh Jacobs (Pick 32)",
+      "Mike Evans (Pick 41)",
+      "Dalton Kincaid (Pick 56)",
+      "Jordan Love (Pick 65)",
+      "DeAndre Hopkins (Pick 80)",
+      "Keon Coleman (Pick 89)",
+      "Chase Brown (Pick 104)",
+      "Brian Thomas Jr. (Pick 113)",
+      "Romeo Doubs (Pick 128)",
+      "Brandin Cooks (Pick 137)",
+      "Dylan Laube (Pick 152)",
+      "Jake Moody (Pick 161)",
+      "Texans (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":154,
+    "Winner":"Team 6",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":1078.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1339.18,
+      "Team 2":1284.56,
+      "Team 3":1175.44,
+      "Team 4":1078.46,
+      "Team 5":1347.18,
+      "Team 6":1473.26,
+      "Team 7":1405.0,
+      "Team 8":1328.78,
+      "Team 9":1304.92,
+      "Team 10":1260.36,
+      "Team 11":1366.28,
+      "Team 12":1291.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":325.7,
+      "Team 11":418.5,
+      "Team 1":311.76,
+      "Team 5":309.88
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Derrick Henry (Pick 21)",
+      "Drake London (Pick 28)",
+      "Trey McBride (Pick 45)",
+      "David Njoku (Pick 52)",
+      "DeAndre Hopkins (Pick 69)",
+      "Keon Coleman (Pick 76)",
+      "Rome Odunze (Pick 93)",
+      "Harrison Butker (Pick 100)",
+      "Brian Thomas Jr. (Pick 117)",
+      "Kaimi Fairbairn (Pick 124)",
+      "Brandin Cooks (Pick 141)",
+      "Jaguars (Pick 148)",
+      "Trayveon Williams (Pick 165)",
+      "Tyler Huntley (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":155,
+    "Winner":"Team 10",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      12,
+      2
+    ],
+    "DM-Points-Regular-Season":1523.76,
+    "DM-Points-Playoffs":318.04,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1372.9,
+      "Team 2":1294.04,
+      "Team 3":1617.38,
+      "Team 4":1388.42,
+      "Team 5":997.78,
+      "Team 6":1151.52,
+      "Team 7":1388.46,
+      "Team 8":1361.02,
+      "Team 9":1051.16,
+      "Team 10":1523.76,
+      "Team 11":1306.82,
+      "Team 12":1341.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":318.04,
+      "Team 1":366.8,
+      "Team 3":283.54,
+      "Team 4":355.32
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Mike Evans (Pick 34)",
+      "Cooper Kupp (Pick 39)",
+      "Alvin Kamara (Pick 58)",
+      "Jordan Love (Pick 63)",
+      "David Njoku (Pick 82)",
+      "Xavier Worthy (Pick 87)",
+      "DeAndre Hopkins (Pick 106)",
+      "Keon Coleman (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Romeo Doubs (Pick 135)",
+      "Jake Elliott (Pick 154)",
+      "Kaimi Fairbairn (Pick 159)",
+      "Texans (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":156,
+    "Winner":"Team 5",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1263.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1492.88,
+      "Team 2":890.46,
+      "Team 3":1317.94,
+      "Team 4":1127.68,
+      "Team 5":1492.4,
+      "Team 6":1374.7,
+      "Team 7":1395.12,
+      "Team 8":1263.26,
+      "Team 9":1430.32,
+      "Team 10":1341.54,
+      "Team 11":1182.94,
+      "Team 12":1281.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":316.8,
+      "Team 1":248.56,
+      "Team 9":325.72,
+      "Team 6":363.7
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Rachaad White (Pick 32)",
+      "Drake London (Pick 41)",
+      "Trey McBride (Pick 56)",
+      "David Njoku (Pick 65)",
+      "Chase Brown (Pick 80)",
+      "Xavier Worthy (Pick 89)",
+      "DeAndre Hopkins (Pick 104)",
+      "Rome Odunze (Pick 113)",
+      "Brian Thomas Jr. (Pick 128)",
+      "Brandin Cooks (Pick 137)",
+      "Jake Elliott (Pick 152)",
+      "Broncos (Pick 161)",
+      "Tyler Huntley (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":157,
+    "Winner":"Team 6",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1498.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1328.3,
+      "Team 2":1078.32,
+      "Team 3":1386.24,
+      "Team 4":1375.98,
+      "Team 5":1184.6,
+      "Team 6":1432.76,
+      "Team 7":1250.3,
+      "Team 8":1267.98,
+      "Team 9":1452.48,
+      "Team 10":1498.26,
+      "Team 11":1281.12,
+      "Team 12":1323.02
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":344.88,
+      "Team 8":331.1,
+      "Team 3":274.22,
+      "Team 7":313.06
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Devon Achane (Pick 15)",
+      "Rachaad White (Pick 34)",
+      "Alvin Kamara (Pick 39)",
+      "David Njoku (Pick 58)",
+      "Chase Brown (Pick 63)",
+      "Jayden Daniels (Pick 82)",
+      "Dylan Laube (Pick 87)",
+      "Xavier Worthy (Pick 106)",
+      "Xavier Legette (Pick 111)",
+      "Brian Thomas Jr. (Pick 130)",
+      "Romeo Doubs (Pick 135)",
+      "Brandin Cooks (Pick 154)",
+      "Texans (Pick 159)",
+      "Jake Moody (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":158,
+    "Winner":"Team 10",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1495.96,
+    "DM-Points-Playoffs":361.74,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1361.02,
+      "Team 2":1260.74,
+      "Team 3":1084.24,
+      "Team 4":1477.36,
+      "Team 5":1377.26,
+      "Team 6":1390.48,
+      "Team 7":1290.32,
+      "Team 8":1267.9,
+      "Team 9":1183.54,
+      "Team 10":1452.58,
+      "Team 11":1495.96,
+      "Team 12":1338.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":335.54,
+      "Team 11":361.74,
+      "Team 12":331.38,
+      "Team 5":338.8
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 11)",
+      "Devon Achane (Pick 14)",
+      "Alvin Kamara (Pick 35)",
+      "Trey McBride (Pick 38)",
+      "George Pickens (Pick 59)",
+      "Jordan Love (Pick 62)",
+      "Chase Brown (Pick 83)",
+      "Nathaniel Dell (Pick 86)",
+      "Keon Coleman (Pick 107)",
+      "DeAndre Hopkins (Pick 110)",
+      "Brian Thomas Jr. (Pick 131)",
+      "Romeo Doubs (Pick 134)",
+      "Brandin Cooks (Pick 155)",
+      "Matt Gay (Pick 158)",
+      "Jaguars (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":159,
+    "Winner":"Team 2",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1303.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1207.68,
+      "Team 2":1394.76,
+      "Team 3":1492.76,
+      "Team 4":1453.16,
+      "Team 5":1233.02,
+      "Team 6":1244.06,
+      "Team 7":1303.46,
+      "Team 8":1306.84,
+      "Team 9":1399.46,
+      "Team 10":1100.88,
+      "Team 11":1323.8,
+      "Team 12":1268.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":292.5,
+      "Team 3":317.76,
+      "Team 12":278.58,
+      "Team 6":334.98
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 7)",
+      "Derrick Henry (Pick 18)",
+      "Josh Jacobs (Pick 31)",
+      "Mike Evans (Pick 42)",
+      "Dalton Kincaid (Pick 55)",
+      "David Njoku (Pick 66)",
+      "DeAndre Hopkins (Pick 79)",
+      "Xavier Worthy (Pick 90)",
+      "Keon Coleman (Pick 103)",
+      "Rome Odunze (Pick 114)",
+      "Brian Thomas Jr. (Pick 127)",
+      "Romeo Doubs (Pick 138)",
+      "Kaimi Fairbairn (Pick 151)",
+      "Texans (Pick 162)",
+      "Tyler Huntley (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":160,
+    "Winner":"Team 10",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1411.64,
+    "DM-Points-Playoffs":379.14,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1249.36,
+      "Team 2":1411.64,
+      "Team 3":1206.62,
+      "Team 4":1342.08,
+      "Team 5":1256.16,
+      "Team 6":1359.54,
+      "Team 7":1348.58,
+      "Team 8":1329.42,
+      "Team 9":1357.16,
+      "Team 10":1470.44,
+      "Team 11":1219.24,
+      "Team 12":1373.76
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":284.02,
+      "Team 2":379.14,
+      "Team 11":252.08,
+      "Team 7":307.48
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Josh Jacobs (Pick 23)",
+      "Drake London (Pick 26)",
+      "Dalton Kincaid (Pick 47)",
+      "Jordan Love (Pick 50)",
+      "David Njoku (Pick 71)",
+      "DeAndre Hopkins (Pick 74)",
+      "Keon Coleman (Pick 95)",
+      "Xavier Worthy (Pick 98)",
+      "Chase Brown (Pick 119)",
+      "Brian Thomas Jr. (Pick 122)",
+      "Romeo Doubs (Pick 143)",
+      "Brandin Cooks (Pick 146)",
+      "Texans (Pick 167)",
+      "Blake Grupe (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":161,
+    "Winner":"Team 9",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1469.26,
+    "DM-Points-Playoffs":287.14,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1296.92,
+      "Team 2":1456.44,
+      "Team 3":1332.06,
+      "Team 4":1218.54,
+      "Team 5":1281.1,
+      "Team 6":1484.0,
+      "Team 7":1361.86,
+      "Team 8":1189.42,
+      "Team 9":1469.26,
+      "Team 10":1190.18,
+      "Team 11":1283.88,
+      "Team 12":1315.92
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":287.14,
+      "Team 6":335.3,
+      "Team 4":254.58,
+      "Team 7":357.28
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 9)",
+      "Devon Achane (Pick 16)",
+      "Travis Kelce (Pick 33)",
+      "Alvin Kamara (Pick 40)",
+      "Trey McBride (Pick 57)",
+      "George Pickens (Pick 64)",
+      "Jordan Love (Pick 81)",
+      "Chase Brown (Pick 88)",
+      "Dylan Laube (Pick 105)",
+      "Jake Moody (Pick 112)",
+      "Texans (Pick 129)",
+      "Demarcus Robinson (Pick 136)",
+      "Brandin Cooks (Pick 153)",
+      "Xavier Legette (Pick 160)",
+      "Matthew Wright (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":162,
+    "Winner":"Team 10",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1367.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1367.54,
+      "Team 2":1248.04,
+      "Team 3":1249.48,
+      "Team 4":1210.7,
+      "Team 5":1451.62,
+      "Team 6":1302.8,
+      "Team 7":1435.78,
+      "Team 8":1265.34,
+      "Team 9":1081.74,
+      "Team 10":1619.6,
+      "Team 11":1342.32,
+      "Team 12":1469.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":389.6,
+      "Team 5":373.64,
+      "Team 3":247.1,
+      "Team 11":325.8
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Travis Kelce (Pick 24)",
+      "Drake London (Pick 25)",
+      "Cooper Kupp (Pick 48)",
+      "Trey McBride (Pick 49)",
+      "Jordan Love (Pick 72)",
+      "DeAndre Hopkins (Pick 73)",
+      "Keon Coleman (Pick 96)",
+      "Devin Singletary (Pick 97)",
+      "Brian Thomas Jr. (Pick 120)",
+      "Chase Brown (Pick 121)",
+      "Romeo Doubs (Pick 144)",
+      "Brandin Cooks (Pick 145)",
+      "Texans (Pick 168)",
+      "Matthew Wright (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":163,
+    "Winner":"Team 4",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1563.74,
+    "DM-Points-Playoffs":394.04,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1376.92,
+      "Team 2":1090.88,
+      "Team 3":1218.6,
+      "Team 4":1406.38,
+      "Team 5":1370.82,
+      "Team 6":1385.74,
+      "Team 7":1154.24,
+      "Team 8":1185.94,
+      "Team 9":1563.74,
+      "Team 10":1518.06,
+      "Team 11":1246.7,
+      "Team 12":1338.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":310.16,
+      "Team 6":312.3,
+      "Team 9":394.04,
+      "Team 10":320.62
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "Drake London (Pick 33)",
+      "Cooper Kupp (Pick 40)",
+      "Trey McBride (Pick 57)",
+      "Jayden Daniels (Pick 64)",
+      "D'Andre Swift (Pick 81)",
+      "DeAndre Hopkins (Pick 88)",
+      "Keon Coleman (Pick 105)",
+      "Rome Odunze (Pick 112)",
+      "Jets (Pick 129)",
+      "Brian Thomas Jr. (Pick 136)",
+      "Brandin Cooks (Pick 153)",
+      "Broncos (Pick 160)",
+      "Matthew Wright (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":164,
+    "Winner":"Team 6",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1273.6,
+    "DM-Points-Playoffs":298.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1379.68,
+      "Team 2":1273.6,
+      "Team 3":1303.44,
+      "Team 4":1103.76,
+      "Team 5":1453.78,
+      "Team 6":1456.98,
+      "Team 7":1110.9,
+      "Team 8":1562.14,
+      "Team 9":1307.06,
+      "Team 10":1291.18,
+      "Team 11":1303.3,
+      "Team 12":1235.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":266.58,
+      "Team 8":370.62,
+      "Team 2":298.0,
+      "Team 5":398.44
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 2)",
+      "Devon Achane (Pick 23)",
+      "Drake London (Pick 26)",
+      "Alvin Kamara (Pick 47)",
+      "Dalton Kincaid (Pick 50)",
+      "David Njoku (Pick 71)",
+      "DeAndre Hopkins (Pick 74)",
+      "Keon Coleman (Pick 95)",
+      "Xavier Worthy (Pick 98)",
+      "Brian Thomas Jr. (Pick 119)",
+      "Rome Odunze (Pick 122)",
+      "Romeo Doubs (Pick 143)",
+      "Jaguars (Pick 146)",
+      "Nick Mullens (Pick 167)",
+      "Matthew Wright (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":165,
+    "Winner":"Team 7",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1399.74,
+    "DM-Points-Playoffs":357.84,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1399.74,
+      "Team 2":1373.68,
+      "Team 3":1240.48,
+      "Team 4":1258.96,
+      "Team 5":1202.24,
+      "Team 6":1383.78,
+      "Team 7":1479.92,
+      "Team 8":1156.82,
+      "Team 9":1460.22,
+      "Team 10":1469.14,
+      "Team 11":1210.96,
+      "Team 12":1273.98
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":341.7,
+      "Team 1":357.84,
+      "Team 6":296.84,
+      "Team 12":308.1
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Devon Achane (Pick 24)",
+      "Josh Jacobs (Pick 25)",
+      "Jordan Love (Pick 48)",
+      "David Njoku (Pick 49)",
+      "George Pickens (Pick 72)",
+      "DeAndre Hopkins (Pick 73)",
+      "Keon Coleman (Pick 96)",
+      "Xavier Worthy (Pick 97)",
+      "Brian Thomas Jr. (Pick 120)",
+      "Romeo Doubs (Pick 121)",
+      "Brandin Cooks (Pick 144)",
+      "Texans (Pick 145)",
+      "Jake Moody (Pick 168)",
+      "Cooper Rush (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":166,
+    "Winner":"Team 3",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1405.52,
+    "DM-Points-Playoffs":385.12,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1269.32,
+      "Team 2":1268.86,
+      "Team 3":1405.52,
+      "Team 4":1145.72,
+      "Team 5":1348.24,
+      "Team 6":1299.32,
+      "Team 7":1481.08,
+      "Team 8":1377.88,
+      "Team 9":1451.34,
+      "Team 10":1382.16,
+      "Team 11":1264.0,
+      "Team 12":1413.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":385.12,
+      "Team 7":325.44,
+      "Team 12":366.7,
+      "Team 10":387.82
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 3)",
+      "Devon Achane (Pick 22)",
+      "Josh Jacobs (Pick 27)",
+      "Alvin Kamara (Pick 46)",
+      "Dalton Kincaid (Pick 51)",
+      "David Njoku (Pick 70)",
+      "Chase Brown (Pick 75)",
+      "Xavier Worthy (Pick 94)",
+      "DeAndre Hopkins (Pick 99)",
+      "Harrison Butker (Pick 118)",
+      "Brian Thomas Jr. (Pick 123)",
+      "Brandin Cooks (Pick 142)",
+      "Texans (Pick 147)",
+      "Keon Coleman (Pick 166)",
+      "Cooper Rush (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":167,
+    "Winner":"Team 10",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1349.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1242.84,
+      "Team 2":1199.46,
+      "Team 3":1324.04,
+      "Team 4":1349.44,
+      "Team 5":1392.1,
+      "Team 6":1408.04,
+      "Team 7":1387.16,
+      "Team 8":1444.26,
+      "Team 9":1270.82,
+      "Team 10":1568.22,
+      "Team 11":1282.58,
+      "Team 12":1303.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":322.1,
+      "Team 5":281.44,
+      "Team 7":311.78,
+      "Team 8":379.52
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 4)",
+      "Devon Achane (Pick 21)",
+      "Josh Jacobs (Pick 28)",
+      "Dalton Kincaid (Pick 45)",
+      "George Pickens (Pick 52)",
+      "Jordan Love (Pick 69)",
+      "DeAndre Hopkins (Pick 76)",
+      "Keon Coleman (Pick 93)",
+      "Xavier Worthy (Pick 100)",
+      "Harrison Butker (Pick 117)",
+      "Jets (Pick 124)",
+      "Romeo Doubs (Pick 141)",
+      "Brian Thomas Jr. (Pick 148)",
+      "Brandin Cooks (Pick 165)",
+      "Texans (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":168,
+    "Winner":"Team 7",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1297.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1164.46,
+      "Team 2":1428.7,
+      "Team 3":1373.5,
+      "Team 4":1429.48,
+      "Team 5":1117.02,
+      "Team 6":1350.96,
+      "Team 7":1276.0,
+      "Team 8":1372.4,
+      "Team 9":1345.44,
+      "Team 10":1170.18,
+      "Team 11":1346.64,
+      "Team 12":1297.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":342.22,
+      "Team 4":380.84,
+      "Team 1":274.16,
+      "Team 6":370.02
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "Devon Achane (Pick 13)",
+      "Cooper Kupp (Pick 36)",
+      "Alvin Kamara (Pick 37)",
+      "David Njoku (Pick 60)",
+      "Chase Brown (Pick 61)",
+      "DeAndre Hopkins (Pick 84)",
+      "Keon Coleman (Pick 85)",
+      "Rome Odunze (Pick 108)",
+      "Kaimi Fairbairn (Pick 109)",
+      "Brian Thomas Jr. (Pick 132)",
+      "Romeo Doubs (Pick 133)",
+      "Texans (Pick 156)",
+      "Michael Wilson (Pick 157)",
+      "Nick Mullens (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":169,
+    "Winner":"Team 8",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1229.08,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1197.62,
+      "Team 2":1389.92,
+      "Team 3":1233.0,
+      "Team 4":1359.18,
+      "Team 5":1229.08,
+      "Team 6":1337.8,
+      "Team 7":1261.54,
+      "Team 8":1593.6,
+      "Team 9":1043.98,
+      "Team 10":1508.58,
+      "Team 11":1252.3,
+      "Team 12":1294.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":408.4,
+      "Team 10":312.04,
+      "Team 4":286.14,
+      "Team 6":334.22
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 5)",
+      "Travis Kelce (Pick 20)",
+      "Mike Evans (Pick 29)",
+      "Rachaad White (Pick 44)",
+      "Alvin Kamara (Pick 53)",
+      "Dalton Kincaid (Pick 68)",
+      "DeAndre Hopkins (Pick 77)",
+      "Keon Coleman (Pick 92)",
+      "Chase Brown (Pick 101)",
+      "Brian Thomas Jr. (Pick 116)",
+      "Romeo Doubs (Pick 125)",
+      "Brandin Cooks (Pick 140)",
+      "Chris Boswell (Pick 149)",
+      "Broncos (Pick 164)",
+      "Easton Stick (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":170,
+    "Winner":"Team 10",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1355.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1216.36,
+      "Team 2":1269.46,
+      "Team 3":1172.46,
+      "Team 4":1428.94,
+      "Team 5":1213.66,
+      "Team 6":1355.68,
+      "Team 7":1205.14,
+      "Team 8":1454.76,
+      "Team 9":1268.52,
+      "Team 10":1498.88,
+      "Team 11":1490.12,
+      "Team 12":1349.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":340.28,
+      "Team 4":300.7,
+      "Team 8":310.2,
+      "Team 11":363.5
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 6)",
+      "Derrick Henry (Pick 19)",
+      "Devon Achane (Pick 30)",
+      "Cooper Kupp (Pick 43)",
+      "Dalton Kincaid (Pick 54)",
+      "David Njoku (Pick 67)",
+      "DeAndre Hopkins (Pick 78)",
+      "Keon Coleman (Pick 91)",
+      "Chase Brown (Pick 102)",
+      "Jets (Pick 115)",
+      "Brian Thomas Jr. (Pick 126)",
+      "Brandin Cooks (Pick 139)",
+      "Dylan Laube (Pick 150)",
+      "Blake Grupe (Pick 163)",
+      "Easton Stick (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":171,
+    "Winner":"Team 1",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1404.96,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1487.0,
+      "Team 2":1300.3,
+      "Team 3":1313.3,
+      "Team 4":1404.9,
+      "Team 5":1378.42,
+      "Team 6":1374.5,
+      "Team 7":1190.22,
+      "Team 8":1215.92,
+      "Team 9":1404.96,
+      "Team 10":1354.04,
+      "Team 11":1430.54,
+      "Team 12":1393.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":306.86,
+      "Team 5":226.44,
+      "Team 10":363.18,
+      "Team 3":260.16
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 9)",
+      "Devon Achane (Pick 16)",
+      "Drake London (Pick 33)",
+      "Cooper Kupp (Pick 40)",
+      "Dalton Kincaid (Pick 57)",
+      "Jordan Love (Pick 64)",
+      "David Njoku (Pick 81)",
+      "DeAndre Hopkins (Pick 88)",
+      "Keon Coleman (Pick 105)",
+      "Rome Odunze (Pick 112)",
+      "Jets (Pick 129)",
+      "Brian Thomas Jr. (Pick 136)",
+      "Brandin Cooks (Pick 153)",
+      "Kaimi Fairbairn (Pick 160)",
+      "Texans (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":172,
+    "Winner":"Team 12",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1235.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1382.68,
+      "Team 2":1197.58,
+      "Team 3":1278.96,
+      "Team 4":1415.32,
+      "Team 5":1089.72,
+      "Team 6":1235.5,
+      "Team 7":1575.84,
+      "Team 8":1295.58,
+      "Team 9":1384.64,
+      "Team 10":1320.98,
+      "Team 11":1423.1,
+      "Team 12":1411.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":320.98,
+      "Team 7":328.7,
+      "Team 11":250.04,
+      "Team 1":316.98
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 6)",
+      "Devon Achane (Pick 19)",
+      "Mike Evans (Pick 30)",
+      "Rachaad White (Pick 43)",
+      "Alvin Kamara (Pick 54)",
+      "David Njoku (Pick 67)",
+      "DeAndre Hopkins (Pick 78)",
+      "Xavier Worthy (Pick 91)",
+      "Keon Coleman (Pick 102)",
+      "Jets (Pick 115)",
+      "Brian Thomas Jr. (Pick 126)",
+      "Brandin Cooks (Pick 139)",
+      "Jake Moody (Pick 150)",
+      "Elijah Moore (Pick 163)",
+      "Nick Mullens (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":173,
+    "Winner":"Team 11",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1317.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1313.04,
+      "Team 2":1262.26,
+      "Team 3":1030.76,
+      "Team 4":1193.92,
+      "Team 5":1461.28,
+      "Team 6":1317.04,
+      "Team 7":1244.62,
+      "Team 8":1386.78,
+      "Team 9":1426.54,
+      "Team 10":1234.08,
+      "Team 11":1574.7,
+      "Team 12":1309.1
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":310.0,
+      "Team 5":353.58,
+      "Team 1":274.12,
+      "Team 8":295.68
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 6)",
+      "Travis Kelce (Pick 19)",
+      "Rachaad White (Pick 30)",
+      "Alvin Kamara (Pick 43)",
+      "Jordan Love (Pick 54)",
+      "David Njoku (Pick 67)",
+      "Nathaniel Dell (Pick 78)",
+      "DeAndre Hopkins (Pick 91)",
+      "Keon Coleman (Pick 102)",
+      "Chase Brown (Pick 115)",
+      "Harrison Butker (Pick 126)",
+      "Jets (Pick 139)",
+      "Brandin Cooks (Pick 150)",
+      "Kaimi Fairbairn (Pick 163)",
+      "Texans (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":174,
+    "Winner":"Team 1",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1430.24,
+    "DM-Points-Playoffs":339.54,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1430.24,
+      "Team 2":1206.54,
+      "Team 3":1395.16,
+      "Team 4":1130.52,
+      "Team 5":1492.78,
+      "Team 6":1284.98,
+      "Team 7":1311.66,
+      "Team 8":1376.42,
+      "Team 9":1044.84,
+      "Team 10":1270.46,
+      "Team 11":1501.54,
+      "Team 12":1443.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":339.54,
+      "Team 5":308.28,
+      "Team 11":394.3,
+      "Team 10":276.5
+    },
+    "DM-Picks":[
+      "Justin Jefferson (Pick 1)",
+      "Travis Kelce (Pick 24)",
+      "Josh Jacobs (Pick 25)",
+      "Alvin Kamara (Pick 48)",
+      "Jordan Love (Pick 49)",
+      "Nathaniel Dell (Pick 72)",
+      "David Njoku (Pick 73)",
+      "DeAndre Hopkins (Pick 96)",
+      "Devin Singletary (Pick 97)",
+      "Brian Thomas Jr. (Pick 120)",
+      "Romeo Doubs (Pick 121)",
+      "Brandin Cooks (Pick 144)",
+      "Jake Elliott (Pick 145)",
+      "Kaimi Fairbairn (Pick 168)",
+      "Texans (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":175,
+    "Winner":"Team 6",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1397.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1174.98,
+      "Team 2":1159.9,
+      "Team 3":1339.94,
+      "Team 4":1090.84,
+      "Team 5":1314.68,
+      "Team 6":1684.36,
+      "Team 7":1446.6,
+      "Team 8":1397.06,
+      "Team 9":1365.8,
+      "Team 10":1344.46,
+      "Team 11":1169.48,
+      "Team 12":1516.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":425.02,
+      "Team 12":330.18,
+      "Team 9":342.5,
+      "Team 10":262.34
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 8)",
+      "Devon Achane (Pick 17)",
+      "Travis Kelce (Pick 32)",
+      "Mike Evans (Pick 41)",
+      "George Pickens (Pick 56)",
+      "Jordan Love (Pick 65)",
+      "David Njoku (Pick 80)",
+      "DeAndre Hopkins (Pick 89)",
+      "Keon Coleman (Pick 104)",
+      "Brian Thomas Jr. (Pick 113)",
+      "Brandin Cooks (Pick 128)",
+      "Romeo Doubs (Pick 137)",
+      "Jake Elliott (Pick 152)",
+      "Xavier Legette (Pick 161)",
+      "Texans (Pick 176)"
+    ]
+  }
+]

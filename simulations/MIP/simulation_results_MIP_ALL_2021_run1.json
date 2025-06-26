@@ -1,0 +1,5002 @@
+[
+  {
+    "Simulation":1,
+    "Winner":"Team 8",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1190.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1176.16,
+      "Team 2":1172.26,
+      "Team 3":1190.7,
+      "Team 4":1253.44,
+      "Team 5":1325.4,
+      "Team 6":1326.82,
+      "Team 7":1071.48,
+      "Team 8":1512.52,
+      "Team 9":1379.44,
+      "Team 10":1420.5,
+      "Team 11":1342.84,
+      "Team 12":888.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":322.84,
+      "Team 11":328.46,
+      "Team 4":339.78,
+      "Team 6":242.8
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "David Montgomery (Pick 22)",
+      "Terry McLaurin (Pick 27)",
+      "Dak Prescott (Pick 46)",
+      "Diontae Johnson (Pick 51)",
+      "AJ Dillon (Pick 70)",
+      "Michael Pittman (Pick 75)",
+      "Michael Carter (Pick 94)",
+      "Steelers (Pick 99)",
+      "Will Fuller (Pick 118)",
+      "Jarvis Landry (Pick 123)",
+      "Tevin Coleman (Pick 142)",
+      "Jalen Reagor (Pick 147)",
+      "Chris Boswell (Pick 166)",
+      "Ross Dwelley (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":2,
+    "Winner":"Team 8",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1014.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1014.5,
+      "Team 2":1062.3,
+      "Team 3":1105.4,
+      "Team 4":1113.74,
+      "Team 5":1319.42,
+      "Team 6":1235.54,
+      "Team 7":1167.64,
+      "Team 8":1324.46,
+      "Team 9":1282.26,
+      "Team 10":1344.22,
+      "Team 11":1395.1,
+      "Team 12":1355.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":271.56,
+      "Team 12":285.6,
+      "Team 10":233.76,
+      "Team 11":320.6
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "Joe Mixon (Pick 24)",
+      "David Montgomery (Pick 25)",
+      "Chris Godwin (Pick 48)",
+      "DeVonta Smith (Pick 49)",
+      "James Conner (Pick 72)",
+      "AJ Dillon (Pick 73)",
+      "Antonio Brown (Pick 96)",
+      "Michael Carter (Pick 97)",
+      "Will Fuller (Pick 120)",
+      "Jarvis Landry (Pick 121)",
+      "Tyler Bass (Pick 144)",
+      "Bengals (Pick 145)",
+      "Dwayne Haskins (Pick 168)",
+      "Ross Dwelley (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":3,
+    "Winner":"Team 10",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1211.02,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1012.44,
+      "Team 2":1368.64,
+      "Team 3":918.0,
+      "Team 4":1211.02,
+      "Team 5":1190.32,
+      "Team 6":1022.96,
+      "Team 7":1419.22,
+      "Team 8":1269.9,
+      "Team 9":1351.44,
+      "Team 10":1578.12,
+      "Team 11":1270.08,
+      "Team 12":1253.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":285.88,
+      "Team 9":287.66,
+      "Team 12":309.74,
+      "Team 7":312.22
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "David Montgomery (Pick 21)",
+      "Terry McLaurin (Pick 28)",
+      "Chris Godwin (Pick 45)",
+      "Antonio Brown (Pick 52)",
+      "James Conner (Pick 69)",
+      "Steelers (Pick 76)",
+      "AJ Dillon (Pick 93)",
+      "Michael Pittman (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "Jarvis Landry (Pick 124)",
+      "David Johnson (Pick 141)",
+      "Carson Wentz (Pick 148)",
+      "Brandon McManus (Pick 165)",
+      "Ross Dwelley (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":4,
+    "Winner":"Team 10",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1394.82,
+    "DM-Points-Playoffs":251.08,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1185.88,
+      "Team 2":1398.04,
+      "Team 3":1144.6,
+      "Team 4":1394.82,
+      "Team 5":1206.74,
+      "Team 6":1202.78,
+      "Team 7":1263.2,
+      "Team 8":1342.68,
+      "Team 9":1091.76,
+      "Team 10":1333.6,
+      "Team 11":1275.98,
+      "Team 12":1347.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":270.32,
+      "Team 4":251.08,
+      "Team 6":225.3,
+      "Team 1":333.38
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "Joe Mixon (Pick 21)",
+      "Terry McLaurin (Pick 28)",
+      "Mike Evans (Pick 45)",
+      "Diontae Johnson (Pick 52)",
+      "Michael Pittman (Pick 69)",
+      "D.J. Chark (Pick 76)",
+      "James Conner (Pick 93)",
+      "AJ Dillon (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "Jarvis Landry (Pick 124)",
+      "Chris Boswell (Pick 141)",
+      "Carson Wentz (Pick 148)",
+      "Bengals (Pick 165)",
+      "Zach Ertz (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":5,
+    "Winner":"Team 6",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1284.02,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1297.06,
+      "Team 2":1006.28,
+      "Team 3":1110.64,
+      "Team 4":1318.56,
+      "Team 5":1344.28,
+      "Team 6":1427.14,
+      "Team 7":1169.88,
+      "Team 8":1148.96,
+      "Team 9":1383.56,
+      "Team 10":1284.02,
+      "Team 11":931.8,
+      "Team 12":1395.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":298.02,
+      "Team 1":297.48,
+      "Team 7":310.78,
+      "Team 9":234.42
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 10)",
+      "Antonio Gibson (Pick 15)",
+      "Mike Evans (Pick 34)",
+      "Chris Godwin (Pick 39)",
+      "Diontae Johnson (Pick 58)",
+      "Michael Pittman (Pick 63)",
+      "D.J. Chark (Pick 82)",
+      "James Conner (Pick 87)",
+      "Will Fuller (Pick 106)",
+      "Jarvis Landry (Pick 111)",
+      "Tyler Bass (Pick 130)",
+      "David Johnson (Pick 135)",
+      "Colts (Pick 154)",
+      "Carson Wentz (Pick 159)",
+      "Ross Dwelley (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":6,
+    "Winner":"Team 12",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1029.02,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1238.46,
+      "Team 2":1230.86,
+      "Team 3":1289.56,
+      "Team 4":1266.38,
+      "Team 5":969.36,
+      "Team 6":1300.46,
+      "Team 7":1268.98,
+      "Team 8":1396.96,
+      "Team 9":1106.86,
+      "Team 10":1029.02,
+      "Team 11":1406.24,
+      "Team 12":1373.98
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":285.44,
+      "Team 8":280.52,
+      "Team 11":225.48,
+      "Team 3":342.28
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 10)",
+      "DeAndre Hopkins (Pick 15)",
+      "David Montgomery (Pick 34)",
+      "Terry McLaurin (Pick 39)",
+      "Diontae Johnson (Pick 58)",
+      "Michael Pittman (Pick 63)",
+      "D.J. Chark (Pick 82)",
+      "Steelers (Pick 87)",
+      "J.J. Taylor (Pick 106)",
+      "Will Fuller (Pick 111)",
+      "Darnell Mooney (Pick 130)",
+      "Jalen Reagor (Pick 135)",
+      "Carson Wentz (Pick 154)",
+      "Mason Crosby (Pick 159)",
+      "Ross Dwelley (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":7,
+    "Winner":"Team 2",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1072.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1413.84,
+      "Team 2":1361.74,
+      "Team 3":1120.9,
+      "Team 4":1268.26,
+      "Team 5":1496.7,
+      "Team 6":1072.9,
+      "Team 7":1224.0,
+      "Team 8":1344.9,
+      "Team 9":1158.56,
+      "Team 10":1320.32,
+      "Team 11":1120.62,
+      "Team 12":1254.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":273.06,
+      "Team 10":215.1,
+      "Team 5":343.48,
+      "Team 1":337.28
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 6)",
+      "DeAndre Hopkins (Pick 19)",
+      "David Montgomery (Pick 30)",
+      "Chris Carson (Pick 43)",
+      "Diontae Johnson (Pick 54)",
+      "James Conner (Pick 67)",
+      "Steelers (Pick 78)",
+      "Michael Carter (Pick 91)",
+      "AJ Dillon (Pick 102)",
+      "Will Fuller (Pick 115)",
+      "Jarvis Landry (Pick 126)",
+      "Tevin Coleman (Pick 139)",
+      "Zach Ertz (Pick 150)",
+      "Dwayne Haskins (Pick 163)",
+      "Kai Forbath (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":8,
+    "Winner":"Team 3",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1382.32,
+    "DM-Points-Playoffs":292.78,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1333.98,
+      "Team 2":1077.1,
+      "Team 3":1318.94,
+      "Team 4":1382.32,
+      "Team 5":1195.12,
+      "Team 6":1260.58,
+      "Team 7":1280.84,
+      "Team 8":1289.76,
+      "Team 9":1398.5,
+      "Team 10":1252.38,
+      "Team 11":1246.34,
+      "Team 12":1023.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":240.96,
+      "Team 4":292.78,
+      "Team 1":296.22,
+      "Team 8":266.72
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "David Montgomery (Pick 21)",
+      "Chris Carson (Pick 28)",
+      "Chris Godwin (Pick 45)",
+      "Diontae Johnson (Pick 52)",
+      "James Conner (Pick 69)",
+      "Michael Pittman (Pick 76)",
+      "Antonio Brown (Pick 93)",
+      "Michael Carter (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "Jarvis Landry (Pick 124)",
+      "Zach Ertz (Pick 141)",
+      "Chris Boswell (Pick 148)",
+      "Bengals (Pick 165)",
+      "Carson Wentz (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":9,
+    "Winner":"Team 9",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1245.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1174.54,
+      "Team 2":1354.92,
+      "Team 3":882.14,
+      "Team 4":1131.2,
+      "Team 5":1365.86,
+      "Team 6":1218.56,
+      "Team 7":1418.42,
+      "Team 8":1245.06,
+      "Team 9":1638.54,
+      "Team 10":1065.5,
+      "Team 11":1396.26,
+      "Team 12":1110.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":408.28,
+      "Team 7":387.8,
+      "Team 5":224.56,
+      "Team 11":307.0
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 8)",
+      "Patrick Mahomes (Pick 17)",
+      "David Montgomery (Pick 32)",
+      "Dak Prescott (Pick 41)",
+      "Diontae Johnson (Pick 56)",
+      "James Conner (Pick 65)",
+      "AJ Dillon (Pick 80)",
+      "Darnell Mooney (Pick 89)",
+      "Michael Pittman (Pick 104)",
+      "Will Fuller (Pick 113)",
+      "David Johnson (Pick 128)",
+      "Tevin Coleman (Pick 137)",
+      "Colts (Pick 152)",
+      "Mason Crosby (Pick 161)",
+      "Johnny Mundt (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":10,
+    "Winner":"Team 9",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1016.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1059.84,
+      "Team 2":1315.74,
+      "Team 3":1132.06,
+      "Team 4":1081.48,
+      "Team 5":1261.02,
+      "Team 6":1246.12,
+      "Team 7":1313.78,
+      "Team 8":1177.98,
+      "Team 9":1417.34,
+      "Team 10":1016.36,
+      "Team 11":1427.02,
+      "Team 12":1372.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":332.02,
+      "Team 11":303.14,
+      "Team 12":314.08,
+      "Team 3":276.5
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 10)",
+      "Patrick Mahomes (Pick 15)",
+      "DeAndre Hopkins (Pick 34)",
+      "Chris Carson (Pick 39)",
+      "Mike Evans (Pick 58)",
+      "Michael Pittman (Pick 63)",
+      "D.J. Chark (Pick 82)",
+      "Michael Carter (Pick 87)",
+      "Will Fuller (Pick 106)",
+      "Jarvis Landry (Pick 111)",
+      "Mike Williams (Pick 130)",
+      "Darnell Mooney (Pick 135)",
+      "Colts (Pick 154)",
+      "Johnny Mundt (Pick 159)",
+      "Kai Forbath (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":11,
+    "Winner":"Team 6",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1284.66,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1159.52,
+      "Team 2":1228.08,
+      "Team 3":1246.32,
+      "Team 4":1155.08,
+      "Team 5":1273.46,
+      "Team 6":1258.2,
+      "Team 7":1200.56,
+      "Team 8":1284.66,
+      "Team 9":1204.1,
+      "Team 10":1287.96,
+      "Team 11":1372.04,
+      "Team 12":1263.34
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":274.22,
+      "Team 2":303.28,
+      "Team 11":248.88,
+      "Team 3":217.74
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "Patrick Mahomes (Pick 17)",
+      "David Montgomery (Pick 32)",
+      "Mike Evans (Pick 41)",
+      "Dak Prescott (Pick 56)",
+      "Diontae Johnson (Pick 65)",
+      "Michael Pittman (Pick 80)",
+      "James Conner (Pick 89)",
+      "D.J. Chark (Pick 104)",
+      "Will Fuller (Pick 113)",
+      "Tyler Bass (Pick 128)",
+      "Darnell Mooney (Pick 137)",
+      "Jalen Reagor (Pick 152)",
+      "Bengals (Pick 161)",
+      "Ross Dwelley (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":12,
+    "Winner":"Team 8",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1322.8,
+    "DM-Points-Playoffs":258.32,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":911.66,
+      "Team 2":1376.66,
+      "Team 3":1210.54,
+      "Team 4":1400.12,
+      "Team 5":1193.8,
+      "Team 6":894.2,
+      "Team 7":1168.3,
+      "Team 8":1322.8,
+      "Team 9":1288.38,
+      "Team 10":1135.56,
+      "Team 11":1503.64,
+      "Team 12":1528.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":258.32,
+      "Team 11":290.16,
+      "Team 12":341.84,
+      "Team 4":257.76
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 8)",
+      "Joe Mixon (Pick 17)",
+      "Terry McLaurin (Pick 32)",
+      "Chris Godwin (Pick 41)",
+      "Dak Prescott (Pick 56)",
+      "AJ Dillon (Pick 65)",
+      "James Conner (Pick 80)",
+      "Antonio Brown (Pick 89)",
+      "Michael Pittman (Pick 104)",
+      "Will Fuller (Pick 113)",
+      "David Johnson (Pick 128)",
+      "Mike Williams (Pick 137)",
+      "Chris Boswell (Pick 152)",
+      "Bengals (Pick 161)",
+      "Ross Dwelley (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":13,
+    "Winner":"Team 9",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1342.42,
+    "DM-Points-Playoffs":236.08,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1200.24,
+      "Team 2":1085.54,
+      "Team 3":1231.44,
+      "Team 4":1246.76,
+      "Team 5":1342.42,
+      "Team 6":1265.16,
+      "Team 7":1223.0,
+      "Team 8":1148.3,
+      "Team 9":1634.56,
+      "Team 10":1397.26,
+      "Team 11":1103.16,
+      "Team 12":1044.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":335.64,
+      "Team 5":236.08,
+      "Team 10":305.38,
+      "Team 1":234.88
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 5)",
+      "Joe Mixon (Pick 20)",
+      "David Montgomery (Pick 29)",
+      "Chris Godwin (Pick 44)",
+      "Diontae Johnson (Pick 53)",
+      "James Conner (Pick 68)",
+      "Michael Pittman (Pick 77)",
+      "Antonio Brown (Pick 92)",
+      "Michael Carter (Pick 101)",
+      "Will Fuller (Pick 116)",
+      "Jarvis Landry (Pick 125)",
+      "Carson Wentz (Pick 140)",
+      "Bengals (Pick 149)",
+      "Mason Crosby (Pick 164)",
+      "Jake Butt (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":14,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1190.12,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1136.24,
+      "Team 2":1190.12,
+      "Team 3":1317.62,
+      "Team 4":1328.9,
+      "Team 5":1197.96,
+      "Team 6":1344.64,
+      "Team 7":1357.86,
+      "Team 8":1053.98,
+      "Team 9":1402.64,
+      "Team 10":1030.0,
+      "Team 11":1350.78,
+      "Team 12":1259.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":328.34,
+      "Team 9":255.68,
+      "Team 3":297.28,
+      "Team 4":324.66
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "David Montgomery (Pick 23)",
+      "Terry McLaurin (Pick 26)",
+      "Chris Carson (Pick 47)",
+      "Michael Carter (Pick 50)",
+      "Tyler Bass (Pick 71)",
+      "Mike Williams (Pick 74)",
+      "James Conner (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Carson Wentz (Pick 119)",
+      "Will Fuller (Pick 122)",
+      "Tevin Coleman (Pick 143)",
+      "Jalen Reagor (Pick 146)",
+      "Bengals (Pick 167)",
+      "Jake Butt (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":15,
+    "Winner":"Team 4",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1320.62,
+    "DM-Points-Playoffs":259.98,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1097.9,
+      "Team 2":1007.1,
+      "Team 3":1250.2,
+      "Team 4":1320.62,
+      "Team 5":1203.56,
+      "Team 6":1449.72,
+      "Team 7":1212.22,
+      "Team 8":1240.44,
+      "Team 9":1352.08,
+      "Team 10":1233.06,
+      "Team 11":1229.2,
+      "Team 12":1462.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":259.98,
+      "Team 9":257.06,
+      "Team 6":278.5,
+      "Team 12":285.84
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "Tyreek Hill (Pick 21)",
+      "David Montgomery (Pick 28)",
+      "Diontae Johnson (Pick 45)",
+      "Antonio Brown (Pick 52)",
+      "AJ Dillon (Pick 69)",
+      "James Conner (Pick 76)",
+      "Michael Carter (Pick 93)",
+      "Michael Pittman (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "Jarvis Landry (Pick 124)",
+      "Carson Wentz (Pick 141)",
+      "Brandon McManus (Pick 148)",
+      "Bengals (Pick 165)",
+      "Johnny Mundt (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":16,
+    "Winner":"Team 7",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1303.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1038.84,
+      "Team 2":1341.4,
+      "Team 3":1375.32,
+      "Team 4":1274.94,
+      "Team 5":908.82,
+      "Team 6":1303.5,
+      "Team 7":1323.18,
+      "Team 8":1133.56,
+      "Team 9":1344.12,
+      "Team 10":1224.66,
+      "Team 11":1164.96,
+      "Team 12":1253.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":266.16,
+      "Team 2":247.76,
+      "Team 3":361.38,
+      "Team 4":280.68
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 6)",
+      "Joe Mixon (Pick 19)",
+      "David Montgomery (Pick 30)",
+      "Terry McLaurin (Pick 43)",
+      "Chris Godwin (Pick 54)",
+      "Dak Prescott (Pick 67)",
+      "AJ Dillon (Pick 78)",
+      "James Conner (Pick 91)",
+      "Michael Pittman (Pick 102)",
+      "Will Fuller (Pick 115)",
+      "Jarvis Landry (Pick 126)",
+      "Tevin Coleman (Pick 139)",
+      "Bengals (Pick 150)",
+      "Mason Crosby (Pick 163)",
+      "Ross Dwelley (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":17,
+    "Winner":"Team 4",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1430.52,
+    "DM-Points-Playoffs":274.88,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1305.92,
+      "Team 2":1193.26,
+      "Team 3":998.68,
+      "Team 4":1272.2,
+      "Team 5":1339.46,
+      "Team 6":1132.18,
+      "Team 7":1182.5,
+      "Team 8":1117.44,
+      "Team 9":1430.52,
+      "Team 10":1224.16,
+      "Team 11":994.4,
+      "Team 12":1450.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":312.98,
+      "Team 1":320.68,
+      "Team 12":359.32,
+      "Team 9":274.88
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "Jonathan Taylor (Pick 16)",
+      "David Montgomery (Pick 33)",
+      "Chris Godwin (Pick 40)",
+      "James Conner (Pick 57)",
+      "AJ Dillon (Pick 64)",
+      "Michael Pittman (Pick 81)",
+      "Antonio Brown (Pick 88)",
+      "D.J. Chark (Pick 105)",
+      "Will Fuller (Pick 112)",
+      "David Johnson (Pick 129)",
+      "Colts (Pick 136)",
+      "Carson Wentz (Pick 153)",
+      "Mason Crosby (Pick 160)",
+      "John Bates (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":18,
+    "Winner":"Team 10",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1136.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1162.54,
+      "Team 2":1293.0,
+      "Team 3":1136.46,
+      "Team 4":1380.66,
+      "Team 5":1145.82,
+      "Team 6":1074.92,
+      "Team 7":1340.08,
+      "Team 8":1050.72,
+      "Team 9":1201.32,
+      "Team 10":1287.54,
+      "Team 11":1314.02,
+      "Team 12":1434.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":275.08,
+      "Team 4":246.78,
+      "Team 7":309.48,
+      "Team 11":304.34
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Patrick Mahomes (Pick 22)",
+      "David Montgomery (Pick 27)",
+      "Chris Carson (Pick 46)",
+      "Chris Godwin (Pick 51)",
+      "AJ Dillon (Pick 70)",
+      "Will Fuller (Pick 75)",
+      "James Conner (Pick 94)",
+      "Antonio Brown (Pick 99)",
+      "Jarvis Landry (Pick 118)",
+      "David Johnson (Pick 123)",
+      "Colts (Pick 142)",
+      "Steelers (Pick 147)",
+      "Chris Boswell (Pick 166)",
+      "Jake Butt (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":19,
+    "Winner":"Team 9",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1253.56,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1309.58,
+      "Team 2":1286.34,
+      "Team 3":1275.1,
+      "Team 4":1078.26,
+      "Team 5":1399.58,
+      "Team 6":1160.42,
+      "Team 7":1492.3,
+      "Team 8":1127.7,
+      "Team 9":1543.66,
+      "Team 10":1100.66,
+      "Team 11":1253.56,
+      "Team 12":1259.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":353.4,
+      "Team 7":266.42,
+      "Team 1":298.98,
+      "Team 2":285.76
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 11)",
+      "Patrick Mahomes (Pick 14)",
+      "David Montgomery (Pick 35)",
+      "Chris Carson (Pick 38)",
+      "James Conner (Pick 59)",
+      "Michael Pittman (Pick 62)",
+      "D.J. Chark (Pick 83)",
+      "Michael Carter (Pick 86)",
+      "Will Fuller (Pick 107)",
+      "Jarvis Landry (Pick 110)",
+      "Mike Williams (Pick 131)",
+      "Darnell Mooney (Pick 134)",
+      "Colts (Pick 155)",
+      "John Bates (Pick 158)",
+      "Chris Boswell (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":20,
+    "Winner":"Team 1",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1169.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1322.94,
+      "Team 2":1305.72,
+      "Team 3":1118.68,
+      "Team 4":1178.18,
+      "Team 5":1255.7,
+      "Team 6":1183.18,
+      "Team 7":1389.84,
+      "Team 8":1443.64,
+      "Team 9":1224.34,
+      "Team 10":1569.56,
+      "Team 11":1126.86,
+      "Team 12":1169.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":327.48,
+      "Team 10":372.72,
+      "Team 7":265.22,
+      "Team 8":255.56
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Tyreek Hill (Pick 13)",
+      "Mike Evans (Pick 36)",
+      "Chris Carson (Pick 37)",
+      "Michael Pittman (Pick 60)",
+      "Michael Carter (Pick 61)",
+      "AJ Dillon (Pick 84)",
+      "Antonio Brown (Pick 85)",
+      "D.J. Chark (Pick 108)",
+      "Will Fuller (Pick 109)",
+      "Darnell Mooney (Pick 132)",
+      "Jarvis Landry (Pick 133)",
+      "Bengals (Pick 156)",
+      "Mason Crosby (Pick 157)",
+      "Johnny Mundt (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":21,
+    "Winner":"Team 4",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1310.4,
+    "DM-Points-Playoffs":256.92,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1282.58,
+      "Team 2":1052.16,
+      "Team 3":1310.4,
+      "Team 4":1441.24,
+      "Team 5":805.72,
+      "Team 6":1286.0,
+      "Team 7":1329.3,
+      "Team 8":1095.8,
+      "Team 9":1305.72,
+      "Team 10":1437.66,
+      "Team 11":1358.98,
+      "Team 12":1315.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":284.86,
+      "Team 3":256.92,
+      "Team 11":306.54,
+      "Team 12":224.6
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 3)",
+      "Joe Mixon (Pick 22)",
+      "David Montgomery (Pick 27)",
+      "Mike Evans (Pick 46)",
+      "Dak Prescott (Pick 51)",
+      "Will Fuller (Pick 70)",
+      "James Conner (Pick 75)",
+      "Michael Carter (Pick 94)",
+      "AJ Dillon (Pick 99)",
+      "Jarvis Landry (Pick 118)",
+      "David Johnson (Pick 123)",
+      "Colts (Pick 142)",
+      "Zach Ertz (Pick 147)",
+      "Parris Campbell (Pick 166)",
+      "Mason Crosby (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":22,
+    "Winner":"Team 3",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1450.56,
+    "DM-Points-Playoffs":341.64,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1267.32,
+      "Team 2":1176.54,
+      "Team 3":1450.56,
+      "Team 4":1177.32,
+      "Team 5":1434.5,
+      "Team 6":1269.82,
+      "Team 7":1313.68,
+      "Team 8":1343.78,
+      "Team 9":1021.62,
+      "Team 10":1077.0,
+      "Team 11":1273.18,
+      "Team 12":1177.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":341.64,
+      "Team 5":269.72,
+      "Team 6":237.32,
+      "Team 1":216.68
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 3)",
+      "Patrick Mahomes (Pick 22)",
+      "David Montgomery (Pick 27)",
+      "Chris Godwin (Pick 46)",
+      "Diontae Johnson (Pick 51)",
+      "James Conner (Pick 70)",
+      "AJ Dillon (Pick 75)",
+      "Michael Carter (Pick 94)",
+      "Antonio Brown (Pick 99)",
+      "Will Fuller (Pick 118)",
+      "Jarvis Landry (Pick 123)",
+      "Tevin Coleman (Pick 142)",
+      "Colts (Pick 147)",
+      "Zach Ertz (Pick 166)",
+      "Mason Crosby (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":23,
+    "Winner":"Team 12",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1364.92,
+    "DM-Points-Playoffs":276.48,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1323.54,
+      "Team 2":1237.4,
+      "Team 3":1053.66,
+      "Team 4":1230.92,
+      "Team 5":1364.92,
+      "Team 6":1340.9,
+      "Team 7":1047.48,
+      "Team 8":1257.48,
+      "Team 9":1323.44,
+      "Team 10":1066.2,
+      "Team 11":1300.56,
+      "Team 12":1494.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":288.96,
+      "Team 5":276.48,
+      "Team 6":264.42,
+      "Team 8":250.54
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 5)",
+      "Joe Mixon (Pick 20)",
+      "Chris Carson (Pick 29)",
+      "Diontae Johnson (Pick 44)",
+      "Antonio Brown (Pick 53)",
+      "Michael Pittman (Pick 68)",
+      "AJ Dillon (Pick 77)",
+      "James Conner (Pick 92)",
+      "Steelers (Pick 101)",
+      "Will Fuller (Pick 116)",
+      "Jarvis Landry (Pick 125)",
+      "Zach Ertz (Pick 140)",
+      "David Johnson (Pick 149)",
+      "Mason Crosby (Pick 164)",
+      "Carson Wentz (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":24,
+    "Winner":"Team 1",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1245.86,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1404.54,
+      "Team 2":1316.32,
+      "Team 3":977.2,
+      "Team 4":1361.74,
+      "Team 5":1282.72,
+      "Team 6":1210.0,
+      "Team 7":1132.62,
+      "Team 8":1309.18,
+      "Team 9":1222.74,
+      "Team 10":1380.46,
+      "Team 11":1333.14,
+      "Team 12":1245.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":369.08,
+      "Team 2":268.94,
+      "Team 5":328.86,
+      "Team 10":262.0
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Saquon Barkley (Pick 13)",
+      "David Montgomery (Pick 36)",
+      "Mike Evans (Pick 37)",
+      "Diontae Johnson (Pick 60)",
+      "James Conner (Pick 61)",
+      "Steelers (Pick 84)",
+      "Antonio Brown (Pick 85)",
+      "Michael Pittman (Pick 108)",
+      "AJ Dillon (Pick 109)",
+      "David Johnson (Pick 132)",
+      "Will Fuller (Pick 133)",
+      "T.Y. Hilton (Pick 156)",
+      "Brandon McManus (Pick 157)",
+      "Ross Dwelley (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":25,
+    "Winner":"Team 4",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1254.4,
+    "DM-Points-Playoffs":293.02,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1136.08,
+      "Team 2":916.58,
+      "Team 3":1128.34,
+      "Team 4":1389.12,
+      "Team 5":1372.4,
+      "Team 6":1193.06,
+      "Team 7":1254.4,
+      "Team 8":1316.38,
+      "Team 9":1525.12,
+      "Team 10":1199.9,
+      "Team 11":1408.56,
+      "Team 12":1313.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":303.18,
+      "Team 8":387.54,
+      "Team 9":296.74,
+      "Team 7":293.02
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 7)",
+      "DeAndre Hopkins (Pick 18)",
+      "David Montgomery (Pick 31)",
+      "Mike Evans (Pick 42)",
+      "Chris Carson (Pick 55)",
+      "Dak Prescott (Pick 66)",
+      "Diontae Johnson (Pick 79)",
+      "James Conner (Pick 90)",
+      "Michael Pittman (Pick 103)",
+      "Will Fuller (Pick 114)",
+      "David Johnson (Pick 127)",
+      "Darnell Mooney (Pick 138)",
+      "Colts (Pick 151)",
+      "Brandon McManus (Pick 162)",
+      "John Bates (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":26,
+    "Winner":"Team 1",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1301.86,
+    "DM-Points-Playoffs":294.94,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1278.56,
+      "Team 2":1101.64,
+      "Team 3":1225.54,
+      "Team 4":1228.54,
+      "Team 5":1306.34,
+      "Team 6":1258.42,
+      "Team 7":1058.22,
+      "Team 8":1059.86,
+      "Team 9":1339.5,
+      "Team 10":1414.96,
+      "Team 11":1276.5,
+      "Team 12":1301.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":216.5,
+      "Team 10":279.12,
+      "Team 12":294.94,
+      "Team 3":280.98
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Saquon Barkley (Pick 13)",
+      "David Montgomery (Pick 36)",
+      "Mike Evans (Pick 37)",
+      "Diontae Johnson (Pick 60)",
+      "James Conner (Pick 61)",
+      "AJ Dillon (Pick 84)",
+      "Michael Carter (Pick 85)",
+      "Will Fuller (Pick 108)",
+      "Michael Pittman (Pick 109)",
+      "Darnell Mooney (Pick 132)",
+      "Tevin Coleman (Pick 133)",
+      "Brandon McManus (Pick 156)",
+      "Bengals (Pick 157)",
+      "John Bates (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":27,
+    "Winner":"Team 12",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1200.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":949.24,
+      "Team 2":1302.64,
+      "Team 3":1446.36,
+      "Team 4":1313.94,
+      "Team 5":1097.94,
+      "Team 6":1320.56,
+      "Team 7":1344.36,
+      "Team 8":1393.46,
+      "Team 9":1318.56,
+      "Team 10":1194.82,
+      "Team 11":1200.26,
+      "Team 12":1356.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":269.62,
+      "Team 3":263.72,
+      "Team 4":255.46,
+      "Team 10":288.38
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 11)",
+      "Patrick Mahomes (Pick 14)",
+      "David Montgomery (Pick 35)",
+      "Dak Prescott (Pick 38)",
+      "Tyler Bass (Pick 59)",
+      "Colts (Pick 62)",
+      "Tevin Coleman (Pick 83)",
+      "Mike Williams (Pick 86)",
+      "James Conner (Pick 107)",
+      "AJ Dillon (Pick 110)",
+      "Jarvis Landry (Pick 131)",
+      "Darnell Mooney (Pick 134)",
+      "Rashod Bateman (Pick 155)",
+      "Chris Evans (Pick 158)",
+      "Johnny Mundt (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":28,
+    "Winner":"Team 10",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1239.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1261.9,
+      "Team 2":1239.8,
+      "Team 3":1321.76,
+      "Team 4":1211.16,
+      "Team 5":1443.64,
+      "Team 6":1073.0,
+      "Team 7":1120.28,
+      "Team 8":1324.3,
+      "Team 9":1131.66,
+      "Team 10":1312.52,
+      "Team 11":1226.9,
+      "Team 12":1290.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":327.44,
+      "Team 1":252.68,
+      "Team 3":296.64,
+      "Team 5":383.96
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "David Montgomery (Pick 23)",
+      "Terry McLaurin (Pick 26)",
+      "Chris Godwin (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "James Conner (Pick 71)",
+      "AJ Dillon (Pick 74)",
+      "Michael Pittman (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Darnell Mooney (Pick 143)",
+      "Chris Boswell (Pick 146)",
+      "Bengals (Pick 167)",
+      "Jake Butt (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":29,
+    "Winner":"Team 1",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1188.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1427.58,
+      "Team 2":1239.84,
+      "Team 3":1208.58,
+      "Team 4":1355.34,
+      "Team 5":1375.64,
+      "Team 6":1291.04,
+      "Team 7":1049.36,
+      "Team 8":1392.74,
+      "Team 9":1188.8,
+      "Team 10":1038.16,
+      "Team 11":1281.76,
+      "Team 12":1389.3
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":247.98,
+      "Team 5":300.94,
+      "Team 12":329.3,
+      "Team 8":300.66
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "DeAndre Hopkins (Pick 16)",
+      "David Montgomery (Pick 33)",
+      "Dak Prescott (Pick 40)",
+      "Michael Pittman (Pick 57)",
+      "D.J. Chark (Pick 64)",
+      "Will Fuller (Pick 81)",
+      "Antonio Brown (Pick 88)",
+      "James Conner (Pick 105)",
+      "Jarvis Landry (Pick 112)",
+      "David Johnson (Pick 129)",
+      "Darnell Mooney (Pick 136)",
+      "Brandon McManus (Pick 153)",
+      "Bengals (Pick 160)",
+      "Ross Dwelley (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":30,
+    "Winner":"Team 10",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1174.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":852.16,
+      "Team 2":1204.5,
+      "Team 3":1169.04,
+      "Team 4":1331.5,
+      "Team 5":1405.38,
+      "Team 6":1057.18,
+      "Team 7":1367.9,
+      "Team 8":1231.28,
+      "Team 9":1174.1,
+      "Team 10":1593.86,
+      "Team 11":1125.7,
+      "Team 12":1324.1
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":360.2,
+      "Team 5":287.08,
+      "Team 2":312.8,
+      "Team 4":260.96
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "DeAndre Hopkins (Pick 16)",
+      "Terry McLaurin (Pick 33)",
+      "Dak Prescott (Pick 40)",
+      "Michael Pittman (Pick 57)",
+      "D.J. Chark (Pick 64)",
+      "James Conner (Pick 81)",
+      "Will Fuller (Pick 88)",
+      "Jarvis Landry (Pick 105)",
+      "David Johnson (Pick 112)",
+      "Mike Williams (Pick 129)",
+      "Darnell Mooney (Pick 136)",
+      "Zach Ertz (Pick 153)",
+      "Chris Boswell (Pick 160)",
+      "Bengals (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":31,
+    "Winner":"Team 3",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1176.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1176.72,
+      "Team 2":1125.78,
+      "Team 3":1376.7,
+      "Team 4":1127.58,
+      "Team 5":1422.96,
+      "Team 6":1261.6,
+      "Team 7":1129.16,
+      "Team 8":1043.04,
+      "Team 9":1352.12,
+      "Team 10":1382.88,
+      "Team 11":1254.54,
+      "Team 12":1298.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":318.62,
+      "Team 9":301.34,
+      "Team 11":350.88,
+      "Team 5":341.66
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "David Montgomery (Pick 24)",
+      "Terry McLaurin (Pick 25)",
+      "Mike Evans (Pick 48)",
+      "Diontae Johnson (Pick 49)",
+      "Michael Pittman (Pick 72)",
+      "AJ Dillon (Pick 73)",
+      "Michael Carter (Pick 96)",
+      "DeVonta Smith (Pick 97)",
+      "Will Fuller (Pick 120)",
+      "David Johnson (Pick 121)",
+      "Colts (Pick 144)",
+      "Carson Wentz (Pick 145)",
+      "Mason Crosby (Pick 168)",
+      "Ross Dwelley (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":32,
+    "Winner":"Team 8",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1153.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1179.72,
+      "Team 2":1153.3,
+      "Team 3":1218.3,
+      "Team 4":1157.34,
+      "Team 5":1286.98,
+      "Team 6":936.76,
+      "Team 7":1226.38,
+      "Team 8":1300.68,
+      "Team 9":1377.78,
+      "Team 10":1036.02,
+      "Team 11":1194.28,
+      "Team 12":1592.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":268.36,
+      "Team 12":264.78,
+      "Team 9":321.9,
+      "Team 3":197.96
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "David Montgomery (Pick 23)",
+      "Terry McLaurin (Pick 26)",
+      "Dak Prescott (Pick 47)",
+      "Diontae Johnson (Pick 50)",
+      "Michael Pittman (Pick 71)",
+      "AJ Dillon (Pick 74)",
+      "D.J. Chark (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Jarvis Landry (Pick 119)",
+      "Mike Williams (Pick 122)",
+      "Tevin Coleman (Pick 143)",
+      "Mason Crosby (Pick 146)",
+      "Bengals (Pick 167)",
+      "Johnny Mundt (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":33,
+    "Winner":"Team 11",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1307.82,
+    "DM-Points-Playoffs":256.28,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":820.58,
+      "Team 2":1068.94,
+      "Team 3":1376.38,
+      "Team 4":1291.78,
+      "Team 5":1200.06,
+      "Team 6":1177.12,
+      "Team 7":1418.0,
+      "Team 8":1024.88,
+      "Team 9":1404.3,
+      "Team 10":1307.82,
+      "Team 11":1530.66,
+      "Team 12":1233.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":346.2,
+      "Team 3":294.68,
+      "Team 4":228.76,
+      "Team 10":256.28
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 10)",
+      "Tyreek Hill (Pick 15)",
+      "Mike Evans (Pick 34)",
+      "Chris Godwin (Pick 39)",
+      "Diontae Johnson (Pick 58)",
+      "AJ Dillon (Pick 63)",
+      "James Conner (Pick 82)",
+      "Michael Pittman (Pick 87)",
+      "Tyler Bass (Pick 106)",
+      "Will Fuller (Pick 111)",
+      "Jarvis Landry (Pick 130)",
+      "Mike Williams (Pick 135)",
+      "Colts (Pick 154)",
+      "Carson Wentz (Pick 159)",
+      "John Bates (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":34,
+    "Winner":"Team 2",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1304.76,
+    "DM-Points-Playoffs":287.84,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1134.78,
+      "Team 2":1154.2,
+      "Team 3":1338.78,
+      "Team 4":1006.86,
+      "Team 5":1301.04,
+      "Team 6":1223.9,
+      "Team 7":1435.64,
+      "Team 8":1418.52,
+      "Team 9":1304.76,
+      "Team 10":1322.02,
+      "Team 11":1082.34,
+      "Team 12":1265.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":226.86,
+      "Team 9":287.84,
+      "Team 7":303.08,
+      "Team 8":298.0
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "Patrick Mahomes (Pick 16)",
+      "Chris Godwin (Pick 33)",
+      "Dak Prescott (Pick 40)",
+      "Diontae Johnson (Pick 57)",
+      "Michael Pittman (Pick 64)",
+      "D.J. Chark (Pick 81)",
+      "Michael Carter (Pick 88)",
+      "James Conner (Pick 105)",
+      "Will Fuller (Pick 112)",
+      "David Johnson (Pick 129)",
+      "Mike Williams (Pick 136)",
+      "Bengals (Pick 153)",
+      "Brandon McManus (Pick 160)",
+      "John Bates (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":35,
+    "Winner":"Team 10",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1125.66,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":965.68,
+      "Team 2":1209.88,
+      "Team 3":1271.56,
+      "Team 4":1223.4,
+      "Team 5":1211.06,
+      "Team 6":1386.6,
+      "Team 7":1172.5,
+      "Team 8":1339.14,
+      "Team 9":1125.66,
+      "Team 10":1374.76,
+      "Team 11":1325.92,
+      "Team 12":1297.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":264.3,
+      "Team 2":302.68,
+      "Team 3":350.52,
+      "Team 8":303.88
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "Patrick Mahomes (Pick 16)",
+      "Mike Evans (Pick 33)",
+      "Chris Godwin (Pick 40)",
+      "Michael Pittman (Pick 57)",
+      "Michael Carter (Pick 64)",
+      "D.J. Chark (Pick 81)",
+      "Will Fuller (Pick 88)",
+      "Jarvis Landry (Pick 105)",
+      "Tyler Bass (Pick 112)",
+      "David Johnson (Pick 129)",
+      "Tevin Coleman (Pick 136)",
+      "Jalen Reagor (Pick 153)",
+      "Bengals (Pick 160)",
+      "Ross Dwelley (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":36,
+    "Winner":"Team 8",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1246.96,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":977.92,
+      "Team 2":1282.44,
+      "Team 3":1193.22,
+      "Team 4":1376.7,
+      "Team 5":1223.52,
+      "Team 6":1246.96,
+      "Team 7":1176.94,
+      "Team 8":1337.46,
+      "Team 9":1264.86,
+      "Team 10":1052.84,
+      "Team 11":1276.48,
+      "Team 12":1378.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":310.94,
+      "Team 11":264.98,
+      "Team 12":311.18,
+      "Team 4":297.2
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 6)",
+      "Patrick Mahomes (Pick 19)",
+      "Mike Evans (Pick 30)",
+      "Dak Prescott (Pick 43)",
+      "Diontae Johnson (Pick 54)",
+      "Michael Pittman (Pick 67)",
+      "D.J. Chark (Pick 78)",
+      "James Conner (Pick 91)",
+      "AJ Dillon (Pick 102)",
+      "Will Fuller (Pick 115)",
+      "David Johnson (Pick 126)",
+      "Darnell Mooney (Pick 139)",
+      "Colts (Pick 150)",
+      "Brandon McManus (Pick 163)",
+      "Jesper Horsted (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":37,
+    "Winner":"Team 2",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1241.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":963.04,
+      "Team 2":1373.4,
+      "Team 3":1180.34,
+      "Team 4":1228.82,
+      "Team 5":1258.52,
+      "Team 6":1416.34,
+      "Team 7":1249.42,
+      "Team 8":1303.08,
+      "Team 9":1309.56,
+      "Team 10":1149.42,
+      "Team 11":1241.36,
+      "Team 12":1344.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":385.32,
+      "Team 3":301.98,
+      "Team 4":241.98,
+      "Team 6":290.92
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 11)",
+      "Patrick Mahomes (Pick 14)",
+      "Terry McLaurin (Pick 35)",
+      "Chris Godwin (Pick 38)",
+      "Michael Pittman (Pick 59)",
+      "D.J. Chark (Pick 62)",
+      "Will Fuller (Pick 83)",
+      "Jarvis Landry (Pick 86)",
+      "Mike Williams (Pick 107)",
+      "Darnell Mooney (Pick 110)",
+      "AJ Dillon (Pick 131)",
+      "Tevin Coleman (Pick 134)",
+      "Bengals (Pick 155)",
+      "Brandon McManus (Pick 158)",
+      "Zach Ertz (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":38,
+    "Winner":"Team 9",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1142.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1188.98,
+      "Team 2":1338.78,
+      "Team 3":1148.68,
+      "Team 4":1039.56,
+      "Team 5":1188.62,
+      "Team 6":1187.8,
+      "Team 7":1369.7,
+      "Team 8":1201.86,
+      "Team 9":1556.26,
+      "Team 10":1225.26,
+      "Team 11":1142.26,
+      "Team 12":1238.84
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":354.96,
+      "Team 1":251.02,
+      "Team 12":238.7,
+      "Team 7":282.0
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 11)",
+      "Patrick Mahomes (Pick 14)",
+      "Terry McLaurin (Pick 35)",
+      "Mike Evans (Pick 38)",
+      "Diontae Johnson (Pick 59)",
+      "Michael Pittman (Pick 62)",
+      "D.J. Chark (Pick 83)",
+      "James Conner (Pick 86)",
+      "Will Fuller (Pick 107)",
+      "Jarvis Landry (Pick 110)",
+      "Colts (Pick 131)",
+      "Brandon McManus (Pick 134)",
+      "Tevin Coleman (Pick 155)",
+      "T.Y. Hilton (Pick 158)",
+      "Johnny Mundt (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":39,
+    "Winner":"Team 6",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1270.1,
+    "DM-Points-Playoffs":257.72,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1198.78,
+      "Team 2":1332.84,
+      "Team 3":1268.9,
+      "Team 4":1270.1,
+      "Team 5":978.36,
+      "Team 6":1459.52,
+      "Team 7":1316.88,
+      "Team 8":1227.36,
+      "Team 9":1486.8,
+      "Team 10":1074.68,
+      "Team 11":1193.16,
+      "Team 12":1167.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":327.4,
+      "Team 4":257.72,
+      "Team 9":205.16,
+      "Team 2":267.08
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "DeAndre Hopkins (Pick 21)",
+      "Chris Carson (Pick 28)",
+      "Mike Evans (Pick 45)",
+      "Chris Godwin (Pick 52)",
+      "Dak Prescott (Pick 69)",
+      "Diontae Johnson (Pick 76)",
+      "James Conner (Pick 93)",
+      "AJ Dillon (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "Jarvis Landry (Pick 124)",
+      "Tevin Coleman (Pick 141)",
+      "Colts (Pick 148)",
+      "Mason Crosby (Pick 165)",
+      "Ross Dwelley (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":40,
+    "Winner":"Team 8",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      12,
+      2
+    ],
+    "DM-Points-Regular-Season":1402.26,
+    "DM-Points-Playoffs":324.94,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1172.34,
+      "Team 2":996.86,
+      "Team 3":1387.34,
+      "Team 4":1281.14,
+      "Team 5":1372.28,
+      "Team 6":1206.2,
+      "Team 7":1073.06,
+      "Team 8":1402.26,
+      "Team 9":1434.1,
+      "Team 10":1294.0,
+      "Team 11":1114.46,
+      "Team 12":1278.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":324.94,
+      "Team 5":365.34,
+      "Team 9":239.46,
+      "Team 10":227.26
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 8)",
+      "Patrick Mahomes (Pick 17)",
+      "David Montgomery (Pick 32)",
+      "Diontae Johnson (Pick 41)",
+      "James Conner (Pick 56)",
+      "AJ Dillon (Pick 65)",
+      "Cooper Kupp (Pick 80)",
+      "Michael Pittman (Pick 89)",
+      "D.J. Chark (Pick 104)",
+      "Will Fuller (Pick 113)",
+      "Mike Williams (Pick 128)",
+      "Darnell Mooney (Pick 137)",
+      "Bengals (Pick 152)",
+      "Chris Boswell (Pick 161)",
+      "Levine Toilolo (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":41,
+    "Winner":"Team 2",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1090.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1246.78,
+      "Team 2":1318.04,
+      "Team 3":1300.76,
+      "Team 4":1237.68,
+      "Team 5":1228.52,
+      "Team 6":1147.1,
+      "Team 7":1090.6,
+      "Team 8":1293.54,
+      "Team 9":1117.78,
+      "Team 10":1342.4,
+      "Team 11":1303.1,
+      "Team 12":1394.98
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":252.82,
+      "Team 3":234.82,
+      "Team 12":309.78,
+      "Team 8":227.62
+    },
+    "DM-Picks":[
+      "Jonathan Taylor (Pick 7)",
+      "DeAndre Hopkins (Pick 18)",
+      "David Montgomery (Pick 31)",
+      "Mike Evans (Pick 42)",
+      "Michael Pittman (Pick 55)",
+      "James Conner (Pick 66)",
+      "AJ Dillon (Pick 79)",
+      "D.J. Chark (Pick 90)",
+      "Will Fuller (Pick 103)",
+      "Jarvis Landry (Pick 114)",
+      "David Johnson (Pick 127)",
+      "Chris Boswell (Pick 138)",
+      "Bengals (Pick 151)",
+      "Johnny Mundt (Pick 162)",
+      "Dwayne Haskins (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":42,
+    "Winner":"Team 5",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1002.56,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1190.36,
+      "Team 2":1186.92,
+      "Team 3":1339.14,
+      "Team 4":1334.26,
+      "Team 5":1451.66,
+      "Team 6":1063.46,
+      "Team 7":1254.86,
+      "Team 8":1104.38,
+      "Team 9":1236.88,
+      "Team 10":1310.56,
+      "Team 11":1002.56,
+      "Team 12":1195.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":298.04,
+      "Team 10":277.18,
+      "Team 3":315.48,
+      "Team 2":301.08
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 11)",
+      "Patrick Mahomes (Pick 14)",
+      "Mike Evans (Pick 35)",
+      "Chris Godwin (Pick 38)",
+      "Dak Prescott (Pick 59)",
+      "Michael Pittman (Pick 62)",
+      "Will Fuller (Pick 83)",
+      "Antonio Brown (Pick 86)",
+      "D.J. Chark (Pick 107)",
+      "Jarvis Landry (Pick 110)",
+      "David Johnson (Pick 131)",
+      "Colts (Pick 134)",
+      "J.J. Taylor (Pick 155)",
+      "Johnny Mundt (Pick 158)",
+      "Kai Forbath (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":43,
+    "Winner":"Team 11",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1227.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1227.2,
+      "Team 2":1270.08,
+      "Team 3":1128.38,
+      "Team 4":1005.62,
+      "Team 5":1257.84,
+      "Team 6":1335.14,
+      "Team 7":1249.36,
+      "Team 8":1201.82,
+      "Team 9":1280.0,
+      "Team 10":1328.08,
+      "Team 11":1387.1,
+      "Team 12":1521.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":244.7,
+      "Team 6":253.72,
+      "Team 9":295.06,
+      "Team 12":344.44
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "Joe Mixon (Pick 24)",
+      "David Montgomery (Pick 25)",
+      "Dak Prescott (Pick 48)",
+      "Diontae Johnson (Pick 49)",
+      "Michael Pittman (Pick 72)",
+      "James Conner (Pick 73)",
+      "Michael Carter (Pick 96)",
+      "DeVonta Smith (Pick 97)",
+      "Will Fuller (Pick 120)",
+      "David Johnson (Pick 121)",
+      "Tevin Coleman (Pick 144)",
+      "Bengals (Pick 145)",
+      "Brandon McManus (Pick 168)",
+      "Johnny Mundt (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":44,
+    "Winner":"Team 2",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1415.26,
+    "DM-Points-Playoffs":315.64,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1356.84,
+      "Team 2":1204.6,
+      "Team 3":1358.54,
+      "Team 4":1265.36,
+      "Team 5":1033.58,
+      "Team 6":1168.22,
+      "Team 7":1415.26,
+      "Team 8":1248.42,
+      "Team 9":1485.82,
+      "Team 10":1175.6,
+      "Team 11":1235.18,
+      "Team 12":1308.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":304.1,
+      "Team 1":256.58,
+      "Team 7":315.64,
+      "Team 9":374.24
+    },
+    "DM-Picks":[
+      "Jonathan Taylor (Pick 7)",
+      "Patrick Mahomes (Pick 18)",
+      "David Montgomery (Pick 31)",
+      "Chris Godwin (Pick 42)",
+      "Diontae Johnson (Pick 55)",
+      "James Conner (Pick 66)",
+      "AJ Dillon (Pick 79)",
+      "Antonio Brown (Pick 90)",
+      "Michael Pittman (Pick 103)",
+      "Will Fuller (Pick 114)",
+      "David Johnson (Pick 127)",
+      "Tevin Coleman (Pick 138)",
+      "Colts (Pick 151)",
+      "Mason Crosby (Pick 162)",
+      "John Bates (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":45,
+    "Winner":"Team 3",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1038.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1053.04,
+      "Team 2":1350.4,
+      "Team 3":1360.26,
+      "Team 4":1319.58,
+      "Team 5":1038.1,
+      "Team 6":1141.34,
+      "Team 7":1261.48,
+      "Team 8":1199.32,
+      "Team 9":1250.96,
+      "Team 10":1184.24,
+      "Team 11":1330.76,
+      "Team 12":1443.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":349.98,
+      "Team 12":329.66,
+      "Team 7":327.74,
+      "Team 9":220.66
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 5)",
+      "DeAndre Hopkins (Pick 20)",
+      "David Montgomery (Pick 29)",
+      "Chris Godwin (Pick 44)",
+      "Antonio Brown (Pick 53)",
+      "James Conner (Pick 68)",
+      "AJ Dillon (Pick 77)",
+      "Michael Carter (Pick 92)",
+      "Michael Pittman (Pick 101)",
+      "Will Fuller (Pick 116)",
+      "Jarvis Landry (Pick 125)",
+      "Colts (Pick 140)",
+      "Ross Dwelley (Pick 149)",
+      "Dwayne Haskins (Pick 164)",
+      "Chris Boswell (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":46,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1225.52,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1077.96,
+      "Team 2":1225.52,
+      "Team 3":1061.18,
+      "Team 4":1278.64,
+      "Team 5":1318.96,
+      "Team 6":1051.96,
+      "Team 7":1435.46,
+      "Team 8":1409.34,
+      "Team 9":1278.36,
+      "Team 10":1286.3,
+      "Team 11":1360.08,
+      "Team 12":1348.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":289.92,
+      "Team 12":317.38,
+      "Team 5":268.6,
+      "Team 4":273.6
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 2)",
+      "David Montgomery (Pick 23)",
+      "Terry McLaurin (Pick 26)",
+      "Mike Evans (Pick 47)",
+      "Chris Godwin (Pick 50)",
+      "Michael Pittman (Pick 71)",
+      "James Conner (Pick 74)",
+      "AJ Dillon (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Bengals (Pick 143)",
+      "Chris Boswell (Pick 146)",
+      "Levine Toilolo (Pick 167)",
+      "Carson Wentz (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":47,
+    "Winner":"Team 11",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1157.42,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1186.5,
+      "Team 2":1327.4,
+      "Team 3":1608.36,
+      "Team 4":1108.78,
+      "Team 5":1332.56,
+      "Team 6":1157.42,
+      "Team 7":1230.14,
+      "Team 8":1220.32,
+      "Team 9":1235.04,
+      "Team 10":1113.7,
+      "Team 11":1437.98,
+      "Team 12":1346.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":337.04,
+      "Team 12":293.38,
+      "Team 3":377.18,
+      "Team 7":311.66
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Antonio Gibson (Pick 19)",
+      "David Montgomery (Pick 30)",
+      "Chris Carson (Pick 43)",
+      "Diontae Johnson (Pick 54)",
+      "Michael Pittman (Pick 67)",
+      "Steelers (Pick 78)",
+      "Michael Carter (Pick 91)",
+      "D.J. Chark (Pick 102)",
+      "Will Fuller (Pick 115)",
+      "David Johnson (Pick 126)",
+      "Tyler Bass (Pick 139)",
+      "Tevin Coleman (Pick 150)",
+      "Jesper Horsted (Pick 163)",
+      "Carson Wentz (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":48,
+    "Winner":"Team 4",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1121.56,
+    "DM-Points-Playoffs":246.54,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1354.64,
+      "Team 2":1302.16,
+      "Team 3":1047.02,
+      "Team 4":1458.46,
+      "Team 5":1190.08,
+      "Team 6":1300.66,
+      "Team 7":1212.86,
+      "Team 8":1345.6,
+      "Team 9":1121.56,
+      "Team 10":1203.74,
+      "Team 11":1207.24,
+      "Team 12":1138.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":304.16,
+      "Team 8":410.32,
+      "Team 9":246.54,
+      "Team 1":289.66
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "Patrick Mahomes (Pick 16)",
+      "Terry McLaurin (Pick 33)",
+      "Mike Evans (Pick 40)",
+      "Diontae Johnson (Pick 57)",
+      "James Conner (Pick 64)",
+      "Michael Pittman (Pick 81)",
+      "D.J. Chark (Pick 88)",
+      "Will Fuller (Pick 105)",
+      "Jarvis Landry (Pick 112)",
+      "Tyler Bass (Pick 129)",
+      "Mike Williams (Pick 136)",
+      "Colts (Pick 153)",
+      "J.J. Taylor (Pick 160)",
+      "John Bates (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":49,
+    "Winner":"Team 8",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1300.52,
+    "DM-Points-Playoffs":256.78,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1155.04,
+      "Team 2":1300.52,
+      "Team 3":1048.2,
+      "Team 4":1264.12,
+      "Team 5":1280.12,
+      "Team 6":1121.04,
+      "Team 7":1365.3,
+      "Team 8":1558.06,
+      "Team 9":1338.16,
+      "Team 10":1144.76,
+      "Team 11":1497.16,
+      "Team 12":976.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":310.26,
+      "Team 11":346.42,
+      "Team 2":256.78,
+      "Team 4":239.14
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 2)",
+      "David Montgomery (Pick 23)",
+      "Chris Carson (Pick 26)",
+      "Chris Godwin (Pick 47)",
+      "Diontae Johnson (Pick 50)",
+      "Michael Pittman (Pick 71)",
+      "James Conner (Pick 74)",
+      "AJ Dillon (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Colts (Pick 143)",
+      "Chris Boswell (Pick 146)",
+      "Carson Wentz (Pick 167)",
+      "Johnny Mundt (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":50,
+    "Winner":"Team 2",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1207.32,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1353.86,
+      "Team 2":1431.76,
+      "Team 3":1261.44,
+      "Team 4":1161.66,
+      "Team 5":1088.56,
+      "Team 6":1267.38,
+      "Team 7":1199.64,
+      "Team 8":1207.32,
+      "Team 9":1366.62,
+      "Team 10":1282.34,
+      "Team 11":1237.46,
+      "Team 12":1258.3
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":282.42,
+      "Team 1":311.4,
+      "Team 9":401.84,
+      "Team 6":251.42
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "DeAndre Hopkins (Pick 17)",
+      "David Montgomery (Pick 32)",
+      "Mike Evans (Pick 41)",
+      "Michael Pittman (Pick 56)",
+      "D.J. Chark (Pick 65)",
+      "Jarvis Landry (Pick 80)",
+      "Michael Carter (Pick 89)",
+      "James Conner (Pick 104)",
+      "Will Fuller (Pick 113)",
+      "David Johnson (Pick 128)",
+      "Carson Wentz (Pick 137)",
+      "Mason Crosby (Pick 152)",
+      "Bengals (Pick 161)",
+      "Ross Dwelley (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":51,
+    "Winner":"Team 10",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1270.22,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1252.0,
+      "Team 2":1141.18,
+      "Team 3":1205.06,
+      "Team 4":1270.22,
+      "Team 5":1247.38,
+      "Team 6":1037.78,
+      "Team 7":1010.32,
+      "Team 8":1424.34,
+      "Team 9":1399.42,
+      "Team 10":1275.66,
+      "Team 11":1193.6,
+      "Team 12":1252.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":251.24,
+      "Team 8":302.06,
+      "Team 5":258.6,
+      "Team 12":259.28
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "David Montgomery (Pick 21)",
+      "Antonio Gibson (Pick 28)",
+      "Mike Evans (Pick 45)",
+      "Chris Godwin (Pick 52)",
+      "Diontae Johnson (Pick 69)",
+      "AJ Dillon (Pick 76)",
+      "Steelers (Pick 93)",
+      "Michael Pittman (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "Jarvis Landry (Pick 124)",
+      "Tyler Bass (Pick 141)",
+      "D.J. Chark (Pick 148)",
+      "Carson Wentz (Pick 165)",
+      "Johnny Mundt (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":52,
+    "Winner":"Team 1",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1070.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1177.86,
+      "Team 2":1238.86,
+      "Team 3":1093.7,
+      "Team 4":1147.54,
+      "Team 5":1070.46,
+      "Team 6":1370.32,
+      "Team 7":1228.78,
+      "Team 8":1271.02,
+      "Team 9":1392.46,
+      "Team 10":1150.1,
+      "Team 11":1345.14,
+      "Team 12":1386.76
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":279.82,
+      "Team 6":381.84,
+      "Team 8":221.5,
+      "Team 9":234.12
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Patrick Mahomes (Pick 20)",
+      "Chris Carson (Pick 29)",
+      "Dak Prescott (Pick 44)",
+      "Michael Carter (Pick 53)",
+      "James Conner (Pick 68)",
+      "AJ Dillon (Pick 77)",
+      "Will Fuller (Pick 92)",
+      "Steelers (Pick 101)",
+      "David Johnson (Pick 116)",
+      "Antonio Brown (Pick 125)",
+      "Tyler Bass (Pick 140)",
+      "Mike Williams (Pick 149)",
+      "Parris Campbell (Pick 164)",
+      "John Bates (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":53,
+    "Winner":"Team 11",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1238.26,
+    "DM-Points-Playoffs":270.24,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1201.82,
+      "Team 2":1188.42,
+      "Team 3":941.24,
+      "Team 4":1363.6,
+      "Team 5":1284.5,
+      "Team 6":1046.9,
+      "Team 7":1220.08,
+      "Team 8":1186.9,
+      "Team 9":1373.86,
+      "Team 10":1238.26,
+      "Team 11":1514.7,
+      "Team 12":1167.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":356.72,
+      "Team 5":217.1,
+      "Team 2":184.02,
+      "Team 10":270.24
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 10)",
+      "Patrick Mahomes (Pick 15)",
+      "Chris Carson (Pick 34)",
+      "Chris Godwin (Pick 39)",
+      "Michael Pittman (Pick 58)",
+      "D.J. Chark (Pick 63)",
+      "Will Fuller (Pick 82)",
+      "Antonio Brown (Pick 87)",
+      "James Conner (Pick 106)",
+      "AJ Dillon (Pick 111)",
+      "Jarvis Landry (Pick 130)",
+      "Mike Williams (Pick 135)",
+      "Colts (Pick 154)",
+      "Mason Crosby (Pick 159)",
+      "Levine Toilolo (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":54,
+    "Winner":"Team 5",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1038.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1279.96,
+      "Team 2":1418.84,
+      "Team 3":1038.76,
+      "Team 4":1065.8,
+      "Team 5":1343.82,
+      "Team 6":1285.18,
+      "Team 7":1097.62,
+      "Team 8":1182.62,
+      "Team 9":1395.2,
+      "Team 10":1077.28,
+      "Team 11":1348.5,
+      "Team 12":1244.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":353.2,
+      "Team 11":323.52,
+      "Team 2":267.98,
+      "Team 1":297.18
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 3)",
+      "Patrick Mahomes (Pick 22)",
+      "David Montgomery (Pick 27)",
+      "Chris Godwin (Pick 46)",
+      "Dak Prescott (Pick 51)",
+      "James Conner (Pick 70)",
+      "AJ Dillon (Pick 75)",
+      "Tyler Bass (Pick 94)",
+      "Michael Carter (Pick 99)",
+      "David Johnson (Pick 118)",
+      "Tevin Coleman (Pick 123)",
+      "Colts (Pick 142)",
+      "J.J. Taylor (Pick 147)",
+      "KJ Hamler (Pick 166)",
+      "Levine Toilolo (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":55,
+    "Winner":"Team 12",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1188.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1274.7,
+      "Team 2":1188.3,
+      "Team 3":1319.84,
+      "Team 4":1309.66,
+      "Team 5":1075.34,
+      "Team 6":1257.76,
+      "Team 7":1257.16,
+      "Team 8":1178.96,
+      "Team 9":1025.92,
+      "Team 10":1221.7,
+      "Team 11":1165.48,
+      "Team 12":1268.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":303.1,
+      "Team 1":270.58,
+      "Team 3":242.48,
+      "Team 7":261.9
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "DeAndre Hopkins (Pick 23)",
+      "David Montgomery (Pick 26)",
+      "Chris Carson (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "Diontae Johnson (Pick 71)",
+      "James Conner (Pick 74)",
+      "AJ Dillon (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Mike Williams (Pick 143)",
+      "Chris Boswell (Pick 146)",
+      "Bengals (Pick 167)",
+      "Jake Butt (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":56,
+    "Winner":"Team 1",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1387.36,
+    "DM-Points-Playoffs":294.34,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1272.1,
+      "Team 2":1281.74,
+      "Team 3":1160.48,
+      "Team 4":1024.2,
+      "Team 5":893.74,
+      "Team 6":1346.34,
+      "Team 7":1089.06,
+      "Team 8":1253.26,
+      "Team 9":1387.36,
+      "Team 10":1473.08,
+      "Team 11":1105.44,
+      "Team 12":1282.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":234.76,
+      "Team 2":272.08,
+      "Team 6":335.4,
+      "Team 9":294.34
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "Patrick Mahomes (Pick 16)",
+      "Joe Mixon (Pick 33)",
+      "Mike Evans (Pick 40)",
+      "Michael Pittman (Pick 57)",
+      "D.J. Chark (Pick 64)",
+      "James Conner (Pick 81)",
+      "Antonio Brown (Pick 88)",
+      "AJ Dillon (Pick 105)",
+      "Will Fuller (Pick 112)",
+      "Ravens (Pick 129)",
+      "Tevin Coleman (Pick 136)",
+      "Darnell Mooney (Pick 153)",
+      "Brandon McManus (Pick 160)",
+      "John Bates (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":57,
+    "Winner":"Team 5",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1180.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1180.0,
+      "Team 2":1343.84,
+      "Team 3":1062.7,
+      "Team 4":1303.2,
+      "Team 5":1527.22,
+      "Team 6":1041.56,
+      "Team 7":1177.18,
+      "Team 8":1245.52,
+      "Team 9":1505.54,
+      "Team 10":1153.14,
+      "Team 11":1109.96,
+      "Team 12":1255.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":327.58,
+      "Team 2":303.86,
+      "Team 9":266.32,
+      "Team 12":297.54
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "David Montgomery (Pick 24)",
+      "Terry McLaurin (Pick 25)",
+      "Dak Prescott (Pick 48)",
+      "Diontae Johnson (Pick 49)",
+      "Michael Pittman (Pick 72)",
+      "James Conner (Pick 73)",
+      "AJ Dillon (Pick 96)",
+      "DeVonta Smith (Pick 97)",
+      "David Johnson (Pick 120)",
+      "Will Fuller (Pick 121)",
+      "Tevin Coleman (Pick 144)",
+      "Bengals (Pick 145)",
+      "Johnny Mundt (Pick 168)",
+      "Brandon McManus (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":58,
+    "Winner":"Team 9",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1234.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1227.84,
+      "Team 2":1122.0,
+      "Team 3":1260.26,
+      "Team 4":1359.58,
+      "Team 5":1260.06,
+      "Team 6":1308.16,
+      "Team 7":1328.56,
+      "Team 8":1217.5,
+      "Team 9":1463.38,
+      "Team 10":1234.72,
+      "Team 11":1361.04,
+      "Team 12":1212.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":261.88,
+      "Team 3":206.26,
+      "Team 4":302.38,
+      "Team 1":272.82
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 10)",
+      "DeAndre Hopkins (Pick 15)",
+      "David Montgomery (Pick 34)",
+      "Chris Godwin (Pick 39)",
+      "James Conner (Pick 58)",
+      "AJ Dillon (Pick 63)",
+      "Michael Pittman (Pick 82)",
+      "Antonio Brown (Pick 87)",
+      "D.J. Chark (Pick 106)",
+      "Will Fuller (Pick 111)",
+      "Colts (Pick 130)",
+      "Jarvis Landry (Pick 135)",
+      "Carson Wentz (Pick 154)",
+      "Mason Crosby (Pick 159)",
+      "Johnny Mundt (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":59,
+    "Winner":"Team 3",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1219.62,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1421.28,
+      "Team 2":1127.0,
+      "Team 3":1486.34,
+      "Team 4":1219.62,
+      "Team 5":1119.12,
+      "Team 6":1192.5,
+      "Team 7":1145.34,
+      "Team 8":1145.06,
+      "Team 9":1464.66,
+      "Team 10":870.96,
+      "Team 11":1415.78,
+      "Team 12":1335.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":275.62,
+      "Team 1":324.38,
+      "Team 9":339.92,
+      "Team 12":256.78
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "Joe Mixon (Pick 21)",
+      "David Montgomery (Pick 28)",
+      "Chris Godwin (Pick 45)",
+      "Michael Carter (Pick 52)",
+      "David Johnson (Pick 69)",
+      "Jarvis Landry (Pick 76)",
+      "Antonio Brown (Pick 93)",
+      "DeVonta Smith (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "Mike Williams (Pick 124)",
+      "Colts (Pick 141)",
+      "Ross Dwelley (Pick 148)",
+      "Mason Crosby (Pick 165)",
+      "Carson Wentz (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":60,
+    "Winner":"Team 8",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1189.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1256.66,
+      "Team 2":1100.86,
+      "Team 3":1460.04,
+      "Team 4":1316.2,
+      "Team 5":1189.6,
+      "Team 6":1347.7,
+      "Team 7":1277.42,
+      "Team 8":1384.0,
+      "Team 9":1112.72,
+      "Team 10":1164.96,
+      "Team 11":1251.54,
+      "Team 12":1329.32
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":281.06,
+      "Team 3":358.38,
+      "Team 12":259.74,
+      "Team 1":235.3
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 5)",
+      "Antonio Gibson (Pick 20)",
+      "David Montgomery (Pick 29)",
+      "Dak Prescott (Pick 44)",
+      "Diontae Johnson (Pick 53)",
+      "James Conner (Pick 68)",
+      "David Johnson (Pick 77)",
+      "Michael Carter (Pick 92)",
+      "Steelers (Pick 101)",
+      "Tevin Coleman (Pick 116)",
+      "Mike Williams (Pick 125)",
+      "Jalen Reagor (Pick 140)",
+      "Jarvis Landry (Pick 149)",
+      "Jesper Horsted (Pick 164)",
+      "Mason Crosby (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":61,
+    "Winner":"Team 1",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1309.52,
+    "DM-Points-Playoffs":244.28,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1353.22,
+      "Team 2":1216.04,
+      "Team 3":1252.06,
+      "Team 4":1223.3,
+      "Team 5":1110.94,
+      "Team 6":1191.04,
+      "Team 7":1268.94,
+      "Team 8":1309.52,
+      "Team 9":1273.06,
+      "Team 10":1406.1,
+      "Team 11":1309.1,
+      "Team 12":1382.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":289.64,
+      "Team 12":299.14,
+      "Team 8":244.28,
+      "Team 10":278.44
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "Saquon Barkley (Pick 17)",
+      "David Montgomery (Pick 32)",
+      "Chris Godwin (Pick 41)",
+      "Diontae Johnson (Pick 56)",
+      "James Conner (Pick 65)",
+      "Michael Pittman (Pick 80)",
+      "AJ Dillon (Pick 89)",
+      "Will Fuller (Pick 104)",
+      "Jarvis Landry (Pick 113)",
+      "Darnell Mooney (Pick 128)",
+      "Colts (Pick 137)",
+      "Mason Crosby (Pick 152)",
+      "Carson Wentz (Pick 161)",
+      "Johnny Mundt (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":62,
+    "Winner":"Team 7",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1074.86,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1246.9,
+      "Team 2":1152.1,
+      "Team 3":1356.22,
+      "Team 4":1199.46,
+      "Team 5":1167.56,
+      "Team 6":1118.28,
+      "Team 7":1339.04,
+      "Team 8":1234.62,
+      "Team 9":1392.82,
+      "Team 10":1074.86,
+      "Team 11":1341.32,
+      "Team 12":1497.34
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":227.98,
+      "Team 11":334.14,
+      "Team 12":286.46,
+      "Team 9":360.04
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 10)",
+      "Patrick Mahomes (Pick 15)",
+      "David Montgomery (Pick 34)",
+      "Terry McLaurin (Pick 39)",
+      "Dak Prescott (Pick 58)",
+      "Michael Pittman (Pick 63)",
+      "D.J. Chark (Pick 82)",
+      "Will Fuller (Pick 87)",
+      "Jarvis Landry (Pick 106)",
+      "Ravens (Pick 111)",
+      "Tyler Bass (Pick 130)",
+      "David Johnson (Pick 135)",
+      "Mike Williams (Pick 154)",
+      "Parris Campbell (Pick 159)",
+      "Ross Dwelley (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":63,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1265.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1269.8,
+      "Team 2":1347.28,
+      "Team 3":1320.74,
+      "Team 4":909.42,
+      "Team 5":1278.28,
+      "Team 6":1174.86,
+      "Team 7":1184.82,
+      "Team 8":1265.3,
+      "Team 9":1231.36,
+      "Team 10":1226.9,
+      "Team 11":1129.0,
+      "Team 12":1671.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":328.48,
+      "Team 3":309.38,
+      "Team 7":234.04,
+      "Team 9":298.54
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "Antonio Gibson (Pick 17)",
+      "Chris Carson (Pick 32)",
+      "Dak Prescott (Pick 41)",
+      "Michael Pittman (Pick 56)",
+      "James Conner (Pick 65)",
+      "AJ Dillon (Pick 80)",
+      "Antonio Brown (Pick 89)",
+      "Steelers (Pick 104)",
+      "Will Fuller (Pick 113)",
+      "Jarvis Landry (Pick 128)",
+      "Mike Williams (Pick 137)",
+      "Darnell Mooney (Pick 152)",
+      "Ross Dwelley (Pick 161)",
+      "Kai Forbath (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":64,
+    "Winner":"Team 2",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1217.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1201.32,
+      "Team 2":1279.16,
+      "Team 3":1101.04,
+      "Team 4":1174.3,
+      "Team 5":1292.98,
+      "Team 6":1258.24,
+      "Team 7":1225.36,
+      "Team 8":1217.06,
+      "Team 9":1251.8,
+      "Team 10":1243.36,
+      "Team 11":1204.06,
+      "Team 12":1346.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":234.84,
+      "Team 4":259.3,
+      "Team 6":265.68,
+      "Team 11":281.22
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "Patrick Mahomes (Pick 17)",
+      "David Montgomery (Pick 32)",
+      "Dak Prescott (Pick 41)",
+      "Michael Pittman (Pick 56)",
+      "D.J. Chark (Pick 65)",
+      "Will Fuller (Pick 80)",
+      "James Conner (Pick 89)",
+      "AJ Dillon (Pick 104)",
+      "Jarvis Landry (Pick 113)",
+      "David Johnson (Pick 128)",
+      "Mike Williams (Pick 137)",
+      "Colts (Pick 152)",
+      "Johnny Mundt (Pick 161)",
+      "Brandon McManus (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":65,
+    "Winner":"Team 8",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1335.66,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1180.5,
+      "Team 2":1101.4,
+      "Team 3":1099.1,
+      "Team 4":1018.46,
+      "Team 5":1174.46,
+      "Team 6":1339.24,
+      "Team 7":1335.66,
+      "Team 8":1385.26,
+      "Team 9":1403.68,
+      "Team 10":1216.02,
+      "Team 11":1281.76,
+      "Team 12":1398.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":326.58,
+      "Team 9":291.36,
+      "Team 6":354.82,
+      "Team 11":266.62
+    },
+    "DM-Picks":[
+      "Jonathan Taylor (Pick 7)",
+      "Patrick Mahomes (Pick 18)",
+      "Mike Evans (Pick 31)",
+      "Dak Prescott (Pick 42)",
+      "Tee Higgins (Pick 55)",
+      "Michael Pittman (Pick 66)",
+      "D.J. Chark (Pick 79)",
+      "James Conner (Pick 90)",
+      "AJ Dillon (Pick 103)",
+      "Will Fuller (Pick 114)",
+      "David Johnson (Pick 127)",
+      "Tyler Bass (Pick 138)",
+      "Darnell Mooney (Pick 151)",
+      "Colts (Pick 162)",
+      "John Bates (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":66,
+    "Winner":"Team 9",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1181.72,
+    "DM-Points-Playoffs":242.78,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1088.18,
+      "Team 2":1181.72,
+      "Team 3":1093.4,
+      "Team 4":1226.24,
+      "Team 5":1147.42,
+      "Team 6":1258.24,
+      "Team 7":1306.48,
+      "Team 8":1318.62,
+      "Team 9":1516.32,
+      "Team 10":1273.4,
+      "Team 11":1186.46,
+      "Team 12":1402.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":250.68,
+      "Team 10":239.5,
+      "Team 7":307.06,
+      "Team 2":242.78
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 2)",
+      "DeAndre Hopkins (Pick 23)",
+      "David Montgomery (Pick 26)",
+      "Diontae Johnson (Pick 47)",
+      "Antonio Brown (Pick 50)",
+      "James Conner (Pick 71)",
+      "AJ Dillon (Pick 74)",
+      "Michael Carter (Pick 95)",
+      "DeVonta Smith (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Colts (Pick 143)",
+      "Carson Wentz (Pick 146)",
+      "Mason Crosby (Pick 167)",
+      "Levine Toilolo (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":67,
+    "Winner":"Team 12",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1398.92,
+    "DM-Points-Playoffs":302.98,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1249.3,
+      "Team 2":1398.92,
+      "Team 3":1137.52,
+      "Team 4":1325.46,
+      "Team 5":1206.68,
+      "Team 6":1049.9,
+      "Team 7":1341.94,
+      "Team 8":1402.46,
+      "Team 9":1205.76,
+      "Team 10":1190.96,
+      "Team 11":1255.82,
+      "Team 12":1349.3
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":234.58,
+      "Team 2":302.98,
+      "Team 5":232.28,
+      "Team 8":290.6
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Joe Mixon (Pick 23)",
+      "David Montgomery (Pick 26)",
+      "Mike Evans (Pick 47)",
+      "Chris Godwin (Pick 50)",
+      "AJ Dillon (Pick 71)",
+      "Michael Pittman (Pick 74)",
+      "D.J. Chark (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Colts (Pick 143)",
+      "Chris Boswell (Pick 146)",
+      "Zach Ertz (Pick 167)",
+      "Carson Wentz (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":68,
+    "Winner":"Team 7",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1285.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1300.18,
+      "Team 2":1125.58,
+      "Team 3":982.88,
+      "Team 4":958.72,
+      "Team 5":1005.26,
+      "Team 6":1316.54,
+      "Team 7":1306.96,
+      "Team 8":1397.3,
+      "Team 9":1415.8,
+      "Team 10":1276.1,
+      "Team 11":1259.48,
+      "Team 12":1285.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":239.22,
+      "Team 9":234.88,
+      "Team 10":242.34,
+      "Team 11":334.3
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Tyreek Hill (Pick 13)",
+      "Chris Carson (Pick 36)",
+      "Chris Godwin (Pick 37)",
+      "Diontae Johnson (Pick 60)",
+      "Michael Pittman (Pick 61)",
+      "D.J. Chark (Pick 84)",
+      "James Conner (Pick 85)",
+      "Will Fuller (Pick 108)",
+      "AJ Dillon (Pick 109)",
+      "David Johnson (Pick 132)",
+      "Tyler Bass (Pick 133)",
+      "Jalen Reagor (Pick 156)",
+      "Bengals (Pick 157)",
+      "Ross Dwelley (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":69,
+    "Winner":"Team 12",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1242.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1179.38,
+      "Team 2":1161.88,
+      "Team 3":1118.72,
+      "Team 4":1276.32,
+      "Team 5":1315.32,
+      "Team 6":1226.54,
+      "Team 7":1142.8,
+      "Team 8":1378.18,
+      "Team 9":1169.76,
+      "Team 10":1100.3,
+      "Team 11":1242.76,
+      "Team 12":1552.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":409.04,
+      "Team 5":291.9,
+      "Team 1":210.98,
+      "Team 8":259.7
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 11)",
+      "Patrick Mahomes (Pick 14)",
+      "Chris Carson (Pick 35)",
+      "Mike Evans (Pick 38)",
+      "Diontae Johnson (Pick 59)",
+      "Michael Pittman (Pick 62)",
+      "James Conner (Pick 83)",
+      "Antonio Brown (Pick 86)",
+      "Will Fuller (Pick 107)",
+      "D.J. Chark (Pick 110)",
+      "David Johnson (Pick 131)",
+      "Darnell Mooney (Pick 134)",
+      "Colts (Pick 155)",
+      "Brandon McManus (Pick 158)",
+      "John Bates (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":70,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1164.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1184.14,
+      "Team 2":1164.7,
+      "Team 3":1228.04,
+      "Team 4":1346.28,
+      "Team 5":1275.84,
+      "Team 6":1302.06,
+      "Team 7":1252.78,
+      "Team 8":1205.26,
+      "Team 9":1344.3,
+      "Team 10":1099.04,
+      "Team 11":1373.84,
+      "Team 12":1309.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":242.52,
+      "Team 12":273.74,
+      "Team 4":285.78,
+      "Team 7":278.14
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 2)",
+      "David Montgomery (Pick 23)",
+      "Chris Carson (Pick 26)",
+      "Chris Godwin (Pick 47)",
+      "Diontae Johnson (Pick 50)",
+      "Will Fuller (Pick 71)",
+      "AJ Dillon (Pick 74)",
+      "James Conner (Pick 95)",
+      "Antonio Brown (Pick 98)",
+      "Steelers (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Darnell Mooney (Pick 143)",
+      "Zach Ertz (Pick 146)",
+      "Dwayne Haskins (Pick 167)",
+      "Mason Crosby (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":71,
+    "Winner":"Team 12",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1133.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1270.34,
+      "Team 2":1072.66,
+      "Team 3":1163.74,
+      "Team 4":971.6,
+      "Team 5":1326.7,
+      "Team 6":1133.7,
+      "Team 7":1319.4,
+      "Team 8":1404.5,
+      "Team 9":1380.96,
+      "Team 10":1136.2,
+      "Team 11":1130.82,
+      "Team 12":1476.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":368.04,
+      "Team 7":253.46,
+      "Team 8":295.7,
+      "Team 9":274.2
+    },
+    "DM-Picks":[
+      "Jonathan Taylor (Pick 6)",
+      "DeAndre Hopkins (Pick 19)",
+      "David Montgomery (Pick 30)",
+      "Chris Godwin (Pick 43)",
+      "Michael Carter (Pick 54)",
+      "James Conner (Pick 67)",
+      "Michael Pittman (Pick 78)",
+      "AJ Dillon (Pick 91)",
+      "D.J. Chark (Pick 102)",
+      "Will Fuller (Pick 115)",
+      "Mike Williams (Pick 126)",
+      "Brandon McManus (Pick 139)",
+      "Bengals (Pick 150)",
+      "Jesper Horsted (Pick 163)",
+      "Dwayne Haskins (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":72,
+    "Winner":"Team 6",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1241.02,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1053.5,
+      "Team 2":1241.02,
+      "Team 3":958.68,
+      "Team 4":1353.7,
+      "Team 5":1217.1,
+      "Team 6":1435.8,
+      "Team 7":1346.8,
+      "Team 8":1254.12,
+      "Team 9":1457.92,
+      "Team 10":1305.62,
+      "Team 11":1279.4,
+      "Team 12":1119.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":269.96,
+      "Team 8":270.52,
+      "Team 9":334.02,
+      "Team 4":266.52
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Joe Mixon (Pick 23)",
+      "Terry McLaurin (Pick 26)",
+      "Chris Godwin (Pick 47)",
+      "Antonio Brown (Pick 50)",
+      "AJ Dillon (Pick 71)",
+      "James Conner (Pick 74)",
+      "Michael Carter (Pick 95)",
+      "DeVonta Smith (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Mike Williams (Pick 122)",
+      "Colts (Pick 143)",
+      "Chris Boswell (Pick 146)",
+      "Carson Wentz (Pick 167)",
+      "Levine Toilolo (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":73,
+    "Winner":"Team 4",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1258.12,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1146.62,
+      "Team 2":1380.6,
+      "Team 3":1075.3,
+      "Team 4":1324.9,
+      "Team 5":1258.12,
+      "Team 6":1201.0,
+      "Team 7":1202.62,
+      "Team 8":1279.76,
+      "Team 9":1227.96,
+      "Team 10":1317.64,
+      "Team 11":1472.98,
+      "Team 12":1307.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":226.16,
+      "Team 11":331.34,
+      "Team 8":343.24,
+      "Team 10":288.12
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 5)",
+      "Antonio Gibson (Pick 20)",
+      "David Montgomery (Pick 29)",
+      "Diontae Johnson (Pick 44)",
+      "Antonio Brown (Pick 53)",
+      "James Conner (Pick 68)",
+      "AJ Dillon (Pick 77)",
+      "Michael Pittman (Pick 92)",
+      "D.J. Chark (Pick 101)",
+      "Will Fuller (Pick 116)",
+      "Darnell Mooney (Pick 125)",
+      "Colts (Pick 140)",
+      "Carson Wentz (Pick 149)",
+      "Johnny Mundt (Pick 164)",
+      "Chris Boswell (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":74,
+    "Winner":"Team 6",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1141.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1241.3,
+      "Team 2":1255.2,
+      "Team 3":1038.74,
+      "Team 4":1116.1,
+      "Team 5":1189.08,
+      "Team 6":1486.04,
+      "Team 7":1530.5,
+      "Team 8":1238.46,
+      "Team 9":1330.96,
+      "Team 10":1141.5,
+      "Team 11":1064.42,
+      "Team 12":1213.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":404.48,
+      "Team 7":352.4,
+      "Team 9":230.4,
+      "Team 12":263.44
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 10)",
+      "DeAndre Hopkins (Pick 15)",
+      "Terry McLaurin (Pick 34)",
+      "Chris Godwin (Pick 39)",
+      "Dak Prescott (Pick 58)",
+      "James Conner (Pick 63)",
+      "Michael Pittman (Pick 82)",
+      "D.J. Chark (Pick 87)",
+      "Tyler Bass (Pick 106)",
+      "David Johnson (Pick 111)",
+      "Will Fuller (Pick 130)",
+      "Mike Williams (Pick 135)",
+      "Tevin Coleman (Pick 154)",
+      "Colts (Pick 159)",
+      "John Bates (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":75,
+    "Winner":"Team 7",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1233.5,
+    "DM-Points-Playoffs":235.62,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1135.7,
+      "Team 2":1312.7,
+      "Team 3":1249.64,
+      "Team 4":1179.64,
+      "Team 5":1023.5,
+      "Team 6":1241.08,
+      "Team 7":1489.28,
+      "Team 8":1233.5,
+      "Team 9":1206.94,
+      "Team 10":1300.46,
+      "Team 11":1178.24,
+      "Team 12":1273.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":352.14,
+      "Team 8":235.62,
+      "Team 9":275.74,
+      "Team 12":294.16
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "Joe Mixon (Pick 17)",
+      "Terry McLaurin (Pick 32)",
+      "Dak Prescott (Pick 41)",
+      "Diontae Johnson (Pick 56)",
+      "Michael Pittman (Pick 65)",
+      "D.J. Chark (Pick 80)",
+      "Antonio Brown (Pick 89)",
+      "Will Fuller (Pick 104)",
+      "Ravens (Pick 113)",
+      "Jarvis Landry (Pick 128)",
+      "AJ Dillon (Pick 137)",
+      "Tevin Coleman (Pick 152)",
+      "Johnny Mundt (Pick 161)",
+      "Brandon McManus (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":76,
+    "Winner":"Team 4",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1170.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1165.22,
+      "Team 2":1193.78,
+      "Team 3":1349.76,
+      "Team 4":1172.82,
+      "Team 5":1228.5,
+      "Team 6":1170.3,
+      "Team 7":1291.12,
+      "Team 8":1220.06,
+      "Team 9":1326.24,
+      "Team 10":1111.52,
+      "Team 11":1347.1,
+      "Team 12":1359.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":269.1,
+      "Team 3":334.32,
+      "Team 8":247.44,
+      "Team 11":316.24
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 6)",
+      "David Montgomery (Pick 19)",
+      "Terry McLaurin (Pick 30)",
+      "Dak Prescott (Pick 43)",
+      "Michael Carter (Pick 54)",
+      "Tyler Bass (Pick 67)",
+      "James Conner (Pick 78)",
+      "AJ Dillon (Pick 91)",
+      "David Johnson (Pick 102)",
+      "Colts (Pick 115)",
+      "Darnell Mooney (Pick 126)",
+      "Tevin Coleman (Pick 139)",
+      "Rashod Bateman (Pick 150)",
+      "Hunter Renfrow (Pick 163)",
+      "Ross Dwelley (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":77,
+    "Winner":"Team 12",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1050.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1300.64,
+      "Team 2":1326.08,
+      "Team 3":1103.24,
+      "Team 4":1232.06,
+      "Team 5":1050.5,
+      "Team 6":1067.22,
+      "Team 7":1196.16,
+      "Team 8":1243.04,
+      "Team 9":1243.18,
+      "Team 10":1424.76,
+      "Team 11":1108.14,
+      "Team 12":1596.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":312.98,
+      "Team 2":258.66,
+      "Team 10":300.92,
+      "Team 1":328.64
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 5)",
+      "David Montgomery (Pick 20)",
+      "Chris Carson (Pick 29)",
+      "Chris Godwin (Pick 44)",
+      "Diontae Johnson (Pick 53)",
+      "James Conner (Pick 68)",
+      "AJ Dillon (Pick 77)",
+      "D.J. Chark (Pick 92)",
+      "Michael Pittman (Pick 101)",
+      "Will Fuller (Pick 116)",
+      "David Johnson (Pick 125)",
+      "Colts (Pick 140)",
+      "Johnny Mundt (Pick 149)",
+      "Dwayne Haskins (Pick 164)",
+      "Brandon McManus (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":78,
+    "Winner":"Team 1",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1251.2,
+    "DM-Points-Playoffs":285.62,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1520.28,
+      "Team 2":1151.62,
+      "Team 3":1101.42,
+      "Team 4":1251.2,
+      "Team 5":1270.06,
+      "Team 6":1115.78,
+      "Team 7":1389.64,
+      "Team 8":1259.6,
+      "Team 9":1198.64,
+      "Team 10":1314.6,
+      "Team 11":1144.94,
+      "Team 12":1416.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":328.48,
+      "Team 10":211.68,
+      "Team 4":285.62,
+      "Team 7":385.08
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "David Montgomery (Pick 21)",
+      "Chris Carson (Pick 28)",
+      "Chris Godwin (Pick 45)",
+      "Dak Prescott (Pick 52)",
+      "AJ Dillon (Pick 69)",
+      "James Conner (Pick 76)",
+      "Colts (Pick 93)",
+      "Michael Carter (Pick 100)",
+      "Mike Williams (Pick 117)",
+      "Will Fuller (Pick 124)",
+      "Tevin Coleman (Pick 141)",
+      "Darnell Mooney (Pick 148)",
+      "John Bates (Pick 165)",
+      "Chris Boswell (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":79,
+    "Winner":"Team 10",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1197.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1192.64,
+      "Team 2":1282.24,
+      "Team 3":1197.2,
+      "Team 4":999.16,
+      "Team 5":1176.12,
+      "Team 6":1237.56,
+      "Team 7":1304.76,
+      "Team 8":1251.94,
+      "Team 9":1318.78,
+      "Team 10":1452.36,
+      "Team 11":1370.46,
+      "Team 12":1416.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":330.44,
+      "Team 7":388.16,
+      "Team 5":283.98,
+      "Team 6":206.2
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 3)",
+      "DeAndre Hopkins (Pick 22)",
+      "David Montgomery (Pick 27)",
+      "Dak Prescott (Pick 46)",
+      "Diontae Johnson (Pick 51)",
+      "Michael Pittman (Pick 70)",
+      "James Conner (Pick 75)",
+      "AJ Dillon (Pick 94)",
+      "Michael Carter (Pick 99)",
+      "Will Fuller (Pick 118)",
+      "Jarvis Landry (Pick 123)",
+      "Tyler Bass (Pick 142)",
+      "David Johnson (Pick 147)",
+      "Colts (Pick 166)",
+      "Levine Toilolo (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":80,
+    "Winner":"Team 8",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1217.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1243.92,
+      "Team 2":1134.92,
+      "Team 3":1393.36,
+      "Team 4":1337.78,
+      "Team 5":1217.46,
+      "Team 6":1154.84,
+      "Team 7":1265.64,
+      "Team 8":1420.66,
+      "Team 9":1405.3,
+      "Team 10":1117.34,
+      "Team 11":1260.4,
+      "Team 12":1033.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":340.78,
+      "Team 3":334.1,
+      "Team 4":233.26,
+      "Team 11":237.68
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 5)",
+      "DeAndre Hopkins (Pick 20)",
+      "Patrick Mahomes (Pick 29)",
+      "Chris Godwin (Pick 44)",
+      "Antonio Brown (Pick 53)",
+      "Michael Pittman (Pick 68)",
+      "James Conner (Pick 77)",
+      "AJ Dillon (Pick 92)",
+      "D.J. Chark (Pick 101)",
+      "Will Fuller (Pick 116)",
+      "Mike Williams (Pick 125)",
+      "Tevin Coleman (Pick 140)",
+      "Colts (Pick 149)",
+      "Mason Crosby (Pick 164)",
+      "Jake Butt (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":81,
+    "Winner":"Team 10",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":916.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1363.98,
+      "Team 2":1094.88,
+      "Team 3":1267.72,
+      "Team 4":1295.12,
+      "Team 5":1278.5,
+      "Team 6":1245.5,
+      "Team 7":1322.12,
+      "Team 8":1177.76,
+      "Team 9":916.0,
+      "Team 10":1415.24,
+      "Team 11":1188.96,
+      "Team 12":1550.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":303.72,
+      "Team 4":234.76,
+      "Team 7":244.24,
+      "Team 12":365.02
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "DeAndre Hopkins (Pick 16)",
+      "David Montgomery (Pick 33)",
+      "Mike Evans (Pick 40)",
+      "Michael Pittman (Pick 57)",
+      "D.J. Chark (Pick 64)",
+      "Will Fuller (Pick 81)",
+      "David Johnson (Pick 88)",
+      "Jarvis Landry (Pick 105)",
+      "Tyler Bass (Pick 112)",
+      "Mike Williams (Pick 129)",
+      "Tevin Coleman (Pick 136)",
+      "Zach Ertz (Pick 153)",
+      "Bengals (Pick 160)",
+      "Dwayne Haskins (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":82,
+    "Winner":"Team 8",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1045.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1128.1,
+      "Team 2":1070.98,
+      "Team 3":1045.5,
+      "Team 4":1215.16,
+      "Team 5":1340.9,
+      "Team 6":1155.18,
+      "Team 7":1094.34,
+      "Team 8":1545.34,
+      "Team 9":1442.62,
+      "Team 10":1113.3,
+      "Team 11":1150.04,
+      "Team 12":1424.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":358.7,
+      "Team 4":246.04,
+      "Team 6":259.16,
+      "Team 5":215.7
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 3)",
+      "David Montgomery (Pick 22)",
+      "Terry McLaurin (Pick 27)",
+      "Mike Evans (Pick 46)",
+      "Diontae Johnson (Pick 51)",
+      "Michael Pittman (Pick 70)",
+      "AJ Dillon (Pick 75)",
+      "James Conner (Pick 94)",
+      "Michael Carter (Pick 99)",
+      "Will Fuller (Pick 118)",
+      "Jarvis Landry (Pick 123)",
+      "Colts (Pick 142)",
+      "Mason Crosby (Pick 147)",
+      "Dwayne Haskins (Pick 166)",
+      "John Bates (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":83,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1275.56,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1292.36,
+      "Team 2":1260.14,
+      "Team 3":1260.64,
+      "Team 4":1368.12,
+      "Team 5":1199.86,
+      "Team 6":1224.5,
+      "Team 7":1012.26,
+      "Team 8":1275.56,
+      "Team 9":1026.6,
+      "Team 10":1224.68,
+      "Team 11":1100.84,
+      "Team 12":1668.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":371.28,
+      "Team 4":265.82,
+      "Team 1":251.3,
+      "Team 6":293.18
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "Patrick Mahomes (Pick 17)",
+      "David Montgomery (Pick 32)",
+      "Terry McLaurin (Pick 41)",
+      "Chris Carson (Pick 56)",
+      "James Conner (Pick 65)",
+      "Michael Pittman (Pick 80)",
+      "AJ Dillon (Pick 89)",
+      "D.J. Chark (Pick 104)",
+      "Will Fuller (Pick 113)",
+      "Mike Williams (Pick 128)",
+      "Darnell Mooney (Pick 137)",
+      "Bengals (Pick 152)",
+      "Brandon McManus (Pick 161)",
+      "John Bates (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":84,
+    "Winner":"Team 4",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1290.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1221.04,
+      "Team 2":1237.88,
+      "Team 3":1321.1,
+      "Team 4":1343.72,
+      "Team 5":1382.34,
+      "Team 6":1260.8,
+      "Team 7":1099.34,
+      "Team 8":1268.1,
+      "Team 9":1296.82,
+      "Team 10":1255.22,
+      "Team 11":1261.0,
+      "Team 12":1290.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":246.98,
+      "Team 2":314.18,
+      "Team 1":264.28,
+      "Team 5":288.96
+    },
+    "DM-Picks":[
+      "Patrick Mahomes (Pick 12)",
+      "Saquon Barkley (Pick 13)",
+      "David Montgomery (Pick 36)",
+      "Terry McLaurin (Pick 37)",
+      "James Conner (Pick 60)",
+      "AJ Dillon (Pick 61)",
+      "Will Fuller (Pick 84)",
+      "Michael Carter (Pick 85)",
+      "D.J. Chark (Pick 108)",
+      "Michael Pittman (Pick 109)",
+      "Mike Williams (Pick 132)",
+      "David Johnson (Pick 133)",
+      "Brandon McManus (Pick 156)",
+      "Zach Ertz (Pick 157)",
+      "Ravens (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":85,
+    "Winner":"Team 4",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1230.0,
+    "DM-Points-Playoffs":281.62,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1166.6,
+      "Team 2":1299.58,
+      "Team 3":1312.08,
+      "Team 4":1230.0,
+      "Team 5":1283.76,
+      "Team 6":1080.02,
+      "Team 7":1272.64,
+      "Team 8":1408.56,
+      "Team 9":1444.54,
+      "Team 10":1213.1,
+      "Team 11":1284.16,
+      "Team 12":1253.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":281.62,
+      "Team 8":314.36,
+      "Team 2":268.48,
+      "Team 12":272.28
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "DeAndre Hopkins (Pick 21)",
+      "David Montgomery (Pick 28)",
+      "Dak Prescott (Pick 45)",
+      "Diontae Johnson (Pick 52)",
+      "Michael Pittman (Pick 69)",
+      "AJ Dillon (Pick 76)",
+      "James Conner (Pick 93)",
+      "D.J. Chark (Pick 100)",
+      "Will Fuller (Pick 117)",
+      "David Johnson (Pick 124)",
+      "Tevin Coleman (Pick 141)",
+      "Colts (Pick 148)",
+      "Brandon McManus (Pick 165)",
+      "John Bates (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":86,
+    "Winner":"Team 1",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1200.92,
+    "DM-Points-Playoffs":240.38,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1200.92,
+      "Team 2":1232.94,
+      "Team 3":1210.32,
+      "Team 4":1327.08,
+      "Team 5":1045.14,
+      "Team 6":1254.32,
+      "Team 7":1201.94,
+      "Team 8":1191.26,
+      "Team 9":1282.82,
+      "Team 10":1272.22,
+      "Team 11":1192.16,
+      "Team 12":1341.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":240.38,
+      "Team 4":250.88,
+      "Team 6":284.12,
+      "Team 11":305.64
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "David Montgomery (Pick 24)",
+      "Terry McLaurin (Pick 25)",
+      "Chris Godwin (Pick 48)",
+      "DeVonta Smith (Pick 49)",
+      "Michael Pittman (Pick 72)",
+      "James Conner (Pick 73)",
+      "AJ Dillon (Pick 96)",
+      "Antonio Brown (Pick 97)",
+      "David Johnson (Pick 120)",
+      "Jarvis Landry (Pick 121)",
+      "Colts (Pick 144)",
+      "Mason Crosby (Pick 145)",
+      "Carson Wentz (Pick 168)",
+      "Ross Dwelley (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":87,
+    "Winner":"Team 11",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1255.62,
+    "DM-Points-Playoffs":235.28,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1135.68,
+      "Team 2":1253.48,
+      "Team 3":1255.62,
+      "Team 4":1239.54,
+      "Team 5":1218.4,
+      "Team 6":1154.16,
+      "Team 7":1329.56,
+      "Team 8":1322.5,
+      "Team 9":1312.26,
+      "Team 10":1066.68,
+      "Team 11":1457.46,
+      "Team 12":1322.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":351.58,
+      "Team 7":255.74,
+      "Team 3":235.28,
+      "Team 4":297.72
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 3)",
+      "David Montgomery (Pick 22)",
+      "Terry McLaurin (Pick 27)",
+      "Chris Godwin (Pick 46)",
+      "Diontae Johnson (Pick 51)",
+      "Michael Pittman (Pick 70)",
+      "James Conner (Pick 75)",
+      "Antonio Brown (Pick 94)",
+      "AJ Dillon (Pick 99)",
+      "Will Fuller (Pick 118)",
+      "Jarvis Landry (Pick 123)",
+      "Colts (Pick 142)",
+      "Mason Crosby (Pick 147)",
+      "Johnny Mundt (Pick 166)",
+      "Carson Wentz (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":88,
+    "Winner":"Team 2",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1267.92,
+    "DM-Points-Playoffs":213.88,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1230.4,
+      "Team 2":1406.56,
+      "Team 3":1121.2,
+      "Team 4":1014.26,
+      "Team 5":1346.36,
+      "Team 6":1153.76,
+      "Team 7":1267.92,
+      "Team 8":1235.68,
+      "Team 9":1195.54,
+      "Team 10":1325.12,
+      "Team 11":1094.62,
+      "Team 12":1378.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":195.02,
+      "Team 8":280.24,
+      "Team 10":189.36,
+      "Team 7":213.88
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 7)",
+      "Joe Mixon (Pick 18)",
+      "David Montgomery (Pick 31)",
+      "Mike Evans (Pick 42)",
+      "Tyler Bass (Pick 55)",
+      "Mike Williams (Pick 66)",
+      "James Conner (Pick 79)",
+      "AJ Dillon (Pick 90)",
+      "Michael Pittman (Pick 103)",
+      "Will Fuller (Pick 114)",
+      "Jarvis Landry (Pick 127)",
+      "David Johnson (Pick 138)",
+      "Carson Wentz (Pick 151)",
+      "Bengals (Pick 162)",
+      "Ross Dwelley (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":89,
+    "Winner":"Team 1",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1196.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1377.28,
+      "Team 2":1196.0,
+      "Team 3":1263.62,
+      "Team 4":944.78,
+      "Team 5":1305.96,
+      "Team 6":1158.72,
+      "Team 7":1280.06,
+      "Team 8":1295.26,
+      "Team 9":1495.62,
+      "Team 10":979.64,
+      "Team 11":1242.54,
+      "Team 12":1428.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":295.18,
+      "Team 12":320.82,
+      "Team 9":320.28,
+      "Team 3":284.32
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 2)",
+      "David Montgomery (Pick 23)",
+      "Terry McLaurin (Pick 26)",
+      "Dak Prescott (Pick 47)",
+      "Diontae Johnson (Pick 50)",
+      "James Conner (Pick 71)",
+      "AJ Dillon (Pick 74)",
+      "Antonio Brown (Pick 95)",
+      "DeVonta Smith (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "Jarvis Landry (Pick 122)",
+      "Tevin Coleman (Pick 143)",
+      "Mason Crosby (Pick 146)",
+      "Bengals (Pick 167)",
+      "Levine Toilolo (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":90,
+    "Winner":"Team 7",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1191.56,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":985.38,
+      "Team 2":999.32,
+      "Team 3":1318.04,
+      "Team 4":1191.56,
+      "Team 5":1382.1,
+      "Team 6":1269.36,
+      "Team 7":1488.86,
+      "Team 8":954.9,
+      "Team 9":1401.08,
+      "Team 10":1274.5,
+      "Team 11":1187.36,
+      "Team 12":1278.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":324.68,
+      "Team 9":312.46,
+      "Team 3":264.78,
+      "Team 5":302.52
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Patrick Mahomes (Pick 21)",
+      "David Montgomery (Pick 28)",
+      "Mike Evans (Pick 45)",
+      "Michael Carter (Pick 52)",
+      "James Conner (Pick 69)",
+      "AJ Dillon (Pick 76)",
+      "Steelers (Pick 93)",
+      "David Johnson (Pick 100)",
+      "Tyler Bass (Pick 117)",
+      "Tevin Coleman (Pick 124)",
+      "Jalen Reagor (Pick 141)",
+      "Darnell Mooney (Pick 148)",
+      "Hunter Renfrow (Pick 165)",
+      "Johnny Mundt (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":91,
+    "Winner":"Team 3",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1031.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1305.2,
+      "Team 2":1031.2,
+      "Team 3":1341.18,
+      "Team 4":1259.42,
+      "Team 5":1200.78,
+      "Team 6":1064.66,
+      "Team 7":1383.18,
+      "Team 8":1309.4,
+      "Team 9":1373.2,
+      "Team 10":1387.64,
+      "Team 11":1188.8,
+      "Team 12":1298.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":242.42,
+      "Team 10":275.18,
+      "Team 7":328.86,
+      "Team 8":353.5
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "DeAndre Hopkins (Pick 23)",
+      "Joe Mixon (Pick 26)",
+      "Chris Carson (Pick 47)",
+      "Dak Prescott (Pick 50)",
+      "James Conner (Pick 71)",
+      "Tyler Bass (Pick 74)",
+      "Michael Carter (Pick 95)",
+      "AJ Dillon (Pick 98)",
+      "Will Fuller (Pick 119)",
+      "David Johnson (Pick 122)",
+      "Tevin Coleman (Pick 143)",
+      "Jalen Reagor (Pick 146)",
+      "Bengals (Pick 167)",
+      "Levine Toilolo (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":92,
+    "Winner":"Team 10",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1224.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1277.9,
+      "Team 2":1099.22,
+      "Team 3":1006.84,
+      "Team 4":1210.42,
+      "Team 5":1156.46,
+      "Team 6":1120.66,
+      "Team 7":1224.76,
+      "Team 8":1290.56,
+      "Team 9":1296.24,
+      "Team 10":1622.12,
+      "Team 11":984.22,
+      "Team 12":1288.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":373.28,
+      "Team 1":281.8,
+      "Team 8":245.48,
+      "Team 9":270.0
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 7)",
+      "Patrick Mahomes (Pick 18)",
+      "David Montgomery (Pick 31)",
+      "Mike Evans (Pick 42)",
+      "James Conner (Pick 55)",
+      "AJ Dillon (Pick 66)",
+      "Will Fuller (Pick 79)",
+      "Antonio Brown (Pick 90)",
+      "Michael Pittman (Pick 103)",
+      "Jarvis Landry (Pick 114)",
+      "David Johnson (Pick 127)",
+      "Darnell Mooney (Pick 138)",
+      "Bengals (Pick 151)",
+      "Brandon McManus (Pick 162)",
+      "Ross Dwelley (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":93,
+    "Winner":"Team 4",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1165.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1073.36,
+      "Team 2":1124.8,
+      "Team 3":1205.04,
+      "Team 4":1472.0,
+      "Team 5":1121.56,
+      "Team 6":1333.64,
+      "Team 7":1355.76,
+      "Team 8":1165.26,
+      "Team 9":1297.66,
+      "Team 10":1245.64,
+      "Team 11":1369.16,
+      "Team 12":1098.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":251.36,
+      "Team 6":330.68,
+      "Team 11":255.3,
+      "Team 1":260.88
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 8)",
+      "Patrick Mahomes (Pick 17)",
+      "Terry McLaurin (Pick 32)",
+      "Dak Prescott (Pick 41)",
+      "Diontae Johnson (Pick 56)",
+      "Michael Pittman (Pick 65)",
+      "James Conner (Pick 80)",
+      "D.J. Chark (Pick 89)",
+      "Will Fuller (Pick 104)",
+      "Tevin Coleman (Pick 113)",
+      "Mike Williams (Pick 128)",
+      "Darnell Mooney (Pick 137)",
+      "Bengals (Pick 152)",
+      "Chris Boswell (Pick 161)",
+      "Johnny Mundt (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":94,
+    "Winner":"Team 10",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1211.66,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1088.94,
+      "Team 2":1288.76,
+      "Team 3":1345.5,
+      "Team 4":1414.62,
+      "Team 5":1118.44,
+      "Team 6":1208.9,
+      "Team 7":1128.78,
+      "Team 8":1273.56,
+      "Team 9":1211.66,
+      "Team 10":1469.1,
+      "Team 11":1298.54,
+      "Team 12":1247.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":202.2,
+      "Team 2":342.18,
+      "Team 8":274.16,
+      "Team 11":320.6
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "Patrick Mahomes (Pick 16)",
+      "David Montgomery (Pick 33)",
+      "Chris Carson (Pick 40)",
+      "Dak Prescott (Pick 57)",
+      "James Conner (Pick 64)",
+      "Steelers (Pick 81)",
+      "Antonio Brown (Pick 88)",
+      "AJ Dillon (Pick 105)",
+      "D.J. Chark (Pick 112)",
+      "Jarvis Landry (Pick 129)",
+      "Darnell Mooney (Pick 136)",
+      "Jalen Reagor (Pick 153)",
+      "Brandon McManus (Pick 160)",
+      "John Bates (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":95,
+    "Winner":"Team 7",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1255.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1060.46,
+      "Team 2":1138.44,
+      "Team 3":1261.14,
+      "Team 4":1257.58,
+      "Team 5":1268.4,
+      "Team 6":1442.94,
+      "Team 7":1436.26,
+      "Team 8":1139.36,
+      "Team 9":1255.2,
+      "Team 10":1143.8,
+      "Team 11":1284.94,
+      "Team 12":1263.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":319.82,
+      "Team 6":254.94,
+      "Team 3":275.08,
+      "Team 11":308.44
+    },
+    "DM-Picks":[
+      "Tyreek Hill (Pick 9)",
+      "Antonio Gibson (Pick 16)",
+      "Terry McLaurin (Pick 33)",
+      "Mike Evans (Pick 40)",
+      "Dak Prescott (Pick 57)",
+      "Michael Pittman (Pick 64)",
+      "James Conner (Pick 81)",
+      "Michael Carter (Pick 88)",
+      "AJ Dillon (Pick 105)",
+      "D.J. Chark (Pick 112)",
+      "Will Fuller (Pick 129)",
+      "Mike Williams (Pick 136)",
+      "Brandon McManus (Pick 153)",
+      "Bengals (Pick 160)",
+      "John Bates (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":96,
+    "Winner":"Team 3",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1289.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1075.74,
+      "Team 2":1370.12,
+      "Team 3":1404.58,
+      "Team 4":1165.6,
+      "Team 5":1428.48,
+      "Team 6":1289.7,
+      "Team 7":1230.96,
+      "Team 8":1214.38,
+      "Team 9":1294.78,
+      "Team 10":1224.2,
+      "Team 11":1154.96,
+      "Team 12":1132.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":238.62,
+      "Team 9":337.98,
+      "Team 2":316.54,
+      "Team 5":261.62
+    },
+    "DM-Picks":[
+      "Jonathan Taylor (Pick 6)",
+      "Joe Mixon (Pick 19)",
+      "David Montgomery (Pick 30)",
+      "Mike Evans (Pick 43)",
+      "Dak Prescott (Pick 54)",
+      "James Conner (Pick 67)",
+      "AJ Dillon (Pick 78)",
+      "Jalen Reagor (Pick 91)",
+      "Will Fuller (Pick 102)",
+      "Jarvis Landry (Pick 115)",
+      "David Johnson (Pick 126)",
+      "Tevin Coleman (Pick 139)",
+      "Mason Crosby (Pick 150)",
+      "Bengals (Pick 163)",
+      "Ross Dwelley (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":97,
+    "Winner":"Team 11",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1287.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1326.12,
+      "Team 2":1176.02,
+      "Team 3":1274.78,
+      "Team 4":1287.1,
+      "Team 5":1045.36,
+      "Team 6":1282.9,
+      "Team 7":1026.9,
+      "Team 8":1310.02,
+      "Team 9":1385.1,
+      "Team 10":1198.76,
+      "Team 11":1311.32,
+      "Team 12":1464.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":320.44,
+      "Team 8":301.9,
+      "Team 12":329.64,
+      "Team 3":273.18
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 4)",
+      "Joe Mixon (Pick 21)",
+      "David Montgomery (Pick 28)",
+      "Dak Prescott (Pick 45)",
+      "Diontae Johnson (Pick 52)",
+      "James Conner (Pick 69)",
+      "AJ Dillon (Pick 76)",
+      "Steelers (Pick 93)",
+      "David Johnson (Pick 100)",
+      "Mason Crosby (Pick 117)",
+      "Tevin Coleman (Pick 124)",
+      "J.J. Taylor (Pick 141)",
+      "Will Fuller (Pick 148)",
+      "Mike Williams (Pick 165)",
+      "Johnny Mundt (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":98,
+    "Winner":"Team 9",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1396.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1117.68,
+      "Team 2":1173.34,
+      "Team 3":1148.04,
+      "Team 4":1224.1,
+      "Team 5":1164.32,
+      "Team 6":1396.46,
+      "Team 7":1214.96,
+      "Team 8":1235.02,
+      "Team 9":1314.54,
+      "Team 10":1044.72,
+      "Team 11":1592.3,
+      "Team 12":1303.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":275.36,
+      "Team 11":267.1,
+      "Team 12":332.32,
+      "Team 2":243.28
+    },
+    "DM-Picks":[
+      "Jonathan Taylor (Pick 6)",
+      "Patrick Mahomes (Pick 19)",
+      "Terry McLaurin (Pick 30)",
+      "Chris Godwin (Pick 43)",
+      "Diontae Johnson (Pick 54)",
+      "Michael Pittman (Pick 67)",
+      "D.J. Chark (Pick 78)",
+      "James Conner (Pick 91)",
+      "AJ Dillon (Pick 102)",
+      "David Johnson (Pick 115)",
+      "Will Fuller (Pick 126)",
+      "Tyler Bass (Pick 139)",
+      "Mike Williams (Pick 150)",
+      "Bengals (Pick 163)",
+      "John Bates (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":99,
+    "Winner":"Team 1",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1387.42,
+    "DM-Points-Playoffs":258.58,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1382.9,
+      "Team 2":1133.34,
+      "Team 3":1221.14,
+      "Team 4":1314.48,
+      "Team 5":1157.78,
+      "Team 6":1208.58,
+      "Team 7":1387.42,
+      "Team 8":1302.52,
+      "Team 9":1172.36,
+      "Team 10":1068.96,
+      "Team 11":1279.54,
+      "Team 12":1316.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":197.06,
+      "Team 3":204.72,
+      "Team 7":258.58,
+      "Team 11":293.16
+    },
+    "DM-Picks":[
+      "Jonathan Taylor (Pick 7)",
+      "DeAndre Hopkins (Pick 18)",
+      "David Montgomery (Pick 31)",
+      "Mike Evans (Pick 42)",
+      "Diontae Johnson (Pick 55)",
+      "AJ Dillon (Pick 66)",
+      "Steelers (Pick 79)",
+      "James Conner (Pick 90)",
+      "Michael Pittman (Pick 103)",
+      "Will Fuller (Pick 114)",
+      "David Johnson (Pick 127)",
+      "Tevin Coleman (Pick 138)",
+      "Mason Crosby (Pick 151)",
+      "Carson Wentz (Pick 162)",
+      "John Bates (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":100,
+    "Winner":"Team 8",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1231.9,
+    "DM-Points-Playoffs":255.52,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1002.96,
+      "Team 2":1313.92,
+      "Team 3":1231.9,
+      "Team 4":1375.04,
+      "Team 5":1198.14,
+      "Team 6":1222.08,
+      "Team 7":1219.82,
+      "Team 8":1390.12,
+      "Team 9":1285.36,
+      "Team 10":1321.46,
+      "Team 11":1210.14,
+      "Team 12":1298.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":238.86,
+      "Team 10":224.34,
+      "Team 2":246.82,
+      "Team 3":255.52
+    },
+    "DM-Picks":[
+      "Aaron Jones (Pick 3)",
+      "David Montgomery (Pick 22)",
+      "Terry McLaurin (Pick 27)",
+      "Dak Prescott (Pick 46)",
+      "Diontae Johnson (Pick 51)",
+      "Michael Pittman (Pick 70)",
+      "James Conner (Pick 75)",
+      "Antonio Brown (Pick 94)",
+      "DeVonta Smith (Pick 99)",
+      "Will Fuller (Pick 118)",
+      "Jarvis Landry (Pick 123)",
+      "Tevin Coleman (Pick 142)",
+      "Colts (Pick 147)",
+      "Brandon McManus (Pick 166)",
+      "Jake Butt (Pick 171)"
+    ]
+  }
+]

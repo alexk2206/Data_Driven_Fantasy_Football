@@ -1,0 +1,5002 @@
+[
+  {
+    "Simulation":1,
+    "Winner":"Team 8",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1049.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1195.8,
+      "Team 2":1124.38,
+      "Team 3":1049.36,
+      "Team 4":1096.28,
+      "Team 5":1148.2,
+      "Team 6":1286.46,
+      "Team 7":1200.54,
+      "Team 8":1337.12,
+      "Team 9":1256.54,
+      "Team 10":1182.9,
+      "Team 11":1378.38,
+      "Team 12":1299.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":348.08,
+      "Team 11":310.18,
+      "Team 7":305.6,
+      "Team 12":304.28
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Odell Beckham (Pick 22)",
+      "David Johnson (Pick 27)",
+      "JuJu Smith-Schuster (Pick 46)",
+      "James White (Pick 51)",
+      "49ers (Pick 70)",
+      "Marvin Jones (Pick 75)",
+      "CeeDee Lamb (Pick 94)",
+      "Rob Gronkowski (Pick 99)",
+      "Diontae Johnson (Pick 118)",
+      "Geronimo Allison (Pick 123)",
+      "Darius Slayton (Pick 142)",
+      "Antonio Brown (Pick 147)",
+      "Dan Bailey (Pick 166)",
+      "Jimmy Garoppolo (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":2,
+    "Winner":"Team 6",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1046.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1046.14,
+      "Team 2":1207.1,
+      "Team 3":1052.12,
+      "Team 4":1008.44,
+      "Team 5":1404.5,
+      "Team 6":1309.48,
+      "Team 7":1335.84,
+      "Team 8":1064.42,
+      "Team 9":1151.3,
+      "Team 10":1159.6,
+      "Team 11":1266.32,
+      "Team 12":1187.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":279.98,
+      "Team 11":308.78,
+      "Team 12":274.48,
+      "Team 5":288.78
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "LeVeon Bell (Pick 24)",
+      "David Johnson (Pick 25)",
+      "Leonard Fournette (Pick 48)",
+      "Allen Robinson (Pick 49)",
+      "Keenan Allen (Pick 72)",
+      "Robert Woods (Pick 73)",
+      "Marvin Jones (Pick 96)",
+      "James White (Pick 97)",
+      "CeeDee Lamb (Pick 120)",
+      "Diontae Johnson (Pick 121)",
+      "Dan Bailey (Pick 144)",
+      "Jimmy Garoppolo (Pick 145)",
+      "Raiders (Pick 168)",
+      "Lance Kendricks (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":3,
+    "Winner":"Team 11",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1137.74,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1161.64,
+      "Team 2":1399.12,
+      "Team 3":1239.86,
+      "Team 4":1137.74,
+      "Team 5":1196.74,
+      "Team 6":1184.3,
+      "Team 7":1156.66,
+      "Team 8":1084.64,
+      "Team 9":1070.34,
+      "Team 10":1112.18,
+      "Team 11":1375.2,
+      "Team 12":1239.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":299.48,
+      "Team 5":317.98,
+      "Team 7":235.04,
+      "Team 2":303.58
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Aaron Jones (Pick 21)",
+      "David Johnson (Pick 28)",
+      "LeVeon Bell (Pick 45)",
+      "Amari Cooper (Pick 52)",
+      "Keenan Allen (Pick 69)",
+      "Marvin Jones (Pick 76)",
+      "CeeDee Lamb (Pick 93)",
+      "Diontae Johnson (Pick 100)",
+      "Geronimo Allison (Pick 117)",
+      "Bears (Pick 124)",
+      "Henry Ruggs (Pick 141)",
+      "Jimmy Garoppolo (Pick 148)",
+      "Dan Bailey (Pick 165)",
+      "Mo Alie-Cox (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":4,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1024.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1163.8,
+      "Team 2":1305.4,
+      "Team 3":1103.98,
+      "Team 4":1024.26,
+      "Team 5":1134.22,
+      "Team 6":1174.64,
+      "Team 7":1269.9,
+      "Team 8":1417.82,
+      "Team 9":1117.14,
+      "Team 10":1445.52,
+      "Team 11":1067.52,
+      "Team 12":1250.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":305.88,
+      "Team 10":355.86,
+      "Team 6":230.2,
+      "Team 3":321.48
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Odell Beckham (Pick 21)",
+      "Miles Sanders (Pick 28)",
+      "JuJu Smith-Schuster (Pick 45)",
+      "Rob Gronkowski (Pick 52)",
+      "Marvin Jones (Pick 69)",
+      "CeeDee Lamb (Pick 76)",
+      "James White (Pick 93)",
+      "Diontae Johnson (Pick 100)",
+      "Geronimo Allison (Pick 117)",
+      "Darius Slayton (Pick 124)",
+      "Henry Ruggs (Pick 141)",
+      "Matt Prater (Pick 148)",
+      "Raiders (Pick 165)",
+      "Jimmy Garoppolo (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":5,
+    "Winner":"Team 12",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1069.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1125.94,
+      "Team 2":1185.66,
+      "Team 3":1100.02,
+      "Team 4":1177.8,
+      "Team 5":1279.84,
+      "Team 6":1094.66,
+      "Team 7":1154.2,
+      "Team 8":1222.68,
+      "Team 9":1189.12,
+      "Team 10":1069.14,
+      "Team 11":1130.3,
+      "Team 12":1397.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":354.76,
+      "Team 2":320.56,
+      "Team 7":222.6,
+      "Team 8":284.1
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Aaron Jones (Pick 15)",
+      "Amari Cooper (Pick 34)",
+      "Allen Robinson (Pick 39)",
+      "49ers (Pick 58)",
+      "Marvin Jones (Pick 63)",
+      "CeeDee Lamb (Pick 82)",
+      "Diontae Johnson (Pick 87)",
+      "Geronimo Allison (Pick 106)",
+      "Darius Slayton (Pick 111)",
+      "Henry Ruggs (Pick 130)",
+      "Antonio Brown (Pick 135)",
+      "Jimmy Garoppolo (Pick 154)",
+      "Matt Prater (Pick 159)",
+      "Mo Alie-Cox (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":6,
+    "Winner":"Team 12",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1162.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1087.68,
+      "Team 2":1260.32,
+      "Team 3":1386.32,
+      "Team 4":1110.88,
+      "Team 5":1357.82,
+      "Team 6":1201.38,
+      "Team 7":1224.76,
+      "Team 8":1225.06,
+      "Team 9":1163.82,
+      "Team 10":1162.14,
+      "Team 11":919.42,
+      "Team 12":1375.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":329.78,
+      "Team 3":420.16,
+      "Team 6":326.08,
+      "Team 8":262.68
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Aaron Jones (Pick 15)",
+      "Miles Sanders (Pick 34)",
+      "A.J. Brown (Pick 39)",
+      "Allen Robinson (Pick 58)",
+      "Robert Woods (Pick 63)",
+      "Marvin Jones (Pick 82)",
+      "Rob Gronkowski (Pick 87)",
+      "CeeDee Lamb (Pick 106)",
+      "Diontae Johnson (Pick 111)",
+      "Geronimo Allison (Pick 130)",
+      "Darius Slayton (Pick 135)",
+      "Dan Bailey (Pick 154)",
+      "Jimmy Garoppolo (Pick 159)",
+      "Raiders (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":7,
+    "Winner":"Team 9",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1029.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1062.66,
+      "Team 2":1149.38,
+      "Team 3":1110.5,
+      "Team 4":1378.18,
+      "Team 5":1172.78,
+      "Team 6":1029.84,
+      "Team 7":986.1,
+      "Team 8":962.28,
+      "Team 9":1562.4,
+      "Team 10":1300.22,
+      "Team 11":1100.84,
+      "Team 12":1351.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":452.16,
+      "Team 4":376.08,
+      "Team 10":301.1,
+      "Team 2":248.58
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 6)",
+      "Aaron Jones (Pick 19)",
+      "Miles Sanders (Pick 30)",
+      "Leonard Fournette (Pick 43)",
+      "Amari Cooper (Pick 54)",
+      "Robert Woods (Pick 67)",
+      "Marvin Jones (Pick 78)",
+      "CeeDee Lamb (Pick 91)",
+      "Diontae Johnson (Pick 102)",
+      "Bears (Pick 115)",
+      "Darius Slayton (Pick 126)",
+      "Jonnu Smith (Pick 139)",
+      "Antonio Brown (Pick 150)",
+      "Jimmy Garoppolo (Pick 163)",
+      "Dan Bailey (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":8,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1013.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1129.48,
+      "Team 2":1208.96,
+      "Team 3":1124.86,
+      "Team 4":1013.54,
+      "Team 5":1280.88,
+      "Team 6":1217.6,
+      "Team 7":1153.56,
+      "Team 8":1318.88,
+      "Team 9":1326.2,
+      "Team 10":1220.1,
+      "Team 11":1361.78,
+      "Team 12":1319.42
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":319.38,
+      "Team 11":298.04,
+      "Team 12":266.8,
+      "Team 3":219.08
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Miles Sanders (Pick 21)",
+      "Mike Evans (Pick 28)",
+      "Leonard Fournette (Pick 45)",
+      "Keenan Allen (Pick 52)",
+      "49ers (Pick 69)",
+      "Marvin Jones (Pick 76)",
+      "James White (Pick 93)",
+      "CeeDee Lamb (Pick 100)",
+      "Diontae Johnson (Pick 117)",
+      "Geronimo Allison (Pick 124)",
+      "Henry Ruggs (Pick 141)",
+      "Dan Bailey (Pick 148)",
+      "Charlie Woerner (Pick 165)",
+      "Jimmy Garoppolo (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":9,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":901.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1128.38,
+      "Team 2":1134.08,
+      "Team 3":1068.84,
+      "Team 4":1253.58,
+      "Team 5":1391.36,
+      "Team 6":1151.76,
+      "Team 7":1255.88,
+      "Team 8":901.64,
+      "Team 9":1148.18,
+      "Team 10":1206.52,
+      "Team 11":1302.68,
+      "Team 12":1426.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":340.78,
+      "Team 11":330.96,
+      "Team 7":330.24,
+      "Team 4":347.98
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "Mike Evans (Pick 32)",
+      "LeVeon Bell (Pick 41)",
+      "49ers (Pick 56)",
+      "Geronimo Allison (Pick 65)",
+      "Marvin Jones (Pick 80)",
+      "CeeDee Lamb (Pick 89)",
+      "Diontae Johnson (Pick 104)",
+      "Darius Slayton (Pick 113)",
+      "Henry Ruggs (Pick 128)",
+      "Antonio Brown (Pick 137)",
+      "Jimmy Garoppolo (Pick 152)",
+      "Matt Prater (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":10,
+    "Winner":"Team 7",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":974.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1288.06,
+      "Team 2":1014.44,
+      "Team 3":1350.26,
+      "Team 4":1059.68,
+      "Team 5":1234.3,
+      "Team 6":1130.04,
+      "Team 7":1404.02,
+      "Team 8":1086.86,
+      "Team 9":1263.76,
+      "Team 10":974.64,
+      "Team 11":1233.88,
+      "Team 12":1221.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":370.38,
+      "Team 9":373.46,
+      "Team 3":269.22,
+      "Team 11":314.46
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 10)",
+      "Derrick Henry (Pick 15)",
+      "James Conner (Pick 34)",
+      "Leonard Fournette (Pick 39)",
+      "James White (Pick 58)",
+      "49ers (Pick 63)",
+      "Mecole Hardman (Pick 82)",
+      "CeeDee Lamb (Pick 87)",
+      "Marvin Jones (Pick 106)",
+      "Diontae Johnson (Pick 111)",
+      "Geronimo Allison (Pick 130)",
+      "Darius Slayton (Pick 135)",
+      "Jimmy Garoppolo (Pick 154)",
+      "Matt Prater (Pick 159)",
+      "Mo Alie-Cox (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":11,
+    "Winner":"Team 4",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":984.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1231.48,
+      "Team 2":1146.04,
+      "Team 3":1251.42,
+      "Team 4":1452.78,
+      "Team 5":1258.64,
+      "Team 6":1212.08,
+      "Team 7":1194.48,
+      "Team 8":984.64,
+      "Team 9":1297.64,
+      "Team 10":1200.82,
+      "Team 11":1169.72,
+      "Team 12":1261.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":402.68,
+      "Team 9":349.86,
+      "Team 5":364.94,
+      "Team 3":286.5
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Derrick Henry (Pick 17)",
+      "David Johnson (Pick 32)",
+      "Kenny Golladay (Pick 41)",
+      "Allen Robinson (Pick 56)",
+      "Marvin Jones (Pick 65)",
+      "CeeDee Lamb (Pick 80)",
+      "Diontae Johnson (Pick 89)",
+      "Geronimo Allison (Pick 104)",
+      "Darius Slayton (Pick 113)",
+      "Henry Ruggs (Pick 128)",
+      "Jimmy Garoppolo (Pick 137)",
+      "Matt Prater (Pick 152)",
+      "Raiders (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":12,
+    "Winner":"Team 5",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1024.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":871.98,
+      "Team 2":1145.34,
+      "Team 3":1014.28,
+      "Team 4":1422.26,
+      "Team 5":1344.28,
+      "Team 6":1121.02,
+      "Team 7":1326.26,
+      "Team 8":1024.64,
+      "Team 9":1310.06,
+      "Team 10":894.7,
+      "Team 11":846.58,
+      "Team 12":1212.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":372.7,
+      "Team 7":366.4,
+      "Team 2":268.88,
+      "Team 4":300.68
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "Miles Sanders (Pick 32)",
+      "Amari Cooper (Pick 41)",
+      "Keenan Allen (Pick 56)",
+      "Robert Woods (Pick 65)",
+      "Marvin Jones (Pick 80)",
+      "CeeDee Lamb (Pick 89)",
+      "Diontae Johnson (Pick 104)",
+      "Geronimo Allison (Pick 113)",
+      "Darius Slayton (Pick 128)",
+      "Jimmy Garoppolo (Pick 137)",
+      "Dan Bailey (Pick 152)",
+      "Raiders (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":13,
+    "Winner":"Team 11",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1095.96,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1260.52,
+      "Team 2":971.32,
+      "Team 3":1166.0,
+      "Team 4":1415.0,
+      "Team 5":1095.96,
+      "Team 6":977.64,
+      "Team 7":1142.18,
+      "Team 8":1330.34,
+      "Team 9":1047.9,
+      "Team 10":1281.06,
+      "Team 11":1392.94,
+      "Team 12":1376.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":367.62,
+      "Team 12":351.54,
+      "Team 7":287.46,
+      "Team 8":326.08
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Odell Beckham (Pick 20)",
+      "Miles Sanders (Pick 29)",
+      "A.J. Brown (Pick 44)",
+      "Leonard Fournette (Pick 53)",
+      "Allen Robinson (Pick 68)",
+      "49ers (Pick 77)",
+      "James White (Pick 92)",
+      "Marvin Jones (Pick 101)",
+      "CeeDee Lamb (Pick 116)",
+      "Diontae Johnson (Pick 125)",
+      "Darius Slayton (Pick 140)",
+      "Jimmy Garoppolo (Pick 149)",
+      "Dan Bailey (Pick 164)",
+      "Mo Alie-Cox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":14,
+    "Winner":"Team 12",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":949.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1276.74,
+      "Team 2":949.04,
+      "Team 3":1187.26,
+      "Team 4":1398.72,
+      "Team 5":1064.28,
+      "Team 6":838.22,
+      "Team 7":1297.02,
+      "Team 8":1174.62,
+      "Team 9":1111.8,
+      "Team 10":1180.9,
+      "Team 11":1229.1,
+      "Team 12":1287.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":238.8,
+      "Team 4":411.28,
+      "Team 7":332.24,
+      "Team 8":305.88
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "David Johnson (Pick 26)",
+      "A.J. Brown (Pick 47)",
+      "Leonard Fournette (Pick 50)",
+      "49ers (Pick 71)",
+      "Marvin Jones (Pick 74)",
+      "CeeDee Lamb (Pick 95)",
+      "James White (Pick 98)",
+      "Diontae Johnson (Pick 119)",
+      "Geronimo Allison (Pick 122)",
+      "Darius Slayton (Pick 143)",
+      "Jimmy Garoppolo (Pick 146)",
+      "Younghoe Koo (Pick 167)",
+      "Lance Kendricks (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":15,
+    "Winner":"Team 3",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1039.92,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1156.12,
+      "Team 2":1025.52,
+      "Team 3":1264.86,
+      "Team 4":1039.92,
+      "Team 5":1172.24,
+      "Team 6":1075.04,
+      "Team 7":1294.98,
+      "Team 8":1299.22,
+      "Team 9":1343.66,
+      "Team 10":1144.76,
+      "Team 11":1300.2,
+      "Team 12":1375.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":290.58,
+      "Team 11":267.5,
+      "Team 12":322.16,
+      "Team 9":269.34
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Odell Beckham (Pick 21)",
+      "LeVeon Bell (Pick 28)",
+      "Kenny Golladay (Pick 45)",
+      "Leonard Fournette (Pick 52)",
+      "Allen Robinson (Pick 69)",
+      "Marvin Jones (Pick 76)",
+      "CeeDee Lamb (Pick 93)",
+      "Diontae Johnson (Pick 100)",
+      "Geronimo Allison (Pick 117)",
+      "Bears (Pick 124)",
+      "Antonio Brown (Pick 141)",
+      "Jonnu Smith (Pick 148)",
+      "Younghoe Koo (Pick 165)",
+      "Tim Boyle (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":16,
+    "Winner":"Team 12",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1020.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1195.82,
+      "Team 2":1381.32,
+      "Team 3":1225.24,
+      "Team 4":1501.62,
+      "Team 5":1040.42,
+      "Team 6":1020.84,
+      "Team 7":1266.66,
+      "Team 8":1043.84,
+      "Team 9":1108.8,
+      "Team 10":1244.4,
+      "Team 11":1488.8,
+      "Team 12":1296.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":270.3,
+      "Team 4":442.66,
+      "Team 11":308.14,
+      "Team 2":326.08
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 6)",
+      "Aaron Jones (Pick 19)",
+      "Miles Sanders (Pick 30)",
+      "David Johnson (Pick 43)",
+      "Robert Woods (Pick 54)",
+      "Jonnu Smith (Pick 67)",
+      "James White (Pick 78)",
+      "Adrian Peterson (Pick 91)",
+      "CeeDee Lamb (Pick 102)",
+      "Marvin Jones (Pick 115)",
+      "Geronimo Allison (Pick 126)",
+      "Darius Slayton (Pick 139)",
+      "Dan Bailey (Pick 150)",
+      "Raiders (Pick 163)",
+      "Jimmy Garoppolo (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":17,
+    "Winner":"Team 7",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1059.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1004.16,
+      "Team 2":1155.62,
+      "Team 3":1395.02,
+      "Team 4":1350.44,
+      "Team 5":1135.22,
+      "Team 6":1180.18,
+      "Team 7":1218.0,
+      "Team 8":1248.5,
+      "Team 9":1059.44,
+      "Team 10":1101.28,
+      "Team 11":1290.28,
+      "Team 12":1186.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":301.5,
+      "Team 2":251.28,
+      "Team 3":406.78,
+      "Team 8":355.12
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "David Johnson (Pick 33)",
+      "Leonard Fournette (Pick 40)",
+      "Allen Robinson (Pick 57)",
+      "Keenan Allen (Pick 64)",
+      "Marvin Jones (Pick 81)",
+      "CeeDee Lamb (Pick 88)",
+      "Diontae Johnson (Pick 105)",
+      "Geronimo Allison (Pick 112)",
+      "Darius Slayton (Pick 129)",
+      "Jimmy Garoppolo (Pick 136)",
+      "Dan Bailey (Pick 153)",
+      "Raiders (Pick 160)",
+      "Mo Alie-Cox (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":18,
+    "Winner":"Team 10",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":983.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1125.44,
+      "Team 2":911.5,
+      "Team 3":983.04,
+      "Team 4":1235.24,
+      "Team 5":1087.12,
+      "Team 6":1098.56,
+      "Team 7":1172.1,
+      "Team 8":1230.46,
+      "Team 9":1220.8,
+      "Team 10":1298.54,
+      "Team 11":1422.82,
+      "Team 12":1272.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":338.24,
+      "Team 11":366.48,
+      "Team 8":338.18,
+      "Team 4":279.0
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Miles Sanders (Pick 22)",
+      "David Johnson (Pick 27)",
+      "Leonard Fournette (Pick 46)",
+      "Allen Robinson (Pick 51)",
+      "Robert Woods (Pick 70)",
+      "49ers (Pick 75)",
+      "Marvin Jones (Pick 94)",
+      "James White (Pick 99)",
+      "CeeDee Lamb (Pick 118)",
+      "Diontae Johnson (Pick 123)",
+      "Darius Slayton (Pick 142)",
+      "Jimmy Garoppolo (Pick 147)",
+      "Austin Seibert (Pick 166)",
+      "Lance Kendricks (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":19,
+    "Winner":"Team 6",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1054.74,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1139.54,
+      "Team 2":951.0,
+      "Team 3":1204.88,
+      "Team 4":1234.46,
+      "Team 5":1036.72,
+      "Team 6":1306.24,
+      "Team 7":1317.1,
+      "Team 8":1234.72,
+      "Team 9":1298.28,
+      "Team 10":1278.8,
+      "Team 11":1054.74,
+      "Team 12":1138.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":263.36,
+      "Team 9":321.0,
+      "Team 10":274.4,
+      "Team 8":356.68
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 11)",
+      "Derrick Henry (Pick 14)",
+      "David Johnson (Pick 35)",
+      "Kenny Golladay (Pick 38)",
+      "Leonard Fournette (Pick 59)",
+      "Keenan Allen (Pick 62)",
+      "Robert Woods (Pick 83)",
+      "Marvin Jones (Pick 86)",
+      "CeeDee Lamb (Pick 107)",
+      "Diontae Johnson (Pick 110)",
+      "Darius Slayton (Pick 131)",
+      "Jimmy Garoppolo (Pick 134)",
+      "Dan Bailey (Pick 155)",
+      "Raiders (Pick 158)",
+      "Mo Alie-Cox (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":20,
+    "Winner":"Team 1",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":969.94,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1372.08,
+      "Team 2":1423.9,
+      "Team 3":966.54,
+      "Team 4":1291.04,
+      "Team 5":1061.36,
+      "Team 6":1135.42,
+      "Team 7":1153.98,
+      "Team 8":1147.54,
+      "Team 9":1222.44,
+      "Team 10":1228.42,
+      "Team 11":1245.1,
+      "Team 12":969.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":322.36,
+      "Team 2":322.84,
+      "Team 9":260.46,
+      "Team 6":374.86
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "James Conner (Pick 13)",
+      "A.J. Brown (Pick 36)",
+      "Leonard Fournette (Pick 37)",
+      "Marlon Mack (Pick 60)",
+      "49ers (Pick 61)",
+      "Bears (Pick 84)",
+      "CeeDee Lamb (Pick 85)",
+      "Marvin Jones (Pick 108)",
+      "Diontae Johnson (Pick 109)",
+      "Darius Slayton (Pick 132)",
+      "Henry Ruggs (Pick 133)",
+      "Jimmy Garoppolo (Pick 156)",
+      "Younghoe Koo (Pick 157)",
+      "Mo Alie-Cox (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":21,
+    "Winner":"Team 11",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":962.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1060.72,
+      "Team 2":1174.18,
+      "Team 3":962.44,
+      "Team 4":1395.4,
+      "Team 5":975.52,
+      "Team 6":1260.22,
+      "Team 7":1404.0,
+      "Team 8":1132.22,
+      "Team 9":1194.98,
+      "Team 10":1206.88,
+      "Team 11":1405.46,
+      "Team 12":1199.98
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":384.16,
+      "Team 4":419.76,
+      "Team 6":282.24,
+      "Team 7":333.56
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Mike Evans (Pick 22)",
+      "David Johnson (Pick 27)",
+      "Leonard Fournette (Pick 46)",
+      "A.J. Brown (Pick 51)",
+      "Marvin Jones (Pick 70)",
+      "CeeDee Lamb (Pick 75)",
+      "Diontae Johnson (Pick 94)",
+      "Geronimo Allison (Pick 99)",
+      "Darius Slayton (Pick 118)",
+      "Henry Ruggs (Pick 123)",
+      "Jimmy Garoppolo (Pick 142)",
+      "Dan Bailey (Pick 147)",
+      "Raiders (Pick 166)",
+      "Charlie Woerner (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":22,
+    "Winner":"Team 4",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":979.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1078.36,
+      "Team 2":1100.94,
+      "Team 3":979.16,
+      "Team 4":1440.44,
+      "Team 5":1118.5,
+      "Team 6":1088.0,
+      "Team 7":1269.94,
+      "Team 8":1308.32,
+      "Team 9":1044.82,
+      "Team 10":1199.7,
+      "Team 11":1372.4,
+      "Team 12":1086.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":370.72,
+      "Team 8":340.26,
+      "Team 11":366.92,
+      "Team 1":239.48
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Odell Beckham (Pick 22)",
+      "David Johnson (Pick 27)",
+      "A.J. Brown (Pick 46)",
+      "LeVeon Bell (Pick 51)",
+      "Marvin Jones (Pick 70)",
+      "CeeDee Lamb (Pick 75)",
+      "James White (Pick 94)",
+      "Diontae Johnson (Pick 99)",
+      "Geronimo Allison (Pick 118)",
+      "Jimmy Garoppolo (Pick 123)",
+      "Darius Slayton (Pick 142)",
+      "Dan Bailey (Pick 147)",
+      "Raiders (Pick 166)",
+      "Mo Alie-Cox (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":23,
+    "Winner":"Team 7",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":950.66,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":987.12,
+      "Team 2":1118.02,
+      "Team 3":1254.96,
+      "Team 4":1329.8,
+      "Team 5":950.66,
+      "Team 6":1165.7,
+      "Team 7":1292.78,
+      "Team 8":1398.02,
+      "Team 9":1254.7,
+      "Team 10":1216.56,
+      "Team 11":1229.84,
+      "Team 12":1171.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":296.84,
+      "Team 8":317.18,
+      "Team 10":316.94,
+      "Team 4":310.18
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 5)",
+      "Aaron Jones (Pick 20)",
+      "Odell Beckham (Pick 29)",
+      "Kenny Golladay (Pick 44)",
+      "Leonard Fournette (Pick 53)",
+      "JuJu Smith-Schuster (Pick 68)",
+      "49ers (Pick 77)",
+      "Marvin Jones (Pick 92)",
+      "CeeDee Lamb (Pick 101)",
+      "Diontae Johnson (Pick 116)",
+      "Geronimo Allison (Pick 125)",
+      "Darius Slayton (Pick 140)",
+      "Dan Bailey (Pick 149)",
+      "Jimmy Garoppolo (Pick 164)",
+      "Mo Alie-Cox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":24,
+    "Winner":"Team 8",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1023.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1068.9,
+      "Team 2":1316.1,
+      "Team 3":1196.08,
+      "Team 4":1326.12,
+      "Team 5":1057.06,
+      "Team 6":1123.82,
+      "Team 7":1206.5,
+      "Team 8":1335.94,
+      "Team 9":1158.98,
+      "Team 10":1259.46,
+      "Team 11":1146.28,
+      "Team 12":1023.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":273.4,
+      "Team 4":319.0,
+      "Team 3":352.44,
+      "Team 10":335.84
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "James Conner (Pick 13)",
+      "Aaron Jones (Pick 36)",
+      "Leonard Fournette (Pick 37)",
+      "Marlon Mack (Pick 60)",
+      "49ers (Pick 61)",
+      "CeeDee Lamb (Pick 84)",
+      "Adrian Peterson (Pick 85)",
+      "Diontae Johnson (Pick 108)",
+      "Marvin Jones (Pick 109)",
+      "Geronimo Allison (Pick 132)",
+      "Darius Slayton (Pick 133)",
+      "Jimmy Garoppolo (Pick 156)",
+      "Matt Prater (Pick 157)",
+      "Mo Alie-Cox (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":25,
+    "Winner":"Team 1",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":850.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1440.72,
+      "Team 2":1206.96,
+      "Team 3":1245.26,
+      "Team 4":1113.1,
+      "Team 5":1031.16,
+      "Team 6":1206.32,
+      "Team 7":850.76,
+      "Team 8":1141.54,
+      "Team 9":1139.16,
+      "Team 10":1475.94,
+      "Team 11":1325.68,
+      "Team 12":1211.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":268.28,
+      "Team 10":466.26,
+      "Team 11":351.7,
+      "Team 4":292.68
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 7)",
+      "Odell Beckham (Pick 18)",
+      "James Conner (Pick 31)",
+      "Leonard Fournette (Pick 42)",
+      "49ers (Pick 55)",
+      "Geronimo Allison (Pick 66)",
+      "Marvin Jones (Pick 79)",
+      "James White (Pick 90)",
+      "CeeDee Lamb (Pick 103)",
+      "Diontae Johnson (Pick 114)",
+      "Darius Slayton (Pick 127)",
+      "Jonnu Smith (Pick 138)",
+      "Henry Ruggs (Pick 151)",
+      "Austin Seibert (Pick 162)",
+      "Jimmy Garoppolo (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":26,
+    "Winner":"Team 5",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1032.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1177.76,
+      "Team 2":1078.42,
+      "Team 3":1494.0,
+      "Team 4":981.04,
+      "Team 5":1255.9,
+      "Team 6":1237.48,
+      "Team 7":1131.64,
+      "Team 8":1272.8,
+      "Team 9":1237.94,
+      "Team 10":1161.98,
+      "Team 11":1380.34,
+      "Team 12":1032.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":339.6,
+      "Team 11":281.86,
+      "Team 3":368.9,
+      "Team 6":238.88
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "James Conner (Pick 13)",
+      "Allen Robinson (Pick 36)",
+      "Keenan Allen (Pick 37)",
+      "49ers (Pick 60)",
+      "Marvin Jones (Pick 61)",
+      "CeeDee Lamb (Pick 84)",
+      "Diontae Johnson (Pick 85)",
+      "Geronimo Allison (Pick 108)",
+      "Darius Slayton (Pick 109)",
+      "Henry Ruggs (Pick 132)",
+      "Antonio Brown (Pick 133)",
+      "Jimmy Garoppolo (Pick 156)",
+      "Dan Bailey (Pick 157)",
+      "Mo Alie-Cox (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":27,
+    "Winner":"Team 5",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1108.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1042.7,
+      "Team 2":1083.28,
+      "Team 3":1352.22,
+      "Team 4":1182.2,
+      "Team 5":1363.22,
+      "Team 6":1075.76,
+      "Team 7":1361.4,
+      "Team 8":872.16,
+      "Team 9":1319.36,
+      "Team 10":1243.04,
+      "Team 11":1108.54,
+      "Team 12":1243.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":375.08,
+      "Team 9":298.66,
+      "Team 7":336.58,
+      "Team 10":314.58
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 11)",
+      "Aaron Jones (Pick 14)",
+      "David Johnson (Pick 35)",
+      "Kenny Golladay (Pick 38)",
+      "Allen Robinson (Pick 59)",
+      "Robert Woods (Pick 62)",
+      "Marvin Jones (Pick 83)",
+      "CeeDee Lamb (Pick 86)",
+      "Diontae Johnson (Pick 107)",
+      "Geronimo Allison (Pick 110)",
+      "Darius Slayton (Pick 131)",
+      "Jimmy Garoppolo (Pick 134)",
+      "Matt Prater (Pick 155)",
+      "Raiders (Pick 158)",
+      "Mo Alie-Cox (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":28,
+    "Winner":"Team 5",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1064.96,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":995.86,
+      "Team 2":1064.96,
+      "Team 3":1011.0,
+      "Team 4":1392.36,
+      "Team 5":1378.6,
+      "Team 6":1264.08,
+      "Team 7":1372.24,
+      "Team 8":1133.88,
+      "Team 9":1225.96,
+      "Team 10":1047.2,
+      "Team 11":1261.46,
+      "Team 12":1154.68
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":287.22,
+      "Team 6":274.84,
+      "Team 7":305.56,
+      "Team 9":417.38
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "Odell Beckham (Pick 26)",
+      "David Johnson (Pick 47)",
+      "Leonard Fournette (Pick 50)",
+      "Robert Woods (Pick 71)",
+      "Marvin Jones (Pick 74)",
+      "James White (Pick 95)",
+      "CeeDee Lamb (Pick 98)",
+      "Diontae Johnson (Pick 119)",
+      "Geronimo Allison (Pick 122)",
+      "Dan Bailey (Pick 143)",
+      "Jimmy Garoppolo (Pick 146)",
+      "Raiders (Pick 167)",
+      "Mo Alie-Cox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":29,
+    "Winner":"Team 12",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1037.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1029.62,
+      "Team 2":1105.3,
+      "Team 3":1337.74,
+      "Team 4":1187.86,
+      "Team 5":1049.12,
+      "Team 6":1034.34,
+      "Team 7":1186.36,
+      "Team 8":1225.08,
+      "Team 9":1037.04,
+      "Team 10":1379.88,
+      "Team 11":1269.14,
+      "Team 12":1288.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":321.78,
+      "Team 4":273.88,
+      "Team 10":295.84,
+      "Team 3":300.3
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Aaron Jones (Pick 16)",
+      "David Johnson (Pick 33)",
+      "Allen Robinson (Pick 40)",
+      "Keenan Allen (Pick 57)",
+      "Robert Woods (Pick 64)",
+      "CeeDee Lamb (Pick 81)",
+      "Diontae Johnson (Pick 88)",
+      "Geronimo Allison (Pick 105)",
+      "Darius Slayton (Pick 112)",
+      "Henry Ruggs (Pick 129)",
+      "Jimmy Garoppolo (Pick 136)",
+      "Mason Crosby (Pick 153)",
+      "Raiders (Pick 160)",
+      "Mo Alie-Cox (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":30,
+    "Winner":"Team 12",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":979.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1188.74,
+      "Team 2":967.24,
+      "Team 3":1174.88,
+      "Team 4":1246.0,
+      "Team 5":1241.92,
+      "Team 6":1301.34,
+      "Team 7":1224.24,
+      "Team 8":965.9,
+      "Team 9":979.0,
+      "Team 10":1147.86,
+      "Team 11":1214.16,
+      "Team 12":1397.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":381.76,
+      "Team 1":322.78,
+      "Team 5":448.76,
+      "Team 6":275.38
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Aaron Jones (Pick 16)",
+      "David Johnson (Pick 33)",
+      "Leonard Fournette (Pick 40)",
+      "Keenan Allen (Pick 57)",
+      "James White (Pick 64)",
+      "DeSean Jackson (Pick 81)",
+      "Marvin Jones (Pick 88)",
+      "CeeDee Lamb (Pick 105)",
+      "Diontae Johnson (Pick 112)",
+      "Geronimo Allison (Pick 129)",
+      "Younghoe Koo (Pick 136)",
+      "Raiders (Pick 153)",
+      "Mo Alie-Cox (Pick 160)",
+      "Tim Boyle (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":31,
+    "Winner":"Team 11",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":911.02,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":911.02,
+      "Team 2":1141.0,
+      "Team 3":1324.44,
+      "Team 4":1134.32,
+      "Team 5":1295.66,
+      "Team 6":1171.94,
+      "Team 7":1172.9,
+      "Team 8":1332.12,
+      "Team 9":1070.34,
+      "Team 10":1487.9,
+      "Team 11":1311.0,
+      "Team 12":1183.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":349.5,
+      "Team 10":445.76,
+      "Team 7":228.38,
+      "Team 8":391.28
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "Miles Sanders (Pick 24)",
+      "Odell Beckham (Pick 25)",
+      "Leonard Fournette (Pick 48)",
+      "James White (Pick 49)",
+      "Jonnu Smith (Pick 72)",
+      "Marvin Jones (Pick 73)",
+      "CeeDee Lamb (Pick 96)",
+      "Diontae Johnson (Pick 97)",
+      "Darius Slayton (Pick 120)",
+      "Geronimo Allison (Pick 121)",
+      "Henry Ruggs (Pick 144)",
+      "Dan Bailey (Pick 145)",
+      "Raiders (Pick 168)",
+      "Tim Boyle (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":32,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1143.74,
+    "DM-Points-Playoffs":260.1,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":916.46,
+      "Team 2":1143.74,
+      "Team 3":1047.9,
+      "Team 4":1534.42,
+      "Team 5":1315.94,
+      "Team 6":1133.4,
+      "Team 7":808.3,
+      "Team 8":1266.72,
+      "Team 9":1117.9,
+      "Team 10":1244.0,
+      "Team 11":1368.16,
+      "Team 12":1275.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":276.7,
+      "Team 4":439.98,
+      "Team 8":340.18,
+      "Team 2":260.1
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Aaron Jones (Pick 23)",
+      "LeVeon Bell (Pick 26)",
+      "Leonard Fournette (Pick 47)",
+      "A.J. Brown (Pick 50)",
+      "Allen Robinson (Pick 71)",
+      "Robert Woods (Pick 74)",
+      "Marvin Jones (Pick 95)",
+      "James White (Pick 98)",
+      "Diontae Johnson (Pick 119)",
+      "CeeDee Lamb (Pick 122)",
+      "Jimmy Garoppolo (Pick 143)",
+      "Dan Bailey (Pick 146)",
+      "Raiders (Pick 167)",
+      "Mo Alie-Cox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":33,
+    "Winner":"Team 12",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1075.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1045.3,
+      "Team 2":1141.54,
+      "Team 3":1091.44,
+      "Team 4":1247.56,
+      "Team 5":1319.38,
+      "Team 6":1075.8,
+      "Team 7":1092.9,
+      "Team 8":1204.96,
+      "Team 9":1251.26,
+      "Team 10":1075.7,
+      "Team 11":988.6,
+      "Team 12":1426.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":358.7,
+      "Team 5":296.64,
+      "Team 3":322.52,
+      "Team 8":271.38
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Aaron Jones (Pick 15)",
+      "David Johnson (Pick 34)",
+      "Amari Cooper (Pick 39)",
+      "Allen Robinson (Pick 58)",
+      "Marvin Jones (Pick 63)",
+      "Rob Gronkowski (Pick 82)",
+      "CeeDee Lamb (Pick 87)",
+      "Diontae Johnson (Pick 106)",
+      "Geronimo Allison (Pick 111)",
+      "Bears (Pick 130)",
+      "Darius Slayton (Pick 135)",
+      "Antonio Brown (Pick 154)",
+      "Dan Bailey (Pick 159)",
+      "Tim Boyle (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":34,
+    "Winner":"Team 12",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":959.34,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1131.52,
+      "Team 2":936.58,
+      "Team 3":1241.38,
+      "Team 4":1357.8,
+      "Team 5":1093.4,
+      "Team 6":1226.72,
+      "Team 7":1125.38,
+      "Team 8":1142.3,
+      "Team 9":959.34,
+      "Team 10":1250.48,
+      "Team 11":1291.3,
+      "Team 12":1470.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":438.38,
+      "Team 3":251.4,
+      "Team 6":259.66,
+      "Team 10":317.6
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Aaron Jones (Pick 16)",
+      "Mike Evans (Pick 33)",
+      "Kenny Golladay (Pick 40)",
+      "JuJu Smith-Schuster (Pick 57)",
+      "49ers (Pick 64)",
+      "Marvin Jones (Pick 81)",
+      "CeeDee Lamb (Pick 88)",
+      "Diontae Johnson (Pick 105)",
+      "Geronimo Allison (Pick 112)",
+      "Darius Slayton (Pick 129)",
+      "Henry Ruggs (Pick 136)",
+      "Jimmy Garoppolo (Pick 153)",
+      "Dan Bailey (Pick 160)",
+      "Jonnu Smith (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":35,
+    "Winner":"Team 4",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":991.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":948.9,
+      "Team 2":1082.86,
+      "Team 3":1296.12,
+      "Team 4":1254.68,
+      "Team 5":1115.08,
+      "Team 6":1172.1,
+      "Team 7":1328.62,
+      "Team 8":1456.5,
+      "Team 9":991.64,
+      "Team 10":1259.76,
+      "Team 11":1172.5,
+      "Team 12":1264.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":343.38,
+      "Team 8":278.9,
+      "Team 10":345.36,
+      "Team 6":342.36
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "Kenny Golladay (Pick 33)",
+      "A.J. Brown (Pick 40)",
+      "Amari Cooper (Pick 57)",
+      "Robert Woods (Pick 64)",
+      "Marvin Jones (Pick 81)",
+      "CeeDee Lamb (Pick 88)",
+      "Diontae Johnson (Pick 105)",
+      "Geronimo Allison (Pick 112)",
+      "Henry Ruggs (Pick 129)",
+      "Jimmy Garoppolo (Pick 136)",
+      "Dan Bailey (Pick 153)",
+      "Raiders (Pick 160)",
+      "Mo Alie-Cox (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":36,
+    "Winner":"Team 3",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1036.74,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1190.06,
+      "Team 2":936.4,
+      "Team 3":1387.78,
+      "Team 4":1295.0,
+      "Team 5":1184.4,
+      "Team 6":1036.74,
+      "Team 7":1116.74,
+      "Team 8":1199.14,
+      "Team 9":1284.46,
+      "Team 10":1168.92,
+      "Team 11":1305.32,
+      "Team 12":1133.42
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":308.8,
+      "Team 4":342.58,
+      "Team 5":302.36,
+      "Team 8":226.94
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 6)",
+      "Derrick Henry (Pick 19)",
+      "Mike Evans (Pick 30)",
+      "David Johnson (Pick 43)",
+      "Allen Robinson (Pick 54)",
+      "Marvin Jones (Pick 67)",
+      "CeeDee Lamb (Pick 78)",
+      "Diontae Johnson (Pick 91)",
+      "Geronimo Allison (Pick 102)",
+      "Bears (Pick 115)",
+      "Darius Slayton (Pick 126)",
+      "Henry Ruggs (Pick 139)",
+      "Jimmy Garoppolo (Pick 150)",
+      "Matt Prater (Pick 163)",
+      "Mo Alie-Cox (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":37,
+    "Winner":"Team 4",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1071.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1036.9,
+      "Team 2":1093.72,
+      "Team 3":1118.9,
+      "Team 4":1363.4,
+      "Team 5":1142.8,
+      "Team 6":1123.0,
+      "Team 7":1305.66,
+      "Team 8":1289.36,
+      "Team 9":1132.76,
+      "Team 10":1128.14,
+      "Team 11":1071.14,
+      "Team 12":1151.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":291.2,
+      "Team 8":406.88,
+      "Team 7":287.48,
+      "Team 10":339.86
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 11)",
+      "Aaron Jones (Pick 14)",
+      "Leonard Fournette (Pick 35)",
+      "Allen Robinson (Pick 38)",
+      "Robert Woods (Pick 59)",
+      "49ers (Pick 62)",
+      "Marvin Jones (Pick 83)",
+      "James White (Pick 86)",
+      "CeeDee Lamb (Pick 107)",
+      "Diontae Johnson (Pick 110)",
+      "Darius Slayton (Pick 131)",
+      "Henry Ruggs (Pick 134)",
+      "Jimmy Garoppolo (Pick 155)",
+      "Matt Prater (Pick 158)",
+      "Mo Alie-Cox (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":38,
+    "Winner":"Team 10",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":982.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1202.36,
+      "Team 2":1323.62,
+      "Team 3":1020.74,
+      "Team 4":1183.28,
+      "Team 5":1314.16,
+      "Team 6":1212.82,
+      "Team 7":1186.58,
+      "Team 8":1088.04,
+      "Team 9":1175.48,
+      "Team 10":1352.48,
+      "Team 11":982.54,
+      "Team 12":1146.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":353.36,
+      "Team 5":280.58,
+      "Team 7":355.52,
+      "Team 2":358.1
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 11)",
+      "Derrick Henry (Pick 14)",
+      "A.J. Brown (Pick 35)",
+      "JuJu Smith-Schuster (Pick 38)",
+      "Leonard Fournette (Pick 59)",
+      "49ers (Pick 62)",
+      "Marvin Jones (Pick 83)",
+      "CeeDee Lamb (Pick 86)",
+      "Diontae Johnson (Pick 107)",
+      "Geronimo Allison (Pick 110)",
+      "Darius Slayton (Pick 131)",
+      "Henry Ruggs (Pick 134)",
+      "Dan Bailey (Pick 155)",
+      "Jimmy Garoppolo (Pick 158)",
+      "Mo Alie-Cox (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":39,
+    "Winner":"Team 8",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1093.14,
+    "DM-Points-Playoffs":292.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1048.34,
+      "Team 2":1022.38,
+      "Team 3":1119.06,
+      "Team 4":1093.14,
+      "Team 5":1401.7,
+      "Team 6":1228.26,
+      "Team 7":1355.1,
+      "Team 8":1369.28,
+      "Team 9":1290.74,
+      "Team 10":1236.18,
+      "Team 11":1147.98,
+      "Team 12":1237.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":385.48,
+      "Team 4":292.0,
+      "Team 7":403.06,
+      "Team 5":306.58
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Aaron Jones (Pick 21)",
+      "Miles Sanders (Pick 28)",
+      "Mike Evans (Pick 45)",
+      "Leonard Fournette (Pick 52)",
+      "49ers (Pick 69)",
+      "Adrian Peterson (Pick 76)",
+      "T.Y. Hilton (Pick 93)",
+      "James White (Pick 100)",
+      "Marvin Jones (Pick 117)",
+      "CeeDee Lamb (Pick 124)",
+      "Darius Slayton (Pick 141)",
+      "Matt Prater (Pick 148)",
+      "Jonnu Smith (Pick 165)",
+      "Jimmy Garoppolo (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":40,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1025.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1327.84,
+      "Team 2":1125.62,
+      "Team 3":1220.86,
+      "Team 4":1245.8,
+      "Team 5":1326.52,
+      "Team 6":1221.66,
+      "Team 7":1301.18,
+      "Team 8":1025.64,
+      "Team 9":1053.82,
+      "Team 10":910.04,
+      "Team 11":1191.5,
+      "Team 12":1526.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":303.9,
+      "Team 7":371.7,
+      "Team 1":270.72,
+      "Team 6":279.08
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "LeVeon Bell (Pick 32)",
+      "Leonard Fournette (Pick 41)",
+      "Amari Cooper (Pick 56)",
+      "Robert Woods (Pick 65)",
+      "Marvin Jones (Pick 80)",
+      "CeeDee Lamb (Pick 89)",
+      "Diontae Johnson (Pick 104)",
+      "Geronimo Allison (Pick 113)",
+      "Darius Slayton (Pick 128)",
+      "Rob Gronkowski (Pick 137)",
+      "Stephen Gostkowski (Pick 152)",
+      "Jimmy Garoppolo (Pick 161)",
+      "Raiders (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":41,
+    "Winner":"Team 4",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":871.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":996.72,
+      "Team 2":1203.8,
+      "Team 3":1081.54,
+      "Team 4":1534.54,
+      "Team 5":862.68,
+      "Team 6":1215.66,
+      "Team 7":871.16,
+      "Team 8":1277.02,
+      "Team 9":1382.42,
+      "Team 10":1149.14,
+      "Team 11":1153.62,
+      "Team 12":1064.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":408.48,
+      "Team 8":260.0,
+      "Team 6":260.28,
+      "Team 10":275.18
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 7)",
+      "Odell Beckham (Pick 18)",
+      "LeVeon Bell (Pick 31)",
+      "David Johnson (Pick 42)",
+      "Leonard Fournette (Pick 55)",
+      "Robert Woods (Pick 66)",
+      "49ers (Pick 79)",
+      "Marvin Jones (Pick 90)",
+      "CeeDee Lamb (Pick 103)",
+      "Diontae Johnson (Pick 114)",
+      "Geronimo Allison (Pick 127)",
+      "Jimmy Garoppolo (Pick 138)",
+      "Darius Slayton (Pick 151)",
+      "Mo Alie-Cox (Pick 162)",
+      "Tyler Bass (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":42,
+    "Winner":"Team 4",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":963.62,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1074.68,
+      "Team 2":1189.56,
+      "Team 3":1274.32,
+      "Team 4":1476.1,
+      "Team 5":1218.04,
+      "Team 6":911.08,
+      "Team 7":1201.38,
+      "Team 8":1255.74,
+      "Team 9":1312.44,
+      "Team 10":1343.66,
+      "Team 11":963.62,
+      "Team 12":1186.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":341.66,
+      "Team 8":357.96,
+      "Team 9":256.74,
+      "Team 2":296.68
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 11)",
+      "Aaron Jones (Pick 14)",
+      "Odell Beckham (Pick 35)",
+      "David Johnson (Pick 38)",
+      "49ers (Pick 59)",
+      "Bears (Pick 62)",
+      "Adrian Peterson (Pick 83)",
+      "James White (Pick 86)",
+      "CeeDee Lamb (Pick 107)",
+      "Marvin Jones (Pick 110)",
+      "Geronimo Allison (Pick 131)",
+      "Darius Slayton (Pick 134)",
+      "Dan Bailey (Pick 155)",
+      "Jonnu Smith (Pick 158)",
+      "Tim Boyle (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":43,
+    "Winner":"Team 4",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":971.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":971.46,
+      "Team 2":1000.04,
+      "Team 3":1130.3,
+      "Team 4":1440.1,
+      "Team 5":1272.42,
+      "Team 6":1087.4,
+      "Team 7":1399.72,
+      "Team 8":1221.84,
+      "Team 9":1218.7,
+      "Team 10":1298.1,
+      "Team 11":1214.66,
+      "Team 12":1347.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":282.18,
+      "Team 10":368.96,
+      "Team 12":368.18,
+      "Team 7":342.74
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "Miles Sanders (Pick 24)",
+      "Odell Beckham (Pick 25)",
+      "Leonard Fournette (Pick 48)",
+      "Marlon Mack (Pick 49)",
+      "James White (Pick 72)",
+      "Marvin Jones (Pick 73)",
+      "CeeDee Lamb (Pick 96)",
+      "Diontae Johnson (Pick 97)",
+      "Geronimo Allison (Pick 120)",
+      "Darius Slayton (Pick 121)",
+      "Mason Crosby (Pick 144)",
+      "Jimmy Garoppolo (Pick 145)",
+      "Raiders (Pick 168)",
+      "Mo Alie-Cox (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":44,
+    "Winner":"Team 6",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1004.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":825.58,
+      "Team 2":917.48,
+      "Team 3":1260.0,
+      "Team 4":1182.0,
+      "Team 5":1114.4,
+      "Team 6":1357.84,
+      "Team 7":1004.44,
+      "Team 8":1214.7,
+      "Team 9":1284.18,
+      "Team 10":1333.86,
+      "Team 11":1152.7,
+      "Team 12":1118.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":319.28,
+      "Team 10":272.28,
+      "Team 11":322.7,
+      "Team 4":231.14
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 7)",
+      "Derrick Henry (Pick 18)",
+      "David Johnson (Pick 31)",
+      "JuJu Smith-Schuster (Pick 42)",
+      "Keenan Allen (Pick 55)",
+      "49ers (Pick 66)",
+      "Marvin Jones (Pick 79)",
+      "CeeDee Lamb (Pick 90)",
+      "Diontae Johnson (Pick 103)",
+      "Darius Slayton (Pick 114)",
+      "Geronimo Allison (Pick 127)",
+      "Henry Ruggs (Pick 138)",
+      "Jimmy Garoppolo (Pick 151)",
+      "Matt Prater (Pick 162)",
+      "Mo Alie-Cox (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":45,
+    "Winner":"Team 7",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1061.66,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1004.34,
+      "Team 2":1267.18,
+      "Team 3":1399.6,
+      "Team 4":1141.34,
+      "Team 5":1061.66,
+      "Team 6":1165.98,
+      "Team 7":1286.82,
+      "Team 8":1029.4,
+      "Team 9":1084.6,
+      "Team 10":1324.3,
+      "Team 11":992.68,
+      "Team 12":1444.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":288.68,
+      "Team 10":330.78,
+      "Team 2":276.64,
+      "Team 3":312.08
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Odell Beckham (Pick 20)",
+      "James Conner (Pick 29)",
+      "Allen Robinson (Pick 44)",
+      "JuJu Smith-Schuster (Pick 53)",
+      "49ers (Pick 68)",
+      "Marvin Jones (Pick 77)",
+      "James White (Pick 92)",
+      "CeeDee Lamb (Pick 101)",
+      "Diontae Johnson (Pick 116)",
+      "Geronimo Allison (Pick 125)",
+      "Darius Slayton (Pick 140)",
+      "Jimmy Garoppolo (Pick 149)",
+      "Matt Prater (Pick 164)",
+      "Mo Alie-Cox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":46,
+    "Winner":"Team 9",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1251.64,
+    "DM-Points-Playoffs":303.2,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":939.2,
+      "Team 2":1251.64,
+      "Team 3":1324.7,
+      "Team 4":1031.04,
+      "Team 5":1247.6,
+      "Team 6":1078.68,
+      "Team 7":1193.88,
+      "Team 8":1319.32,
+      "Team 9":1165.56,
+      "Team 10":1132.62,
+      "Team 11":1286.8,
+      "Team 12":1286.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":300.86,
+      "Team 3":333.84,
+      "Team 11":303.14,
+      "Team 2":303.2
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "Derrick Henry (Pick 26)",
+      "Allen Robinson (Pick 47)",
+      "Keenan Allen (Pick 50)",
+      "Robert Woods (Pick 71)",
+      "Marvin Jones (Pick 74)",
+      "CeeDee Lamb (Pick 95)",
+      "James White (Pick 98)",
+      "Diontae Johnson (Pick 119)",
+      "Jimmy Garoppolo (Pick 122)",
+      "Darius Slayton (Pick 143)",
+      "Dan Bailey (Pick 146)",
+      "Raiders (Pick 167)",
+      "Jonnu Smith (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":47,
+    "Winner":"Team 12",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":851.86,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1159.88,
+      "Team 2":1131.94,
+      "Team 3":1100.3,
+      "Team 4":1446.18,
+      "Team 5":1159.24,
+      "Team 6":851.86,
+      "Team 7":1188.96,
+      "Team 8":1428.24,
+      "Team 9":992.4,
+      "Team 10":1245.96,
+      "Team 11":1139.72,
+      "Team 12":1331.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":335.36,
+      "Team 2":242.24,
+      "Team 4":413.58,
+      "Team 8":358.9
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 6)",
+      "Odell Beckham (Pick 19)",
+      "David Johnson (Pick 30)",
+      "A.J. Brown (Pick 43)",
+      "Leonard Fournette (Pick 54)",
+      "Marvin Jones (Pick 67)",
+      "CeeDee Lamb (Pick 78)",
+      "James White (Pick 91)",
+      "Diontae Johnson (Pick 102)",
+      "Geronimo Allison (Pick 115)",
+      "Darius Slayton (Pick 126)",
+      "Jimmy Garoppolo (Pick 139)",
+      "Dan Bailey (Pick 150)",
+      "Raiders (Pick 163)",
+      "Mo Alie-Cox (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":48,
+    "Winner":"Team 2",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1049.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1178.4,
+      "Team 2":1247.44,
+      "Team 3":1139.14,
+      "Team 4":1288.16,
+      "Team 5":1112.46,
+      "Team 6":1321.94,
+      "Team 7":1350.06,
+      "Team 8":1240.9,
+      "Team 9":1049.16,
+      "Team 10":1186.3,
+      "Team 11":1098.22,
+      "Team 12":1124.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":298.66,
+      "Team 6":375.08,
+      "Team 4":271.08,
+      "Team 7":222.48
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "Odell Beckham (Pick 33)",
+      "Kenny Golladay (Pick 40)",
+      "Leonard Fournette (Pick 57)",
+      "A.J. Brown (Pick 64)",
+      "Robert Woods (Pick 81)",
+      "Marvin Jones (Pick 88)",
+      "CeeDee Lamb (Pick 105)",
+      "Diontae Johnson (Pick 112)",
+      "Geronimo Allison (Pick 129)",
+      "Jimmy Garoppolo (Pick 136)",
+      "Matt Prater (Pick 153)",
+      "Raiders (Pick 160)",
+      "Mo Alie-Cox (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":49,
+    "Winner":"Team 9",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1103.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1227.12,
+      "Team 2":1103.06,
+      "Team 3":1267.58,
+      "Team 4":1089.58,
+      "Team 5":1072.3,
+      "Team 6":1215.14,
+      "Team 7":1160.22,
+      "Team 8":1098.2,
+      "Team 9":1383.64,
+      "Team 10":1307.8,
+      "Team 11":1079.0,
+      "Team 12":1477.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":412.88,
+      "Team 1":277.98,
+      "Team 12":316.1,
+      "Team 7":249.18
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "Odell Beckham (Pick 26)",
+      "A.J. Brown (Pick 47)",
+      "LeVeon Bell (Pick 50)",
+      "Leonard Fournette (Pick 71)",
+      "Allen Robinson (Pick 74)",
+      "Marvin Jones (Pick 95)",
+      "CeeDee Lamb (Pick 98)",
+      "Geronimo Allison (Pick 119)",
+      "Diontae Johnson (Pick 122)",
+      "Younghoe Koo (Pick 143)",
+      "Jimmy Garoppolo (Pick 146)",
+      "Raiders (Pick 167)",
+      "Mo Alie-Cox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":50,
+    "Winner":"Team 6",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":887.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1127.06,
+      "Team 2":1226.52,
+      "Team 3":1122.18,
+      "Team 4":1171.54,
+      "Team 5":1072.76,
+      "Team 6":1523.02,
+      "Team 7":1218.94,
+      "Team 8":887.76,
+      "Team 9":1228.0,
+      "Team 10":1195.3,
+      "Team 11":1051.52,
+      "Team 12":1253.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":409.88,
+      "Team 4":299.42,
+      "Team 1":289.38,
+      "Team 9":255.3
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "Odell Beckham (Pick 32)",
+      "Leonard Fournette (Pick 41)",
+      "49ers (Pick 56)",
+      "Marlon Mack (Pick 65)",
+      "Adrian Peterson (Pick 80)",
+      "CeeDee Lamb (Pick 89)",
+      "Marvin Jones (Pick 104)",
+      "Diontae Johnson (Pick 113)",
+      "Darius Slayton (Pick 128)",
+      "Henry Ruggs (Pick 137)",
+      "Jimmy Garoppolo (Pick 152)",
+      "Sam Ficken (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":51,
+    "Winner":"Team 8",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":925.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":980.7,
+      "Team 2":1006.2,
+      "Team 3":1253.14,
+      "Team 4":925.06,
+      "Team 5":1211.12,
+      "Team 6":1090.96,
+      "Team 7":1190.18,
+      "Team 8":1335.48,
+      "Team 9":1108.18,
+      "Team 10":1243.02,
+      "Team 11":1404.0,
+      "Team 12":1319.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":318.7,
+      "Team 12":321.92,
+      "Team 11":384.06,
+      "Team 5":294.04
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Odell Beckham (Pick 21)",
+      "David Johnson (Pick 28)",
+      "Leonard Fournette (Pick 45)",
+      "49ers (Pick 52)",
+      "Marvin Jones (Pick 69)",
+      "CeeDee Lamb (Pick 76)",
+      "James White (Pick 93)",
+      "Diontae Johnson (Pick 100)",
+      "Geronimo Allison (Pick 117)",
+      "Darius Slayton (Pick 124)",
+      "Antonio Brown (Pick 141)",
+      "Jimmy Garoppolo (Pick 148)",
+      "Dan Bailey (Pick 165)",
+      "Irv Smith Jr. (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":52,
+    "Winner":"Team 3",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":833.96,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":860.64,
+      "Team 2":1208.98,
+      "Team 3":1533.9,
+      "Team 4":1367.96,
+      "Team 5":833.96,
+      "Team 6":981.22,
+      "Team 7":1157.2,
+      "Team 8":1265.8,
+      "Team 9":1368.62,
+      "Team 10":1253.28,
+      "Team 11":1315.42,
+      "Team 12":1113.04
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":421.58,
+      "Team 8":310.58,
+      "Team 9":301.26,
+      "Team 10":315.24
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 5)",
+      "Odell Beckham (Pick 20)",
+      "LeVeon Bell (Pick 29)",
+      "A.J. Brown (Pick 44)",
+      "JuJu Smith-Schuster (Pick 53)",
+      "Marvin Jones (Pick 68)",
+      "CeeDee Lamb (Pick 77)",
+      "James White (Pick 92)",
+      "Diontae Johnson (Pick 101)",
+      "Geronimo Allison (Pick 116)",
+      "Darius Slayton (Pick 125)",
+      "Jimmy Garoppolo (Pick 140)",
+      "Matt Prater (Pick 149)",
+      "Raiders (Pick 164)",
+      "Mo Alie-Cox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":53,
+    "Winner":"Team 9",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1088.44,
+    "DM-Points-Playoffs":285.2,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1137.96,
+      "Team 2":1025.1,
+      "Team 3":1130.36,
+      "Team 4":1350.06,
+      "Team 5":1108.08,
+      "Team 6":1213.82,
+      "Team 7":1181.4,
+      "Team 8":1160.0,
+      "Team 9":1460.48,
+      "Team 10":1088.44,
+      "Team 11":1195.26,
+      "Team 12":1166.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":277.28,
+      "Team 4":313.38,
+      "Team 10":285.2,
+      "Team 11":330.9
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Aaron Jones (Pick 15)",
+      "Mike Evans (Pick 34)",
+      "Allen Robinson (Pick 39)",
+      "49ers (Pick 58)",
+      "Marvin Jones (Pick 63)",
+      "CeeDee Lamb (Pick 82)",
+      "Diontae Johnson (Pick 87)",
+      "Darius Slayton (Pick 106)",
+      "Geronimo Allison (Pick 111)",
+      "Henry Ruggs (Pick 130)",
+      "Antonio Brown (Pick 135)",
+      "Jimmy Garoppolo (Pick 154)",
+      "Matt Prater (Pick 159)",
+      "Mo Alie-Cox (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":54,
+    "Winner":"Team 4",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1022.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1086.54,
+      "Team 2":1213.88,
+      "Team 3":1022.68,
+      "Team 4":1358.64,
+      "Team 5":1241.7,
+      "Team 6":1207.16,
+      "Team 7":1135.3,
+      "Team 8":1134.54,
+      "Team 9":1151.16,
+      "Team 10":1173.7,
+      "Team 11":1333.5,
+      "Team 12":1283.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":406.04,
+      "Team 11":298.6,
+      "Team 9":217.0,
+      "Team 10":381.86
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Miles Sanders (Pick 22)",
+      "LeVeon Bell (Pick 27)",
+      "Robert Woods (Pick 46)",
+      "James White (Pick 51)",
+      "Jonnu Smith (Pick 70)",
+      "Adrian Peterson (Pick 75)",
+      "Marlon Mack (Pick 94)",
+      "Jimmy Garoppolo (Pick 99)",
+      "Tyler Boyd (Pick 118)",
+      "Geronimo Allison (Pick 123)",
+      "Henry Ruggs (Pick 142)",
+      "Antonio Brown (Pick 147)",
+      "Dan Bailey (Pick 166)",
+      "Raiders (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":55,
+    "Winner":"Team 8",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1004.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1248.56,
+      "Team 2":1004.46,
+      "Team 3":997.44,
+      "Team 4":1178.12,
+      "Team 5":1231.24,
+      "Team 6":868.32,
+      "Team 7":1322.44,
+      "Team 8":1410.94,
+      "Team 9":1294.84,
+      "Team 10":1236.6,
+      "Team 11":1304.86,
+      "Team 12":1055.68
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":326.36,
+      "Team 7":293.8,
+      "Team 11":287.8,
+      "Team 1":252.18
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "Odell Beckham (Pick 26)",
+      "David Johnson (Pick 47)",
+      "James White (Pick 50)",
+      "Mecole Hardman (Pick 71)",
+      "Marvin Jones (Pick 74)",
+      "CeeDee Lamb (Pick 95)",
+      "Diontae Johnson (Pick 98)",
+      "Geronimo Allison (Pick 119)",
+      "Darius Slayton (Pick 122)",
+      "Jimmy Garoppolo (Pick 143)",
+      "Matt Prater (Pick 146)",
+      "Raiders (Pick 167)",
+      "Mo Alie-Cox (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":56,
+    "Winner":"Team 3",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1037.34,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":981.86,
+      "Team 2":915.1,
+      "Team 3":1521.06,
+      "Team 4":1330.42,
+      "Team 5":1013.44,
+      "Team 6":1099.04,
+      "Team 7":1035.2,
+      "Team 8":1312.94,
+      "Team 9":1037.34,
+      "Team 10":1111.12,
+      "Team 11":1295.08,
+      "Team 12":1217.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":336.38,
+      "Team 4":374.24,
+      "Team 11":317.98,
+      "Team 10":330.08
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "David Johnson (Pick 33)",
+      "Allen Robinson (Pick 40)",
+      "Robert Woods (Pick 57)",
+      "49ers (Pick 64)",
+      "Marvin Jones (Pick 81)",
+      "CeeDee Lamb (Pick 88)",
+      "Diontae Johnson (Pick 105)",
+      "Geronimo Allison (Pick 112)",
+      "Darius Slayton (Pick 129)",
+      "Rob Gronkowski (Pick 136)",
+      "Antonio Brown (Pick 153)",
+      "Matt Prater (Pick 160)",
+      "Jimmy Garoppolo (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":57,
+    "Winner":"Team 8",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1056.46,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1056.46,
+      "Team 2":974.32,
+      "Team 3":1239.04,
+      "Team 4":1144.22,
+      "Team 5":1193.82,
+      "Team 6":1187.56,
+      "Team 7":1252.86,
+      "Team 8":1295.24,
+      "Team 9":1043.52,
+      "Team 10":1402.2,
+      "Team 11":1230.1,
+      "Team 12":1297.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":372.96,
+      "Team 10":353.9,
+      "Team 7":280.38,
+      "Team 12":275.54
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "Derrick Henry (Pick 24)",
+      "Odell Beckham (Pick 25)",
+      "David Johnson (Pick 48)",
+      "Mike Evans (Pick 49)",
+      "49ers (Pick 72)",
+      "Marvin Jones (Pick 73)",
+      "CeeDee Lamb (Pick 96)",
+      "Diontae Johnson (Pick 97)",
+      "Geronimo Allison (Pick 120)",
+      "Darius Slayton (Pick 121)",
+      "Henry Ruggs (Pick 144)",
+      "Jimmy Garoppolo (Pick 145)",
+      "Austin Seibert (Pick 168)",
+      "Lance Kendricks (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":58,
+    "Winner":"Team 11",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1164.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1131.44,
+      "Team 2":1045.28,
+      "Team 3":1168.14,
+      "Team 4":1463.56,
+      "Team 5":1009.7,
+      "Team 6":1174.96,
+      "Team 7":1325.76,
+      "Team 8":1127.18,
+      "Team 9":1187.56,
+      "Team 10":1164.64,
+      "Team 11":1351.18,
+      "Team 12":1303.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":382.26,
+      "Team 4":320.18,
+      "Team 7":453.34,
+      "Team 9":219.2
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Aaron Jones (Pick 15)",
+      "David Johnson (Pick 34)",
+      "Kenny Golladay (Pick 39)",
+      "Keenan Allen (Pick 58)",
+      "Robert Woods (Pick 63)",
+      "49ers (Pick 82)",
+      "James White (Pick 87)",
+      "Marvin Jones (Pick 106)",
+      "CeeDee Lamb (Pick 111)",
+      "Darius Slayton (Pick 130)",
+      "Geronimo Allison (Pick 135)",
+      "Jimmy Garoppolo (Pick 154)",
+      "Dan Bailey (Pick 159)",
+      "Mo Alie-Cox (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":59,
+    "Winner":"Team 8",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1078.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":750.74,
+      "Team 2":1355.16,
+      "Team 3":965.38,
+      "Team 4":1078.44,
+      "Team 5":1296.9,
+      "Team 6":1260.5,
+      "Team 7":1084.0,
+      "Team 8":1385.18,
+      "Team 9":1181.56,
+      "Team 10":1401.46,
+      "Team 11":1234.06,
+      "Team 12":1175.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":358.88,
+      "Team 2":372.48,
+      "Team 6":320.64,
+      "Team 10":382.26
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Aaron Jones (Pick 21)",
+      "David Johnson (Pick 28)",
+      "Leonard Fournette (Pick 45)",
+      "Allen Robinson (Pick 52)",
+      "49ers (Pick 69)",
+      "Adrian Peterson (Pick 76)",
+      "James White (Pick 93)",
+      "Geronimo Allison (Pick 100)",
+      "Marvin Jones (Pick 117)",
+      "CeeDee Lamb (Pick 124)",
+      "Darius Slayton (Pick 141)",
+      "Irv Smith Jr. (Pick 148)",
+      "Dan Bailey (Pick 165)",
+      "Jimmy Garoppolo (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":60,
+    "Winner":"Team 2",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1005.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1034.4,
+      "Team 2":1229.74,
+      "Team 3":1219.26,
+      "Team 4":1116.1,
+      "Team 5":1005.76,
+      "Team 6":1272.5,
+      "Team 7":1306.46,
+      "Team 8":1175.26,
+      "Team 9":1076.94,
+      "Team 10":1133.8,
+      "Team 11":1204.5,
+      "Team 12":1341.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":297.8,
+      "Team 11":321.98,
+      "Team 12":329.96,
+      "Team 4":241.92
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Odell Beckham (Pick 20)",
+      "Miles Sanders (Pick 29)",
+      "Amari Cooper (Pick 44)",
+      "James White (Pick 53)",
+      "49ers (Pick 68)",
+      "Marvin Jones (Pick 77)",
+      "CeeDee Lamb (Pick 92)",
+      "Diontae Johnson (Pick 101)",
+      "Geronimo Allison (Pick 116)",
+      "Darius Slayton (Pick 125)",
+      "Henry Ruggs (Pick 140)",
+      "Dan Bailey (Pick 149)",
+      "Jimmy Garoppolo (Pick 164)",
+      "Mo Alie-Cox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":61,
+    "Winner":"Team 4",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":953.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1154.1,
+      "Team 2":1092.1,
+      "Team 3":1171.94,
+      "Team 4":1303.4,
+      "Team 5":1206.4,
+      "Team 6":975.88,
+      "Team 7":1282.1,
+      "Team 8":953.54,
+      "Team 9":1212.68,
+      "Team 10":1287.32,
+      "Team 11":1159.06,
+      "Team 12":1360.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":222.6,
+      "Team 5":316.02,
+      "Team 7":307.36,
+      "Team 12":332.04
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "David Johnson (Pick 32)",
+      "Mike Evans (Pick 41)",
+      "Leonard Fournette (Pick 56)",
+      "Marlon Mack (Pick 65)",
+      "49ers (Pick 80)",
+      "CeeDee Lamb (Pick 89)",
+      "Marvin Jones (Pick 104)",
+      "Diontae Johnson (Pick 113)",
+      "Geronimo Allison (Pick 128)",
+      "Darius Slayton (Pick 137)",
+      "Jimmy Garoppolo (Pick 152)",
+      "Younghoe Koo (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":62,
+    "Winner":"Team 12",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":800.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1149.04,
+      "Team 2":1090.22,
+      "Team 3":1027.12,
+      "Team 4":1264.7,
+      "Team 5":1261.62,
+      "Team 6":1039.8,
+      "Team 7":1342.74,
+      "Team 8":1261.54,
+      "Team 9":1260.4,
+      "Team 10":800.4,
+      "Team 11":1166.6,
+      "Team 12":1368.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":301.28,
+      "Team 4":285.52,
+      "Team 7":320.3,
+      "Team 11":315.06
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 10)",
+      "Aaron Jones (Pick 15)",
+      "David Johnson (Pick 34)",
+      "Leonard Fournette (Pick 39)",
+      "49ers (Pick 58)",
+      "Bears (Pick 63)",
+      "Henry Ruggs (Pick 82)",
+      "James White (Pick 87)",
+      "CeeDee Lamb (Pick 106)",
+      "Marvin Jones (Pick 111)",
+      "Geronimo Allison (Pick 130)",
+      "Darius Slayton (Pick 135)",
+      "Dan Bailey (Pick 154)",
+      "Tim Boyle (Pick 159)",
+      "Mo Alie-Cox (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":63,
+    "Winner":"Team 9",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":905.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1199.48,
+      "Team 2":1245.72,
+      "Team 3":1339.36,
+      "Team 4":1248.98,
+      "Team 5":1202.46,
+      "Team 6":1152.92,
+      "Team 7":990.78,
+      "Team 8":905.54,
+      "Team 9":1501.88,
+      "Team 10":1200.58,
+      "Team 11":1208.5,
+      "Team 12":1263.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":333.32,
+      "Team 2":291.46,
+      "Team 5":240.9,
+      "Team 12":304.9
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "Miles Sanders (Pick 32)",
+      "Leonard Fournette (Pick 41)",
+      "Marlon Mack (Pick 56)",
+      "Marvin Jones (Pick 65)",
+      "Henry Ruggs (Pick 80)",
+      "CeeDee Lamb (Pick 89)",
+      "Diontae Johnson (Pick 104)",
+      "Geronimo Allison (Pick 113)",
+      "Darius Slayton (Pick 128)",
+      "Matt Prater (Pick 137)",
+      "Jimmy Garoppolo (Pick 152)",
+      "Raiders (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":64,
+    "Winner":"Team 11",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":954.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1068.7,
+      "Team 2":1080.94,
+      "Team 3":1169.52,
+      "Team 4":1265.8,
+      "Team 5":908.94,
+      "Team 6":1271.34,
+      "Team 7":1292.3,
+      "Team 8":954.84,
+      "Team 9":1528.7,
+      "Team 10":1054.68,
+      "Team 11":1268.66,
+      "Team 12":1228.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":331.88,
+      "Team 6":241.22,
+      "Team 4":326.8,
+      "Team 7":379.3
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "David Johnson (Pick 32)",
+      "Kenny Golladay (Pick 41)",
+      "Leonard Fournette (Pick 56)",
+      "LeVeon Bell (Pick 65)",
+      "DeSean Jackson (Pick 80)",
+      "Rob Gronkowski (Pick 89)",
+      "CeeDee Lamb (Pick 104)",
+      "Diontae Johnson (Pick 113)",
+      "Geronimo Allison (Pick 128)",
+      "Darius Slayton (Pick 137)",
+      "Younghoe Koo (Pick 152)",
+      "Raiders (Pick 161)",
+      "Jimmy Garoppolo (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":65,
+    "Winner":"Team 4",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1120.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1054.0,
+      "Team 2":933.46,
+      "Team 3":1085.14,
+      "Team 4":1335.98,
+      "Team 5":1180.76,
+      "Team 6":1247.54,
+      "Team 7":1120.04,
+      "Team 8":1487.6,
+      "Team 9":1223.68,
+      "Team 10":1330.92,
+      "Team 11":1189.94,
+      "Team 12":1108.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":309.88,
+      "Team 8":384.26,
+      "Team 6":236.56,
+      "Team 10":333.08
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 7)",
+      "Aaron Jones (Pick 18)",
+      "Miles Sanders (Pick 31)",
+      "Mike Evans (Pick 42)",
+      "Leonard Fournette (Pick 55)",
+      "Keenan Allen (Pick 66)",
+      "Allen Robinson (Pick 79)",
+      "Marvin Jones (Pick 90)",
+      "CeeDee Lamb (Pick 103)",
+      "Diontae Johnson (Pick 114)",
+      "Geronimo Allison (Pick 127)",
+      "Mason Crosby (Pick 138)",
+      "Jimmy Garoppolo (Pick 151)",
+      "Raiders (Pick 162)",
+      "Mo Alie-Cox (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":66,
+    "Winner":"Team 7",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":912.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1201.78,
+      "Team 2":912.16,
+      "Team 3":1202.82,
+      "Team 4":1148.58,
+      "Team 5":1042.92,
+      "Team 6":1179.52,
+      "Team 7":1318.12,
+      "Team 8":1257.62,
+      "Team 9":1075.84,
+      "Team 10":1310.1,
+      "Team 11":1188.54,
+      "Team 12":1236.76
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":357.5,
+      "Team 10":347.6,
+      "Team 3":347.14,
+      "Team 6":243.54
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Odell Beckham (Pick 23)",
+      "James Conner (Pick 26)",
+      "Kenny Golladay (Pick 47)",
+      "Leonard Fournette (Pick 50)",
+      "49ers (Pick 71)",
+      "Marvin Jones (Pick 74)",
+      "CeeDee Lamb (Pick 95)",
+      "James White (Pick 98)",
+      "Diontae Johnson (Pick 119)",
+      "Geronimo Allison (Pick 122)",
+      "Darius Slayton (Pick 143)",
+      "Jimmy Garoppolo (Pick 146)",
+      "Dan Bailey (Pick 167)",
+      "Lance Kendricks (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":67,
+    "Winner":"Team 4",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1054.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1086.3,
+      "Team 2":1054.54,
+      "Team 3":1122.1,
+      "Team 4":1364.06,
+      "Team 5":822.34,
+      "Team 6":1251.92,
+      "Team 7":1206.16,
+      "Team 8":1359.18,
+      "Team 9":1189.34,
+      "Team 10":1108.54,
+      "Team 11":1041.32,
+      "Team 12":1480.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":371.58,
+      "Team 7":342.8,
+      "Team 6":291.66,
+      "Team 8":327.72
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "Mike Evans (Pick 26)",
+      "A.J. Brown (Pick 47)",
+      "Rob Gronkowski (Pick 50)",
+      "49ers (Pick 71)",
+      "Marvin Jones (Pick 74)",
+      "CeeDee Lamb (Pick 95)",
+      "James White (Pick 98)",
+      "Diontae Johnson (Pick 119)",
+      "Geronimo Allison (Pick 122)",
+      "Darius Slayton (Pick 143)",
+      "Henry Ruggs (Pick 146)",
+      "Jimmy Garoppolo (Pick 167)",
+      "Austin Seibert (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":68,
+    "Winner":"Team 10",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":952.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":937.2,
+      "Team 2":964.18,
+      "Team 3":1234.48,
+      "Team 4":1309.1,
+      "Team 5":1138.08,
+      "Team 6":1110.2,
+      "Team 7":1275.62,
+      "Team 8":1316.1,
+      "Team 9":1255.92,
+      "Team 10":1364.88,
+      "Team 11":1149.58,
+      "Team 12":952.04
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":409.16,
+      "Team 4":368.66,
+      "Team 9":308.98,
+      "Team 7":276.68
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "James Conner (Pick 13)",
+      "LeVeon Bell (Pick 36)",
+      "A.J. Brown (Pick 37)",
+      "Robert Woods (Pick 60)",
+      "49ers (Pick 61)",
+      "Marvin Jones (Pick 84)",
+      "CeeDee Lamb (Pick 85)",
+      "Geronimo Allison (Pick 108)",
+      "Diontae Johnson (Pick 109)",
+      "Darius Slayton (Pick 132)",
+      "Henry Ruggs (Pick 133)",
+      "Jimmy Garoppolo (Pick 156)",
+      "Younghoe Koo (Pick 157)",
+      "Mo Alie-Cox (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":69,
+    "Winner":"Team 9",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1125.1,
+    "DM-Points-Playoffs":315.2,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":976.54,
+      "Team 2":1185.88,
+      "Team 3":1158.24,
+      "Team 4":1283.3,
+      "Team 5":1241.82,
+      "Team 6":1166.04,
+      "Team 7":1038.42,
+      "Team 8":1229.68,
+      "Team 9":1223.28,
+      "Team 10":1190.18,
+      "Team 11":1125.1,
+      "Team 12":1069.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":255.48,
+      "Team 5":306.88,
+      "Team 10":281.16,
+      "Team 11":315.2
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 11)",
+      "Derrick Henry (Pick 14)",
+      "David Johnson (Pick 35)",
+      "A.J. Brown (Pick 38)",
+      "Leonard Fournette (Pick 59)",
+      "Amari Cooper (Pick 62)",
+      "Rob Gronkowski (Pick 83)",
+      "Marvin Jones (Pick 86)",
+      "CeeDee Lamb (Pick 107)",
+      "Diontae Johnson (Pick 110)",
+      "Darius Slayton (Pick 131)",
+      "Geronimo Allison (Pick 134)",
+      "Dan Bailey (Pick 155)",
+      "Raiders (Pick 158)",
+      "Tim Boyle (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":70,
+    "Winner":"Team 3",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1104.86,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1109.4,
+      "Team 2":1104.86,
+      "Team 3":1236.44,
+      "Team 4":1363.82,
+      "Team 5":1298.66,
+      "Team 6":1131.62,
+      "Team 7":1302.08,
+      "Team 8":1249.46,
+      "Team 9":1129.78,
+      "Team 10":1024.6,
+      "Team 11":1122.8,
+      "Team 12":1068.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":239.98,
+      "Team 4":403.7,
+      "Team 5":342.96,
+      "Team 7":243.68
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "Odell Beckham (Pick 26)",
+      "Leonard Fournette (Pick 47)",
+      "Keenan Allen (Pick 50)",
+      "Marvin Jones (Pick 71)",
+      "CeeDee Lamb (Pick 74)",
+      "Diontae Johnson (Pick 95)",
+      "James White (Pick 98)",
+      "Geronimo Allison (Pick 119)",
+      "Darius Slayton (Pick 122)",
+      "Jimmy Garoppolo (Pick 143)",
+      "Dan Bailey (Pick 146)",
+      "Rob Gronkowski (Pick 167)",
+      "Raiders (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":71,
+    "Winner":"Team 10",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1139.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1153.58,
+      "Team 2":1307.38,
+      "Team 3":1216.84,
+      "Team 4":1222.64,
+      "Team 5":799.26,
+      "Team 6":1139.44,
+      "Team 7":1154.46,
+      "Team 8":1268.78,
+      "Team 9":1204.1,
+      "Team 10":1218.98,
+      "Team 11":1253.46,
+      "Team 12":1185.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":331.34,
+      "Team 2":276.08,
+      "Team 8":334.94,
+      "Team 12":297.58
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Aaron Jones (Pick 19)",
+      "LeVeon Bell (Pick 30)",
+      "David Johnson (Pick 43)",
+      "Allen Robinson (Pick 54)",
+      "Marlon Mack (Pick 67)",
+      "Antonio Brown (Pick 78)",
+      "Marvin Jones (Pick 91)",
+      "CeeDee Lamb (Pick 102)",
+      "Diontae Johnson (Pick 115)",
+      "Geronimo Allison (Pick 126)",
+      "Matt Prater (Pick 139)",
+      "Jimmy Garoppolo (Pick 150)",
+      "Raiders (Pick 163)",
+      "Mo Alie-Cox (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":72,
+    "Winner":"Team 7",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1080.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1151.4,
+      "Team 2":1080.04,
+      "Team 3":1236.8,
+      "Team 4":1282.14,
+      "Team 5":1278.42,
+      "Team 6":743.82,
+      "Team 7":1282.8,
+      "Team 8":1087.36,
+      "Team 9":1276.28,
+      "Team 10":1233.26,
+      "Team 11":1142.3,
+      "Team 12":1187.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":367.2,
+      "Team 8":220.28,
+      "Team 9":297.94,
+      "Team 5":384.78
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Miles Sanders (Pick 23)",
+      "David Johnson (Pick 26)",
+      "Leonard Fournette (Pick 47)",
+      "Robert Woods (Pick 50)",
+      "Marlon Mack (Pick 71)",
+      "49ers (Pick 74)",
+      "Marvin Jones (Pick 95)",
+      "Rob Gronkowski (Pick 98)",
+      "CeeDee Lamb (Pick 119)",
+      "Diontae Johnson (Pick 122)",
+      "Darius Slayton (Pick 143)",
+      "Henry Ruggs (Pick 146)",
+      "Jimmy Garoppolo (Pick 167)",
+      "Younghoe Koo (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":73,
+    "Winner":"Team 7",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":900.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1147.22,
+      "Team 2":1246.2,
+      "Team 3":1156.26,
+      "Team 4":1404.92,
+      "Team 5":900.44,
+      "Team 6":811.88,
+      "Team 7":1335.66,
+      "Team 8":1273.22,
+      "Team 9":1266.98,
+      "Team 10":1129.24,
+      "Team 11":1355.46,
+      "Team 12":1191.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":356.68,
+      "Team 4":289.14,
+      "Team 8":315.68,
+      "Team 3":348.08
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 5)",
+      "Miles Sanders (Pick 20)",
+      "David Johnson (Pick 29)",
+      "Kenny Golladay (Pick 44)",
+      "Robert Woods (Pick 53)",
+      "Rob Gronkowski (Pick 68)",
+      "49ers (Pick 77)",
+      "Marvin Jones (Pick 92)",
+      "CeeDee Lamb (Pick 101)",
+      "Diontae Johnson (Pick 116)",
+      "Geronimo Allison (Pick 125)",
+      "Darius Slayton (Pick 140)",
+      "Henry Ruggs (Pick 149)",
+      "Jimmy Garoppolo (Pick 164)",
+      "Dan Bailey (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":74,
+    "Winner":"Team 5",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1038.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1111.7,
+      "Team 2":1287.64,
+      "Team 3":1211.04,
+      "Team 4":1193.34,
+      "Team 5":1402.98,
+      "Team 6":1069.82,
+      "Team 7":1207.32,
+      "Team 8":1060.48,
+      "Team 9":1422.26,
+      "Team 10":1038.84,
+      "Team 11":1124.9,
+      "Team 12":1419.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":334.78,
+      "Team 9":219.18,
+      "Team 12":372.34,
+      "Team 1":259.7
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 10)",
+      "Aaron Jones (Pick 15)",
+      "A.J. Brown (Pick 34)",
+      "Leonard Fournette (Pick 39)",
+      "Robert Woods (Pick 58)",
+      "49ers (Pick 63)",
+      "Marvin Jones (Pick 82)",
+      "CeeDee Lamb (Pick 87)",
+      "Diontae Johnson (Pick 106)",
+      "Geronimo Allison (Pick 111)",
+      "Darius Slayton (Pick 130)",
+      "Henry Ruggs (Pick 135)",
+      "Jimmy Garoppolo (Pick 154)",
+      "Matt Prater (Pick 159)",
+      "Mo Alie-Cox (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":75,
+    "Winner":"Team 2",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1148.34,
+    "DM-Points-Playoffs":246.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1196.46,
+      "Team 2":1336.86,
+      "Team 3":1023.76,
+      "Team 4":1423.44,
+      "Team 5":947.28,
+      "Team 6":1270.48,
+      "Team 7":1070.84,
+      "Team 8":1148.34,
+      "Team 9":1189.78,
+      "Team 10":1132.5,
+      "Team 11":1128.02,
+      "Team 12":1102.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":317.28,
+      "Team 4":381.96,
+      "Team 8":246.0,
+      "Team 1":232.88
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "Derrick Henry (Pick 32)",
+      "Leonard Fournette (Pick 41)",
+      "Marlon Mack (Pick 56)",
+      "Terry McLaurin (Pick 65)",
+      "Antonio Brown (Pick 80)",
+      "Marvin Jones (Pick 89)",
+      "CeeDee Lamb (Pick 104)",
+      "Diontae Johnson (Pick 113)",
+      "Geronimo Allison (Pick 128)",
+      "Dan Bailey (Pick 137)",
+      "Raiders (Pick 152)",
+      "Jimmy Garoppolo (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":76,
+    "Winner":"Team 4",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1011.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1181.08,
+      "Team 2":1044.66,
+      "Team 3":1043.94,
+      "Team 4":1400.92,
+      "Team 5":1137.44,
+      "Team 6":1011.36,
+      "Team 7":1139.84,
+      "Team 8":1026.96,
+      "Team 9":1208.76,
+      "Team 10":1180.18,
+      "Team 11":1200.52,
+      "Team 12":1208.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":354.7,
+      "Team 7":248.86,
+      "Team 9":271.78,
+      "Team 10":311.26
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 6)",
+      "Aaron Jones (Pick 19)",
+      "Odell Beckham (Pick 30)",
+      "Leonard Fournette (Pick 43)",
+      "Allen Robinson (Pick 54)",
+      "JuJu Smith-Schuster (Pick 67)",
+      "Marvin Jones (Pick 78)",
+      "CeeDee Lamb (Pick 91)",
+      "Diontae Johnson (Pick 102)",
+      "Geronimo Allison (Pick 115)",
+      "Henry Ruggs (Pick 126)",
+      "Jimmy Garoppolo (Pick 139)",
+      "Matt Prater (Pick 150)",
+      "Raiders (Pick 163)",
+      "Mo Alie-Cox (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":77,
+    "Winner":"Team 9",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1101.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":958.7,
+      "Team 2":1243.34,
+      "Team 3":1269.04,
+      "Team 4":1198.04,
+      "Team 5":1101.14,
+      "Team 6":892.92,
+      "Team 7":1352.7,
+      "Team 8":1173.54,
+      "Team 9":1318.44,
+      "Team 10":1121.56,
+      "Team 11":1385.18,
+      "Team 12":1244.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":347.46,
+      "Team 3":208.18,
+      "Team 7":389.76,
+      "Team 11":392.18
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Aaron Jones (Pick 20)",
+      "Mike Evans (Pick 29)",
+      "Amari Cooper (Pick 44)",
+      "49ers (Pick 53)",
+      "Marvin Jones (Pick 68)",
+      "CeeDee Lamb (Pick 77)",
+      "Diontae Johnson (Pick 92)",
+      "Darius Slayton (Pick 101)",
+      "Geronimo Allison (Pick 116)",
+      "Henry Ruggs (Pick 125)",
+      "Antonio Brown (Pick 140)",
+      "Jimmy Garoppolo (Pick 149)",
+      "Dan Bailey (Pick 164)",
+      "Mo Alie-Cox (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":78,
+    "Winner":"Team 3",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1046.66,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1177.0,
+      "Team 2":802.9,
+      "Team 3":1417.3,
+      "Team 4":1046.66,
+      "Team 5":898.54,
+      "Team 6":1372.06,
+      "Team 7":1236.44,
+      "Team 8":1071.0,
+      "Team 9":1428.42,
+      "Team 10":1277.14,
+      "Team 11":1194.84,
+      "Team 12":1259.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":341.48,
+      "Team 6":372.34,
+      "Team 10":335.08,
+      "Team 7":259.26
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Odell Beckham (Pick 21)",
+      "David Johnson (Pick 28)",
+      "Leonard Fournette (Pick 45)",
+      "Keenan Allen (Pick 52)",
+      "Marvin Jones (Pick 69)",
+      "CeeDee Lamb (Pick 76)",
+      "James White (Pick 93)",
+      "Diontae Johnson (Pick 100)",
+      "Geronimo Allison (Pick 117)",
+      "Darius Slayton (Pick 124)",
+      "Jimmy Garoppolo (Pick 141)",
+      "Tyler Bass (Pick 148)",
+      "Raiders (Pick 165)",
+      "Mo Alie-Cox (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":79,
+    "Winner":"Team 10",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":946.06,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1148.76,
+      "Team 2":1265.76,
+      "Team 3":946.06,
+      "Team 4":1182.32,
+      "Team 5":1246.34,
+      "Team 6":1021.74,
+      "Team 7":1101.9,
+      "Team 8":1276.9,
+      "Team 9":1183.72,
+      "Team 10":1401.8,
+      "Team 11":1132.6,
+      "Team 12":1295.54
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":386.06,
+      "Team 9":273.6,
+      "Team 2":303.68,
+      "Team 12":238.38
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Odell Beckham (Pick 22)",
+      "David Johnson (Pick 27)",
+      "Leonard Fournette (Pick 46)",
+      "Robert Woods (Pick 51)",
+      "Marvin Jones (Pick 70)",
+      "CeeDee Lamb (Pick 75)",
+      "Diontae Johnson (Pick 94)",
+      "James White (Pick 99)",
+      "Geronimo Allison (Pick 118)",
+      "Darius Slayton (Pick 123)",
+      "Jimmy Garoppolo (Pick 142)",
+      "Dan Bailey (Pick 147)",
+      "Raiders (Pick 166)",
+      "Charlie Woerner (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":80,
+    "Winner":"Team 4",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":904.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1019.24,
+      "Team 2":1104.32,
+      "Team 3":1293.1,
+      "Team 4":1265.88,
+      "Team 5":904.16,
+      "Team 6":1078.32,
+      "Team 7":1268.46,
+      "Team 8":1142.64,
+      "Team 9":1191.52,
+      "Team 10":1269.18,
+      "Team 11":1076.0,
+      "Team 12":1253.04
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":387.58,
+      "Team 7":260.78,
+      "Team 10":362.8,
+      "Team 9":289.44
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 5)",
+      "Odell Beckham (Pick 20)",
+      "David Johnson (Pick 29)",
+      "Allen Robinson (Pick 44)",
+      "Robert Woods (Pick 53)",
+      "Marvin Jones (Pick 68)",
+      "CeeDee Lamb (Pick 77)",
+      "Diontae Johnson (Pick 92)",
+      "Geronimo Allison (Pick 101)",
+      "Darius Slayton (Pick 116)",
+      "Henry Ruggs (Pick 125)",
+      "Jimmy Garoppolo (Pick 140)",
+      "Jonnu Smith (Pick 149)",
+      "Matt Prater (Pick 164)",
+      "Raiders (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":81,
+    "Winner":"Team 8",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":1018.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":982.04,
+      "Team 2":1343.38,
+      "Team 3":960.18,
+      "Team 4":1379.64,
+      "Team 5":1103.0,
+      "Team 6":1254.04,
+      "Team 7":1162.2,
+      "Team 8":1330.76,
+      "Team 9":1018.54,
+      "Team 10":1300.04,
+      "Team 11":1364.58,
+      "Team 12":1151.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":351.86,
+      "Team 4":343.0,
+      "Team 10":265.62,
+      "Team 11":380.64
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Aaron Jones (Pick 16)",
+      "James Conner (Pick 33)",
+      "LeVeon Bell (Pick 40)",
+      "Leonard Fournette (Pick 57)",
+      "Keenan Allen (Pick 64)",
+      "CeeDee Lamb (Pick 81)",
+      "Marvin Jones (Pick 88)",
+      "Diontae Johnson (Pick 105)",
+      "Geronimo Allison (Pick 112)",
+      "Darius Slayton (Pick 129)",
+      "Jimmy Garoppolo (Pick 136)",
+      "Dan Bailey (Pick 153)",
+      "Raiders (Pick 160)",
+      "Mo Alie-Cox (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":82,
+    "Winner":"Team 12",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1091.96,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1032.42,
+      "Team 2":1113.76,
+      "Team 3":1091.96,
+      "Team 4":1209.54,
+      "Team 5":1231.7,
+      "Team 6":1071.8,
+      "Team 7":1230.8,
+      "Team 8":1200.34,
+      "Team 9":1042.38,
+      "Team 10":1276.1,
+      "Team 11":1148.04,
+      "Team 12":1415.1
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":348.3,
+      "Team 10":366.78,
+      "Team 2":255.66,
+      "Team 7":405.84
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Aaron Jones (Pick 22)",
+      "Odell Beckham (Pick 27)",
+      "Leonard Fournette (Pick 46)",
+      "Allen Robinson (Pick 51)",
+      "Marvin Jones (Pick 70)",
+      "CeeDee Lamb (Pick 75)",
+      "Diontae Johnson (Pick 94)",
+      "James White (Pick 99)",
+      "Geronimo Allison (Pick 118)",
+      "Darius Slayton (Pick 123)",
+      "Jimmy Garoppolo (Pick 142)",
+      "Dan Bailey (Pick 147)",
+      "Raiders (Pick 166)",
+      "Irv Smith Jr. (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":83,
+    "Winner":"Team 5",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1023.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":995.68,
+      "Team 2":1308.1,
+      "Team 3":1246.1,
+      "Team 4":1136.52,
+      "Team 5":1509.5,
+      "Team 6":965.34,
+      "Team 7":1054.36,
+      "Team 8":1023.14,
+      "Team 9":1139.24,
+      "Team 10":1180.58,
+      "Team 11":1429.28,
+      "Team 12":1145.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":387.92,
+      "Team 11":350.46,
+      "Team 2":302.4,
+      "Team 7":197.44
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "David Johnson (Pick 32)",
+      "Leonard Fournette (Pick 41)",
+      "JuJu Smith-Schuster (Pick 56)",
+      "Keenan Allen (Pick 65)",
+      "49ers (Pick 80)",
+      "Marvin Jones (Pick 89)",
+      "Diontae Johnson (Pick 104)",
+      "CeeDee Lamb (Pick 113)",
+      "Darius Slayton (Pick 128)",
+      "Henry Ruggs (Pick 137)",
+      "Jimmy Garoppolo (Pick 152)",
+      "Matt Prater (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":84,
+    "Winner":"Team 3",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1059.74,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":907.74,
+      "Team 2":1280.36,
+      "Team 3":1445.68,
+      "Team 4":1088.2,
+      "Team 5":1014.78,
+      "Team 6":1313.46,
+      "Team 7":1360.0,
+      "Team 8":973.18,
+      "Team 9":1270.72,
+      "Team 10":1030.48,
+      "Team 11":1261.04,
+      "Team 12":1059.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":426.84,
+      "Team 2":333.58,
+      "Team 7":294.2,
+      "Team 11":318.2
+    },
+    "DM-Picks":[
+      "Derrick Henry (Pick 12)",
+      "James Conner (Pick 13)",
+      "David Johnson (Pick 36)",
+      "A.J. Brown (Pick 37)",
+      "Amari Cooper (Pick 60)",
+      "Robert Woods (Pick 61)",
+      "Marvin Jones (Pick 84)",
+      "James White (Pick 85)",
+      "CeeDee Lamb (Pick 108)",
+      "Diontae Johnson (Pick 109)",
+      "Darius Slayton (Pick 132)",
+      "Jimmy Garoppolo (Pick 133)",
+      "Younghoe Koo (Pick 156)",
+      "Raiders (Pick 157)",
+      "Mo Alie-Cox (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":85,
+    "Winner":"Team 2",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1021.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1332.56,
+      "Team 2":1306.36,
+      "Team 3":973.96,
+      "Team 4":1021.14,
+      "Team 5":1475.08,
+      "Team 6":1060.2,
+      "Team 7":1264.0,
+      "Team 8":1168.6,
+      "Team 9":1342.98,
+      "Team 10":1179.9,
+      "Team 11":1314.98,
+      "Team 12":991.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":232.58,
+      "Team 5":338.14,
+      "Team 9":322.8,
+      "Team 1":369.68
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "James Conner (Pick 21)",
+      "LeVeon Bell (Pick 28)",
+      "A.J. Brown (Pick 45)",
+      "49ers (Pick 52)",
+      "Bears (Pick 69)",
+      "Geronimo Allison (Pick 76)",
+      "Marvin Jones (Pick 93)",
+      "James White (Pick 100)",
+      "CeeDee Lamb (Pick 117)",
+      "Diontae Johnson (Pick 124)",
+      "Henry Ruggs (Pick 141)",
+      "Jimmy Garoppolo (Pick 148)",
+      "Sam Ficken (Pick 165)",
+      "Irv Smith Jr. (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":86,
+    "Winner":"Team 10",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":954.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":954.84,
+      "Team 2":1169.96,
+      "Team 3":1069.92,
+      "Team 4":842.1,
+      "Team 5":1047.88,
+      "Team 6":1380.8,
+      "Team 7":1230.26,
+      "Team 8":1122.1,
+      "Team 9":1286.88,
+      "Team 10":1395.68,
+      "Team 11":1175.0,
+      "Team 12":1329.92
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":329.14,
+      "Team 6":294.3,
+      "Team 9":278.06,
+      "Team 11":296.4
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "LeVeon Bell (Pick 24)",
+      "David Johnson (Pick 25)",
+      "Leonard Fournette (Pick 48)",
+      "Keenan Allen (Pick 49)",
+      "Robert Woods (Pick 72)",
+      "49ers (Pick 73)",
+      "Marvin Jones (Pick 96)",
+      "James White (Pick 97)",
+      "Diontae Johnson (Pick 120)",
+      "CeeDee Lamb (Pick 121)",
+      "Henry Ruggs (Pick 144)",
+      "Jimmy Garoppolo (Pick 145)",
+      "Matt Prater (Pick 168)",
+      "Lance Kendricks (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":87,
+    "Winner":"Team 12",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1084.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1243.8,
+      "Team 2":1121.02,
+      "Team 3":1084.16,
+      "Team 4":1170.86,
+      "Team 5":957.4,
+      "Team 6":1275.26,
+      "Team 7":1115.98,
+      "Team 8":1244.9,
+      "Team 9":1136.92,
+      "Team 10":1256.4,
+      "Team 11":1195.8,
+      "Team 12":1301.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":242.44,
+      "Team 1":319.58,
+      "Team 2":292.2,
+      "Team 6":274.78
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Odell Beckham (Pick 22)",
+      "David Johnson (Pick 27)",
+      "Leonard Fournette (Pick 46)",
+      "Allen Robinson (Pick 51)",
+      "Robert Woods (Pick 70)",
+      "Marvin Jones (Pick 75)",
+      "James White (Pick 94)",
+      "CeeDee Lamb (Pick 99)",
+      "Diontae Johnson (Pick 118)",
+      "Bears (Pick 123)",
+      "Darius Slayton (Pick 142)",
+      "Dan Bailey (Pick 147)",
+      "Jimmy Garoppolo (Pick 166)",
+      "Mo Alie-Cox (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":88,
+    "Winner":"Team 5",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":936.86,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1071.34,
+      "Team 2":836.42,
+      "Team 3":1102.66,
+      "Team 4":1404.78,
+      "Team 5":1392.1,
+      "Team 6":1247.28,
+      "Team 7":936.86,
+      "Team 8":1415.8,
+      "Team 9":1124.06,
+      "Team 10":1138.7,
+      "Team 11":1234.3,
+      "Team 12":1227.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":297.34,
+      "Team 8":421.58,
+      "Team 6":302.74,
+      "Team 10":363.14
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 7)",
+      "Odell Beckham (Pick 18)",
+      "Miles Sanders (Pick 31)",
+      "A.J. Brown (Pick 42)",
+      "Allen Robinson (Pick 55)",
+      "Keenan Allen (Pick 66)",
+      "Marvin Jones (Pick 79)",
+      "CeeDee Lamb (Pick 90)",
+      "Diontae Johnson (Pick 103)",
+      "Geronimo Allison (Pick 114)",
+      "Darius Slayton (Pick 127)",
+      "Dan Bailey (Pick 138)",
+      "Jimmy Garoppolo (Pick 151)",
+      "Raiders (Pick 162)",
+      "Mo Alie-Cox (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":89,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":3,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1131.84,
+    "DM-Points-Playoffs":258.2,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1083.46,
+      "Team 2":1131.84,
+      "Team 3":1021.9,
+      "Team 4":1226.6,
+      "Team 5":1171.02,
+      "Team 6":1216.4,
+      "Team 7":1369.84,
+      "Team 8":1092.5,
+      "Team 9":1229.18,
+      "Team 10":1172.52,
+      "Team 11":1543.9,
+      "Team 12":1108.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":443.26,
+      "Team 7":417.14,
+      "Team 2":258.2,
+      "Team 10":266.98
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Mike Evans (Pick 23)",
+      "David Johnson (Pick 26)",
+      "Amari Cooper (Pick 47)",
+      "Robert Woods (Pick 50)",
+      "Marvin Jones (Pick 71)",
+      "CeeDee Lamb (Pick 74)",
+      "James White (Pick 95)",
+      "Diontae Johnson (Pick 98)",
+      "Geronimo Allison (Pick 119)",
+      "Darius Slayton (Pick 122)",
+      "Jimmy Garoppolo (Pick 143)",
+      "Dan Bailey (Pick 146)",
+      "Jonnu Smith (Pick 167)",
+      "Raiders (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":90,
+    "Winner":"Team 3",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1015.92,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1318.04,
+      "Team 2":1421.46,
+      "Team 3":1267.46,
+      "Team 4":1015.92,
+      "Team 5":972.94,
+      "Team 6":1154.5,
+      "Team 7":1299.64,
+      "Team 8":1203.32,
+      "Team 9":986.12,
+      "Team 10":1187.64,
+      "Team 11":1365.18,
+      "Team 12":973.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":388.02,
+      "Team 11":362.54,
+      "Team 7":348.08,
+      "Team 1":297.58
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Odell Beckham (Pick 21)",
+      "Miles Sanders (Pick 28)",
+      "Keenan Allen (Pick 45)",
+      "Rob Gronkowski (Pick 52)",
+      "Marvin Jones (Pick 69)",
+      "CeeDee Lamb (Pick 76)",
+      "James White (Pick 93)",
+      "Diontae Johnson (Pick 100)",
+      "Geronimo Allison (Pick 117)",
+      "Darius Slayton (Pick 124)",
+      "Antonio Brown (Pick 141)",
+      "Austin Seibert (Pick 148)",
+      "Raiders (Pick 165)",
+      "Tim Boyle (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":91,
+    "Winner":"Team 1",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1014.62,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1319.98,
+      "Team 2":1014.62,
+      "Team 3":1002.1,
+      "Team 4":1167.0,
+      "Team 5":1062.84,
+      "Team 6":1159.08,
+      "Team 7":1495.36,
+      "Team 8":1287.98,
+      "Team 9":1316.86,
+      "Team 10":977.24,
+      "Team 11":1287.48,
+      "Team 12":1197.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":277.98,
+      "Team 7":340.68,
+      "Team 11":370.76,
+      "Team 8":338.04
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Odell Beckham (Pick 23)",
+      "James Conner (Pick 26)",
+      "A.J. Brown (Pick 47)",
+      "LeVeon Bell (Pick 50)",
+      "49ers (Pick 71)",
+      "Rob Gronkowski (Pick 74)",
+      "James White (Pick 95)",
+      "Marvin Jones (Pick 98)",
+      "CeeDee Lamb (Pick 119)",
+      "Diontae Johnson (Pick 122)",
+      "Henry Ruggs (Pick 143)",
+      "Antonio Brown (Pick 146)",
+      "Dan Bailey (Pick 167)",
+      "Tim Boyle (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":92,
+    "Winner":"Team 10",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":975.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1187.4,
+      "Team 2":1123.92,
+      "Team 3":1271.38,
+      "Team 4":1159.94,
+      "Team 5":1142.22,
+      "Team 6":1231.0,
+      "Team 7":975.36,
+      "Team 8":923.52,
+      "Team 9":1410.74,
+      "Team 10":1270.5,
+      "Team 11":1152.08,
+      "Team 12":1250.04
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":357.26,
+      "Team 5":321.86,
+      "Team 9":340.8,
+      "Team 3":360.3
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 7)",
+      "Odell Beckham (Pick 18)",
+      "Miles Sanders (Pick 31)",
+      "David Johnson (Pick 42)",
+      "Keenan Allen (Pick 55)",
+      "Rob Gronkowski (Pick 66)",
+      "Marvin Jones (Pick 79)",
+      "James White (Pick 90)",
+      "CeeDee Lamb (Pick 103)",
+      "Diontae Johnson (Pick 114)",
+      "Geronimo Allison (Pick 127)",
+      "Darius Slayton (Pick 138)",
+      "Jimmy Garoppolo (Pick 151)",
+      "Dan Bailey (Pick 162)",
+      "Raiders (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":93,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":1048.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1154.86,
+      "Team 2":1271.58,
+      "Team 3":1246.7,
+      "Team 4":1303.38,
+      "Team 5":1261.42,
+      "Team 6":1118.48,
+      "Team 7":1578.0,
+      "Team 8":1048.44,
+      "Team 9":1138.18,
+      "Team 10":1009.9,
+      "Team 11":1162.22,
+      "Team 12":1396.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":282.38,
+      "Team 3":300.36,
+      "Team 7":394.2,
+      "Team 11":308.52
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Aaron Jones (Pick 17)",
+      "David Johnson (Pick 32)",
+      "Leonard Fournette (Pick 41)",
+      "Allen Robinson (Pick 56)",
+      "Keenan Allen (Pick 65)",
+      "Marvin Jones (Pick 80)",
+      "CeeDee Lamb (Pick 89)",
+      "Diontae Johnson (Pick 104)",
+      "Geronimo Allison (Pick 113)",
+      "Darius Slayton (Pick 128)",
+      "Jimmy Garoppolo (Pick 137)",
+      "Dan Bailey (Pick 152)",
+      "Raiders (Pick 161)",
+      "Mo Alie-Cox (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":94,
+    "Winner":"Team 4",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":987.64,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1080.14,
+      "Team 2":1234.24,
+      "Team 3":1366.34,
+      "Team 4":1435.46,
+      "Team 5":837.24,
+      "Team 6":1289.38,
+      "Team 7":1369.4,
+      "Team 8":1196.7,
+      "Team 9":987.64,
+      "Team 10":1304.18,
+      "Team 11":1250.68,
+      "Team 12":1073.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":256.58,
+      "Team 3":391.08,
+      "Team 8":282.7,
+      "Team 2":334.68
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "David Johnson (Pick 33)",
+      "Allen Robinson (Pick 40)",
+      "Robert Woods (Pick 57)",
+      "49ers (Pick 64)",
+      "Marvin Jones (Pick 81)",
+      "CeeDee Lamb (Pick 88)",
+      "Diontae Johnson (Pick 105)",
+      "Geronimo Allison (Pick 112)",
+      "Darius Slayton (Pick 129)",
+      "Henry Ruggs (Pick 136)",
+      "Jimmy Garoppolo (Pick 153)",
+      "Matt Prater (Pick 160)",
+      "Mo Alie-Cox (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":95,
+    "Winner":"Team 2",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1039.04,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1106.9,
+      "Team 2":1286.38,
+      "Team 3":1030.68,
+      "Team 4":1231.94,
+      "Team 5":1078.0,
+      "Team 6":1019.28,
+      "Team 7":1353.08,
+      "Team 8":1564.02,
+      "Team 9":1039.04,
+      "Team 10":1005.2,
+      "Team 11":1166.68,
+      "Team 12":1089.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":284.24,
+      "Team 7":359.58,
+      "Team 8":335.08,
+      "Team 4":391.3
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Derrick Henry (Pick 16)",
+      "Kenny Golladay (Pick 33)",
+      "A.J. Brown (Pick 40)",
+      "Allen Robinson (Pick 57)",
+      "CeeDee Lamb (Pick 64)",
+      "Diontae Johnson (Pick 81)",
+      "James White (Pick 88)",
+      "Rob Gronkowski (Pick 105)",
+      "Marvin Jones (Pick 112)",
+      "Darius Slayton (Pick 129)",
+      "Henry Ruggs (Pick 136)",
+      "Jimmy Garoppolo (Pick 153)",
+      "Dan Bailey (Pick 160)",
+      "Raiders (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":96,
+    "Winner":"Team 8",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1018.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":829.4,
+      "Team 2":1253.56,
+      "Team 3":1096.26,
+      "Team 4":1314.32,
+      "Team 5":1090.16,
+      "Team 6":1018.4,
+      "Team 7":1134.2,
+      "Team 8":1348.18,
+      "Team 9":1308.36,
+      "Team 10":1159.42,
+      "Team 11":1381.24,
+      "Team 12":1088.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":394.36,
+      "Team 10":300.86,
+      "Team 9":340.64,
+      "Team 2":239.28
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Aaron Jones (Pick 19)",
+      "David Johnson (Pick 30)",
+      "Leonard Fournette (Pick 43)",
+      "Robert Woods (Pick 54)",
+      "Marlon Mack (Pick 67)",
+      "49ers (Pick 78)",
+      "CeeDee Lamb (Pick 91)",
+      "James White (Pick 102)",
+      "Marvin Jones (Pick 115)",
+      "Diontae Johnson (Pick 126)",
+      "Darius Slayton (Pick 139)",
+      "Dan Bailey (Pick 150)",
+      "Tim Boyle (Pick 163)",
+      "Irv Smith Jr. (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":97,
+    "Winner":"Team 4",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1231.74,
+    "DM-Points-Playoffs":327.7,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1163.1,
+      "Team 2":1157.78,
+      "Team 3":1189.54,
+      "Team 4":1231.74,
+      "Team 5":1220.64,
+      "Team 6":1149.44,
+      "Team 7":1080.98,
+      "Team 8":1376.12,
+      "Team 9":1077.2,
+      "Team 10":1306.66,
+      "Team 11":1190.66,
+      "Team 12":1202.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":327.7,
+      "Team 6":282.9,
+      "Team 8":337.08,
+      "Team 10":326.74
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Derrick Henry (Pick 21)",
+      "David Johnson (Pick 28)",
+      "Allen Robinson (Pick 45)",
+      "Keenan Allen (Pick 52)",
+      "49ers (Pick 69)",
+      "CeeDee Lamb (Pick 76)",
+      "Diontae Johnson (Pick 93)",
+      "Rob Gronkowski (Pick 100)",
+      "Geronimo Allison (Pick 117)",
+      "Darius Slayton (Pick 124)",
+      "Henry Ruggs (Pick 141)",
+      "Antonio Brown (Pick 148)",
+      "Jimmy Garoppolo (Pick 165)",
+      "Younghoe Koo (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":98,
+    "Winner":"Team 7",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1075.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1115.1,
+      "Team 2":1132.72,
+      "Team 3":1236.12,
+      "Team 4":1190.8,
+      "Team 5":1351.2,
+      "Team 6":1075.36,
+      "Team 7":1290.36,
+      "Team 8":1022.98,
+      "Team 9":1075.4,
+      "Team 10":1249.5,
+      "Team 11":1124.74,
+      "Team 12":1364.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":357.68,
+      "Team 3":324.68,
+      "Team 5":346.86,
+      "Team 2":225.98
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Odell Beckham (Pick 19)",
+      "Mike Evans (Pick 30)",
+      "Kenny Golladay (Pick 43)",
+      "Allen Robinson (Pick 54)",
+      "Marvin Jones (Pick 67)",
+      "CeeDee Lamb (Pick 78)",
+      "Diontae Johnson (Pick 91)",
+      "Geronimo Allison (Pick 102)",
+      "Antonio Brown (Pick 115)",
+      "James White (Pick 126)",
+      "Dan Bailey (Pick 139)",
+      "Jimmy Garoppolo (Pick 150)",
+      "Raiders (Pick 163)",
+      "Mo Alie-Cox (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":99,
+    "Winner":"Team 5",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":786.12,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1043.36,
+      "Team 2":1219.78,
+      "Team 3":1156.66,
+      "Team 4":1554.24,
+      "Team 5":1422.0,
+      "Team 6":1029.48,
+      "Team 7":786.12,
+      "Team 8":1167.28,
+      "Team 9":1236.46,
+      "Team 10":951.26,
+      "Team 11":1252.38,
+      "Team 12":1265.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":357.06,
+      "Team 4":422.54,
+      "Team 8":322.92,
+      "Team 9":289.86
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 7)",
+      "Odell Beckham (Pick 18)",
+      "Mike Evans (Pick 31)",
+      "David Johnson (Pick 42)",
+      "Robert Woods (Pick 55)",
+      "49ers (Pick 66)",
+      "Marvin Jones (Pick 79)",
+      "CeeDee Lamb (Pick 90)",
+      "Diontae Johnson (Pick 103)",
+      "Geronimo Allison (Pick 114)",
+      "Henry Ruggs (Pick 127)",
+      "Darius Slayton (Pick 138)",
+      "Matt Prater (Pick 151)",
+      "Mo Alie-Cox (Pick 162)",
+      "Tim Boyle (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":100,
+    "Winner":"Team 10",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1058.64,
+    "DM-Points-Playoffs":282.4,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1140.46,
+      "Team 2":1100.54,
+      "Team 3":1058.64,
+      "Team 4":1081.12,
+      "Team 5":984.54,
+      "Team 6":1169.78,
+      "Team 7":1100.64,
+      "Team 8":1534.28,
+      "Team 9":1042.18,
+      "Team 10":1334.88,
+      "Team 11":1197.6,
+      "Team 12":1090.8
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":253.16,
+      "Team 8":430.8,
+      "Team 6":205.96,
+      "Team 3":282.4
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Miles Sanders (Pick 22)",
+      "Derrick Henry (Pick 27)",
+      "Leonard Fournette (Pick 46)",
+      "Allen Robinson (Pick 51)",
+      "49ers (Pick 70)",
+      "DeSean Jackson (Pick 75)",
+      "James White (Pick 94)",
+      "Marvin Jones (Pick 99)",
+      "CeeDee Lamb (Pick 118)",
+      "Geronimo Allison (Pick 123)",
+      "Henry Ruggs (Pick 142)",
+      "Jimmy Garoppolo (Pick 147)",
+      "Dan Bailey (Pick 166)",
+      "Lance Kendricks (Pick 171)"
+    ]
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "Simulation":1,
+    "Winner":"Team 11",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1035.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1105.32,
+      "Team 2":1385.8,
+      "Team 3":1035.72,
+      "Team 4":1132.92,
+      "Team 5":1222.68,
+      "Team 6":1360.52,
+      "Team 7":1213.82,
+      "Team 8":1144.26,
+      "Team 9":1157.36,
+      "Team 10":1282.62,
+      "Team 11":1468.98,
+      "Team 12":1156.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":242.92,
+      "Team 6":331.0,
+      "Team 2":270.18,
+      "Team 8":218.06
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Leonard Fournette (Pick 22)",
+      "James Conner (Pick 27)",
+      "Michael Pittman (Pick 46)",
+      "Jaylen Waddle (Pick 51)",
+      "Chris Olave (Pick 70)",
+      "DeVonta Smith (Pick 75)",
+      "George Pickens (Pick 94)",
+      "Kenneth Gainwell (Pick 99)",
+      "49ers (Pick 118)",
+      "Michael Gallup (Pick 123)",
+      "Ronald Jones (Pick 142)",
+      "Mac Jones (Pick 147)",
+      "Mason Crosby (Pick 166)",
+      "Jacob Harris (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":2,
+    "Winner":"Team 1",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":true,
+    "DM-Placement":1,
+    "Record":[
+      11,
+      3
+    ],
+    "DM-Points-Regular-Season":1202.48,
+    "DM-Points-Playoffs":314.4,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1202.48,
+      "Team 2":1183.52,
+      "Team 3":1430.0,
+      "Team 4":1047.98,
+      "Team 5":1311.76,
+      "Team 6":1279.76,
+      "Team 7":1031.72,
+      "Team 8":1296.84,
+      "Team 9":1360.66,
+      "Team 10":1103.2,
+      "Team 11":1136.18,
+      "Team 12":1111.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":314.4,
+      "Team 6":337.04,
+      "Team 8":357.86,
+      "Team 3":256.64
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "Leonard Fournette (Pick 24)",
+      "James Conner (Pick 25)",
+      "Lamar Jackson (Pick 48)",
+      "DK Metcalf (Pick 49)",
+      "Dawson Knox (Pick 72)",
+      "Kenneth Gainwell (Pick 73)",
+      "Marquise Brown (Pick 96)",
+      "DeVonta Smith (Pick 97)",
+      "Chris Olave (Pick 120)",
+      "George Pickens (Pick 121)",
+      "Michael Gallup (Pick 144)",
+      "Ronald Jones (Pick 145)",
+      "Mason Crosby (Pick 168)",
+      "Falcons (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":3,
+    "Winner":"Team 1",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1096.92,
+    "DM-Points-Playoffs":303.18,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1359.1,
+      "Team 2":1428.44,
+      "Team 3":1204.12,
+      "Team 4":1096.92,
+      "Team 5":1125.24,
+      "Team 6":1489.94,
+      "Team 7":1104.62,
+      "Team 8":975.38,
+      "Team 9":1276.42,
+      "Team 10":1280.0,
+      "Team 11":1224.0,
+      "Team 12":1177.06
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":311.48,
+      "Team 2":310.56,
+      "Team 6":232.94,
+      "Team 4":303.18
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Leonard Fournette (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "DK Metcalf (Pick 45)",
+      "Jaylen Waddle (Pick 52)",
+      "Dawson Knox (Pick 69)",
+      "DeVonta Smith (Pick 76)",
+      "Chris Olave (Pick 93)",
+      "George Pickens (Pick 100)",
+      "Kenneth Gainwell (Pick 117)",
+      "49ers (Pick 124)",
+      "Marquez Valdes-Scantling (Pick 141)",
+      "Julio Jones (Pick 148)",
+      "Mac Jones (Pick 165)",
+      "Robbie Gould (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":4,
+    "Winner":"Team 7",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1022.42,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1023.74,
+      "Team 2":1064.32,
+      "Team 3":1194.1,
+      "Team 4":1022.42,
+      "Team 5":1081.34,
+      "Team 6":1385.7,
+      "Team 7":1556.78,
+      "Team 8":1364.56,
+      "Team 9":1390.58,
+      "Team 10":1262.66,
+      "Team 11":1198.98,
+      "Team 12":1259.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":361.18,
+      "Team 8":250.62,
+      "Team 6":289.28,
+      "Team 9":209.0
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "James Conner (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "DK Metcalf (Pick 45)",
+      "Dawson Knox (Pick 52)",
+      "Chris Olave (Pick 69)",
+      "DeVonta Smith (Pick 76)",
+      "George Pickens (Pick 93)",
+      "Kenneth Gainwell (Pick 100)",
+      "Michael Gallup (Pick 117)",
+      "Ronald Jones (Pick 124)",
+      "Marquez Valdes-Scantling (Pick 141)",
+      "Rams (Pick 148)",
+      "Mac Jones (Pick 165)",
+      "Joey Slye (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":5,
+    "Winner":"Team 2",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1088.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1222.7,
+      "Team 2":1416.8,
+      "Team 3":1092.62,
+      "Team 4":1248.52,
+      "Team 5":1274.92,
+      "Team 6":1253.72,
+      "Team 7":1220.34,
+      "Team 8":1045.84,
+      "Team 9":1312.62,
+      "Team 10":1088.9,
+      "Team 11":1385.08,
+      "Team 12":1277.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":321.74,
+      "Team 12":209.7,
+      "Team 5":295.28,
+      "Team 9":237.48
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "Michael Pittman (Pick 34)",
+      "DK Metcalf (Pick 39)",
+      "Dawson Knox (Pick 58)",
+      "DeVonta Smith (Pick 63)",
+      "Chris Olave (Pick 82)",
+      "George Pickens (Pick 87)",
+      "Kenneth Gainwell (Pick 106)",
+      "Michael Gallup (Pick 111)",
+      "Tyler Bass (Pick 130)",
+      "Ronald Jones (Pick 135)",
+      "Matt Ryan (Pick 154)",
+      "Tyler Boyd (Pick 159)",
+      "Falcons (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":6,
+    "Winner":"Team 11",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":989.22,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1127.58,
+      "Team 2":1038.72,
+      "Team 3":1146.24,
+      "Team 4":1276.58,
+      "Team 5":1377.34,
+      "Team 6":1496.98,
+      "Team 7":1067.72,
+      "Team 8":1277.14,
+      "Team 9":1368.06,
+      "Team 10":989.22,
+      "Team 11":1405.9,
+      "Team 12":1161.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":294.34,
+      "Team 6":332.04,
+      "Team 9":275.56,
+      "Team 5":325.22
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "Michael Pittman (Pick 34)",
+      "Cam Akers (Pick 39)",
+      "Dawson Knox (Pick 58)",
+      "Allen Robinson (Pick 63)",
+      "DeVonta Smith (Pick 82)",
+      "Chris Olave (Pick 87)",
+      "George Pickens (Pick 106)",
+      "Kenneth Gainwell (Pick 111)",
+      "Tyler Bass (Pick 130)",
+      "Michael Gallup (Pick 135)",
+      "Rams (Pick 154)",
+      "Mac Jones (Pick 159)",
+      "Chris Boswell (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":7,
+    "Winner":"Team 10",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1095.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1207.7,
+      "Team 2":976.1,
+      "Team 3":1284.36,
+      "Team 4":1239.28,
+      "Team 5":1190.38,
+      "Team 6":1095.9,
+      "Team 7":1144.14,
+      "Team 8":1333.04,
+      "Team 9":1173.64,
+      "Team 10":1353.36,
+      "Team 11":1243.32,
+      "Team 12":1170.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":312.1,
+      "Team 4":310.08,
+      "Team 11":216.68,
+      "Team 8":272.6
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Leonard Fournette (Pick 19)",
+      "Michael Pittman (Pick 30)",
+      "Tee Higgins (Pick 43)",
+      "Cam Akers (Pick 54)",
+      "Dawson Knox (Pick 67)",
+      "Chris Olave (Pick 78)",
+      "DeVonta Smith (Pick 91)",
+      "George Pickens (Pick 102)",
+      "Kenneth Gainwell (Pick 115)",
+      "Michael Gallup (Pick 126)",
+      "Tyler Bass (Pick 139)",
+      "Julio Jones (Pick 150)",
+      "Matt Ryan (Pick 163)",
+      "Falcons (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":8,
+    "Winner":"Team 6",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1044.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1315.48,
+      "Team 2":1384.82,
+      "Team 3":1241.88,
+      "Team 4":1044.72,
+      "Team 5":1192.88,
+      "Team 6":1359.44,
+      "Team 7":1292.44,
+      "Team 8":1060.02,
+      "Team 9":1065.18,
+      "Team 10":1298.08,
+      "Team 11":1249.64,
+      "Team 12":1331.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":250.16,
+      "Team 2":292.08,
+      "Team 12":250.34,
+      "Team 1":329.68
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "James Conner (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "Jaylen Waddle (Pick 45)",
+      "Dawson Knox (Pick 52)",
+      "DeVonta Smith (Pick 69)",
+      "Chris Olave (Pick 76)",
+      "George Pickens (Pick 93)",
+      "Kenneth Gainwell (Pick 100)",
+      "Michael Gallup (Pick 117)",
+      "Ronald Jones (Pick 124)",
+      "Marquez Valdes-Scantling (Pick 141)",
+      "Falcons (Pick 148)",
+      "Mac Jones (Pick 165)",
+      "Mason Crosby (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":9,
+    "Winner":"Team 4",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1060.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1334.62,
+      "Team 2":1292.36,
+      "Team 3":1083.38,
+      "Team 4":1406.9,
+      "Team 5":1192.46,
+      "Team 6":1352.32,
+      "Team 7":1210.84,
+      "Team 8":1060.9,
+      "Team 9":1208.9,
+      "Team 10":1307.4,
+      "Team 11":1109.42,
+      "Team 12":1290.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":300.86,
+      "Team 1":324.54,
+      "Team 2":275.3,
+      "Team 7":204.0
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "Michael Pittman (Pick 32)",
+      "Tee Higgins (Pick 41)",
+      "DK Metcalf (Pick 56)",
+      "DeVonta Smith (Pick 65)",
+      "Chris Olave (Pick 80)",
+      "George Pickens (Pick 89)",
+      "Kenneth Gainwell (Pick 104)",
+      "Michael Gallup (Pick 113)",
+      "Ronald Jones (Pick 128)",
+      "Matt Ryan (Pick 137)",
+      "Joey Slye (Pick 152)",
+      "Falcons (Pick 161)",
+      "James OShaughnessy (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":10,
+    "Winner":"Team 11",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":966.32,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1221.2,
+      "Team 2":1275.66,
+      "Team 3":1173.4,
+      "Team 4":1313.64,
+      "Team 5":1239.78,
+      "Team 6":1372.48,
+      "Team 7":1053.48,
+      "Team 8":1143.52,
+      "Team 9":1152.8,
+      "Team 10":966.32,
+      "Team 11":1458.98,
+      "Team 12":1234.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":154.1,
+      "Team 1":249.68,
+      "Team 2":231.96,
+      "Team 8":295.82
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "James Conner (Pick 34)",
+      "Cam Akers (Pick 39)",
+      "Kenneth Gainwell (Pick 58)",
+      "Tyler Bass (Pick 63)",
+      "Mike Gesicki (Pick 82)",
+      "Marquez Valdes-Scantling (Pick 87)",
+      "Ronald Jones (Pick 106)",
+      "Chris Olave (Pick 111)",
+      "George Pickens (Pick 130)",
+      "Michael Gallup (Pick 135)",
+      "Mac Jones (Pick 154)",
+      "Chris Boswell (Pick 159)",
+      "Falcons (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":11,
+    "Winner":"Team 4",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1082.28,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1286.7,
+      "Team 2":1343.9,
+      "Team 3":1269.5,
+      "Team 4":1275.28,
+      "Team 5":1305.38,
+      "Team 6":1088.5,
+      "Team 7":1303.36,
+      "Team 8":1082.28,
+      "Team 9":1137.5,
+      "Team 10":1148.64,
+      "Team 11":1113.58,
+      "Team 12":1164.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":281.58,
+      "Team 2":334.7,
+      "Team 1":284.16,
+      "Team 3":239.98
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "Michael Pittman (Pick 32)",
+      "DK Metcalf (Pick 41)",
+      "Jaylen Waddle (Pick 56)",
+      "DeVonta Smith (Pick 65)",
+      "Chris Olave (Pick 80)",
+      "George Pickens (Pick 89)",
+      "Kenneth Gainwell (Pick 104)",
+      "Michael Gallup (Pick 113)",
+      "Tyler Bass (Pick 128)",
+      "Mike Gesicki (Pick 137)",
+      "Ronald Jones (Pick 152)",
+      "Colts (Pick 161)",
+      "Mac Jones (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":12,
+    "Winner":"Team 4",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1003.22,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1182.86,
+      "Team 2":1230.28,
+      "Team 3":1183.24,
+      "Team 4":1274.38,
+      "Team 5":1048.2,
+      "Team 6":1455.28,
+      "Team 7":1222.5,
+      "Team 8":1003.22,
+      "Team 9":1051.52,
+      "Team 10":1426.16,
+      "Team 11":1318.24,
+      "Team 12":1229.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":257.58,
+      "Team 6":329.16,
+      "Team 10":218.2,
+      "Team 11":263.7
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Alvin Kamara (Pick 17)",
+      "Michael Pittman (Pick 32)",
+      "Tee Higgins (Pick 41)",
+      "Cam Akers (Pick 56)",
+      "DK Metcalf (Pick 65)",
+      "DeVonta Smith (Pick 80)",
+      "Chris Olave (Pick 89)",
+      "George Pickens (Pick 104)",
+      "Kenneth Gainwell (Pick 113)",
+      "Michael Gallup (Pick 128)",
+      "Rams (Pick 137)",
+      "Mac Jones (Pick 152)",
+      "Rodrigo Blankenship (Pick 161)",
+      "Jody Fortson (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":13,
+    "Winner":"Team 7",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":904.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1269.12,
+      "Team 2":1280.3,
+      "Team 3":1339.3,
+      "Team 4":1168.24,
+      "Team 5":904.14,
+      "Team 6":1328.58,
+      "Team 7":1287.9,
+      "Team 8":1224.48,
+      "Team 9":1071.0,
+      "Team 10":1301.78,
+      "Team 11":1366.86,
+      "Team 12":1160.84
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":368.52,
+      "Team 1":280.36,
+      "Team 11":241.98,
+      "Team 3":295.26
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Leonard Fournette (Pick 20)",
+      "Michael Pittman (Pick 29)",
+      "Dawson Knox (Pick 44)",
+      "AJ Dillon (Pick 53)",
+      "Kenneth Gainwell (Pick 68)",
+      "Tyler Bass (Pick 77)",
+      "Ronald Jones (Pick 92)",
+      "Rams (Pick 101)",
+      "Marquez Valdes-Scantling (Pick 116)",
+      "Chris Olave (Pick 125)",
+      "Michael Gallup (Pick 140)",
+      "Tyler Boyd (Pick 149)",
+      "Sammy Watkins (Pick 164)",
+      "Jordan Love (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":14,
+    "Winner":"Team 9",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":977.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1143.78,
+      "Team 2":977.84,
+      "Team 3":1194.2,
+      "Team 4":1013.72,
+      "Team 5":1272.46,
+      "Team 6":1026.96,
+      "Team 7":1310.02,
+      "Team 8":1283.26,
+      "Team 9":1355.24,
+      "Team 10":1391.64,
+      "Team 11":1312.56,
+      "Team 12":1382.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":311.66,
+      "Team 10":291.82,
+      "Team 12":277.56,
+      "Team 11":199.64
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Leonard Fournette (Pick 23)",
+      "James Conner (Pick 26)",
+      "DK Metcalf (Pick 47)",
+      "Marquise Brown (Pick 50)",
+      "Dawson Knox (Pick 71)",
+      "Chris Olave (Pick 74)",
+      "George Pickens (Pick 95)",
+      "DeVonta Smith (Pick 98)",
+      "Kenneth Gainwell (Pick 119)",
+      "Michael Gallup (Pick 122)",
+      "Ronald Jones (Pick 143)",
+      "Rams (Pick 146)",
+      "Chris Boswell (Pick 167)",
+      "Jordan Love (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":15,
+    "Winner":"Team 3",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":902.74,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1037.6,
+      "Team 2":1251.9,
+      "Team 3":1569.34,
+      "Team 4":902.74,
+      "Team 5":1293.04,
+      "Team 6":1062.68,
+      "Team 7":1190.68,
+      "Team 8":1161.92,
+      "Team 9":1345.54,
+      "Team 10":1391.26,
+      "Team 11":1451.52,
+      "Team 12":1028.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":307.96,
+      "Team 11":263.88,
+      "Team 9":307.98,
+      "Team 7":374.06
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Leonard Fournette (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "Cam Akers (Pick 45)",
+      "DK Metcalf (Pick 52)",
+      "DeVonta Smith (Pick 69)",
+      "Chris Olave (Pick 76)",
+      "George Pickens (Pick 93)",
+      "Kenneth Gainwell (Pick 100)",
+      "Michael Gallup (Pick 117)",
+      "Ronald Jones (Pick 124)",
+      "Colts (Pick 141)",
+      "Rodrigo Blankenship (Pick 148)",
+      "Jordan Love (Pick 165)",
+      "Cole Turner (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":16,
+    "Winner":"Team 11",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":944.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1390.52,
+      "Team 2":1309.66,
+      "Team 3":1100.78,
+      "Team 4":1204.24,
+      "Team 5":1249.04,
+      "Team 6":944.72,
+      "Team 7":1158.06,
+      "Team 8":1253.44,
+      "Team 9":1310.5,
+      "Team 10":1248.54,
+      "Team 11":1463.76,
+      "Team 12":1264.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":286.88,
+      "Team 1":309.98,
+      "Team 4":174.7,
+      "Team 5":219.76
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "James Conner (Pick 19)",
+      "Michael Pittman (Pick 30)",
+      "DK Metcalf (Pick 43)",
+      "DeVonta Smith (Pick 54)",
+      "Chris Olave (Pick 67)",
+      "George Pickens (Pick 78)",
+      "Kenneth Gainwell (Pick 91)",
+      "49ers (Pick 102)",
+      "Michael Gallup (Pick 115)",
+      "Ronald Jones (Pick 126)",
+      "Marquez Valdes-Scantling (Pick 139)",
+      "Mac Jones (Pick 150)",
+      "Rodrigo Blankenship (Pick 163)",
+      "James OShaughnessy (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":17,
+    "Winner":"Team 2",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1014.12,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1071.18,
+      "Team 2":1515.38,
+      "Team 3":1117.32,
+      "Team 4":1383.42,
+      "Team 5":1364.44,
+      "Team 6":1109.92,
+      "Team 7":1236.14,
+      "Team 8":1199.04,
+      "Team 9":1014.12,
+      "Team 10":965.88,
+      "Team 11":1159.82,
+      "Team 12":1367.88
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":347.1,
+      "Team 4":285.28,
+      "Team 5":239.78,
+      "Team 12":275.54
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Leonard Fournette (Pick 16)",
+      "Tee Higgins (Pick 33)",
+      "Cam Akers (Pick 40)",
+      "Dawson Knox (Pick 57)",
+      "Kenneth Gainwell (Pick 64)",
+      "Chris Olave (Pick 81)",
+      "DeVonta Smith (Pick 88)",
+      "George Pickens (Pick 105)",
+      "Michael Gallup (Pick 112)",
+      "Ronald Jones (Pick 129)",
+      "Marquez Valdes-Scantling (Pick 136)",
+      "Rams (Pick 153)",
+      "Chris Boswell (Pick 160)",
+      "Mac Jones (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":18,
+    "Winner":"Team 11",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1099.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1183.44,
+      "Team 2":1308.32,
+      "Team 3":1099.5,
+      "Team 4":1219.98,
+      "Team 5":1092.94,
+      "Team 6":1046.66,
+      "Team 7":1187.26,
+      "Team 8":1074.62,
+      "Team 9":1144.92,
+      "Team 10":1393.32,
+      "Team 11":1516.5,
+      "Team 12":1404.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":250.68,
+      "Team 12":255.16,
+      "Team 10":266.52,
+      "Team 7":249.36
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "James Conner (Pick 22)",
+      "Michael Pittman (Pick 27)",
+      "DK Metcalf (Pick 46)",
+      "Jaylen Waddle (Pick 51)",
+      "Dawson Knox (Pick 70)",
+      "DeVonta Smith (Pick 75)",
+      "Chris Olave (Pick 94)",
+      "George Pickens (Pick 99)",
+      "Kenneth Gainwell (Pick 118)",
+      "Michael Gallup (Pick 123)",
+      "Ronald Jones (Pick 142)",
+      "Matt Ryan (Pick 147)",
+      "Falcons (Pick 166)",
+      "Rodrigo Blankenship (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":19,
+    "Winner":"Team 5",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":968.54,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1095.8,
+      "Team 2":1336.3,
+      "Team 3":1242.26,
+      "Team 4":1189.94,
+      "Team 5":1345.98,
+      "Team 6":1269.04,
+      "Team 7":1255.58,
+      "Team 8":1124.34,
+      "Team 9":1130.74,
+      "Team 10":1215.44,
+      "Team 11":968.54,
+      "Team 12":1221.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":348.28,
+      "Team 7":327.28,
+      "Team 1":246.74,
+      "Team 2":326.82
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 11)",
+      "Leonard Fournette (Pick 14)",
+      "Michael Pittman (Pick 35)",
+      "James Conner (Pick 38)",
+      "Dawson Knox (Pick 59)",
+      "Kenneth Gainwell (Pick 62)",
+      "49ers (Pick 83)",
+      "George Pickens (Pick 86)",
+      "Chris Olave (Pick 107)",
+      "DeVonta Smith (Pick 110)",
+      "Michael Gallup (Pick 131)",
+      "Ronald Jones (Pick 134)",
+      "Marquez Valdes-Scantling (Pick 155)",
+      "Chris Boswell (Pick 158)",
+      "Jordan Love (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":20,
+    "Winner":"Team 11",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1125.18,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1196.14,
+      "Team 2":1292.72,
+      "Team 3":1359.92,
+      "Team 4":1202.24,
+      "Team 5":1032.66,
+      "Team 6":1378.68,
+      "Team 7":1330.42,
+      "Team 8":1145.9,
+      "Team 9":1245.46,
+      "Team 10":947.46,
+      "Team 11":1487.22,
+      "Team 12":1125.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":267.54,
+      "Team 6":365.48,
+      "Team 1":248.24,
+      "Team 4":245.56
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 12)",
+      "Leonard Fournette (Pick 13)",
+      "Lamar Jackson (Pick 36)",
+      "James Conner (Pick 37)",
+      "Allen Robinson (Pick 60)",
+      "Dawson Knox (Pick 61)",
+      "Kenneth Gainwell (Pick 84)",
+      "Ronald Jones (Pick 85)",
+      "Marquise Brown (Pick 108)",
+      "Chris Olave (Pick 109)",
+      "Michael Gallup (Pick 132)",
+      "Marquez Valdes-Scantling (Pick 133)",
+      "Julio Jones (Pick 156)",
+      "Chris Boswell (Pick 157)",
+      "Falcons (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":21,
+    "Winner":"Team 2",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":922.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1185.88,
+      "Team 2":1310.1,
+      "Team 3":922.6,
+      "Team 4":1395.4,
+      "Team 5":1099.94,
+      "Team 6":1089.06,
+      "Team 7":1059.24,
+      "Team 8":1124.78,
+      "Team 9":1256.06,
+      "Team 10":1441.0,
+      "Team 11":1338.58,
+      "Team 12":1007.64
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":282.0,
+      "Team 4":296.06,
+      "Team 10":246.92,
+      "Team 11":195.12
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Leonard Fournette (Pick 22)",
+      "James Conner (Pick 27)",
+      "Cam Akers (Pick 46)",
+      "DK Metcalf (Pick 51)",
+      "Allen Robinson (Pick 70)",
+      "Dawson Knox (Pick 75)",
+      "DeVonta Smith (Pick 94)",
+      "Chris Olave (Pick 99)",
+      "George Pickens (Pick 118)",
+      "Kenneth Gainwell (Pick 123)",
+      "Ronald Jones (Pick 142)",
+      "Rams (Pick 147)",
+      "Chris Boswell (Pick 166)",
+      "Mason Rudolph (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":22,
+    "Winner":"Team 5",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1153.18,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1096.28,
+      "Team 2":1141.92,
+      "Team 3":1153.18,
+      "Team 4":1206.62,
+      "Team 5":1521.5,
+      "Team 6":1274.2,
+      "Team 7":1169.86,
+      "Team 8":1126.62,
+      "Team 9":1350.44,
+      "Team 10":1489.64,
+      "Team 11":1195.26,
+      "Team 12":1170.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":285.82,
+      "Team 4":215.58,
+      "Team 10":317.26,
+      "Team 11":208.3
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "James Conner (Pick 22)",
+      "Michael Pittman (Pick 27)",
+      "Lamar Jackson (Pick 46)",
+      "DK Metcalf (Pick 51)",
+      "Dawson Knox (Pick 70)",
+      "DeVonta Smith (Pick 75)",
+      "Chris Olave (Pick 94)",
+      "George Pickens (Pick 99)",
+      "Kenneth Gainwell (Pick 118)",
+      "Michael Gallup (Pick 123)",
+      "Ronald Jones (Pick 142)",
+      "Marquez Valdes-Scantling (Pick 147)",
+      "Joey Slye (Pick 166)",
+      "Falcons (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":23,
+    "Winner":"Team 11",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1084.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1162.74,
+      "Team 2":1257.48,
+      "Team 3":1194.24,
+      "Team 4":1068.52,
+      "Team 5":1084.5,
+      "Team 6":1124.26,
+      "Team 7":1116.12,
+      "Team 8":1243.32,
+      "Team 9":1024.14,
+      "Team 10":1359.68,
+      "Team 11":1466.3,
+      "Team 12":1322.16
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":212.18,
+      "Team 8":312.24,
+      "Team 10":259.72,
+      "Team 1":230.58
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "James Conner (Pick 20)",
+      "Michael Pittman (Pick 29)",
+      "DK Metcalf (Pick 44)",
+      "Jaylen Waddle (Pick 53)",
+      "Dawson Knox (Pick 68)",
+      "Chris Olave (Pick 77)",
+      "DeVonta Smith (Pick 92)",
+      "Kenneth Gainwell (Pick 101)",
+      "George Pickens (Pick 116)",
+      "Michael Gallup (Pick 125)",
+      "Tyler Bass (Pick 140)",
+      "Julio Jones (Pick 149)",
+      "Falcons (Pick 164)",
+      "Matt Ryan (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":24,
+    "Winner":"Team 4",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1183.08,
+    "DM-Points-Playoffs":318.6,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1242.14,
+      "Team 2":1394.78,
+      "Team 3":1334.62,
+      "Team 4":1277.52,
+      "Team 5":1157.48,
+      "Team 6":1153.04,
+      "Team 7":1186.64,
+      "Team 8":1094.02,
+      "Team 9":1170.52,
+      "Team 10":1351.46,
+      "Team 11":1204.32,
+      "Team 12":1183.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":309.66,
+      "Team 2":277.06,
+      "Team 3":290.48,
+      "Team 12":318.6
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 12)",
+      "Leonard Fournette (Pick 13)",
+      "James Conner (Pick 36)",
+      "Lamar Jackson (Pick 37)",
+      "Jaylen Waddle (Pick 60)",
+      "Dawson Knox (Pick 61)",
+      "DeVonta Smith (Pick 84)",
+      "Chris Olave (Pick 85)",
+      "George Pickens (Pick 108)",
+      "Kenneth Gainwell (Pick 109)",
+      "49ers (Pick 132)",
+      "Michael Gallup (Pick 133)",
+      "Ronald Jones (Pick 156)",
+      "Marquez Valdes-Scantling (Pick 157)",
+      "Chris Boswell (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":25,
+    "Winner":"Team 4",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1019.78,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1199.42,
+      "Team 2":1202.32,
+      "Team 3":1119.32,
+      "Team 4":1335.58,
+      "Team 5":1262.34,
+      "Team 6":1369.68,
+      "Team 7":1019.78,
+      "Team 8":1243.84,
+      "Team 9":1214.4,
+      "Team 10":1348.3,
+      "Team 11":1126.88,
+      "Team 12":1239.68
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":227.66,
+      "Team 6":373.76,
+      "Team 10":282.08,
+      "Team 5":225.6
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 7)",
+      "Leonard Fournette (Pick 18)",
+      "Alvin Kamara (Pick 31)",
+      "DK Metcalf (Pick 42)",
+      "Dawson Knox (Pick 55)",
+      "Kenneth Gainwell (Pick 66)",
+      "49ers (Pick 79)",
+      "Michael Gallup (Pick 90)",
+      "DeVonta Smith (Pick 103)",
+      "Chris Olave (Pick 114)",
+      "George Pickens (Pick 127)",
+      "Ronald Jones (Pick 138)",
+      "Marquez Valdes-Scantling (Pick 151)",
+      "Chris Boswell (Pick 162)",
+      "Mac Jones (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":26,
+    "Winner":"Team 4",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1074.52,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1351.66,
+      "Team 2":1230.76,
+      "Team 3":1255.24,
+      "Team 4":1451.06,
+      "Team 5":1228.24,
+      "Team 6":1300.46,
+      "Team 7":1198.8,
+      "Team 8":1144.98,
+      "Team 9":1103.06,
+      "Team 10":1123.96,
+      "Team 11":1271.98,
+      "Team 12":1074.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":288.78,
+      "Team 1":226.3,
+      "Team 2":298.68,
+      "Team 3":318.56
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 12)",
+      "Leonard Fournette (Pick 13)",
+      "Michael Pittman (Pick 36)",
+      "Tee Higgins (Pick 37)",
+      "DK Metcalf (Pick 60)",
+      "Dawson Knox (Pick 61)",
+      "DeVonta Smith (Pick 84)",
+      "Chris Olave (Pick 85)",
+      "George Pickens (Pick 108)",
+      "Kenneth Gainwell (Pick 109)",
+      "Michael Gallup (Pick 132)",
+      "Ronald Jones (Pick 133)",
+      "Falcons (Pick 156)",
+      "Joey Slye (Pick 157)",
+      "Mac Jones (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":27,
+    "Winner":"Team 1",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1075.88,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1256.68,
+      "Team 2":1262.46,
+      "Team 3":1289.04,
+      "Team 4":1253.4,
+      "Team 5":1421.54,
+      "Team 6":1153.28,
+      "Team 7":1166.5,
+      "Team 8":1300.06,
+      "Team 9":1142.06,
+      "Team 10":1286.54,
+      "Team 11":1075.88,
+      "Team 12":1314.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":315.36,
+      "Team 2":305.88,
+      "Team 3":281.64,
+      "Team 8":275.1
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 11)",
+      "Leonard Fournette (Pick 14)",
+      "Cam Akers (Pick 35)",
+      "Lamar Jackson (Pick 38)",
+      "DK Metcalf (Pick 59)",
+      "Dawson Knox (Pick 62)",
+      "Kenneth Gainwell (Pick 83)",
+      "Ronald Jones (Pick 86)",
+      "Allen Robinson (Pick 107)",
+      "Chris Olave (Pick 110)",
+      "George Pickens (Pick 131)",
+      "Michael Gallup (Pick 134)",
+      "Marquez Valdes-Scantling (Pick 155)",
+      "Rams (Pick 158)",
+      "Chris Boswell (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":28,
+    "Winner":"Team 9",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1123.82,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1238.04,
+      "Team 2":1123.82,
+      "Team 3":1189.26,
+      "Team 4":1165.26,
+      "Team 5":1068.2,
+      "Team 6":1237.88,
+      "Team 7":1387.18,
+      "Team 8":1250.66,
+      "Team 9":1194.46,
+      "Team 10":1146.68,
+      "Team 11":1335.84,
+      "Team 12":1163.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":232.26,
+      "Team 4":228.5,
+      "Team 7":353.48,
+      "Team 11":263.96
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Leonard Fournette (Pick 23)",
+      "James Conner (Pick 26)",
+      "DK Metcalf (Pick 47)",
+      "Jaylen Waddle (Pick 50)",
+      "Dawson Knox (Pick 71)",
+      "DeVonta Smith (Pick 74)",
+      "Chris Olave (Pick 95)",
+      "George Pickens (Pick 98)",
+      "Kenneth Gainwell (Pick 119)",
+      "Michael Gallup (Pick 122)",
+      "Tyler Bass (Pick 143)",
+      "Ronald Jones (Pick 146)",
+      "Rams (Pick 167)",
+      "Mac Jones (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":29,
+    "Winner":"Team 5",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":996.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1186.14,
+      "Team 2":1198.86,
+      "Team 3":1369.06,
+      "Team 4":1204.26,
+      "Team 5":1401.44,
+      "Team 6":1284.9,
+      "Team 7":1088.48,
+      "Team 8":1247.26,
+      "Team 9":996.1,
+      "Team 10":1184.18,
+      "Team 11":1127.42,
+      "Team 12":1190.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":251.02,
+      "Team 3":323.02,
+      "Team 8":301.08,
+      "Team 1":275.86
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Leonard Fournette (Pick 16)",
+      "Cam Akers (Pick 33)",
+      "DK Metcalf (Pick 40)",
+      "Dawson Knox (Pick 57)",
+      "Kenneth Gainwell (Pick 64)",
+      "Ronald Jones (Pick 81)",
+      "Allen Robinson (Pick 88)",
+      "Chris Olave (Pick 105)",
+      "George Pickens (Pick 112)",
+      "Michael Gallup (Pick 129)",
+      "Matt Ryan (Pick 136)",
+      "Marquez Valdes-Scantling (Pick 153)",
+      "Chris Boswell (Pick 160)",
+      "Falcons (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":30,
+    "Winner":"Team 12",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1075.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":899.84,
+      "Team 2":1174.66,
+      "Team 3":1192.06,
+      "Team 4":1295.32,
+      "Team 5":1024.64,
+      "Team 6":1134.66,
+      "Team 7":1203.0,
+      "Team 8":1474.04,
+      "Team 9":1075.5,
+      "Team 10":1225.02,
+      "Team 11":1455.98,
+      "Team 12":1393.04
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":349.52,
+      "Team 8":309.56,
+      "Team 11":206.8,
+      "Team 4":223.8
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Leonard Fournette (Pick 16)",
+      "James Conner (Pick 33)",
+      "Cam Akers (Pick 40)",
+      "DK Metcalf (Pick 57)",
+      "Dawson Knox (Pick 64)",
+      "Kenneth Gainwell (Pick 81)",
+      "Chris Olave (Pick 88)",
+      "George Pickens (Pick 105)",
+      "49ers (Pick 112)",
+      "Michael Gallup (Pick 129)",
+      "Tyler Bass (Pick 136)",
+      "Ronald Jones (Pick 153)",
+      "Matt Ryan (Pick 160)",
+      "Chris Boswell (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":31,
+    "Winner":"Team 8",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1061.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1061.1,
+      "Team 2":1376.48,
+      "Team 3":1252.9,
+      "Team 4":1304.58,
+      "Team 5":1087.2,
+      "Team 6":1244.86,
+      "Team 7":1277.8,
+      "Team 8":1405.8,
+      "Team 9":1037.04,
+      "Team 10":912.48,
+      "Team 11":1363.9,
+      "Team 12":1253.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":307.08,
+      "Team 2":344.64,
+      "Team 3":249.48,
+      "Team 11":206.34
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "James Conner (Pick 24)",
+      "Michael Pittman (Pick 25)",
+      "DK Metcalf (Pick 48)",
+      "Dawson Knox (Pick 49)",
+      "George Pickens (Pick 72)",
+      "DeVonta Smith (Pick 73)",
+      "Chris Olave (Pick 96)",
+      "Kenneth Gainwell (Pick 97)",
+      "Michael Gallup (Pick 120)",
+      "Ronald Jones (Pick 121)",
+      "Marquez Valdes-Scantling (Pick 144)",
+      "Matt Ryan (Pick 145)",
+      "Falcons (Pick 168)",
+      "Younghoe Koo (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":32,
+    "Winner":"Team 10",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1089.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1084.92,
+      "Team 2":1089.68,
+      "Team 3":1262.72,
+      "Team 4":1376.24,
+      "Team 5":1201.98,
+      "Team 6":1212.3,
+      "Team 7":1212.82,
+      "Team 8":1329.52,
+      "Team 9":1139.76,
+      "Team 10":1319.82,
+      "Team 11":1242.3,
+      "Team 12":1208.04
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":228.74,
+      "Team 8":269.18,
+      "Team 12":330.32,
+      "Team 4":358.74
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "James Conner (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "Lamar Jackson (Pick 47)",
+      "Dawson Knox (Pick 50)",
+      "Kenneth Gainwell (Pick 71)",
+      "AJ Dillon (Pick 74)",
+      "Chris Olave (Pick 95)",
+      "DeVonta Smith (Pick 98)",
+      "George Pickens (Pick 119)",
+      "Michael Gallup (Pick 122)",
+      "Tyler Bass (Pick 143)",
+      "Marquez Valdes-Scantling (Pick 146)",
+      "Tyler Boyd (Pick 167)",
+      "Falcons (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":33,
+    "Winner":"Team 1",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1141.58,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1265.64,
+      "Team 2":1127.48,
+      "Team 3":1411.72,
+      "Team 4":1105.54,
+      "Team 5":1401.12,
+      "Team 6":1160.66,
+      "Team 7":1136.64,
+      "Team 8":1192.1,
+      "Team 9":1362.38,
+      "Team 10":1141.58,
+      "Team 11":1380.78,
+      "Team 12":1097.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":297.72,
+      "Team 3":306.6,
+      "Team 11":307.8,
+      "Team 5":376.78
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "Michael Pittman (Pick 34)",
+      "Cam Akers (Pick 39)",
+      "Lamar Jackson (Pick 58)",
+      "DK Metcalf (Pick 63)",
+      "Chris Olave (Pick 82)",
+      "George Pickens (Pick 87)",
+      "Kenneth Gainwell (Pick 106)",
+      "Michael Gallup (Pick 111)",
+      "Tyler Bass (Pick 130)",
+      "Marquez Valdes-Scantling (Pick 135)",
+      "Mike Gesicki (Pick 154)",
+      "Rams (Pick 159)",
+      "Mason Rudolph (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":34,
+    "Winner":"Team 5",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":883.36,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1138.82,
+      "Team 2":1086.92,
+      "Team 3":1268.16,
+      "Team 4":1121.2,
+      "Team 5":1533.14,
+      "Team 6":940.86,
+      "Team 7":1142.78,
+      "Team 8":1183.78,
+      "Team 9":883.36,
+      "Team 10":1234.6,
+      "Team 11":1501.02,
+      "Team 12":1329.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":326.94,
+      "Team 12":268.52,
+      "Team 3":264.5,
+      "Team 11":275.18
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 9)",
+      "Alvin Kamara (Pick 16)",
+      "James Conner (Pick 33)",
+      "Cam Akers (Pick 40)",
+      "Jaylen Waddle (Pick 57)",
+      "Dawson Knox (Pick 64)",
+      "Kenneth Gainwell (Pick 81)",
+      "George Pickens (Pick 88)",
+      "Chris Olave (Pick 105)",
+      "Michael Gallup (Pick 112)",
+      "Tyler Bass (Pick 129)",
+      "Ronald Jones (Pick 136)",
+      "Marquez Valdes-Scantling (Pick 153)",
+      "Rams (Pick 160)",
+      "Mason Rudolph (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":35,
+    "Winner":"Team 10",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":988.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1172.5,
+      "Team 2":989.7,
+      "Team 3":1234.4,
+      "Team 4":1265.44,
+      "Team 5":1236.28,
+      "Team 6":1268.88,
+      "Team 7":1090.02,
+      "Team 8":1380.84,
+      "Team 9":988.44,
+      "Team 10":1456.08,
+      "Team 11":1181.64,
+      "Team 12":1298.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":272.1,
+      "Team 6":245.66,
+      "Team 8":316.68,
+      "Team 4":297.82
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Leonard Fournette (Pick 16)",
+      "Michael Pittman (Pick 33)",
+      "Cam Akers (Pick 40)",
+      "DK Metcalf (Pick 57)",
+      "Dawson Knox (Pick 64)",
+      "Chris Olave (Pick 81)",
+      "DeVonta Smith (Pick 88)",
+      "George Pickens (Pick 105)",
+      "Kenneth Gainwell (Pick 112)",
+      "Michael Gallup (Pick 129)",
+      "Ronald Jones (Pick 136)",
+      "Rams (Pick 153)",
+      "Chris Boswell (Pick 160)",
+      "Jordan Love (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":36,
+    "Winner":"Team 10",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1060.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1014.12,
+      "Team 2":1363.14,
+      "Team 3":1483.68,
+      "Team 4":1315.28,
+      "Team 5":1093.62,
+      "Team 6":1060.2,
+      "Team 7":1268.44,
+      "Team 8":1082.4,
+      "Team 9":1325.0,
+      "Team 10":1290.72,
+      "Team 11":1289.28,
+      "Team 12":1179.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":262.54,
+      "Team 3":334.18,
+      "Team 4":281.92,
+      "Team 9":253.78
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Leonard Fournette (Pick 19)",
+      "James Conner (Pick 30)",
+      "Tee Higgins (Pick 43)",
+      "Cam Akers (Pick 54)",
+      "DK Metcalf (Pick 67)",
+      "Chris Olave (Pick 78)",
+      "DeVonta Smith (Pick 91)",
+      "George Pickens (Pick 102)",
+      "Kenneth Gainwell (Pick 115)",
+      "Tyler Bass (Pick 126)",
+      "Michael Gallup (Pick 139)",
+      "Matt Ryan (Pick 150)",
+      "Falcons (Pick 163)",
+      "Cole Turner (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":37,
+    "Winner":"Team 4",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":948.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1187.9,
+      "Team 2":1186.7,
+      "Team 3":1234.34,
+      "Team 4":1343.7,
+      "Team 5":1229.38,
+      "Team 6":1168.8,
+      "Team 7":1129.02,
+      "Team 8":1220.76,
+      "Team 9":1215.48,
+      "Team 10":1416.92,
+      "Team 11":948.4,
+      "Team 12":1326.58
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":251.68,
+      "Team 10":257.86,
+      "Team 12":328.64,
+      "Team 3":224.96
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 11)",
+      "Leonard Fournette (Pick 14)",
+      "Tee Higgins (Pick 35)",
+      "DK Metcalf (Pick 38)",
+      "Dawson Knox (Pick 59)",
+      "DeVonta Smith (Pick 62)",
+      "Chris Olave (Pick 83)",
+      "George Pickens (Pick 86)",
+      "Michael Gallup (Pick 107)",
+      "Ronald Jones (Pick 110)",
+      "Kenneth Gainwell (Pick 131)",
+      "Marquez Valdes-Scantling (Pick 134)",
+      "Rams (Pick 155)",
+      "Chris Boswell (Pick 158)",
+      "Mason Rudolph (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":38,
+    "Winner":"Team 4",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":947.42,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1131.6,
+      "Team 2":1287.56,
+      "Team 3":1284.16,
+      "Team 4":1348.46,
+      "Team 5":1250.46,
+      "Team 6":1115.12,
+      "Team 7":1053.04,
+      "Team 8":1395.78,
+      "Team 9":1210.56,
+      "Team 10":1317.06,
+      "Team 11":947.42,
+      "Team 12":1320.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":289.28,
+      "Team 12":290.48,
+      "Team 2":221.6,
+      "Team 9":338.68
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 11)",
+      "Leonard Fournette (Pick 14)",
+      "Michael Pittman (Pick 35)",
+      "Cam Akers (Pick 38)",
+      "Dawson Knox (Pick 59)",
+      "Kenneth Gainwell (Pick 62)",
+      "Ronald Jones (Pick 83)",
+      "Rams (Pick 86)",
+      "George Pickens (Pick 107)",
+      "Chris Olave (Pick 110)",
+      "Michael Gallup (Pick 131)",
+      "Marquez Valdes-Scantling (Pick 134)",
+      "Julio Jones (Pick 155)",
+      "Mac Jones (Pick 158)",
+      "Rodrigo Blankenship (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":39,
+    "Winner":"Team 12",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1200.98,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1105.56,
+      "Team 2":1310.24,
+      "Team 3":1159.82,
+      "Team 4":1200.98,
+      "Team 5":1042.72,
+      "Team 6":1018.98,
+      "Team 7":1128.32,
+      "Team 8":1321.0,
+      "Team 9":1335.34,
+      "Team 10":1437.48,
+      "Team 11":1143.9,
+      "Team 12":1496.72
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":264.88,
+      "Team 2":323.36,
+      "Team 8":287.86,
+      "Team 9":214.64
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Leonard Fournette (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "Lamar Jackson (Pick 45)",
+      "DK Metcalf (Pick 52)",
+      "Dawson Knox (Pick 69)",
+      "DeVonta Smith (Pick 76)",
+      "Chris Olave (Pick 93)",
+      "George Pickens (Pick 100)",
+      "Kenneth Gainwell (Pick 117)",
+      "Marquez Valdes-Scantling (Pick 124)",
+      "Michael Gallup (Pick 141)",
+      "Ronald Jones (Pick 148)",
+      "Chris Boswell (Pick 165)",
+      "Falcons (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":40,
+    "Winner":"Team 10",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1227.78,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1290.4,
+      "Team 2":1206.52,
+      "Team 3":1230.48,
+      "Team 4":1239.7,
+      "Team 5":1249.12,
+      "Team 6":1139.54,
+      "Team 7":1081.84,
+      "Team 8":1227.78,
+      "Team 9":1131.46,
+      "Team 10":1396.7,
+      "Team 11":1235.34,
+      "Team 12":1483.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":374.12,
+      "Team 12":271.58,
+      "Team 5":308.84,
+      "Team 2":273.1
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "Tee Higgins (Pick 32)",
+      "Lamar Jackson (Pick 41)",
+      "Jaylen Waddle (Pick 56)",
+      "Dawson Knox (Pick 65)",
+      "Chris Olave (Pick 80)",
+      "George Pickens (Pick 89)",
+      "Kenneth Gainwell (Pick 104)",
+      "Michael Gallup (Pick 113)",
+      "Tyler Bass (Pick 128)",
+      "Ronald Jones (Pick 137)",
+      "Marquez Valdes-Scantling (Pick 152)",
+      "Sammy Watkins (Pick 161)",
+      "Falcons (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":41,
+    "Winner":"Team 5",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1029.76,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1431.9,
+      "Team 2":1107.86,
+      "Team 3":1231.94,
+      "Team 4":1385.22,
+      "Team 5":1460.44,
+      "Team 6":983.06,
+      "Team 7":1029.76,
+      "Team 8":1001.06,
+      "Team 9":1260.86,
+      "Team 10":1331.24,
+      "Team 11":1430.36,
+      "Team 12":1131.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":223.3,
+      "Team 1":288.06,
+      "Team 4":294.48,
+      "Team 11":299.4
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 7)",
+      "Leonard Fournette (Pick 18)",
+      "Michael Pittman (Pick 31)",
+      "Cam Akers (Pick 42)",
+      "Jaylen Waddle (Pick 55)",
+      "DeVonta Smith (Pick 66)",
+      "Chris Olave (Pick 79)",
+      "George Pickens (Pick 90)",
+      "Kenneth Gainwell (Pick 103)",
+      "49ers (Pick 114)",
+      "Michael Gallup (Pick 127)",
+      "Ronald Jones (Pick 138)",
+      "Joey Slye (Pick 151)",
+      "James OShaughnessy (Pick 162)",
+      "Matt Ryan (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":42,
+    "Winner":"Team 6",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1123.78,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1008.48,
+      "Team 2":1115.3,
+      "Team 3":1309.4,
+      "Team 4":1235.26,
+      "Team 5":1331.8,
+      "Team 6":1402.0,
+      "Team 7":1115.72,
+      "Team 8":1127.32,
+      "Team 9":1044.66,
+      "Team 10":1246.94,
+      "Team 11":1123.78,
+      "Team 12":1388.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":306.96,
+      "Team 10":272.84,
+      "Team 12":261.88,
+      "Team 5":285.3
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 11)",
+      "Leonard Fournette (Pick 14)",
+      "Lamar Jackson (Pick 35)",
+      "DK Metcalf (Pick 38)",
+      "Dawson Knox (Pick 59)",
+      "Kenneth Gainwell (Pick 62)",
+      "Clyde Edwards-Helaire (Pick 83)",
+      "Tyler Bass (Pick 86)",
+      "Ronald Jones (Pick 107)",
+      "Sammy Watkins (Pick 110)",
+      "Chris Olave (Pick 131)",
+      "George Pickens (Pick 134)",
+      "Michael Gallup (Pick 155)",
+      "Chris Boswell (Pick 158)",
+      "Falcons (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":43,
+    "Winner":"Team 11",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":943.8,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":943.8,
+      "Team 2":1349.42,
+      "Team 3":1172.52,
+      "Team 4":1117.38,
+      "Team 5":1158.56,
+      "Team 6":1274.08,
+      "Team 7":1252.16,
+      "Team 8":1125.48,
+      "Team 9":1301.94,
+      "Team 10":1450.4,
+      "Team 11":1396.82,
+      "Team 12":1126.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":238.68,
+      "Team 2":276.38,
+      "Team 7":320.26,
+      "Team 9":322.3
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "James Conner (Pick 24)",
+      "Michael Pittman (Pick 25)",
+      "DK Metcalf (Pick 48)",
+      "Jaylen Waddle (Pick 49)",
+      "Dawson Knox (Pick 72)",
+      "DeVonta Smith (Pick 73)",
+      "Chris Olave (Pick 96)",
+      "George Pickens (Pick 97)",
+      "Kenneth Gainwell (Pick 120)",
+      "Michael Gallup (Pick 121)",
+      "Marquez Valdes-Scantling (Pick 144)",
+      "Rams (Pick 145)",
+      "Rodrigo Blankenship (Pick 168)",
+      "Mason Rudolph (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":44,
+    "Winner":"Team 11",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1184.28,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1091.7,
+      "Team 2":1259.5,
+      "Team 3":1337.12,
+      "Team 4":1273.78,
+      "Team 5":1151.94,
+      "Team 6":1145.06,
+      "Team 7":1184.28,
+      "Team 8":1075.86,
+      "Team 9":1140.52,
+      "Team 10":1096.44,
+      "Team 11":1446.4,
+      "Team 12":1305.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":272.52,
+      "Team 4":355.46,
+      "Team 2":257.06,
+      "Team 3":276.26
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 7)",
+      "Leonard Fournette (Pick 18)",
+      "Michael Pittman (Pick 31)",
+      "Lamar Jackson (Pick 42)",
+      "Cam Akers (Pick 55)",
+      "Marquise Brown (Pick 66)",
+      "Dawson Knox (Pick 79)",
+      "DeVonta Smith (Pick 90)",
+      "Chris Olave (Pick 103)",
+      "George Pickens (Pick 114)",
+      "Kenneth Gainwell (Pick 127)",
+      "Michael Gallup (Pick 138)",
+      "Tyler Bass (Pick 151)",
+      "Ronald Jones (Pick 162)",
+      "Colts (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":45,
+    "Winner":"Team 11",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1252.88,
+    "DM-Points-Playoffs":269.6,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1182.86,
+      "Team 2":1322.1,
+      "Team 3":1210.2,
+      "Team 4":1047.94,
+      "Team 5":1252.88,
+      "Team 6":1228.08,
+      "Team 7":1161.24,
+      "Team 8":993.62,
+      "Team 9":1155.48,
+      "Team 10":1185.94,
+      "Team 11":1267.62,
+      "Team 12":1409.62
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":291.88,
+      "Team 1":252.18,
+      "Team 12":286.74,
+      "Team 5":269.6
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Leonard Fournette (Pick 20)",
+      "Michael Pittman (Pick 29)",
+      "Lamar Jackson (Pick 44)",
+      "Tee Higgins (Pick 53)",
+      "Jaylen Waddle (Pick 68)",
+      "Dawson Knox (Pick 77)",
+      "DeVonta Smith (Pick 92)",
+      "Chris Olave (Pick 101)",
+      "George Pickens (Pick 116)",
+      "Kenneth Gainwell (Pick 125)",
+      "Michael Gallup (Pick 140)",
+      "Ronald Jones (Pick 149)",
+      "Rams (Pick 164)",
+      "Mason Crosby (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":46,
+    "Winner":"Team 7",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      0,
+      14
+    ],
+    "DM-Points-Regular-Season":950.84,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":973.36,
+      "Team 2":950.84,
+      "Team 3":1116.64,
+      "Team 4":1240.68,
+      "Team 5":1037.06,
+      "Team 6":1308.5,
+      "Team 7":1588.14,
+      "Team 8":1136.98,
+      "Team 9":1076.36,
+      "Team 10":1117.46,
+      "Team 11":1607.5,
+      "Team 12":1287.24
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":310.4,
+      "Team 11":297.18,
+      "Team 12":269.32,
+      "Team 3":264.96
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "James Conner (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "Jaylen Waddle (Pick 47)",
+      "Dawson Knox (Pick 50)",
+      "DeVonta Smith (Pick 71)",
+      "Chris Olave (Pick 74)",
+      "George Pickens (Pick 95)",
+      "Kenneth Gainwell (Pick 98)",
+      "Michael Gallup (Pick 119)",
+      "Ronald Jones (Pick 122)",
+      "Marquez Valdes-Scantling (Pick 143)",
+      "Falcons (Pick 146)",
+      "Jordan Love (Pick 167)",
+      "Younghoe Koo (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":47,
+    "Winner":"Team 4",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1007.44,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1069.28,
+      "Team 2":1193.96,
+      "Team 3":1261.26,
+      "Team 4":1466.74,
+      "Team 5":1269.84,
+      "Team 6":1007.44,
+      "Team 7":1128.6,
+      "Team 8":1082.3,
+      "Team 9":1247.68,
+      "Team 10":1257.86,
+      "Team 11":1072.26,
+      "Team 12":1231.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":221.66,
+      "Team 5":328.44,
+      "Team 10":202.0,
+      "Team 9":324.58
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Leonard Fournette (Pick 19)",
+      "Tee Higgins (Pick 30)",
+      "Jaylen Waddle (Pick 43)",
+      "Dawson Knox (Pick 54)",
+      "Chris Olave (Pick 67)",
+      "DeVonta Smith (Pick 78)",
+      "George Pickens (Pick 91)",
+      "Kenneth Gainwell (Pick 102)",
+      "Michael Gallup (Pick 115)",
+      "Ronald Jones (Pick 126)",
+      "Marquez Valdes-Scantling (Pick 139)",
+      "Rams (Pick 150)",
+      "Chris Boswell (Pick 163)",
+      "Jordan Love (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":48,
+    "Winner":"Team 10",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1089.18,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1278.62,
+      "Team 2":1219.86,
+      "Team 3":1312.5,
+      "Team 4":1197.46,
+      "Team 5":1229.82,
+      "Team 6":1208.72,
+      "Team 7":1010.16,
+      "Team 8":1214.24,
+      "Team 9":1089.18,
+      "Team 10":1354.12,
+      "Team 11":1297.8,
+      "Team 12":1267.98
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":287.02,
+      "Team 11":329.98,
+      "Team 1":297.7,
+      "Team 3":283.86
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Alvin Kamara (Pick 16)",
+      "Cam Akers (Pick 33)",
+      "Lamar Jackson (Pick 40)",
+      "Jaylen Waddle (Pick 57)",
+      "Kenneth Gainwell (Pick 64)",
+      "George Pickens (Pick 81)",
+      "DeVonta Smith (Pick 88)",
+      "Chris Olave (Pick 105)",
+      "Michael Gallup (Pick 112)",
+      "Tyler Bass (Pick 129)",
+      "Ronald Jones (Pick 136)",
+      "Rams (Pick 153)",
+      "Chris Boswell (Pick 160)",
+      "Cole Turner (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":49,
+    "Winner":"Team 5",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":1041.28,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1232.72,
+      "Team 2":1041.28,
+      "Team 3":1244.86,
+      "Team 4":1219.96,
+      "Team 5":1486.8,
+      "Team 6":1283.62,
+      "Team 7":1325.14,
+      "Team 8":1074.5,
+      "Team 9":1168.42,
+      "Team 10":1247.96,
+      "Team 11":1395.76,
+      "Team 12":1287.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":303.06,
+      "Team 11":245.32,
+      "Team 7":305.7,
+      "Team 1":264.6
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Leonard Fournette (Pick 23)",
+      "James Conner (Pick 26)",
+      "Lamar Jackson (Pick 47)",
+      "Allen Robinson (Pick 50)",
+      "Kenneth Gainwell (Pick 71)",
+      "DeVonta Smith (Pick 74)",
+      "Chris Olave (Pick 95)",
+      "George Pickens (Pick 98)",
+      "Michael Gallup (Pick 119)",
+      "Ronald Jones (Pick 122)",
+      "Julio Jones (Pick 143)",
+      "Joey Slye (Pick 146)",
+      "Falcons (Pick 167)",
+      "James OShaughnessy (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":50,
+    "Winner":"Team 1",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":903.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1409.78,
+      "Team 2":1540.64,
+      "Team 3":1128.42,
+      "Team 4":1180.56,
+      "Team 5":1330.58,
+      "Team 6":1285.18,
+      "Team 7":1171.0,
+      "Team 8":903.4,
+      "Team 9":1252.18,
+      "Team 10":1195.74,
+      "Team 11":1368.26,
+      "Team 12":1162.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":341.36,
+      "Team 2":320.48,
+      "Team 6":306.34,
+      "Team 11":197.6
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "James Conner (Pick 32)",
+      "Tee Higgins (Pick 41)",
+      "DK Metcalf (Pick 56)",
+      "George Pickens (Pick 65)",
+      "Chris Olave (Pick 80)",
+      "Kenneth Gainwell (Pick 89)",
+      "Michael Gallup (Pick 104)",
+      "Ronald Jones (Pick 113)",
+      "Marquez Valdes-Scantling (Pick 128)",
+      "Chris Boswell (Pick 137)",
+      "Falcons (Pick 152)",
+      "Jacob Harris (Pick 161)",
+      "Mason Rudolph (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":51,
+    "Winner":"Team 10",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1101.58,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1301.26,
+      "Team 2":1134.22,
+      "Team 3":892.34,
+      "Team 4":1101.58,
+      "Team 5":1231.6,
+      "Team 6":1265.9,
+      "Team 7":1267.12,
+      "Team 8":1154.4,
+      "Team 9":1305.4,
+      "Team 10":1591.08,
+      "Team 11":1198.8,
+      "Team 12":972.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":282.62,
+      "Team 9":233.36,
+      "Team 1":262.68,
+      "Team 6":353.84
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "James Conner (Pick 21)",
+      "Tee Higgins (Pick 28)",
+      "Lamar Jackson (Pick 45)",
+      "AJ Dillon (Pick 52)",
+      "Dawson Knox (Pick 69)",
+      "DeVonta Smith (Pick 76)",
+      "Chris Olave (Pick 93)",
+      "George Pickens (Pick 100)",
+      "Kenneth Gainwell (Pick 117)",
+      "Michael Gallup (Pick 124)",
+      "Ronald Jones (Pick 141)",
+      "Marquez Valdes-Scantling (Pick 148)",
+      "Chris Boswell (Pick 165)",
+      "Falcons (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":52,
+    "Winner":"Team 7",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":920.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1177.16,
+      "Team 2":1342.82,
+      "Team 3":1151.74,
+      "Team 4":1275.18,
+      "Team 5":920.5,
+      "Team 6":1051.6,
+      "Team 7":1407.8,
+      "Team 8":1010.46,
+      "Team 9":1318.16,
+      "Team 10":1171.86,
+      "Team 11":1193.88,
+      "Team 12":1267.76
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":295.34,
+      "Team 2":339.58,
+      "Team 9":254.58,
+      "Team 4":193.12
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Leonard Fournette (Pick 20)",
+      "James Conner (Pick 29)",
+      "DK Metcalf (Pick 44)",
+      "Dawson Knox (Pick 53)",
+      "Chris Olave (Pick 68)",
+      "DeVonta Smith (Pick 77)",
+      "George Pickens (Pick 92)",
+      "Kenneth Gainwell (Pick 101)",
+      "Michael Gallup (Pick 116)",
+      "Ronald Jones (Pick 125)",
+      "Marquez Valdes-Scantling (Pick 140)",
+      "Chris Boswell (Pick 149)",
+      "Falcons (Pick 164)",
+      "Mason Rudolph (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":53,
+    "Winner":"Team 7",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1078.88,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1086.92,
+      "Team 2":1294.96,
+      "Team 3":1208.62,
+      "Team 4":1026.22,
+      "Team 5":1392.92,
+      "Team 6":1254.72,
+      "Team 7":1373.74,
+      "Team 8":1343.46,
+      "Team 9":1104.52,
+      "Team 10":1078.88,
+      "Team 11":1363.48,
+      "Team 12":1248.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":377.52,
+      "Team 8":270.08,
+      "Team 11":277.96,
+      "Team 5":341.06
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "Michael Pittman (Pick 34)",
+      "Lamar Jackson (Pick 39)",
+      "Dawson Knox (Pick 58)",
+      "Kenneth Gainwell (Pick 63)",
+      "AJ Dillon (Pick 82)",
+      "Allen Robinson (Pick 87)",
+      "Chris Olave (Pick 106)",
+      "George Pickens (Pick 111)",
+      "49ers (Pick 130)",
+      "Michael Gallup (Pick 135)",
+      "Julio Jones (Pick 154)",
+      "Chris Boswell (Pick 159)",
+      "Jordan Love (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":54,
+    "Winner":"Team 12",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1125.18,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1152.88,
+      "Team 2":1366.54,
+      "Team 3":1125.18,
+      "Team 4":960.76,
+      "Team 5":1206.06,
+      "Team 6":1280.5,
+      "Team 7":1124.46,
+      "Team 8":1339.72,
+      "Team 9":1158.28,
+      "Team 10":1279.66,
+      "Team 11":1128.24,
+      "Team 12":1435.7
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":299.08,
+      "Team 8":328.94,
+      "Team 2":290.96,
+      "Team 10":189.1
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Leonard Fournette (Pick 22)",
+      "James Conner (Pick 27)",
+      "Lamar Jackson (Pick 46)",
+      "Jaylen Waddle (Pick 51)",
+      "Kenneth Gainwell (Pick 70)",
+      "Tyler Bass (Pick 75)",
+      "Ronald Jones (Pick 94)",
+      "DeVonta Smith (Pick 99)",
+      "Chris Olave (Pick 118)",
+      "George Pickens (Pick 123)",
+      "Michael Gallup (Pick 142)",
+      "Rams (Pick 147)",
+      "Chris Boswell (Pick 166)",
+      "James OShaughnessy (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":55,
+    "Winner":"Team 9",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":911.22,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1036.34,
+      "Team 2":911.22,
+      "Team 3":1281.78,
+      "Team 4":1294.74,
+      "Team 5":1297.68,
+      "Team 6":1331.06,
+      "Team 7":1129.96,
+      "Team 8":1021.48,
+      "Team 9":1246.2,
+      "Team 10":1511.84,
+      "Team 11":1289.52,
+      "Team 12":1199.44
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":262.88,
+      "Team 10":249.76,
+      "Team 11":266.16,
+      "Team 4":375.86
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "James Conner (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "AJ Dillon (Pick 47)",
+      "Allen Robinson (Pick 50)",
+      "Dawson Knox (Pick 71)",
+      "Chris Olave (Pick 74)",
+      "George Pickens (Pick 95)",
+      "Kenneth Gainwell (Pick 98)",
+      "Michael Gallup (Pick 119)",
+      "Tyler Bass (Pick 122)",
+      "Ronald Jones (Pick 143)",
+      "Marquez Valdes-Scantling (Pick 146)",
+      "Rams (Pick 167)",
+      "Mac Jones (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":56,
+    "Winner":"Team 12",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1088.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1124.02,
+      "Team 2":1415.24,
+      "Team 3":1178.5,
+      "Team 4":1340.16,
+      "Team 5":1290.72,
+      "Team 6":1128.12,
+      "Team 7":1048.0,
+      "Team 8":1191.7,
+      "Team 9":1088.2,
+      "Team 10":1254.8,
+      "Team 11":1184.84,
+      "Team 12":1213.74
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":277.08,
+      "Team 2":253.56,
+      "Team 4":230.7,
+      "Team 11":255.66
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Leonard Fournette (Pick 16)",
+      "Michael Pittman (Pick 33)",
+      "Tee Higgins (Pick 40)",
+      "Jaylen Waddle (Pick 57)",
+      "DeVonta Smith (Pick 64)",
+      "Chris Olave (Pick 81)",
+      "George Pickens (Pick 88)",
+      "Kenneth Gainwell (Pick 105)",
+      "Michael Gallup (Pick 112)",
+      "Ronald Jones (Pick 129)",
+      "Matt Ryan (Pick 136)",
+      "Chris Boswell (Pick 153)",
+      "Falcons (Pick 160)",
+      "James Winchester (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":57,
+    "Winner":"Team 8",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1083.12,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1083.12,
+      "Team 2":1128.44,
+      "Team 3":1204.16,
+      "Team 4":1279.76,
+      "Team 5":1134.84,
+      "Team 6":1311.58,
+      "Team 7":1132.14,
+      "Team 8":1455.58,
+      "Team 9":932.32,
+      "Team 10":1441.86,
+      "Team 11":1283.14,
+      "Team 12":1222.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":291.96,
+      "Team 10":206.48,
+      "Team 6":271.12,
+      "Team 4":325.7
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "James Conner (Pick 24)",
+      "Michael Pittman (Pick 25)",
+      "DK Metcalf (Pick 48)",
+      "Jaylen Waddle (Pick 49)",
+      "George Pickens (Pick 72)",
+      "DeVonta Smith (Pick 73)",
+      "Chris Olave (Pick 96)",
+      "Michael Gallup (Pick 97)",
+      "Kenneth Gainwell (Pick 120)",
+      "Ronald Jones (Pick 121)",
+      "Mac Jones (Pick 144)",
+      "Chris Boswell (Pick 145)",
+      "Falcons (Pick 168)",
+      "Hayden Hurst (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":58,
+    "Winner":"Team 3",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1069.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1128.86,
+      "Team 2":1325.22,
+      "Team 3":1380.44,
+      "Team 4":887.72,
+      "Team 5":1142.44,
+      "Team 6":1176.12,
+      "Team 7":1333.68,
+      "Team 8":1266.16,
+      "Team 9":1174.78,
+      "Team 10":1069.68,
+      "Team 11":1384.68,
+      "Team 12":1351.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":274.98,
+      "Team 7":346.74,
+      "Team 12":246.52,
+      "Team 8":264.98
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "Michael Pittman (Pick 34)",
+      "Lamar Jackson (Pick 39)",
+      "James Conner (Pick 58)",
+      "DeVonta Smith (Pick 63)",
+      "Chris Olave (Pick 82)",
+      "George Pickens (Pick 87)",
+      "Kenneth Gainwell (Pick 106)",
+      "Michael Gallup (Pick 111)",
+      "Ronald Jones (Pick 130)",
+      "Marquez Valdes-Scantling (Pick 135)",
+      "Falcons (Pick 154)",
+      "Joey Slye (Pick 159)",
+      "James OShaughnessy (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":59,
+    "Winner":"Team 2",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":882.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":993.04,
+      "Team 2":1354.06,
+      "Team 3":1266.64,
+      "Team 4":882.1,
+      "Team 5":1212.36,
+      "Team 6":1241.88,
+      "Team 7":1066.26,
+      "Team 8":1093.04,
+      "Team 9":1460.2,
+      "Team 10":1230.36,
+      "Team 11":1222.4,
+      "Team 12":1152.52
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":340.58,
+      "Team 3":306.42,
+      "Team 5":348.86,
+      "Team 9":310.48
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "James Conner (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "DK Metcalf (Pick 45)",
+      "Jaylen Waddle (Pick 52)",
+      "Chris Olave (Pick 69)",
+      "DeVonta Smith (Pick 76)",
+      "George Pickens (Pick 93)",
+      "Kenneth Gainwell (Pick 100)",
+      "Michael Gallup (Pick 117)",
+      "Tyler Bass (Pick 124)",
+      "Colts (Pick 141)",
+      "Ronald Jones (Pick 148)",
+      "Cole Turner (Pick 165)",
+      "Mason Rudolph (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":60,
+    "Winner":"Team 3",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1108.9,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1221.48,
+      "Team 2":1112.06,
+      "Team 3":1355.5,
+      "Team 4":1331.1,
+      "Team 5":1108.9,
+      "Team 6":1254.74,
+      "Team 7":1151.48,
+      "Team 8":1011.32,
+      "Team 9":1256.86,
+      "Team 10":1135.58,
+      "Team 11":1327.36,
+      "Team 12":1286.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":322.26,
+      "Team 6":327.26,
+      "Team 1":314.82,
+      "Team 11":258.9
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Leonard Fournette (Pick 20)",
+      "Michael Pittman (Pick 29)",
+      "DK Metcalf (Pick 44)",
+      "Dawson Knox (Pick 53)",
+      "DeVonta Smith (Pick 68)",
+      "Chris Olave (Pick 77)",
+      "George Pickens (Pick 92)",
+      "Kenneth Gainwell (Pick 101)",
+      "Michael Gallup (Pick 116)",
+      "Ronald Jones (Pick 125)",
+      "Marquez Valdes-Scantling (Pick 140)",
+      "Rams (Pick 149)",
+      "Chris Boswell (Pick 164)",
+      "Matt Ryan (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":61,
+    "Winner":"Team 5",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1044.42,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1270.92,
+      "Team 2":1286.72,
+      "Team 3":1391.58,
+      "Team 4":912.26,
+      "Team 5":1420.3,
+      "Team 6":1225.6,
+      "Team 7":1126.28,
+      "Team 8":1044.42,
+      "Team 9":1228.8,
+      "Team 10":1311.18,
+      "Team 11":1085.36,
+      "Team 12":1195.12
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":357.22,
+      "Team 1":272.06,
+      "Team 2":284.2,
+      "Team 3":272.84
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "James Conner (Pick 32)",
+      "Jaylen Waddle (Pick 41)",
+      "Dawson Knox (Pick 56)",
+      "Kenneth Gainwell (Pick 65)",
+      "Allen Robinson (Pick 80)",
+      "DeVonta Smith (Pick 89)",
+      "Chris Olave (Pick 104)",
+      "George Pickens (Pick 113)",
+      "Michael Gallup (Pick 128)",
+      "Ronald Jones (Pick 137)",
+      "Rams (Pick 152)",
+      "Mac Jones (Pick 161)",
+      "Chris Boswell (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":62,
+    "Winner":"Team 3",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1034.5,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1237.64,
+      "Team 2":1309.38,
+      "Team 3":1374.64,
+      "Team 4":1394.34,
+      "Team 5":1134.76,
+      "Team 6":1120.14,
+      "Team 7":1108.12,
+      "Team 8":1098.18,
+      "Team 9":1238.52,
+      "Team 10":1034.5,
+      "Team 11":1383.88,
+      "Team 12":1202.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":257.36,
+      "Team 4":309.32,
+      "Team 11":267.86,
+      "Team 2":275.04
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "James Conner (Pick 34)",
+      "Cam Akers (Pick 39)",
+      "Allen Robinson (Pick 58)",
+      "Dawson Knox (Pick 63)",
+      "Kenneth Gainwell (Pick 82)",
+      "Ronald Jones (Pick 87)",
+      "Matt Ryan (Pick 106)",
+      "DeVonta Smith (Pick 111)",
+      "Chris Olave (Pick 130)",
+      "Michael Gallup (Pick 135)",
+      "Marquez Valdes-Scantling (Pick 154)",
+      "Colts (Pick 159)",
+      "Joey Slye (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":63,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":914.16,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1251.92,
+      "Team 2":1289.54,
+      "Team 3":1180.02,
+      "Team 4":1059.8,
+      "Team 5":1340.98,
+      "Team 6":855.32,
+      "Team 7":1245.5,
+      "Team 8":914.16,
+      "Team 9":1155.66,
+      "Team 10":1416.14,
+      "Team 11":1391.92,
+      "Team 12":1435.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":222.88,
+      "Team 10":303.06,
+      "Team 2":288.54,
+      "Team 11":259.86
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "James Conner (Pick 32)",
+      "Jaylen Waddle (Pick 41)",
+      "Allen Robinson (Pick 56)",
+      "Dawson Knox (Pick 65)",
+      "DeVonta Smith (Pick 80)",
+      "George Pickens (Pick 89)",
+      "Chris Olave (Pick 104)",
+      "Kenneth Gainwell (Pick 113)",
+      "Michael Gallup (Pick 128)",
+      "Tyler Bass (Pick 137)",
+      "Marquez Valdes-Scantling (Pick 152)",
+      "Falcons (Pick 161)",
+      "Mason Rudolph (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":64,
+    "Winner":"Team 9",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1046.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1228.32,
+      "Team 2":1200.02,
+      "Team 3":1092.28,
+      "Team 4":1231.14,
+      "Team 5":1200.3,
+      "Team 6":1219.24,
+      "Team 7":1121.46,
+      "Team 8":1046.68,
+      "Team 9":1469.48,
+      "Team 10":1328.2,
+      "Team 11":1376.2,
+      "Team 12":1046.18
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":236.16,
+      "Team 10":226.74,
+      "Team 11":233.8,
+      "Team 1":319.06
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "Michael Pittman (Pick 32)",
+      "DK Metcalf (Pick 41)",
+      "Dawson Knox (Pick 56)",
+      "DeVonta Smith (Pick 65)",
+      "Chris Olave (Pick 80)",
+      "George Pickens (Pick 89)",
+      "Kenneth Gainwell (Pick 104)",
+      "49ers (Pick 113)",
+      "Michael Gallup (Pick 128)",
+      "Ronald Jones (Pick 137)",
+      "Marquez Valdes-Scantling (Pick 152)",
+      "Mac Jones (Pick 161)",
+      "Aldrick Rosas (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":65,
+    "Winner":"Team 1",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":925.7,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1249.6,
+      "Team 2":1194.56,
+      "Team 3":1050.8,
+      "Team 4":1348.08,
+      "Team 5":1232.64,
+      "Team 6":1093.66,
+      "Team 7":925.7,
+      "Team 8":1511.9,
+      "Team 9":1061.82,
+      "Team 10":1121.88,
+      "Team 11":1456.4,
+      "Team 12":1161.28
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":354.12,
+      "Team 5":380.58,
+      "Team 8":297.24,
+      "Team 11":209.6
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 7)",
+      "Leonard Fournette (Pick 18)",
+      "James Conner (Pick 31)",
+      "Tee Higgins (Pick 42)",
+      "Jaylen Waddle (Pick 55)",
+      "Chris Olave (Pick 66)",
+      "George Pickens (Pick 79)",
+      "DeVonta Smith (Pick 90)",
+      "Kenneth Gainwell (Pick 103)",
+      "49ers (Pick 114)",
+      "Michael Gallup (Pick 127)",
+      "Ronald Jones (Pick 138)",
+      "Chris Boswell (Pick 151)",
+      "Jordan Love (Pick 162)",
+      "James OShaughnessy (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":66,
+    "Winner":"Team 11",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":939.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1318.88,
+      "Team 2":939.4,
+      "Team 3":1369.86,
+      "Team 4":1096.68,
+      "Team 5":1186.9,
+      "Team 6":1218.9,
+      "Team 7":1245.92,
+      "Team 8":1334.26,
+      "Team 9":993.76,
+      "Team 10":1333.14,
+      "Team 11":1273.72,
+      "Team 12":1236.5
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":278.36,
+      "Team 8":273.38,
+      "Team 10":367.9,
+      "Team 1":284.28
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "James Conner (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "Jaylen Waddle (Pick 47)",
+      "Dawson Knox (Pick 50)",
+      "DeVonta Smith (Pick 71)",
+      "Chris Olave (Pick 74)",
+      "George Pickens (Pick 95)",
+      "Kenneth Gainwell (Pick 98)",
+      "Michael Gallup (Pick 119)",
+      "Ronald Jones (Pick 122)",
+      "Marquez Valdes-Scantling (Pick 143)",
+      "Chris Boswell (Pick 146)",
+      "Falcons (Pick 167)",
+      "Mason Rudolph (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":67,
+    "Winner":"Team 12",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1038.32,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1246.84,
+      "Team 2":1038.32,
+      "Team 3":1315.1,
+      "Team 4":1125.12,
+      "Team 5":1170.08,
+      "Team 6":1146.94,
+      "Team 7":1069.12,
+      "Team 8":1388.94,
+      "Team 9":1246.18,
+      "Team 10":1172.48,
+      "Team 11":1293.18,
+      "Team 12":1537.92
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":278.08,
+      "Team 3":308.7,
+      "Team 8":323.52,
+      "Team 11":259.2
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "James Conner (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "Cam Akers (Pick 47)",
+      "DK Metcalf (Pick 50)",
+      "Dawson Knox (Pick 71)",
+      "DeVonta Smith (Pick 74)",
+      "Chris Olave (Pick 95)",
+      "George Pickens (Pick 98)",
+      "Kenneth Gainwell (Pick 119)",
+      "Michael Gallup (Pick 122)",
+      "Tyler Bass (Pick 143)",
+      "Colts (Pick 146)",
+      "Chris Boswell (Pick 167)",
+      "Mac Jones (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":68,
+    "Winner":"Team 11",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1019.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1238.34,
+      "Team 2":1070.6,
+      "Team 3":1313.64,
+      "Team 4":1418.18,
+      "Team 5":1031.62,
+      "Team 6":1114.9,
+      "Team 7":1322.88,
+      "Team 8":1197.72,
+      "Team 9":1172.8,
+      "Team 10":1233.68,
+      "Team 11":1342.6,
+      "Team 12":1019.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":181.34,
+      "Team 3":267.48,
+      "Team 4":240.0,
+      "Team 8":284.94
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 12)",
+      "Leonard Fournette (Pick 13)",
+      "Lamar Jackson (Pick 36)",
+      "DK Metcalf (Pick 37)",
+      "Kenneth Gainwell (Pick 60)",
+      "Tyler Bass (Pick 61)",
+      "Ronald Jones (Pick 84)",
+      "Rams (Pick 85)",
+      "Marquez Valdes-Scantling (Pick 108)",
+      "DeVonta Smith (Pick 109)",
+      "George Pickens (Pick 132)",
+      "Michael Gallup (Pick 133)",
+      "Julio Jones (Pick 156)",
+      "Tyler Boyd (Pick 157)",
+      "Tre' McKitty (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":69,
+    "Winner":"Team 5",
+    "DM-Team":"Team 11",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":996.82,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1160.6,
+      "Team 2":1147.88,
+      "Team 3":1099.16,
+      "Team 4":1412.22,
+      "Team 5":1288.46,
+      "Team 6":1150.48,
+      "Team 7":1101.98,
+      "Team 8":1265.36,
+      "Team 9":1104.58,
+      "Team 10":1243.06,
+      "Team 11":996.82,
+      "Team 12":1415.2
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":305.98,
+      "Team 4":372.36,
+      "Team 7":287.76,
+      "Team 12":245.62
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 11)",
+      "Leonard Fournette (Pick 14)",
+      "Michael Pittman (Pick 35)",
+      "Tee Higgins (Pick 38)",
+      "DK Metcalf (Pick 59)",
+      "Chris Olave (Pick 62)",
+      "DeVonta Smith (Pick 83)",
+      "George Pickens (Pick 86)",
+      "Kenneth Gainwell (Pick 107)",
+      "Michael Gallup (Pick 110)",
+      "Ronald Jones (Pick 131)",
+      "Chris Boswell (Pick 134)",
+      "Falcons (Pick 155)",
+      "Jacob Harris (Pick 158)",
+      "Mac Jones (Pick 179)"
+    ]
+  },
+  {
+    "Simulation":70,
+    "Winner":"Team 7",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":955.24,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1231.76,
+      "Team 2":955.24,
+      "Team 3":1119.76,
+      "Team 4":1356.86,
+      "Team 5":1262.46,
+      "Team 6":1160.2,
+      "Team 7":1371.04,
+      "Team 8":1122.02,
+      "Team 9":1068.38,
+      "Team 10":1226.24,
+      "Team 11":1363.06,
+      "Team 12":1223.3
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":268.66,
+      "Team 4":357.3,
+      "Team 11":215.4,
+      "Team 12":266.08
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "James Conner (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "DK Metcalf (Pick 47)",
+      "Jaylen Waddle (Pick 50)",
+      "Dawson Knox (Pick 71)",
+      "DeVonta Smith (Pick 74)",
+      "Chris Olave (Pick 95)",
+      "George Pickens (Pick 98)",
+      "Kenneth Gainwell (Pick 119)",
+      "Michael Gallup (Pick 122)",
+      "Marquez Valdes-Scantling (Pick 143)",
+      "Falcons (Pick 146)",
+      "Joey Slye (Pick 167)",
+      "Jordan Love (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":71,
+    "Winner":"Team 1",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1157.88,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1277.82,
+      "Team 2":1166.2,
+      "Team 3":1295.42,
+      "Team 4":1250.32,
+      "Team 5":1349.16,
+      "Team 6":1157.88,
+      "Team 7":1349.68,
+      "Team 8":1113.34,
+      "Team 9":1373.76,
+      "Team 10":1090.84,
+      "Team 11":1228.72,
+      "Team 12":1142.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 1":266.46,
+      "Team 7":234.88,
+      "Team 11":271.94,
+      "Team 5":355.48
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Leonard Fournette (Pick 19)",
+      "Michael Pittman (Pick 30)",
+      "Lamar Jackson (Pick 43)",
+      "Dawson Knox (Pick 54)",
+      "Kenneth Gainwell (Pick 67)",
+      "George Pickens (Pick 78)",
+      "DeVonta Smith (Pick 91)",
+      "Chris Olave (Pick 102)",
+      "Michael Gallup (Pick 115)",
+      "Ronald Jones (Pick 126)",
+      "Marquez Valdes-Scantling (Pick 139)",
+      "Rams (Pick 150)",
+      "Hayden Hurst (Pick 163)",
+      "Mason Crosby (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":72,
+    "Winner":"Team 7",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1028.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1095.54,
+      "Team 2":1028.72,
+      "Team 3":1266.26,
+      "Team 4":1433.8,
+      "Team 5":1152.68,
+      "Team 6":1204.58,
+      "Team 7":1232.4,
+      "Team 8":1352.36,
+      "Team 9":1291.86,
+      "Team 10":1307.8,
+      "Team 11":984.62,
+      "Team 12":1302.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 7":305.8,
+      "Team 4":273.62,
+      "Team 8":385.98,
+      "Team 3":231.7
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Leonard Fournette (Pick 23)",
+      "James Conner (Pick 26)",
+      "Michael Pittman (Pick 47)",
+      "Dawson Knox (Pick 50)",
+      "Kenneth Gainwell (Pick 71)",
+      "George Pickens (Pick 74)",
+      "Chris Olave (Pick 95)",
+      "DeVonta Smith (Pick 98)",
+      "Michael Gallup (Pick 119)",
+      "Tyler Bass (Pick 122)",
+      "Ronald Jones (Pick 143)",
+      "Marquez Valdes-Scantling (Pick 146)",
+      "Colts (Pick 167)",
+      "Mac Jones (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":73,
+    "Winner":"Team 4",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":857.42,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1294.94,
+      "Team 2":1304.32,
+      "Team 3":1361.22,
+      "Team 4":1424.36,
+      "Team 5":857.42,
+      "Team 6":1224.4,
+      "Team 7":1178.5,
+      "Team 8":1195.18,
+      "Team 9":1190.1,
+      "Team 10":1154.76,
+      "Team 11":1146.68,
+      "Team 12":1387.14
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":254.7,
+      "Team 6":353.46,
+      "Team 8":264.6,
+      "Team 12":289.62
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Leonard Fournette (Pick 20)",
+      "Michael Pittman (Pick 29)",
+      "Cam Akers (Pick 44)",
+      "Allen Robinson (Pick 53)",
+      "Chris Olave (Pick 68)",
+      "George Pickens (Pick 77)",
+      "Kenneth Gainwell (Pick 92)",
+      "Michael Gallup (Pick 101)",
+      "Ronald Jones (Pick 116)",
+      "Mac Jones (Pick 125)",
+      "Marquez Valdes-Scantling (Pick 140)",
+      "Colts (Pick 149)",
+      "Chris Boswell (Pick 164)",
+      "James OShaughnessy (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":74,
+    "Winner":"Team 3",
+    "DM-Team":"Team 10",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      3,
+      11
+    ],
+    "DM-Points-Regular-Season":1021.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1095.06,
+      "Team 2":1186.44,
+      "Team 3":1525.32,
+      "Team 4":1093.82,
+      "Team 5":1182.54,
+      "Team 6":1295.36,
+      "Team 7":1007.22,
+      "Team 8":1159.72,
+      "Team 9":1228.44,
+      "Team 10":1021.1,
+      "Team 11":1363.0,
+      "Team 12":1332.22
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":289.38,
+      "Team 11":274.08,
+      "Team 12":280.98,
+      "Team 2":333.34
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 10)",
+      "Leonard Fournette (Pick 15)",
+      "Tee Higgins (Pick 34)",
+      "Lamar Jackson (Pick 39)",
+      "Kenneth Gainwell (Pick 58)",
+      "Tyler Bass (Pick 63)",
+      "Ronald Jones (Pick 82)",
+      "Tyler Boyd (Pick 87)",
+      "Chris Olave (Pick 106)",
+      "George Pickens (Pick 111)",
+      "Michael Gallup (Pick 130)",
+      "Marquez Valdes-Scantling (Pick 135)",
+      "Sammy Watkins (Pick 154)",
+      "Falcons (Pick 159)",
+      "James OShaughnessy (Pick 178)"
+    ]
+  },
+  {
+    "Simulation":75,
+    "Winner":"Team 12",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1068.14,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1203.26,
+      "Team 2":1237.72,
+      "Team 3":1147.64,
+      "Team 4":1119.46,
+      "Team 5":1274.42,
+      "Team 6":1337.2,
+      "Team 7":1145.74,
+      "Team 8":1068.14,
+      "Team 9":1236.12,
+      "Team 10":1267.88,
+      "Team 11":1135.06,
+      "Team 12":1539.66
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 12":305.78,
+      "Team 6":278.32,
+      "Team 9":322.36,
+      "Team 2":351.18
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 8)",
+      "Joe Mixon (Pick 17)",
+      "Leonard Fournette (Pick 32)",
+      "Tee Higgins (Pick 41)",
+      "DK Metcalf (Pick 56)",
+      "Jaylen Waddle (Pick 65)",
+      "Dawson Knox (Pick 80)",
+      "Chris Olave (Pick 89)",
+      "DeVonta Smith (Pick 104)",
+      "George Pickens (Pick 113)",
+      "Kenneth Gainwell (Pick 128)",
+      "Michael Gallup (Pick 137)",
+      "Tyler Bass (Pick 152)",
+      "Rams (Pick 161)",
+      "Jordan Love (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":76,
+    "Winner":"Team 11",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1150.0,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1233.48,
+      "Team 2":1136.42,
+      "Team 3":1297.46,
+      "Team 4":1319.32,
+      "Team 5":1298.38,
+      "Team 6":1150.0,
+      "Team 7":966.38,
+      "Team 8":1132.24,
+      "Team 9":1305.12,
+      "Team 10":1219.24,
+      "Team 11":1475.26,
+      "Team 12":942.36
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":336.38,
+      "Team 3":235.6,
+      "Team 9":271.16,
+      "Team 4":273.36
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Leonard Fournette (Pick 19)",
+      "Tee Higgins (Pick 30)",
+      "DK Metcalf (Pick 43)",
+      "Jaylen Waddle (Pick 54)",
+      "Dawson Knox (Pick 67)",
+      "DeVonta Smith (Pick 78)",
+      "Chris Olave (Pick 91)",
+      "George Pickens (Pick 102)",
+      "Kenneth Gainwell (Pick 115)",
+      "49ers (Pick 126)",
+      "Michael Gallup (Pick 139)",
+      "Matt Ryan (Pick 150)",
+      "Robbie Gould (Pick 163)",
+      "Mason Rudolph (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":77,
+    "Winner":"Team 3",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1131.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1361.72,
+      "Team 2":1398.34,
+      "Team 3":1512.04,
+      "Team 4":1271.56,
+      "Team 5":1131.2,
+      "Team 6":1070.36,
+      "Team 7":1021.6,
+      "Team 8":1054.62,
+      "Team 9":1099.4,
+      "Team 10":1153.68,
+      "Team 11":1275.82,
+      "Team 12":1176.56
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":353.48,
+      "Team 11":282.82,
+      "Team 2":220.74,
+      "Team 4":285.08
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "Leonard Fournette (Pick 20)",
+      "Michael Pittman (Pick 29)",
+      "Jaylen Waddle (Pick 44)",
+      "Dawson Knox (Pick 53)",
+      "DeVonta Smith (Pick 68)",
+      "Chris Olave (Pick 77)",
+      "George Pickens (Pick 92)",
+      "Kenneth Gainwell (Pick 101)",
+      "Michael Gallup (Pick 116)",
+      "Ronald Jones (Pick 125)",
+      "Rams (Pick 140)",
+      "Marquez Valdes-Scantling (Pick 149)",
+      "Matt Ryan (Pick 164)",
+      "Chris Boswell (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":78,
+    "Winner":"Team 11",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1100.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1046.92,
+      "Team 2":1036.66,
+      "Team 3":1225.06,
+      "Team 4":1100.72,
+      "Team 5":1134.96,
+      "Team 6":1231.02,
+      "Team 7":1163.72,
+      "Team 8":1176.2,
+      "Team 9":1191.66,
+      "Team 10":1233.06,
+      "Team 11":1548.18,
+      "Team 12":1237.1
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":254.04,
+      "Team 12":247.28,
+      "Team 9":313.5,
+      "Team 10":257.82
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Leonard Fournette (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "Cam Akers (Pick 45)",
+      "DK Metcalf (Pick 52)",
+      "Jaylen Waddle (Pick 69)",
+      "Dawson Knox (Pick 76)",
+      "DeVonta Smith (Pick 93)",
+      "Chris Olave (Pick 100)",
+      "George Pickens (Pick 117)",
+      "Kenneth Gainwell (Pick 124)",
+      "Michael Gallup (Pick 141)",
+      "Rams (Pick 148)",
+      "Mac Jones (Pick 165)",
+      "Elliott Fry (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":79,
+    "Winner":"Team 4",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1078.68,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1191.22,
+      "Team 2":1025.12,
+      "Team 3":1078.68,
+      "Team 4":1365.74,
+      "Team 5":1151.72,
+      "Team 6":1183.8,
+      "Team 7":1110.8,
+      "Team 8":1187.32,
+      "Team 9":1396.58,
+      "Team 10":1295.9,
+      "Team 11":1236.54,
+      "Team 12":1099.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":250.96,
+      "Team 9":287.24,
+      "Team 1":279.3,
+      "Team 7":370.16
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Leonard Fournette (Pick 22)",
+      "James Conner (Pick 27)",
+      "Lamar Jackson (Pick 46)",
+      "Jaylen Waddle (Pick 51)",
+      "Kenneth Gainwell (Pick 70)",
+      "Chris Olave (Pick 75)",
+      "George Pickens (Pick 94)",
+      "Michael Gallup (Pick 99)",
+      "Ronald Jones (Pick 118)",
+      "Marquez Valdes-Scantling (Pick 123)",
+      "Julio Jones (Pick 142)",
+      "Falcons (Pick 147)",
+      "Younghoe Koo (Pick 166)",
+      "Jacob Harris (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":80,
+    "Winner":"Team 8",
+    "DM-Team":"Team 5",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":955.3,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":952.42,
+      "Team 2":1372.6,
+      "Team 3":1080.1,
+      "Team 4":1210.14,
+      "Team 5":955.3,
+      "Team 6":1221.7,
+      "Team 7":972.16,
+      "Team 8":1515.24,
+      "Team 9":1280.38,
+      "Team 10":1203.06,
+      "Team 11":1421.7,
+      "Team 12":1172.86
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":241.74,
+      "Team 11":288.5,
+      "Team 2":334.48,
+      "Team 4":202.3
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 5)",
+      "James Conner (Pick 20)",
+      "Michael Pittman (Pick 29)",
+      "Cam Akers (Pick 44)",
+      "Jaylen Waddle (Pick 53)",
+      "Dawson Knox (Pick 68)",
+      "DeVonta Smith (Pick 77)",
+      "Chris Olave (Pick 92)",
+      "George Pickens (Pick 101)",
+      "Kenneth Gainwell (Pick 116)",
+      "Michael Gallup (Pick 125)",
+      "Ronald Jones (Pick 140)",
+      "Colts (Pick 149)",
+      "Chris Boswell (Pick 164)",
+      "Mason Rudolph (Pick 173)"
+    ]
+  },
+  {
+    "Simulation":81,
+    "Winner":"Team 5",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":975.1,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1122.6,
+      "Team 2":1181.26,
+      "Team 3":1129.5,
+      "Team 4":1380.02,
+      "Team 5":1604.46,
+      "Team 6":1203.04,
+      "Team 7":1221.72,
+      "Team 8":1060.58,
+      "Team 9":975.1,
+      "Team 10":1280.34,
+      "Team 11":1165.7,
+      "Team 12":1293.26
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":321.74,
+      "Team 12":250.9,
+      "Team 2":270.7,
+      "Team 11":267.26
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 9)",
+      "Leonard Fournette (Pick 16)",
+      "Michael Pittman (Pick 33)",
+      "Jaylen Waddle (Pick 40)",
+      "Dawson Knox (Pick 57)",
+      "DeVonta Smith (Pick 64)",
+      "Chris Olave (Pick 81)",
+      "George Pickens (Pick 88)",
+      "Kenneth Gainwell (Pick 105)",
+      "Michael Gallup (Pick 112)",
+      "Tyler Bass (Pick 129)",
+      "Ronald Jones (Pick 136)",
+      "Marquez Valdes-Scantling (Pick 153)",
+      "Colts (Pick 160)",
+      "Jordan Love (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":82,
+    "Winner":"Team 2",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      1,
+      13
+    ],
+    "DM-Points-Regular-Season":907.92,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1240.32,
+      "Team 2":1348.08,
+      "Team 3":907.92,
+      "Team 4":1266.72,
+      "Team 5":1199.14,
+      "Team 6":1258.16,
+      "Team 7":1175.46,
+      "Team 8":1287.72,
+      "Team 9":1075.88,
+      "Team 10":1395.76,
+      "Team 11":1196.46,
+      "Team 12":1366.08
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":318.62,
+      "Team 10":289.36,
+      "Team 8":232.44,
+      "Team 12":300.24
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "James Conner (Pick 22)",
+      "Michael Pittman (Pick 27)",
+      "Cam Akers (Pick 46)",
+      "Dawson Knox (Pick 51)",
+      "Kenneth Gainwell (Pick 70)",
+      "Ronald Jones (Pick 75)",
+      "Matt Ryan (Pick 94)",
+      "Rams (Pick 99)",
+      "Younghoe Koo (Pick 118)",
+      "Sammy Watkins (Pick 123)",
+      "Michael Gallup (Pick 142)",
+      "Marquez Valdes-Scantling (Pick 147)",
+      "Tyler Boyd (Pick 166)",
+      "Mason Rudolph (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":83,
+    "Winner":"Team 11",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":2,
+    "Record":[
+      10,
+      4
+    ],
+    "DM-Points-Regular-Season":1212.14,
+    "DM-Points-Playoffs":316.3,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1270.18,
+      "Team 2":848.32,
+      "Team 3":1214.84,
+      "Team 4":1238.68,
+      "Team 5":991.14,
+      "Team 6":1242.06,
+      "Team 7":1157.68,
+      "Team 8":1212.14,
+      "Team 9":1328.42,
+      "Team 10":1310.46,
+      "Team 11":1486.12,
+      "Team 12":1199.82
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 11":291.32,
+      "Team 8":316.3,
+      "Team 1":383.96,
+      "Team 9":300.68
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "James Conner (Pick 32)",
+      "Lamar Jackson (Pick 41)",
+      "Jaylen Waddle (Pick 56)",
+      "Marquise Brown (Pick 65)",
+      "Dawson Knox (Pick 80)",
+      "DeVonta Smith (Pick 89)",
+      "Chris Olave (Pick 104)",
+      "George Pickens (Pick 113)",
+      "Kenneth Gainwell (Pick 128)",
+      "Michael Gallup (Pick 137)",
+      "Ronald Jones (Pick 152)",
+      "Chris Boswell (Pick 161)",
+      "Falcons (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":84,
+    "Winner":"Team 6",
+    "DM-Team":"Team 12",
+    "DM-Team-Win":false,
+    "DM-Placement":4,
+    "Record":[
+      9,
+      5
+    ],
+    "DM-Points-Regular-Season":1118.48,
+    "DM-Points-Playoffs":276.1,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1404.36,
+      "Team 2":1186.8,
+      "Team 3":1151.08,
+      "Team 4":1421.02,
+      "Team 5":1347.76,
+      "Team 6":1328.04,
+      "Team 7":1216.3,
+      "Team 8":1285.84,
+      "Team 9":1317.62,
+      "Team 10":1095.62,
+      "Team 11":1167.54,
+      "Team 12":1118.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":330.56,
+      "Team 9":266.58,
+      "Team 1":321.48,
+      "Team 12":276.1
+    },
+    "DM-Picks":[
+      "Alvin Kamara (Pick 12)",
+      "Leonard Fournette (Pick 13)",
+      "Lamar Jackson (Pick 36)",
+      "DK Metcalf (Pick 37)",
+      "AJ Dillon (Pick 60)",
+      "Dawson Knox (Pick 61)",
+      "Kenneth Gainwell (Pick 84)",
+      "DeVonta Smith (Pick 85)",
+      "George Pickens (Pick 108)",
+      "Chris Olave (Pick 109)",
+      "Michael Gallup (Pick 132)",
+      "Ronald Jones (Pick 133)",
+      "Marquez Valdes-Scantling (Pick 156)",
+      "Chris Boswell (Pick 157)",
+      "Falcons (Pick 180)"
+    ]
+  },
+  {
+    "Simulation":85,
+    "Winner":"Team 9",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":11,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1060.62,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1210.66,
+      "Team 2":1309.34,
+      "Team 3":1639.46,
+      "Team 4":1060.62,
+      "Team 5":1245.7,
+      "Team 6":1114.62,
+      "Team 7":1151.26,
+      "Team 8":1017.42,
+      "Team 9":1490.46,
+      "Team 10":1145.92,
+      "Team 11":1316.94,
+      "Team 12":1063.9
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 9":311.88,
+      "Team 3":318.42,
+      "Team 2":262.92,
+      "Team 5":296.06
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "James Conner (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "Cam Akers (Pick 45)",
+      "Jaylen Waddle (Pick 52)",
+      "Dawson Knox (Pick 69)",
+      "Chris Olave (Pick 76)",
+      "DeVonta Smith (Pick 93)",
+      "George Pickens (Pick 100)",
+      "Tyler Bass (Pick 117)",
+      "Kenneth Gainwell (Pick 124)",
+      "Michael Gallup (Pick 141)",
+      "Chris Boswell (Pick 148)",
+      "Mac Jones (Pick 165)",
+      "Falcons (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":86,
+    "Winner":"Team 4",
+    "DM-Team":"Team 1",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1084.48,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1084.48,
+      "Team 2":1353.62,
+      "Team 3":1235.82,
+      "Team 4":1341.78,
+      "Team 5":1219.16,
+      "Team 6":1143.08,
+      "Team 7":1094.86,
+      "Team 8":1125.08,
+      "Team 9":1279.64,
+      "Team 10":1383.52,
+      "Team 11":1053.72,
+      "Team 12":1254.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 4":330.92,
+      "Team 2":256.72,
+      "Team 3":258.36,
+      "Team 5":203.6
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 1)",
+      "Leonard Fournette (Pick 24)",
+      "James Conner (Pick 25)",
+      "Lamar Jackson (Pick 48)",
+      "Allen Robinson (Pick 49)",
+      "Dawson Knox (Pick 72)",
+      "Kenneth Gainwell (Pick 73)",
+      "Ronald Jones (Pick 96)",
+      "Rams (Pick 97)",
+      "49ers (Pick 120)",
+      "Chris Boswell (Pick 121)",
+      "Chris Olave (Pick 144)",
+      "Michael Gallup (Pick 145)",
+      "Marquez Valdes-Scantling (Pick 168)",
+      "Joey Slye (Pick 169)"
+    ]
+  },
+  {
+    "Simulation":87,
+    "Winner":"Team 8",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1047.82,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":914.8,
+      "Team 2":1413.32,
+      "Team 3":1047.82,
+      "Team 4":1339.36,
+      "Team 5":1160.22,
+      "Team 6":1215.7,
+      "Team 7":1406.8,
+      "Team 8":1329.66,
+      "Team 9":1094.72,
+      "Team 10":1157.76,
+      "Team 11":1354.12,
+      "Team 12":1235.96
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":297.96,
+      "Team 2":266.2,
+      "Team 4":315.74,
+      "Team 11":256.86
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "Leonard Fournette (Pick 22)",
+      "James Conner (Pick 27)",
+      "Jaylen Waddle (Pick 46)",
+      "Dawson Knox (Pick 51)",
+      "Kenneth Gainwell (Pick 70)",
+      "Tyler Bass (Pick 75)",
+      "Ronald Jones (Pick 94)",
+      "Rams (Pick 99)",
+      "Marquez Valdes-Scantling (Pick 118)",
+      "Chris Olave (Pick 123)",
+      "Michael Gallup (Pick 142)",
+      "Julio Jones (Pick 147)",
+      "Tyler Boyd (Pick 166)",
+      "Mac Jones (Pick 171)"
+    ]
+  },
+  {
+    "Simulation":88,
+    "Winner":"Team 10",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1077.18,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1052.78,
+      "Team 2":1253.48,
+      "Team 3":1086.16,
+      "Team 4":1201.98,
+      "Team 5":1428.18,
+      "Team 6":1213.66,
+      "Team 7":1077.18,
+      "Team 8":1067.28,
+      "Team 9":1264.24,
+      "Team 10":1378.74,
+      "Team 11":1177.42,
+      "Team 12":1348.94
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":268.36,
+      "Team 5":197.8,
+      "Team 9":403.9,
+      "Team 11":236.98
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 7)",
+      "Leonard Fournette (Pick 18)",
+      "Michael Pittman (Pick 31)",
+      "Cam Akers (Pick 42)",
+      "DK Metcalf (Pick 55)",
+      "Jaylen Waddle (Pick 66)",
+      "Dawson Knox (Pick 79)",
+      "DeVonta Smith (Pick 90)",
+      "Chris Olave (Pick 103)",
+      "George Pickens (Pick 114)",
+      "Kenneth Gainwell (Pick 127)",
+      "Michael Gallup (Pick 138)",
+      "Rodrigo Blankenship (Pick 151)",
+      "Falcons (Pick 162)",
+      "Mac Jones (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":89,
+    "Winner":"Team 5",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":12,
+    "Record":[
+      2,
+      12
+    ],
+    "DM-Points-Regular-Season":976.34,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1275.36,
+      "Team 2":976.34,
+      "Team 3":1260.34,
+      "Team 4":1161.18,
+      "Team 5":1490.84,
+      "Team 6":1080.92,
+      "Team 7":1147.16,
+      "Team 8":1111.78,
+      "Team 9":1343.08,
+      "Team 10":1294.54,
+      "Team 11":1222.94,
+      "Team 12":1349.46
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":286.08,
+      "Team 10":256.34,
+      "Team 1":337.6,
+      "Team 9":320.66
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "Leonard Fournette (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "DK Metcalf (Pick 47)",
+      "Dawson Knox (Pick 50)",
+      "Chris Olave (Pick 71)",
+      "DeVonta Smith (Pick 74)",
+      "George Pickens (Pick 95)",
+      "Kenneth Gainwell (Pick 98)",
+      "49ers (Pick 119)",
+      "Michael Gallup (Pick 122)",
+      "Ronald Jones (Pick 143)",
+      "Marquez Valdes-Scantling (Pick 146)",
+      "Chris Boswell (Pick 167)",
+      "Jordan Love (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":90,
+    "Winner":"Team 8",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1112.2,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1085.58,
+      "Team 2":1076.88,
+      "Team 3":1082.28,
+      "Team 4":1112.2,
+      "Team 5":1443.0,
+      "Team 6":1392.02,
+      "Team 7":1193.82,
+      "Team 8":1344.92,
+      "Team 9":1219.04,
+      "Team 10":1190.5,
+      "Team 11":1298.28,
+      "Team 12":1181.6
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":350.88,
+      "Team 6":375.66,
+      "Team 12":311.42,
+      "Team 5":263.98
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Leonard Fournette (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "Jaylen Waddle (Pick 45)",
+      "Dawson Knox (Pick 52)",
+      "Chris Olave (Pick 69)",
+      "George Pickens (Pick 76)",
+      "Kenneth Gainwell (Pick 93)",
+      "Michael Gallup (Pick 100)",
+      "Ronald Jones (Pick 117)",
+      "Marquez Valdes-Scantling (Pick 124)",
+      "Rams (Pick 141)",
+      "Julio Jones (Pick 148)",
+      "Matt Ryan (Pick 165)",
+      "Joey Slye (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":91,
+    "Winner":"Team 5",
+    "DM-Team":"Team 2",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1173.78,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1068.56,
+      "Team 2":1173.78,
+      "Team 3":1515.58,
+      "Team 4":1164.22,
+      "Team 5":1429.62,
+      "Team 6":1332.28,
+      "Team 7":1110.82,
+      "Team 8":1151.28,
+      "Team 9":1397.34,
+      "Team 10":1352.22,
+      "Team 11":981.48,
+      "Team 12":1067.4
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 5":260.88,
+      "Team 9":294.68,
+      "Team 3":320.32,
+      "Team 10":322.82
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 2)",
+      "James Conner (Pick 23)",
+      "Michael Pittman (Pick 26)",
+      "Lamar Jackson (Pick 47)",
+      "DK Metcalf (Pick 50)",
+      "Jaylen Waddle (Pick 71)",
+      "DeVonta Smith (Pick 74)",
+      "Chris Olave (Pick 95)",
+      "George Pickens (Pick 98)",
+      "Kenneth Gainwell (Pick 119)",
+      "Michael Gallup (Pick 122)",
+      "Mike Gesicki (Pick 143)",
+      "Julio Jones (Pick 146)",
+      "Chris Boswell (Pick 167)",
+      "Falcons (Pick 170)"
+    ]
+  },
+  {
+    "Simulation":92,
+    "Winner":"Team 10",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":6,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1129.26,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1089.82,
+      "Team 2":1075.16,
+      "Team 3":1180.12,
+      "Team 4":1317.82,
+      "Team 5":1156.62,
+      "Team 6":1216.32,
+      "Team 7":1129.26,
+      "Team 8":1301.16,
+      "Team 9":1157.28,
+      "Team 10":1442.98,
+      "Team 11":1365.34,
+      "Team 12":1197.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":214.5,
+      "Team 11":274.98,
+      "Team 4":309.58,
+      "Team 6":361.56
+    },
+    "DM-Picks":[
+      "Najee Harris (Pick 7)",
+      "Leonard Fournette (Pick 18)",
+      "Michael Pittman (Pick 31)",
+      "DK Metcalf (Pick 42)",
+      "Jaylen Waddle (Pick 55)",
+      "Dawson Knox (Pick 66)",
+      "Chris Olave (Pick 79)",
+      "George Pickens (Pick 90)",
+      "Kenneth Gainwell (Pick 103)",
+      "Michael Gallup (Pick 114)",
+      "Tyler Bass (Pick 127)",
+      "Ronald Jones (Pick 138)",
+      "Matt Ryan (Pick 151)",
+      "Chris Boswell (Pick 162)",
+      "Falcons (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":93,
+    "Winner":"Team 3",
+    "DM-Team":"Team 8",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1147.48,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1166.54,
+      "Team 2":1014.1,
+      "Team 3":1304.9,
+      "Team 4":1348.44,
+      "Team 5":1230.48,
+      "Team 6":1312.62,
+      "Team 7":1222.96,
+      "Team 8":1147.48,
+      "Team 9":1189.46,
+      "Team 10":992.32,
+      "Team 11":1286.1,
+      "Team 12":1513.84
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":356.56,
+      "Team 12":317.72,
+      "Team 9":202.5,
+      "Team 7":318.58
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 8)",
+      "Leonard Fournette (Pick 17)",
+      "Michael Pittman (Pick 32)",
+      "Lamar Jackson (Pick 41)",
+      "Cam Akers (Pick 56)",
+      "Dawson Knox (Pick 65)",
+      "Marquise Brown (Pick 80)",
+      "Chris Olave (Pick 89)",
+      "George Pickens (Pick 104)",
+      "Kenneth Gainwell (Pick 113)",
+      "Michael Gallup (Pick 128)",
+      "Ronald Jones (Pick 137)",
+      "Marquez Valdes-Scantling (Pick 152)",
+      "Rams (Pick 161)",
+      "Chris Boswell (Pick 176)"
+    ]
+  },
+  {
+    "Simulation":94,
+    "Winner":"Team 2",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":5,
+    "Record":[
+      8,
+      6
+    ],
+    "DM-Points-Regular-Season":1025.4,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1126.48,
+      "Team 2":1236.92,
+      "Team 3":1129.78,
+      "Team 4":1066.66,
+      "Team 5":1141.3,
+      "Team 6":1180.86,
+      "Team 7":1311.14,
+      "Team 8":1439.04,
+      "Team 9":1025.4,
+      "Team 10":1423.32,
+      "Team 11":1209.66,
+      "Team 12":1488.92
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":329.86,
+      "Team 6":273.8,
+      "Team 10":224.42,
+      "Team 12":349.62
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 9)",
+      "Leonard Fournette (Pick 16)",
+      "Cam Akers (Pick 33)",
+      "DK Metcalf (Pick 40)",
+      "Dawson Knox (Pick 57)",
+      "Allen Robinson (Pick 64)",
+      "DeVonta Smith (Pick 81)",
+      "Chris Olave (Pick 88)",
+      "George Pickens (Pick 105)",
+      "Kenneth Gainwell (Pick 112)",
+      "Michael Gallup (Pick 129)",
+      "Ronald Jones (Pick 136)",
+      "Matt Ryan (Pick 153)",
+      "Colts (Pick 160)",
+      "Chris Boswell (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":95,
+    "Winner":"Team 2",
+    "DM-Team":"Team 9",
+    "DM-Team-Win":false,
+    "DM-Placement":7,
+    "Record":[
+      7,
+      7
+    ],
+    "DM-Points-Regular-Season":1239.38,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1183.96,
+      "Team 2":1283.94,
+      "Team 3":1067.88,
+      "Team 4":1385.9,
+      "Team 5":1288.46,
+      "Team 6":1051.24,
+      "Team 7":1250.0,
+      "Team 8":1233.28,
+      "Team 9":1239.38,
+      "Team 10":1222.36,
+      "Team 11":1137.14,
+      "Team 12":1325.34
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 2":271.16,
+      "Team 4":278.84,
+      "Team 5":348.88,
+      "Team 1":202.6
+    },
+    "DM-Picks":[
+      "Joe Mixon (Pick 9)",
+      "Alvin Kamara (Pick 16)",
+      "Lamar Jackson (Pick 33)",
+      "DK Metcalf (Pick 40)",
+      "Jaylen Waddle (Pick 57)",
+      "Dawson Knox (Pick 64)",
+      "DeVonta Smith (Pick 81)",
+      "Chris Olave (Pick 88)",
+      "George Pickens (Pick 105)",
+      "Kenneth Gainwell (Pick 112)",
+      "Michael Gallup (Pick 129)",
+      "Tyler Bass (Pick 136)",
+      "Ronald Jones (Pick 153)",
+      "Sammy Watkins (Pick 160)",
+      "Falcons (Pick 177)"
+    ]
+  },
+  {
+    "Simulation":96,
+    "Winner":"Team 10",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1055.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1285.84,
+      "Team 2":1244.18,
+      "Team 3":1340.28,
+      "Team 4":1093.52,
+      "Team 5":1237.82,
+      "Team 6":1055.72,
+      "Team 7":1285.06,
+      "Team 8":1094.66,
+      "Team 9":1123.44,
+      "Team 10":1201.24,
+      "Team 11":1438.66,
+      "Team 12":1408.38
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 10":274.92,
+      "Team 11":277.26,
+      "Team 3":307.16,
+      "Team 7":248.86
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Alvin Kamara (Pick 19)",
+      "Tee Higgins (Pick 30)",
+      "DK Metcalf (Pick 43)",
+      "Dawson Knox (Pick 54)",
+      "Chris Olave (Pick 67)",
+      "DeVonta Smith (Pick 78)",
+      "George Pickens (Pick 91)",
+      "Kenneth Gainwell (Pick 102)",
+      "Tyler Bass (Pick 115)",
+      "Michael Gallup (Pick 126)",
+      "Ronald Jones (Pick 139)",
+      "Marquez Valdes-Scantling (Pick 150)",
+      "Falcons (Pick 163)",
+      "Mac Jones (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":97,
+    "Winner":"Team 6",
+    "DM-Team":"Team 4",
+    "DM-Team-Win":false,
+    "DM-Placement":10,
+    "Record":[
+      4,
+      10
+    ],
+    "DM-Points-Regular-Season":1062.32,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1064.14,
+      "Team 2":1174.54,
+      "Team 3":1204.9,
+      "Team 4":1062.32,
+      "Team 5":1244.62,
+      "Team 6":1480.3,
+      "Team 7":1380.34,
+      "Team 8":1234.54,
+      "Team 9":1320.08,
+      "Team 10":1153.5,
+      "Team 11":1290.2,
+      "Team 12":1022.78
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 6":274.48,
+      "Team 8":259.6,
+      "Team 9":226.7,
+      "Team 11":158.66
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 4)",
+      "Leonard Fournette (Pick 21)",
+      "Michael Pittman (Pick 28)",
+      "Cam Akers (Pick 45)",
+      "DK Metcalf (Pick 52)",
+      "Dawson Knox (Pick 69)",
+      "DeVonta Smith (Pick 76)",
+      "Chris Olave (Pick 93)",
+      "George Pickens (Pick 100)",
+      "Kenneth Gainwell (Pick 117)",
+      "Michael Gallup (Pick 124)",
+      "Marquez Valdes-Scantling (Pick 141)",
+      "Falcons (Pick 148)",
+      "Mac Jones (Pick 165)",
+      "Joey Slye (Pick 172)"
+    ]
+  },
+  {
+    "Simulation":98,
+    "Winner":"Team 3",
+    "DM-Team":"Team 6",
+    "DM-Team-Win":false,
+    "DM-Placement":9,
+    "Record":[
+      6,
+      8
+    ],
+    "DM-Points-Regular-Season":1169.6,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1168.82,
+      "Team 2":1397.64,
+      "Team 3":1436.9,
+      "Team 4":1247.94,
+      "Team 5":1071.96,
+      "Team 6":1169.6,
+      "Team 7":1085.38,
+      "Team 8":1224.76,
+      "Team 9":1208.72,
+      "Team 10":1237.56,
+      "Team 11":1175.1,
+      "Team 12":1164.48
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":342.88,
+      "Team 2":332.68,
+      "Team 4":288.2,
+      "Team 9":267.5
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 6)",
+      "Leonard Fournette (Pick 19)",
+      "Michael Pittman (Pick 30)",
+      "DK Metcalf (Pick 43)",
+      "Jaylen Waddle (Pick 54)",
+      "Chris Olave (Pick 67)",
+      "George Pickens (Pick 78)",
+      "DeVonta Smith (Pick 91)",
+      "Kenneth Gainwell (Pick 102)",
+      "Michael Gallup (Pick 115)",
+      "Ronald Jones (Pick 126)",
+      "Matt Ryan (Pick 139)",
+      "Rams (Pick 150)",
+      "Joey Slye (Pick 163)",
+      "Hayden Hurst (Pick 174)"
+    ]
+  },
+  {
+    "Simulation":99,
+    "Winner":"Team 3",
+    "DM-Team":"Team 7",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1060.42,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1422.52,
+      "Team 2":1200.86,
+      "Team 3":1521.74,
+      "Team 4":1134.56,
+      "Team 5":1147.2,
+      "Team 6":1431.42,
+      "Team 7":1060.42,
+      "Team 8":1388.16,
+      "Team 9":1088.44,
+      "Team 10":1079.36,
+      "Team 11":1027.54,
+      "Team 12":1141.0
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 3":337.86,
+      "Team 1":324.18,
+      "Team 6":283.36,
+      "Team 2":151.86
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 7)",
+      "Leonard Fournette (Pick 18)",
+      "James Conner (Pick 31)",
+      "Jaylen Waddle (Pick 42)",
+      "Dawson Knox (Pick 55)",
+      "Kenneth Gainwell (Pick 66)",
+      "Ronald Jones (Pick 79)",
+      "Chris Olave (Pick 90)",
+      "DeVonta Smith (Pick 103)",
+      "George Pickens (Pick 114)",
+      "Michael Gallup (Pick 127)",
+      "Marquez Valdes-Scantling (Pick 138)",
+      "Rams (Pick 151)",
+      "Mac Jones (Pick 162)",
+      "Chris Boswell (Pick 175)"
+    ]
+  },
+  {
+    "Simulation":100,
+    "Winner":"Team 8",
+    "DM-Team":"Team 3",
+    "DM-Team-Win":false,
+    "DM-Placement":8,
+    "Record":[
+      5,
+      9
+    ],
+    "DM-Points-Regular-Season":1044.72,
+    "DM-Points-Playoffs":0.0,
+    "Opp_Team_Points_Regular_Season":{
+      "Team 1":1173.92,
+      "Team 2":1388.38,
+      "Team 3":1044.72,
+      "Team 4":1254.16,
+      "Team 5":1012.08,
+      "Team 6":1237.26,
+      "Team 7":1079.54,
+      "Team 8":1329.98,
+      "Team 9":1111.2,
+      "Team 10":1164.08,
+      "Team 11":1505.76,
+      "Team 12":1011.42
+    },
+    "Opp_Team_Points_Playoffs":{
+      "Team 8":328.98,
+      "Team 4":213.34,
+      "Team 11":201.16,
+      "Team 2":294.36
+    },
+    "DM-Picks":[
+      "Dalvin Cook (Pick 3)",
+      "James Conner (Pick 22)",
+      "Michael Pittman (Pick 27)",
+      "Jaylen Waddle (Pick 46)",
+      "Dawson Knox (Pick 51)",
+      "DeVonta Smith (Pick 70)",
+      "Chris Olave (Pick 75)",
+      "George Pickens (Pick 94)",
+      "Kenneth Gainwell (Pick 99)",
+      "Michael Gallup (Pick 118)",
+      "Ronald Jones (Pick 123)",
+      "Marquez Valdes-Scantling (Pick 142)",
+      "Rams (Pick 147)",
+      "Joey Slye (Pick 166)",
+      "Mac Jones (Pick 171)"
+    ]
+  }
+]

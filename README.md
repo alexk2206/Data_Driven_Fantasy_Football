@@ -39,13 +39,6 @@ Für interaktive Ausführung wird empfohlen, JupyterLab oder Google Colab zu ver
 * 📊 **Evaluation:** Vergleich klassischer Heuristiken mit Optimierungsmethoden
 * 📂 **Realitätsnahe Daten:** NFL-Spielerstatistiken und Projektionen
 
-## 🧠 Inspiration & Theoretischer Hintergrund
-
-Dieses Projekt orientiert sich an wissenschaftlichen Arbeiten zur Optimierung von Auswahlentscheidungen unter Unsicherheit, insbesondere:
-
-* Fry et al. (2007): *A Player Selection Heuristic for a Sports League Draft*
-* Gibson et al. (2010): *Agent-based optimization for sequential knapsack problems*
-
 ## 📌 To Do / Ideen
 
 * [ ] Einbindung agentenbasierter Konkurrenzsimulation

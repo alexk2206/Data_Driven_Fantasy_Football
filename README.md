@@ -16,12 +16,12 @@ Dieses Repository bietet eine Sammlung von Notebooks und Datensätzen, um:
 | Verzeichnis / Datei                                                                       | Beschreibung                                                                                |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | `ADP_draft_simulations.ipynb`                                                             | Simuliert Drafts basierend auf Average Draft Position (ADP).                                |
-| `MIP_draft_simulations.ipynb`                                                             | Führt Drafts mithilfe eines gemischt-ganzzahligen Optimierungsmodells (MIP) durch.          |
+| `MIP_draft_simulations.ipynb`                                                             | Simuliert Drafts mithilfe eines gemischt-ganzzahligen Optimierungsmodells (MIP).            |
 | `Mixed_Integer_Problem_for_Draft_Optimization.ipynb`                                      | Formuliert das Draftproblem als MIP-Modell mit Constraints wie Budget, Positionsbedarf etc. |
 | `Evaluation.ipynb`                                                                        | Bewertet und vergleicht verschiedene Draftstrategien.                                       |
-| `create_real_projection.ipynb`                                                            | Erstellt Spielerprojektionen aus realen Datenquellen.                                       |
-| `nfl_data_by_rowzero.ipynb`                                                               | Explorative Datenanalyse auf NFL-Tracking- und Leistungsdaten.                              |
-| `Weekly_Data/`                                                                            | Woche-für-Woche-Statistiken und Matchups (vermutlich simuliert oder real).                  |
+| `create_real_projection.ipynb`                                                            | Erstellt aggregierte Spielerprojektionen aus realen Datenquellen.                           |
+| `nfl_data_by_rowzero.ipynb`                                                               | Ruft reale Woche-für-Woche-Statistiken ab.                                                  |
+| `Weekly_Data/`                                                                            | Erstellt aggregierte reale Woche-für-Woche-Statistiken.                                     |
 | `bye_weeks/`, `pre_season_data/`, `projection_data/`, `real_projections/`, `simulations/` | Datenordner mit Vorverarbeitungs- und Prognosedaten.                                        |
 
 ## ⚙️ Anforderungen
